@@ -23,11 +23,33 @@ GitHub Actions (cron, every 30 min)
 ```
 
 - **`scripts/fetch-news.mjs`** — zero-dependency Node script. Queries Google News
-  RSS for several budget-related searches, dedupes, sorts by recency, and writes
+  RSS, dedupes, tags each story by topic (Tax, Housing, Family & Education,
+  Visas & Migration, Cost of living), flags the relevant ones, and writes
   `data/news.json`.
-- **`index.html` / `assets/`** — the dashboard. Search, filter by source,
-  highlights stories from the last 6 hours, refreshes itself every 5 minutes.
-- **`.github/workflows/update-news.yml`** — the cron job that refreshes the feed.
+- **`scripts/notify.mjs`** — sends a phone push (via ntfy.sh) for each **new**
+  relevant story. Tracks what's already been sent in `data/seen.json` so you're
+  pinged once per story.
+- **`index.html` / `assets/`** — the dashboard. Topic chips, a default
+  "For you" view, search, filter by source, category tags, highlights stories
+  from the last 6 hours, and optional browser notifications. Refreshes itself
+  every 5 minutes.
+- **`.github/workflows/update-news.yml`** — the cron job that refreshes the feed
+  and fires push notifications.
+
+## 🔔 Push notifications (ntfy)
+
+New relevant stories are pushed to your phone via [ntfy.sh](https://ntfy.sh) —
+free, no account needed:
+
+1. Install the **ntfy** app ([iOS](https://apps.apple.com/app/ntfy/id1625396347) /
+   [Android](https://play.google.com/store/apps/details?id=io.heckel.ntfy)).
+2. Subscribe to the topic set in `NTFY_TOPIC` (see `update-news.yml`).
+3. You'll get a push whenever a new tax / housing / family / visa / cost-of-living
+   story is detected. Tapping it opens the article.
+
+The topic lives in the workflow's `env`. Because this repo is public, anyone who
+reads it could subscribe to (or spam) the topic — to lock it down, move it to an
+Actions secret named `NTFY_TOPIC` and reference `${{ secrets.NTFY_TOPIC }}`.
 - **`.github/workflows/deploy-pages.yml`** — deploys the site to GitHub Pages.
 
 ## Setup (one-time)
