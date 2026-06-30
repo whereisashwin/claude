@@ -6,7 +6,7 @@
     <title>🇦🇺 Australian Federal Budget Tracker</title>
     <meta
       name="description"
-      content="Live dashboard tracking Australian Federal Budget news as it happens."
+      content="Live dashboard tracking Australian Federal Budget news — tax, housing, family and visas — as it happens."
     />
     <link rel="stylesheet" href="./assets/style.css" />
     <link
@@ -18,17 +18,52 @@
     <header class="site-header">
       <div class="wrap">
         <h1>🇦🇺 Australian Federal Budget Tracker</h1>
-        <p class="tagline">Federal Budget news, as it happens.</p>
+        <p class="tagline">
+          Budget news that affects you — tax, housing, family &amp; visas.
+        </p>
         <div class="status-bar">
           <span id="status" class="status">Loading…</span>
           <button id="refresh" class="refresh-btn" title="Refresh now">
             ↻ Refresh
+          </button>
+          <button id="notify-btn" class="notify-btn" hidden>
+            🔔 Browser alerts
           </button>
         </div>
       </div>
     </header>
 
     <main class="wrap">
+      <!-- Phone push setup -->
+      <details class="alerts-panel">
+        <summary>🔔 Get these alerts on your phone</summary>
+        <div class="alerts-body">
+          <ol>
+            <li>
+              Install the free <strong>ntfy</strong> app
+              (<a href="https://apps.apple.com/app/ntfy/id1625396347" target="_blank" rel="noopener">iOS</a>
+              /
+              <a href="https://play.google.com/store/apps/details?id=io.heckel.ntfy" target="_blank" rel="noopener">Android</a>).
+            </li>
+            <li>
+              Tap <strong>+</strong> → <em>Subscribe to topic</em> and enter this
+              topic exactly:
+              <code id="topic-name"></code>
+            </li>
+            <li>Done. You'll get a push whenever a new relevant story lands.</li>
+          </ol>
+          <p class="muted">
+            Or open it in a browser:
+            <a id="topic-link" href="#" target="_blank" rel="noopener">web view</a>.
+            Alerts fire only for tax, housing, family &amp; education, visas, and
+            cost-of-living stories.
+          </p>
+        </div>
+      </details>
+
+      <!-- Category chips -->
+      <nav id="chips" class="chips" aria-label="Filter by topic"></nav>
+
       <section class="controls">
         <input
           id="search"
@@ -51,7 +86,7 @@
 
     <footer class="site-footer wrap">
       <p>
-        Auto-updated by GitHub Actions every 30 minutes · Aggregated via Google
+        Auto-updated by GitHub Actions ~every 30 minutes · Aggregated via Google
         News RSS · Headlines link to original publishers.
       </p>
       <p id="last-updated" class="muted"></p>

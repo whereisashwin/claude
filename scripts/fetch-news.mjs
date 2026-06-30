@@ -1,6 +1,7 @@
 #!/usr/bin/env node
-// Fetches Australian Federal Budget news from Google News RSS feeds and writes
-// data/news.json. Zero dependencies — uses Node's built-in fetch (Node 18+).
+// Fetches Australian Federal Budget news from Google News RSS feeds, tags each
+// story by topic, flags the ones relevant to a new-immigrant household, and
+// writes data/news.json. Zero dependencies — uses Node's built-in fetch.
 
 import { writeFile, mkdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
@@ -10,13 +11,17 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
 const OUT = join(ROOT, "data", "news.json");
 
-// Search queries aimed at the Australian Federal Budget. Google News RSS lets us
-// aggregate many outlets (ABC, AFR, The Guardian, SMH, etc.) from one place.
+// Searches anchored to the Budget but broadened to the things that actually
+// affect a new immigrant family: tax, housing, family/education, and visas.
 const QUERIES = [
   "Australian federal budget",
   "Australia budget Chalmers treasury",
-  "federal budget Australia tax",
-  "Australia budget deficit surplus forecast",
+  "federal budget Australia tax changes",
+  "Australia budget housing affordability",
+  "Australia budget childcare family payments",
+  "Australia skilled migration visa changes 2026",
+  "Australia immigration policy budget",
+  "Australia cost of living relief budget",
 ];
 
 const GOOGLE_NEWS = (q) =>
@@ -24,9 +29,64 @@ const GOOGLE_NEWS = (q) =>
     q
   )}&hl=en-AU&gl=AU&ceid=AU:en`;
 
-const MAX_ITEMS = 80;
+const MAX_ITEMS = 100;
 const USER_AGENT =
-  "Mozilla/5.0 (compatible; aus-budget-tracker/1.0; +https://github.com/whereisashwin/aus-budget-tracker)";
+  "Mozilla/5.0 (compatible; aus-budget-tracker/1.0; +https://github.com/whereisashwin/claude)";
+
+// Topic categories, matched against the headline (case-insensitive). An item
+// can belong to several. The ones flagged focus:true make up the "for you"
+// set used by the dashboard and the push notifier.
+const CATEGORIES = [
+  {
+    key: "Visas & Migration",
+    focus: true,
+    terms: [
+      "visa", "visas", "immigration", "immigrant", "migrant", "migration",
+      "skilled migration", "permanent residen", "citizenship", "citizen",
+      "international student", "home affairs", "border", "refugee",
+      "points test", "partner visa", "working holiday", "187", "189", "190",
+      "191", "482", "491", "500", "subclass", "intake", "deportation",
+    ],
+  },
+  {
+    key: "Tax",
+    focus: true,
+    terms: [
+      "tax", "ato", "deduction", "offset", "negative gearing", "capital gains",
+      "cgt", "gst", "tax bracket", "income tax", "levy", "franking",
+      "superannuation", "super ", "stage 3", "stage three", "tax cut",
+    ],
+  },
+  {
+    key: "Housing",
+    focus: true,
+    terms: [
+      "housing", "rent", "rental", "mortgage", "property", "first home",
+      "home buyer", "homebuyer", "dwelling", "build to rent", "social housing",
+      "affordab", "deposit", "homeowner", "house price", "real estate",
+    ],
+  },
+  {
+    key: "Family & Education",
+    focus: true,
+    terms: [
+      "childcare", "child care", "family tax", "paid parental", "parental leave",
+      "school", "education", "university", "hecs", "help debt", "daycare",
+      "kindergarten", "family payment", "ccs", "student", "baby bonus", "children",
+    ],
+  },
+  {
+    key: "Cost of living",
+    focus: true,
+    terms: [
+      "cost of living", "energy rebate", "electricity", "power bill", "inflation",
+      "grocery", "groceries", "fuel", "rebate", "relief", "wage", "medicare",
+      "bulk billing", "pharmaceutical", "pbs",
+    ],
+  },
+];
+
+const FOCUS = new Set(CATEGORIES.filter((c) => c.focus).map((c) => c.key));
 
 function decodeEntities(str = "") {
   return str
@@ -47,8 +107,11 @@ function tag(block, name) {
   return m ? decodeEntities(m[1]) : "";
 }
 
-function stripTags(html = "") {
-  return decodeEntities(html.replace(/<[^>]+>/g, " ").replace(/\s+/g, " "));
+function categorise(title) {
+  const hay = title.toLowerCase();
+  return CATEGORIES.filter((cat) => cat.terms.some((t) => hay.includes(t))).map(
+    (c) => c.key
+  );
 }
 
 function parseItems(xml) {
@@ -59,11 +122,8 @@ function parseItems(xml) {
     const link = tag(block, "link");
     const pubDate = tag(block, "pubDate");
     const source = tag(block, "source") || "";
-    const description = stripTags(tag(block, "description"));
-
     if (!rawTitle || !link) continue;
 
-    // Google News titles look like "Headline - Source". Split the outlet off.
     let title = rawTitle;
     let outlet = source;
     const dashIdx = rawTitle.lastIndexOf(" - ");
@@ -72,6 +132,7 @@ function parseItems(xml) {
       if (!outlet) outlet = rawTitle.slice(dashIdx + 3).trim();
     }
 
+    const categories = categorise(title);
     const published = pubDate ? new Date(pubDate) : null;
     items.push({
       title,
@@ -81,7 +142,8 @@ function parseItems(xml) {
         published && !Number.isNaN(published.getTime())
           ? published.toISOString()
           : null,
-      summary: description || "",
+      categories,
+      relevant: categories.some((c) => FOCUS.has(c)),
     });
   }
   return items;
@@ -105,8 +167,7 @@ async function fetchFeed(query) {
       console.warn(`  ! ${query}: HTTP ${res.status}`);
       return [];
     }
-    const xml = await res.text();
-    const items = parseItems(xml).map((it) => ({ ...it, query }));
+    const items = parseItems(await res.text()).map((it) => ({ ...it, query }));
     console.log(`  ✓ ${query}: ${items.length} items`);
     return items;
   } catch (err) {
@@ -118,11 +179,8 @@ async function fetchFeed(query) {
 async function main() {
   console.log("Fetching Australian Federal Budget news…");
   const all = [];
-  for (const q of QUERIES) {
-    all.push(...(await fetchFeed(q)));
-  }
+  for (const q of QUERIES) all.push(...(await fetchFeed(q)));
 
-  // Deduplicate by normalised title, keeping the earliest-seen entry.
   const seen = new Map();
   for (const item of all) {
     const key = normaliseKey(item.title);
@@ -139,10 +197,12 @@ async function main() {
     .slice(0, MAX_ITEMS);
 
   const sources = [...new Set(items.map((i) => i.source))].sort();
-
   const payload = {
     updatedAt: new Date().toISOString(),
     count: items.length,
+    relevantCount: items.filter((i) => i.relevant).length,
+    categories: CATEGORIES.map((c) => c.key),
+    focus: [...FOCUS],
     queries: QUERIES,
     sources,
     items,
@@ -150,7 +210,10 @@ async function main() {
 
   await mkdir(dirname(OUT), { recursive: true });
   await writeFile(OUT, JSON.stringify(payload, null, 2) + "\n", "utf8");
-  console.log(`\nWrote ${items.length} items from ${sources.length} sources to ${OUT}`);
+  console.log(
+    `\nWrote ${items.length} items (${payload.relevantCount} relevant) ` +
+      `from ${sources.length} sources to ${OUT}`
+  );
 }
 
 main().catch((err) => {

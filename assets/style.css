@@ -220,3 +220,133 @@ body {
     background-position: -200% 0;
   }
 }
+
+/* Notify button in header */
+.notify-btn {
+  background: rgba(255, 255, 255, 0.15);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  font-weight: 600;
+  padding: 0.35rem 0.85rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+.notify-btn:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+/* Alerts setup panel */
+.alerts-panel {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin: 1.25rem 0 0.5rem;
+  box-shadow: var(--shadow);
+}
+.alerts-panel summary {
+  cursor: pointer;
+  padding: 0.85rem 1.1rem;
+  font-weight: 600;
+  list-style: none;
+}
+.alerts-panel summary::-webkit-details-marker {
+  display: none;
+}
+.alerts-panel summary::before {
+  content: "▸ ";
+  color: var(--muted);
+}
+.alerts-panel[open] summary::before {
+  content: "▾ ";
+}
+.alerts-body {
+  padding: 0 1.1rem 1rem;
+  font-size: 0.92rem;
+}
+.alerts-body ol {
+  margin: 0.25rem 0 0.75rem;
+  padding-left: 1.2rem;
+}
+.alerts-body li {
+  margin: 0.35rem 0;
+}
+.alerts-body code {
+  display: inline-block;
+  background: rgba(0, 132, 61, 0.12);
+  color: var(--green);
+  padding: 0.15rem 0.5rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  user-select: all;
+}
+@media (prefers-color-scheme: dark) {
+  .alerts-body code {
+    background: rgba(255, 205, 0, 0.14);
+    color: var(--gold);
+  }
+}
+
+/* Topic chips */
+.chips {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin: 1rem 0 0.25rem;
+}
+.chip {
+  background: var(--card);
+  border: 1px solid var(--border);
+  color: var(--ink);
+  padding: 0.35rem 0.85rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: all 0.12s ease;
+}
+.chip:hover {
+  border-color: var(--green);
+}
+.chip.active {
+  background: var(--green);
+  color: #fff;
+  border-color: var(--green);
+}
+
+/* Category tags on cards */
+.cat {
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.12rem 0.5rem;
+  border-radius: 999px;
+  background: var(--border);
+  color: var(--muted);
+}
+.cat-visasmigration {
+  background: rgba(33, 102, 172, 0.15);
+  color: #2166ac;
+}
+.cat-tax {
+  background: rgba(0, 132, 61, 0.15);
+  color: #00843d;
+}
+.cat-housing {
+  background: rgba(202, 103, 2, 0.15);
+  color: #ca6702;
+}
+.cat-familyeducation {
+  background: rgba(155, 41, 162, 0.15);
+  color: #9b29a2;
+}
+.cat-costofliving {
+  background: rgba(187, 62, 3, 0.15);
+  color: #bb3e03;
+}
+@media (prefers-color-scheme: dark) {
+  .cat-visasmigration { color: #7ab3e0; }
+  .cat-tax { color: #4fd18b; }
+  .cat-housing { color: #f0a85a; }
+  .cat-familyeducation { color: #d98fdd; }
+  .cat-costofliving { color: #f08a5a; }
+}

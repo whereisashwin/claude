@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - "scripts/fetch-news.mjs"
+      - "scripts/notify.mjs"
       - ".github/workflows/update-news.yml"
 
 permissions:
@@ -16,6 +17,12 @@ permissions:
 concurrency:
   group: update-news
   cancel-in-progress: false
+
+env:
+  # Your private ntfy push topic. Subscribe to it in the ntfy app to get alerts.
+  # (Public repo: anyone who reads this could subscribe/spam it. To lock it down,
+  #  move it to an Actions secret named NTFY_TOPIC and use ${{ secrets.NTFY_TOPIC }}.)
+  NTFY_TOPIC: ausbudget-ecc002586516f5c7
 
 jobs:
   fetch:
@@ -30,12 +37,15 @@ jobs:
       - name: Fetch latest budget news
         run: node scripts/fetch-news.mjs
 
+      - name: Push notifications for new relevant stories
+        run: node scripts/notify.mjs
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [[ -n "$(git status --porcelain data/news.json)" ]]; then
-            git add data/news.json
+          if [[ -n "$(git status --porcelain data/news.json data/seen.json)" ]]; then
+            git add data/news.json data/seen.json
             git commit -m "chore: refresh budget news ($(date -u +'%Y-%m-%d %H:%M UTC'))"
             git push
           else
