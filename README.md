@@ -44,8 +44,15 @@ free, no account needed:
 1. Install the **ntfy** app ([iOS](https://apps.apple.com/app/ntfy/id1625396347) /
    [Android](https://play.google.com/store/apps/details?id=io.heckel.ntfy)).
 2. Subscribe to the topic set in `NTFY_TOPIC` (see `update-news.yml`).
-3. You'll get a push whenever a new tax / housing / family / visa / cost-of-living
-   story is detected. Tapping it opens the article.
+3. You'll get a push only for **high-impact ("spicy")** new stories in your
+   topics (tax / housing / family / visa / cost-of-living). Each push is
+   self-contained — headline + a one-line summary — and tapping it opens the
+   article.
+
+**How "spicy" is decided** (`scripts/fetch-news.mjs`): each story is scored on
+impact words (cut, hike, scrap, $ figures…), source quality, and how many of
+your topics it hits; a denylist drops off-topic noise. Tune the bar with the
+`SPICE_THRESHOLD` env var (default 5 — higher = fewer, hotter alerts).
 
 The topic lives in the workflow's `env`. Because this repo is public, anyone who
 reads it could subscribe to (or spam) the topic — to lock it down, move it to an

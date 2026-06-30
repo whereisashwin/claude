@@ -315,6 +315,24 @@ body {
 }
 
 /* Category tags on cards */
+.card .summary {
+  margin: 0 0 0.6rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+.card.spicy {
+  border-left-color: #d00000;
+}
+.spicy-tag {
+  background: #d00000;
+  color: #fff;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 0.72rem;
+}
+
 .cat {
   font-size: 0.72rem;
   font-weight: 600;

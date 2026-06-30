@@ -18,7 +18,7 @@ const SEEN = join(ROOT, "data", "seen.json");
 
 const SERVER = (process.env.NTFY_SERVER || "https://ntfy.sh").replace(/\/$/, "");
 const TOPIC = process.env.NTFY_TOPIC || "";
-const MAX_PER_RUN = 8; // don't flood; summarise the rest
+const MAX_PER_RUN = 5; // intentional: only the spiciest few per run
 const SEEN_CAP = 800; // bound the size of seen.json
 
 async function readJson(path, fallback) {
@@ -31,15 +31,23 @@ async function readJson(path, fallback) {
 
 async function push(item) {
   const cats = (item.categories || []).join(", ") || "Budget";
-  const res = await fetch(`${SERVER}/${TOPIC}`, {
+  // Self-contained body: the real summary if we have one, else topic + source.
+  const message = item.summary
+    ? `${item.summary}\n\n— ${item.source}`
+    : `${cats} · ${item.source}`;
+  // Publish as JSON so UTF-8 (curly quotes, em dashes, $) survives — putting
+  // these in HTTP headers throws in Node's fetch.
+  const res = await fetch(SERVER, {
     method: "POST",
-    headers: {
-      Title: `${item.source} · ${cats}`,
-      Click: item.url,
-      Tags: "moneybag,au",
-      Priority: "default",
-    },
-    body: item.title,
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      topic: TOPIC,
+      title: item.title,
+      message,
+      click: item.url,
+      tags: ["fire", "moneybag"],
+      priority: 4,
+    }),
   });
   if (!res.ok) throw new Error(`ntfy HTTP ${res.status}`);
 }
@@ -55,8 +63,10 @@ async function main() {
   const isFirstRun = !seenState || !Array.isArray(seenState.urls);
   const seen = new Set(isFirstRun ? [] : seenState.urls);
 
-  const relevant = news.items.filter((i) => i.relevant && i.url);
-  const fresh = relevant.filter((i) => !seen.has(i.url));
+  // Only the spicy, relevant, not-yet-seen stories — highest score first.
+  const fresh = news.items
+    .filter((i) => i.relevant && i.spicy && i.url && !seen.has(i.url))
+    .sort((a, b) => (b.score || 0) - (a.score || 0));
 
   // Record every current URL as seen (relevant or not) so the feed converges.
   const allUrls = news.items.map((i) => i.url).filter(Boolean);

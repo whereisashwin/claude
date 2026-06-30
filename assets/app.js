@@ -63,12 +63,13 @@ function showSkeletons() {
 
 function matchesChip(item) {
   if (activeChip === "All") return true;
+  if (activeChip === "🔥 Top") return !!item.spicy;
   if (activeChip === "For you") return !!item.relevant;
   return (item.categories || []).includes(activeChip);
 }
 
 function renderChips() {
-  const chips = ["For you", "All", ...categories];
+  const chips = ["🔥 Top", "For you", "All", ...categories];
   els.chips.innerHTML = chips
     .map(
       (c) =>
@@ -106,12 +107,17 @@ function render() {
             )}</span>`
         )
         .join("");
+      const summary = item.summary
+        ? `<p class="summary">${escapeHtml(item.summary).slice(0, 220)}</p>`
+        : "";
       return `
-        <article class="card${fresh ? " fresh" : ""}">
+        <article class="card${fresh ? " fresh" : ""}${item.spicy ? " spicy" : ""}">
           <h2><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">
             ${escapeHtml(item.title)}
           </a></h2>
+          ${summary}
           <div class="meta">
+            ${item.spicy ? '<span class="spicy-tag">🔥 Top</span>' : ""}
             <span class="badge">${escapeHtml(item.source)}</span>
             ${when ? `<span>${when}</span>` : ""}
             ${fresh ? '<span class="fresh-tag">New</span>' : ""}
@@ -138,7 +144,9 @@ function populateSources() {
 // Fire a local browser notification for new relevant items (when permitted).
 function maybeNotify(items) {
   if (Notification.permission !== "granted") return;
-  const fresh = items.filter((i) => i.relevant && i.url && !notifiedUrls.has(i.url));
+  const fresh = items.filter(
+    (i) => i.relevant && i.spicy && i.url && !notifiedUrls.has(i.url)
+  );
   // Skip the very first load (everything would look "new").
   if (notifiedUrls.size > 0) {
     fresh.slice(0, 5).forEach((i) => {
