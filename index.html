@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>🇦🇺 Australian Federal Budget Tracker</title>
+    <meta
+      name="description"
+      content="Live dashboard tracking Australian Federal Budget news as it happens."
+    />
+    <link rel="stylesheet" href="./assets/style.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇦🇺</text></svg>"
+    />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <h1>🇦🇺 Australian Federal Budget Tracker</h1>
+        <p class="tagline">Federal Budget news, as it happens.</p>
+        <div class="status-bar">
+          <span id="status" class="status">Loading…</span>
+          <button id="refresh" class="refresh-btn" title="Refresh now">
+            ↻ Refresh
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="controls">
+        <input
+          id="search"
+          type="search"
+          placeholder="Search headlines…"
+          autocomplete="off"
+        />
+        <select id="source-filter" aria-label="Filter by source">
+          <option value="">All sources</option>
+        </select>
+        <span id="count" class="count"></span>
+      </section>
+
+      <section id="feed" class="feed" aria-live="polite"></section>
+
+      <div id="empty" class="empty" hidden>
+        <p>No matching stories right now.</p>
+      </div>
+    </main>
+
+    <footer class="site-footer wrap">
+      <p>
+        Auto-updated by GitHub Actions every 30 minutes · Aggregated via Google
+        News RSS · Headlines link to original publishers.
+      </p>
+      <p id="last-updated" class="muted"></p>
+    </footer>
+
+    <script src="./assets/app.js" defer></script>
+  </body>
+</html>
