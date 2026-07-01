@@ -37,8 +37,12 @@ jobs:
           if [[ -n "$(git status --porcelain data/news.json)" ]]; then
             git add data/news.json
             git commit -m "chore: refresh budget news ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-            git pull --rebase origin main || true
-            git push
+            for i in 1 2 3 4; do
+              git push origin HEAD:main && break
+              echo "push failed, syncing…"
+              git fetch origin main && (git rebase origin/main || git rebase --abort)
+              sleep 2
+            done
           else
             echo "No changes to news feed."
           fi

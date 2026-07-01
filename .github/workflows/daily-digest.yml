@@ -28,21 +28,24 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Refresh feed so the digest is current
-        run: node scripts/fetch-news.mjs
-
+      # Uses the feed committed by "Update budget news" (≤30 min old). The digest
+      # only writes data/seen.json, so it never conflicts with the feed refresh.
       - name: Send the daily digest push
         run: node scripts/notify.mjs
 
-      - name: Commit updated feed + sent list
+      - name: Record what was sent
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [[ -n "$(git status --porcelain data/news.json data/seen.json)" ]]; then
-            git add data/news.json data/seen.json
-            git commit -m "chore: daily digest ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-            git pull --rebase origin main || true
-            git push
+          if [[ -n "$(git status --porcelain data/seen.json)" ]]; then
+            git add data/seen.json
+            git commit -m "chore: daily digest sent ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            for i in 1 2 3 4; do
+              git push origin HEAD:main && break
+              echo "push failed, syncing…"
+              git fetch origin main && (git rebase origin/main || git rebase --abort)
+              sleep 2
+            done
           else
-            echo "Nothing to commit."
+            echo "No change to seen.json."
           fi
