@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-// Sends a push notification (via ntfy.sh) for each NEW story that's relevant to
-// the focus topics. Tracks what's already been sent in data/seen.json so you
-// only ever get pinged once per story. Zero dependencies.
+// Sends ONE daily digest push (via ntfy.sh) rounding up the day's new spicy,
+// relevant budget stories. Tracks what's already been sent in data/seen.json so
+// each story is only ever included once. Zero dependencies.
 //
 // Env:
 //   NTFY_TOPIC   - the ntfy topic to publish to (required to actually send)
@@ -18,8 +18,9 @@ const SEEN = join(ROOT, "data", "seen.json");
 
 const SERVER = (process.env.NTFY_SERVER || "https://ntfy.sh").replace(/\/$/, "");
 const TOPIC = process.env.NTFY_TOPIC || "";
-const MAX_PER_RUN = 5; // intentional: only the spiciest few per run
-const SEEN_CAP = 800; // bound the size of seen.json
+const SITE = "https://whereisashwin.github.io/claude/";
+const DIGEST_MAX = 6; // headlines to include in the one daily push
+const SEEN_CAP = 1000; // bound the size of seen.json
 
 async function readJson(path, fallback) {
   try {
@@ -29,22 +30,25 @@ async function readJson(path, fallback) {
   }
 }
 
-async function push(item) {
-  const cats = (item.categories || []).join(", ") || "Budget";
-  // Self-contained body: the real summary if we have one, else topic + source.
-  const message = item.summary
-    ? `${item.summary}\n\n— ${item.source}`
-    : `${cats} · ${item.source}`;
-  // Publish as JSON so UTF-8 (curly quotes, em dashes, $) survives — putting
-  // these in HTTP headers throws in Node's fetch.
+async function sendDigest(items) {
+  const shown = items.slice(0, DIGEST_MAX);
+  const lines = shown.map((it, i) => `${i + 1}. ${it.title} — ${it.source}`);
+  if (items.length > shown.length) {
+    lines.push(`…and ${items.length - shown.length} more`);
+  }
+  const today = new Date().toLocaleDateString("en-AU", {
+    weekday: "short",
+    day: "numeric",
+    month: "short",
+  });
   const res = await fetch(SERVER, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
       topic: TOPIC,
-      title: item.title,
-      message,
-      click: item.url,
+      title: `🌶️ Budget digest · ${today} · ${items.length} for you`,
+      message: lines.join("\n"),
+      click: SITE,
       tags: ["fire", "moneybag"],
       priority: 4,
     }),
@@ -63,12 +67,12 @@ async function main() {
   const isFirstRun = !seenState || !Array.isArray(seenState.urls);
   const seen = new Set(isFirstRun ? [] : seenState.urls);
 
-  // Only the spicy, relevant, not-yet-seen stories — highest score first.
+  // The day's new spicy, relevant stories — highest score first.
   const fresh = news.items
     .filter((i) => i.relevant && i.spicy && i.url && !seen.has(i.url))
     .sort((a, b) => (b.score || 0) - (a.score || 0));
 
-  // Record every current URL as seen (relevant or not) so the feed converges.
+  // Mark every current URL seen so nothing repeats in tomorrow's digest.
   const allUrls = news.items.map((i) => i.url).filter(Boolean);
   const merged = [...new Set([...allUrls, ...seen])].slice(0, SEEN_CAP);
   await writeFile(
@@ -79,7 +83,7 @@ async function main() {
 
   if (isFirstRun) {
     console.log(
-      `Seeded seen.json with ${merged.length} URLs — no notifications on first run.`
+      `Seeded seen.json with ${merged.length} URLs — no digest on first run.`
     );
     return;
   }
@@ -88,40 +92,12 @@ async function main() {
     return;
   }
   if (fresh.length === 0) {
-    console.log("No new relevant stories to notify.");
+    console.log("No new spicy stories today — no digest sent.");
     return;
   }
 
-  const toSend = fresh.slice(0, MAX_PER_RUN);
-  let sent = 0;
-  for (const item of toSend) {
-    try {
-      await push(item);
-      sent++;
-      console.log(`  → notified: ${item.title}`);
-    } catch (err) {
-      console.warn(`  ! failed to notify "${item.title}": ${err.message}`);
-    }
-  }
-
-  if (fresh.length > toSend.length) {
-    const extra = fresh.length - toSend.length;
-    try {
-      await fetch(`${SERVER}/${TOPIC}`, {
-        method: "POST",
-        headers: {
-          Title: "More budget updates",
-          Click: "https://whereisashwin.github.io/claude/",
-          Tags: "newspaper",
-        },
-        body: `+${extra} more relevant stories — open the tracker to see them.`,
-      });
-    } catch {
-      /* best effort */
-    }
-  }
-
-  console.log(`Done. Sent ${sent} notification(s).`);
+  await sendDigest(fresh);
+  console.log(`Sent daily digest with ${fresh.length} stor(y/ies).`);
 }
 
 main().catch((err) => {

@@ -1,0 +1,48 @@
+name: Daily budget digest
+
+on:
+  schedule:
+    - cron: "0 21 * * *" # 21:00 UTC ≈ 7:00 AM AEST — one push per day
+  workflow_dispatch: {} # send a digest on demand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: commit-main # shared with update-news so commits don't race
+  cancel-in-progress: false
+
+env:
+  # Your private ntfy push topic. Subscribe to it in the ntfy app to get alerts.
+  # (Public repo: anyone who reads this could subscribe/spam it. To lock it down,
+  #  move it to an Actions secret named NTFY_TOPIC and use ${{ secrets.NTFY_TOPIC }}.)
+  NTFY_TOPIC: ausbudget-ecc002586516f5c7
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Refresh feed so the digest is current
+        run: node scripts/fetch-news.mjs
+
+      - name: Send the daily digest push
+        run: node scripts/notify.mjs
+
+      - name: Commit updated feed + sent list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain data/news.json data/seen.json)" ]]; then
+            git add data/news.json data/seen.json
+            git commit -m "chore: daily digest ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git pull --rebase origin main || true
+            git push
+          else
+            echo "Nothing to commit."
+          fi
