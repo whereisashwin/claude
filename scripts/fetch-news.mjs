@@ -51,6 +51,7 @@ const FEEDS = [
     source: "The Guardian",
   },
   { url: "https://www.theguardian.com/money/tax/rss", source: "The Guardian" },
+  { url: "https://www.theguardian.com/au/money/rss", source: "The Guardian" },
   {
     url: "https://www.theguardian.com/australia-news/immigration-and-asylum/rss",
     source: "The Guardian",
@@ -68,9 +69,9 @@ const CATEGORIES = [
     terms: [
       "visa", "visas", "immigration", "immigrant", "migrant", "migration",
       "skilled migration", "permanent residen", "citizenship", "citizen",
-      "international student", "home affairs", "border", "refugee",
-      "points test", "partner visa", "working holiday", "187", "189", "190",
-      "191", "482", "491", "500", "subclass", "intake", "deportation",
+      "international student", "home affairs", "refugee", "asylum",
+      "points test", "partner visa", "working holiday", "subclass",
+      "migration intake", "deportation",
     ],
   },
   {
@@ -79,7 +80,7 @@ const CATEGORIES = [
     terms: [
       "tax", "ato", "deduction", "offset", "negative gearing", "capital gains",
       "cgt", "gst", "tax bracket", "income tax", "levy", "franking",
-      "superannuation", "super ", "stage 3", "stage three", "tax cut",
+      "superannuation", "stage 3", "stage three", "tax cut",
     ],
   },
   {
@@ -156,9 +157,40 @@ function tag(block, name) {
 function stripTags(html = "") {
   return decodeEntities(html.replace(/<[^>]+>/g, " ").replace(/\s+/g, " "));
 }
+
+// Match a term at a word start (boundary before, suffix allowed) so "tax" hits
+// "taxpayer" but "500" doesn't hit "$500,000" and "labor" doesn't hit
+// "elaborate". Terms may be multi-word phrases.
+const termCache = new Map();
+function hasTerm(hay, term) {
+  let re = termCache.get(term);
+  if (!re) {
+    const esc = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    re = new RegExp(`(^|[^a-z0-9])${esc}`, "i");
+    termCache.set(term, re);
+  }
+  return re.test(hay);
+}
+
+// Guardian/ABC live-blog summaries trail into promo boilerplate — cut it off.
+const BOILERPLATE = [
+  "Follow today", "Get our breaking news", "Follow our Australia news",
+  "Sign up ", "free app or daily", "Follow the day", "Read more", "Follow live",
+];
+function scrubSummary(s = "") {
+  let cut = s.length;
+  for (const marker of BOILERPLATE) {
+    const idx = s.indexOf(marker);
+    if (idx >= 0) cut = Math.min(cut, idx);
+  }
+  const out = s.slice(0, cut).trim();
+  // If cutting boilerplate leaves too little, drop the summary entirely.
+  return out.length >= 40 ? out : "";
+}
+
 function categorise(text) {
   const hay = text.toLowerCase();
-  return CATEGORIES.filter((c) => c.terms.some((t) => hay.includes(t))).map(
+  return CATEGORIES.filter((c) => c.terms.some((t) => hasTerm(hay, t))).map(
     (c) => c.key
   );
 }
@@ -167,7 +199,7 @@ function scoreItem({ title, summary, source, categories, publishedAt }) {
   const hay = `${title} ${summary}`.toLowerCase();
   let s = 0;
   let kw = 0;
-  for (const t of IMPACT) if (hay.includes(t)) kw++;
+  for (const t of IMPACT) if (hasTerm(hay, t)) kw++;
   s += Math.min(kw, 3) * 2; // up to +6
   if (MONEY.test(`${title} ${summary}`)) s += 3;
   if (REPUTABLE.some((r) => source.toLowerCase().includes(r))) s += 3;
@@ -188,7 +220,7 @@ const AU_SIGNALS = [
 ];
 function isAustralian(text) {
   const hay = text.toLowerCase();
-  return AU_SIGNALS.some((t) => hay.includes(t));
+  return AU_SIGNALS.some((t) => hasTerm(hay, t));
 }
 
 // Attach categories / relevance / spice score to a raw item.
@@ -224,7 +256,7 @@ function parseItems(xml, defaultSource) {
     const link = tag(block, "link");
     const pubDate = tag(block, "pubDate");
     const srcTag = tag(block, "source");
-    const summary = stripTags(tag(block, "description")).slice(0, 300);
+    const summary = scrubSummary(stripTags(tag(block, "description"))).slice(0, 300);
     if (!rawTitle || !link) continue;
 
     let title = rawTitle;

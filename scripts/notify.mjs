@@ -19,7 +19,8 @@ const SEEN = join(ROOT, "data", "seen.json");
 const SERVER = (process.env.NTFY_SERVER || "https://ntfy.sh").replace(/\/$/, "");
 const TOPIC = process.env.NTFY_TOPIC || "";
 const SITE = "https://whereisashwin.github.io/claude/";
-const DIGEST_MAX = 6; // headlines to include in the one daily push
+const DIGEST_MAX = 5; // stories to include in the one daily push
+const SUMMARY_MAX = 180; // chars of summary per story in the digest
 const SEEN_CAP = 1000; // bound the size of seen.json
 
 async function readJson(path, fallback) {
@@ -30,12 +31,33 @@ async function readJson(path, fallback) {
   }
 }
 
+function trimSummary(s) {
+  if (!s) return "";
+  const clean = s.replace(/\s+/g, " ").trim();
+  if (clean.length <= SUMMARY_MAX) return clean;
+  // Cut on a word boundary and add an ellipsis.
+  return clean.slice(0, SUMMARY_MAX).replace(/\s+\S*$/, "") + "…";
+}
+
 async function sendDigest(items) {
-  const shown = items.slice(0, DIGEST_MAX);
-  const lines = shown.map((it, i) => `${i + 1}. ${it.title} — ${it.source}`);
+  // Prefer stories that carry a real summary so each entry is self-contained,
+  // but keep score order within that.
+  const ordered = [...items].sort((a, b) => {
+    const bySummary = (b.summary ? 1 : 0) - (a.summary ? 1 : 0);
+    return bySummary || (b.score || 0) - (a.score || 0);
+  });
+  const shown = ordered.slice(0, DIGEST_MAX);
+
+  // Each entry: headline, a one-line summary, then the source — self-contained.
+  const blocks = shown.map((it, i) => {
+    const summary = trimSummary(it.summary);
+    const body = summary || (it.categories || []).join(", ") || "Budget";
+    return `${i + 1}. ${it.title}\n${body}\n— ${it.source}`;
+  });
   if (items.length > shown.length) {
-    lines.push(`…and ${items.length - shown.length} more`);
+    blocks.push(`＋ ${items.length - shown.length} more on the tracker`);
   }
+
   const today = new Date().toLocaleDateString("en-AU", {
     weekday: "short",
     day: "numeric",
@@ -47,7 +69,7 @@ async function sendDigest(items) {
     body: JSON.stringify({
       topic: TOPIC,
       title: `🌶️ Budget digest · ${today} · ${items.length} for you`,
-      message: lines.join("\n"),
+      message: blocks.join("\n\n"),
       click: SITE,
       tags: ["fire", "moneybag"],
       priority: 4,
