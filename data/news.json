@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-12T20:59:43.850Z",
+  "updatedAt": "2026-07-12T22:03:06.009Z",
   "count": 120,
-  "relevantCount": 58,
+  "relevantCount": 60,
   "spicyCount": 13,
   "spiceThreshold": 5,
   "categories": [
@@ -54,6 +54,7 @@
     "The Conversation",
     "The Guardian",
     "The Institute Of Public Affairs - IPA",
+    "The Nightly",
     "Travel And Tour World",
     "financialexpress.com",
     "realestate.com.au",
@@ -62,7 +63,45 @@
   ],
   "items": [
     {
-      "title": "Mate recalls Richard Scolyer's 'magnificent' ride weeks before passing",
+      "title": "Australia news live: auction clearances nudge up after weeks under 50%; state farewell for Richard Scolyer",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/13/australia-news-live-auction-clearances-property-market-richard-scolyer-state-memorial-royal-commission-antisemitism-university-albanese-labor-coalition-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-12T21:55:16.000Z",
+      "summary": "Almost 55% of homes at auction were sold, weekend figures show.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Offshore landlords claim billions in Australian property tax write-offs",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVndfekZnTHdWc25pZHUtRURYOE90ZXFLUENtQnZaalQ3Mm01UGsyMlJGVGtHRndxRjhjWUZJc0pFN1pNc3U2REVsUUFpV3JINmRsNHc5REMtX3dOam50YnNBVDN0TVhQOFRfb2xNbXpiampoS0p1c2Iyc3hqWnFVTS1RUWRYUUlVc0RmVmxrVjhfSTk5bWR0X0FWODM2ZFhTcHdNWGM0ZjFpdw?oc=5",
+      "source": "realestate.com.au",
+      "publishedAt": "2026-07-12T21:26:11.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Live: Burke says he will 'not lift a finger' to help suspected ISIS fighters",
+      "url": "https://www.abc.net.au/news/2026-07-13/federal-politics-live-blog-isis-fighters-july-13/106908142",
+      "source": "ABC News",
+      "publishedAt": "2026-07-12T21:06:01.000Z",
+      "summary": "The home affairs minister says he will \"not lift a finger\" to support suspected Australian ISIS fighters held in an Iraqi prison.",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Friend says Richard Scolyer was 'the most brilliant man I've ever met'",
       "url": "https://www.abc.net.au/news/2026-07-13/richard-scolyer-state-memorial-sydney-as-tour-de-cure-reflects/106889022",
       "source": "ABC News",
       "publishedAt": "2026-07-12T20:32:47.000Z",
@@ -89,17 +128,6 @@
       "source": "ABC News",
       "publishedAt": "2026-07-12T19:19:26.000Z",
       "summary": "It was late 2021 when one of Australia's rarest birds started to arrive in the native forests of Lonnavale. Ecologists had expected it but for a reacting forestry sector, it was \"not sustainable\".",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Coalition promises to focus on repairing Victorian roads if elected",
-      "url": "https://www.abc.net.au/news/2026-07-13/vic-road-maintenance-funding-liberal-national-election-promise/106906820",
-      "source": "ABC News",
-      "publishedAt": "2026-07-12T19:04:11.000Z",
-      "summary": "The Liberals and Nationals are promising to make Victoria's roads a top priority if elected in November.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -423,20 +451,6 @@
       "spicy": false
     },
     {
-      "title": "Offshore landlords claim billions in Australian property tax write-offs",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVndfekZnTHdWc25pZHUtRURYOE90ZXFLUENtQnZaalQ3Mm01UGsyMlJGVGtHRndxRjhjWUZJc0pFN1pNc3U2REVsUUFpV3JINmRsNHc5REMtX3dOam50YnNBVDN0TVhQOFRfb2xNbXpiampoS0p1c2Iyc3hqWnFVTS1RUWRYUUlVc0RmVmxrVjhfSTk5bWR0X0FWODM2ZFhTcHdNWGM0ZjFpdw?oc=5",
-      "source": "realestate.com.au",
-      "publishedAt": "2026-07-11T19:02:20.000Z",
-      "summary": "",
-      "categories": [
-        "Tax",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 2,
-      "spicy": false
-    },
-    {
       "title": "One Nation’s radical plan to lower inflation",
       "url": "https://www.smh.com.au/politics/federal/one-nation-s-radical-plan-to-lower-inflation-20260711-p60ei8.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -663,13 +677,15 @@
       "spicy": false
     },
     {
-      "title": "Claim woman's death caused by Telstra outage is 'incorrect', SA Police say",
-      "url": "https://www.abc.net.au/news/2026-07-10/telstra-shares-new-details-of-possible-outage-death/106900624",
-      "source": "ABC News",
-      "publishedAt": "2026-07-10T02:57:39.000Z",
-      "summary": "South Australia's police chief says there is \"nothing to suggest\" the death of a person in a regional hospital was caused by any failure to connect to Triple Zero (000) during the Telstra outage, following an investigation into the matter.",
-      "categories": [],
-      "relevant": false,
+      "title": "House prices and bank stocks are about to tank. Are you ready?",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSDIyRjB6dXM5ci1OVGkxcVRXUWp3Ukp6RGRWU3FLbEVuRVlGNmI0U0dYZThvU2pzRmJ4UXNpMy04c3VsRWJ0RXFEekpLS3V1QVkyMDdnZXlGYm00dDl0VUtIaTFBTHVKMXRQcnZaaDh0aUh4SGU4eHpkSEhSV1BXdktVbEJqTTJZTUYyczYxSmtycExWOVhkOE9RTFBJWFVpNEIyc0xJM1BSTm9hcEdWR3VOTFVWREZFT3Jv?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-10T03:15:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
       "score": 5,
       "spicy": false
     },
@@ -777,17 +793,6 @@
       "spicy": false
     },
     {
-      "title": "Telstra says Australians can ‘feel confident’ calling triple zero after outages – video",
-      "url": "https://www.theguardian.com/business/video/2026/jul/09/telstra-says-australians-can-feel-confident-calling-triple-zero-after-outages-video",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-09T04:37:15.000Z",
-      "summary": "Telstra CFO Michael Ackland says Australians should continue to trust the triple-zero network despite the recent outage, describing it as a 'very robust system'. Ackland says no system is completely immune from disruptions, but Telstra takes its responsibility to maintain the emergency service 'incr",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Labor’s big spending agenda pushing up rents, locking out aspirational homeowners",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPelJYVnRXa3l0WnI2b242NGZYcjNYQ1FsXzZ5ZHk4dTY4bThTMUtVUGljdlotUUtzczBfbXItNEEzQk9XcVB5UTNSTzF1Q1BaRWc3Tm5JZVhxb0VsZEROeEZIRVkzd3RWVjFyRnpfWUtGdlJtd29XQlk5YmhxOFZaTVNrMjdUbDZKWUFrMjc2VjlOZDkzb1VVSHBxZnE0SlQyV1hzNFlFb2NDQ1NFeGcyNjUybU1CUjlJVEE4RDJxZnEwUHpyTHdVVWVJdDdWVTlMUkFsUFZYbHYwVzBFNnBwNDQxTTV3NW5HbjRVWHkxOVpXcXpuZWRJb0p1Tzg0VlUyUU9FVzB6Y2Rva3FsOXNxSlJhUzRSeHBCX1VkOUVIcHVvalo3NnhFV3l4Mk9XN2FjVTNFakdKZFhYQkdnR3M0anM1bDlFR3M20gHOAkFVX3lxTE9fdjFhWHNNbmpFQkdwWnVZdENXTXFERnNpNzI4dFNDbkJKcmdkQldqOTJ6UWhkV0paYjIwTTNTUVZhUnlBRVFLbXRhY0NmVThfSlhIRm5aVVVETU53UG9oMnNOMHVuWlJkUFJUTGUzczJEMktabG5JMW5SSmZKeVlocUhnTms4TjluSV9oSVVIRjRwSHh1ZFZVSjdCejJObTZDR1VMa0VhUUVtY3FOSElVUDVlZVc0UlVmZzcyWTc4X3V2Z055SVFuSUcwcll6MlB5VWNLTFNpNms1VmpIbGQ4Yl9qUkNrYW5qc18tVnJlbzc2eDNQRUpXR3BHUzF1ZVlQMU15aml3dGtRMU5XcmMxU0hlTmFyV1JrMnJkM0QzWlluTHl2ek1sVkkwcEV1Rkg1eVpKd0F4cnlTeTdNTnpCck1XUEVsM1h3a3hWSnc?oc=5",
       "source": "Sky News Australia",
@@ -824,19 +829,6 @@
       ],
       "relevant": true,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Melbourne rents soar fastest in Australia as gov reforms hit",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWF0aEtUWDhBU3Z4bWt5cFdRWVd3ckpiaS02NDZna1V4bGJRSzFOX0FFazB1RGZRTmVXYURfVGdUYzNqWXRBY0FSMGJqOW9rNWdRSEsyem1SVlZpYklvNlpZZ05fdG9qQnVKV3g1QzhIMzc1amczTEhhcHExOWpMeWswZGRScHFjMmU0QVd5QmxDaHN3bTN3TEhiUXo?oc=5",
-      "source": "realestate.com.au",
-      "publishedAt": "2026-07-08T19:08:21.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 4,
       "spicy": false
     },
     {
@@ -1504,6 +1496,19 @@
       ],
       "relevant": true,
       "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "Why housing groups say the NSW Budget won’t fix the crisis",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEhBbjRBV2VsU2tKaGZsR1BnUVRmZzVyWEc0S3g2WjRubkVTejRzbXdLMEktWllDaVJLcXZHZUFiR3JmSzNvZ2F6anZ2c2lZbGkzR2tFWDZiWkh4V3kwdWR4c2FhUS1oamdLSldoalZBMkZvdGtjTmNVeXBnM1JqZXZwVUZtSl83Z2pOZ0tlVExWZnlvRU1tLWtqVWs0UWtRTGEtb0trVmpVRF9nRW5HY3VOMU5JNm1pS0tKMEFvSUxCbTV4c0F3MQ?oc=5",
+      "source": "The Nightly",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     }
   ]
