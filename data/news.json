@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-12T06:42:00.183Z",
+  "updatedAt": "2026-07-12T09:08:48.192Z",
   "count": 120,
-  "relevantCount": 53,
-  "spicyCount": 9,
+  "relevantCount": 56,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,14 +33,14 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
+    "Domain",
     "Fragomen",
     "Independent Australia",
     "Khaleej Times",
-    "MSN",
-    "Mondaq",
     "NRI Affairs",
     "NSW Government",
     "News.com.au",
+    "Nine.com.au",
     "Nomad Lawyer",
     "Property Council Australia",
     "Property Update",
@@ -54,15 +54,25 @@
     "The Australian",
     "The Conversation",
     "The Guardian",
+    "The Institute Of Public Affairs - IPA",
     "The Nightly",
     "Travel And Tour World",
-    "Wilson Asset Management",
-    "newy.com.au",
     "realestate.com.au",
     "streamlinefeed.co.ke",
     "superguide.com.au"
   ],
   "items": [
+    {
+      "title": "The varnish has come off: Support slips for Hanson",
+      "url": "https://www.smh.com.au/politics/federal/the-varnish-has-come-off-support-slips-for-hanson-20260712-p60el9.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-12T07:55:25.000Z",
+      "summary": "Support for Pauline Hanson and One Nation has soared this year. But there are signs some of her key messages are starting to turn off voters.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
     {
       "title": "Victorian crossbench MP warns voting system overhaul must be backed by broader reform – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/12/anthony-albanese-pat-conroy-labor-liberal-angus-taylor-one-nation-ntwnfb",
@@ -83,6 +93,17 @@
       "categories": [],
       "relevant": false,
       "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Live: Cowboys come from behind to beat Sea Eagles in golden point",
+      "url": "https://www.abc.net.au/news/2026-07-12/nrl-live-updates-round-19-jai-arrow-birthday/106903602",
+      "source": "ABC News",
+      "publishedAt": "2026-07-12T03:30:25.000Z",
+      "summary": "The North Queensland Cowboys will end round 19 inside the NRL top eight, after fullback Scott Drinkwater nailed a drop goal in golden point to defeat the Manly Sea Eagles at Brookvale Oval.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
       "spicy": false
     },
     {
@@ -132,11 +153,11 @@
       "spicy": false
     },
     {
-      "title": "Owner taken to court over $1m damage bill to 110yo cafe",
+      "title": "Owner taken to court over $1m damage bill to iconic 110yo cafe",
       "url": "https://www.abc.net.au/news/2026-07-12/nsw-katoomba-blue-mountains-paragon-cafe-land-environment-court/106866630",
       "source": "ABC News",
       "publishedAt": "2026-07-11T21:20:50.000Z",
-      "summary": "The heritage-listed former Paragon Cafe in Katoomba was once considered a success story of Greek entrepreneurship, but has now landed in the NSW Land and Envicronment Court.",
+      "summary": "The heritage-listed former Paragon Cafe in Katoomba was once considered a success story of Greek entrepreneurship, but has now landed in the NSW Land and Environment Court.",
       "categories": [],
       "relevant": false,
       "score": 7,
@@ -150,7 +171,7 @@
       "summary": "Darcy Byrne is the Labor mayor of Sydney’s Inner West council and he’s helping lead a grassroots movement on curbing gambling harm in the community – including pushing for a reduction in the number of poker machines in licensed clubs in New South Wales. This momentum comes while the federal Labor pa",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -161,7 +182,7 @@
       "summary": "Anthony Albanese will deliver a landmark speech on AI this week as MPs are torn between attracting datacentre investment and protecting the rights of creatives",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -175,7 +196,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 8,
+      "score": 7,
       "spicy": true
     },
     {
@@ -186,7 +207,7 @@
       "summary": "Experts believe ‘Greens voters and One Nation voters have similar concerns’ and the party must capitalise on the emerging anti-establishment mood",
       "categories": [],
       "relevant": false,
-      "score": 8,
+      "score": 7,
       "spicy": false
     },
     {
@@ -199,7 +220,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -213,7 +234,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 3,
+      "score": 2,
       "spicy": false
     },
     {
@@ -226,7 +247,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -237,19 +258,6 @@
       "summary": "The words we use for a handful of classic Australian foods can tell a lot about where we come from.",
       "categories": [],
       "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Australian man dies in Bali while awaiting deportation",
-      "url": "https://www.abc.net.au/news/2026-07-11/australian-man-dies-in-bali-while-awaiting-deportation/106905818",
-      "source": "ABC News",
-      "publishedAt": "2026-07-11T13:10:57.000Z",
-      "summary": "An Australian man has died in a Bali immigration detention centre while awaiting deportation.",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
       "score": 3,
       "spicy": false
     },
@@ -475,6 +483,19 @@
       "categories": [],
       "relevant": false,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "House prices and bank stocks are about to tank. Are you ready?",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSDIyRjB6dXM5ci1OVGkxcVRXUWp3Ukp6RGRWU3FLbEVuRVlGNmI0U0dYZThvU2pzRmJ4UXNpMy04c3VsRWJ0RXFEekpLS3V1QVkyMDdnZXlGYm00dDl0VUtIaTFBTHVKMXRQcnZaaDh0aUh4SGU4eHpkSEhSV1BXdktVbEJqTTJZTUYyczYxSmtycExWOVhkOE9RTFBJWFVpNEIyc0xJM1BSTm9hcEdWR3VOTFVWREZFT3Jv?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-10T03:15:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
       "spicy": false
     },
     {
@@ -741,6 +762,19 @@
       "spicy": false
     },
     {
+      "title": "Melbourne rents soar fastest in Australia as gov reforms hit",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZWF0aEtUWDhBU3Z4bWt5cFdRWVd3ckpiaS02NDZna1V4bGJRSzFOX0FFazB1RGZRTmVXYURfVGdUYzNqWXRBY0FSMGJqOW9rNWdRSEsyem1SVlZpYklvNlpZZ05fdG9qQnVKV3g1QzhIMzc1amczTEhhcHExOWpMeWswZGRScHFjMmU0QVd5QmxDaHN3bTN3TEhiUXo?oc=5",
+      "source": "realestate.com.au",
+      "publishedAt": "2026-07-08T19:08:21.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
       "title": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
       "url": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment",
       "source": "The Guardian",
@@ -761,6 +795,19 @@
       "relevant": false,
       "score": 3,
       "spicy": false
+    },
+    {
+      "title": "Sydney rents surge $50 a week as Budget fears hit the rental market",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUjRLOFY4UE5SLUVURG1tYjI4MkxuSXpWWkhtcXZ6M0hLZS1FSW1NT29YZGEtMFVsOVdUaWttY243ZVJVa1FGVTJYTUxwbE9USm1vaXlZMFoydXJLQ1hLSE92UlJnRUJ3bHRWdl9kbklRdjhTdmJiWlJCN1lUNUdCakI4Z1VrQ0NRWkZBZzdQWTJzbl8yS0hHSDRSaHRlVEptTVU2OFl5bFhCNWlKRlNpTGItbGlWOEpv?oc=5",
+      "source": "Domain",
+      "publishedAt": "2026-07-08T14:29:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": true
     },
     {
       "title": "Bad economic news exposes Labor’s unproductive budget",
@@ -859,6 +906,19 @@
       "spicy": false
     },
     {
+      "title": "Trump gives Chalmers a lesson on start-up tax breaks",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTjRMMlB4aFpQZ1c4UENTTDV5enI5SnA2XzBDX2d4NFZKWDEyRFJHQnNDdnFfQ3ZmUkx2Z2NhMXhpTmV2SWk0LTRoRGdZZHBic0ZZMjZyYlE4OHY4SmE5ZjQtc0IwajBTTV9sX2g4VDBVUnlxelFiSGtPTVdadXQ2OTJpcmJwX204ZVhaWktJLWJkaFZLT3cyYnd2NGdubFZkNVM5dk01aEpYWHJ3U2c?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-05T10:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
       "title": "Australia, US, Japan, Vietnam Visa Changes July 2026: New Fees, Income Thresholds, Health Checks Explained",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ29yaWMzTHhuR291bk9KTEkzSk1TRmZ0WUVUYl9jZHZwMGxoRWZYOUdqUTFsYVNmeXB2U1hlMGV0ZUwzMUwwbXFLWENBcGtxOG9NOEVROTk4TEdPNTNlemJXNkI3Z1RDaUFrOXIzMXlRRjVyUDZHWV9xc3FpYmppWWRmV3hmdzBtU1VFUEJ6RVVtOFV5eDVuenBRWTJDQko4SzJKLTljejkycE0?oc=5",
       "source": "Nomad Lawyer",
@@ -899,7 +959,7 @@
       "title": "Sydney Links with Melbourne, Brisbane and Perth as Australia Increases New Visa Application Charges Across Major Visa Categories due to Migration Cost Rise in 2026",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5enBKdzZnVHJFUUcxTHdvWlNuRERJMjNhLVg3d042MkhzSXJ4ejU5OS1CM3ZhMkJQVU9GMHIwRVVkUC1jSFpyQnFyamxYbjhPU0ZyU0llMlhCRTdDdjYxX1RYM0JHN0ZubVFsdXNB?oc=5",
       "source": "Travel And Tour World",
-      "publishedAt": "2026-07-02T15:48:51.000Z",
+      "publishedAt": "2026-07-02T07:00:00.000Z",
       "summary": "",
       "categories": [
         "Visas & Migration"
@@ -923,16 +983,14 @@
       "spicy": true
     },
     {
-      "title": "Skills In Demand Report: How Effective Is Australia’s Skilled Migration System? - Work Visas - Australia",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObUhISW54MFlBNW5CbmdNNEpkNHdMSEZWZ3V0VW16TTNvQWUzRWdXWkN5bTdmMmtpN2pQQ2ZjR05rU0hwVnFJaXdFWUg2WTNJVVhJZG40RVdIOHpyUmlGMW9kMXZzUFRPbkFqSUVZalNkVThFNFo3bVhvZHRrbWN0RmoyTmZKOHUwblMxN3ZwbGRwUEVRa3A1Z0cyWV9zMkdpRFVId2gzY2pHOUNWWEtIWFZ2M2Fpa2FyLTFnaHphZGxBRkw1RTBJ?oc=5",
-      "source": "Mondaq",
-      "publishedAt": "2026-07-01T12:55:32.000Z",
+      "title": "Treasurer accused of ‘crashing confidence’ in Australian economy",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOaHNld08xcDI0bVFMSGpuTlF1UTZrT3ZORm1BT3NpNFQxUFJfaXU0MmJmbjRIVVRQQzFuOTlaX3ZyMkdkR2p2SEI5akpIVWN5YVZkNTY0YU9GZHpVTFE5d1VXVl9wQ01RYTBYRURPdzRuWXMyOUd2RlRQN3pJNHZ0eGxuYVRVb3o0ZWVMTFdKUnNILVM4VFJ1TW9fdGV3RzM2azVqaGU0Mllrc1RFc2VnVk5mUUJEQnFsc2toY0YxeUxKNm4zb2FNWHVMdjRUREpWdVRxYjV2U0I2T1ZOWDJNRGZTaUVfTk9UcjFlSUswYTJkMWxseEtrUkFGVW90MFhDN0VTMDd5bmt1ZjIxbng2RzFkVXhVdllGZFFmOC1RRlVtalXSAagCQVVfeXFMT3YzNzVtSWVHeDlXczdSeERIVUVIQmVack1YT1I5Q2Z2Y2d2WjdhRDRRbm9maEVmSTd5WGxpaUtLSUtTc1ZhcG9NLXVvSzRsOGdYZU1KeFplaVF6eUYzVWlJWnFiZ1V2cWQ0bDhfajQ5OWdURWF5eGVCT2dWcEFoaU9Cb1lsUzNCQVVSWXdoeTU4MjY1Slh1UGdCaE5VVUVVWVUxVFFBdW42LVE1TDdUeUR0UjRBdnZrbmFMVHVSVVhQU0JFWGpKSmUxUXNHZTNQUjk1cUUtVU9jSlcyZTNZdWo1blRocmhlREJKenBVRzFoLUVOa2RfQ2NMcTdaWTZiMXlVbmNFVTYzYS11QzcxZThETUFGTTFzRElIaEpGNUNCQms4X21GWXI?oc=5",
+      "source": "Sky News Australia",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
+      "categories": [],
+      "relevant": false,
+      "score": 3,
       "spicy": false
     },
     {
@@ -1102,6 +1160,20 @@
       "spicy": false
     },
     {
+      "title": "Treasurer promises to 'fix' property tax oversight, but won't say how exactly",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ29MRTR6SU4wU3pEU2FaWDJtV1k0cUhHTDNIb0dJdTBtQmFDYmNtMGd5RmJFekVPc0pBZTVVNnIwZUo5dTB6M0lrbzk5YVZ4NEpLczgtdks3VG10RE81Wm8zMFRsWE11M3dfWUw1czJQSG5NTDdqcTd5Yzd2Zk13ZHZva2tEOXBuaEFlVkJXUTREOHNEY1hIUWFZN0RadTZMVWlfT1Z1dXN0aGhFSmV3RUpVOA?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-06-28T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": true
+    },
+    {
       "title": "Kristian had given up on buying a home. The budget changed everything",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNWZ3akdzX1RJNGZINDhWRUpMeWh2amptbnkyQTZsck5DLVdXWE9qZWZYQlZHV2JqRHN2VjI5c1lNU3FFREw2TlRlQVBHSm9DdEViLUlFMy05WU9vazBYbi10aHNmaUs4ZUJNbzhOUEFlVUFPSkdNM3pEUUpQclRXRjJWWVZwUkxBNzB2aEN6c3lJMTdJNXhOZ21rdUc1MXhDTEFhaEZZWGd5dTBDekxNWlFqZlg0b0xyZ1QxcWRJS1pIV3NUdTM3SQ?oc=5",
       "source": "The Age",
@@ -1111,6 +1183,32 @@
       "relevant": false,
       "score": 3,
       "spicy": false
+    },
+    {
+      "title": "The caucus cheered Albanese’s tax changes – but will voters?",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORTNyWkhIVG00UW9OTmpZc3dIWWRIa0YzQnB6YkxoTTduaDlWNk5YN1FHMXhHcnY5SUstZTJaWEdHSXhvV0ExNTk4ZF9Ia0VkcDZPZ216N04xal9FUmEySTBDd1lNcGVtX3BwdTk4YlVQanJpS2VHTVdFQkRQVXRmQmttdGlva1BkVmhNOGtCblk2NU5ncDZWUGhjeDFVRTM2MVpfWk1rUkU5YVR1b0V0RDQtTkRLN21NX1E?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-06-27T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Remember Labor promised you $5 extra a week? 13 changes starting July 1, from tax cuts to price hikes",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYlJOUEJuWW1rV3pHMXQ0UFpITzFxU2NsV283bFEyejczZUt4NW9odXIxT1pJTGJyVm9sWHBzNTJaRmIwR0N6djAzenhBRl83VUhDU1hZZkVkUWRpZFJieUJQbmdLeFdROFMwZjVLbWN5RTQ4ekotM0NldFAzVnlQdmpOZmw2UHpmMTRlakEzNzJBaFgydTY0S2lYcEVsby0zT2RScUM3dDZFOTdCRkQ5ckZIRFJxOXF4TjFIR1ljM0ZEQXgzWm5BRVVxTTQ5YXBxeGdKbWNmeXVDZzM2Y1g4V1JCRjFkRkdQWHRvSlZ3dUc?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-06-27T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 9,
+      "spicy": true
     },
     {
       "title": "The Guardian view on royal tax secrecy: it survives King Charles’s latest disclosure | Editorial",
@@ -1123,6 +1221,19 @@
       ],
       "relevant": true,
       "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "PM defends tax package after RBA ex-governor’s rebuke",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWdJeFBNdDZsSjBiVnZDVW9HQUdKNWJzcmY4Z3RhNGt4amtubHZ5TDQzNHdQU0ZHbW52Vk9xRnJUMEl0amtmR3FOeUFCYUJ0VHVVRVBwdUctNTFjbGdCNVFKeHhYa0llRTVFcFVQN0hlcjNlUy00eFhPb2J1SmZ4RG40NUR0a25MMldjc0RlSUZCWXJGQXlOdjBhZmNsSDluVDQtNWZWMmZQaENSOWJZbVZUQQ?oc=5",
+      "source": "Nine.com.au",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1204,6 +1315,32 @@
       "spicy": false
     },
     {
+      "title": "Labor makes another U-turn on CGT changes",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNm1TSTRwTzJGOVp4R1B4R19iS01kZVVOOU8tSkp1ODdFQlR5YV9Wakl2NDg4dm9xLVcwbm5FTDlqNlVFVS1LbmpteVNlZnZOMEUwZzNMS0tfbXhsblBFOXhTaTBoYVhKNVJNTUVJTGcwLUo4a0RtcEZYQVQwb3BEcC1JT2VjbXVDeXVrdnJDUVY4U0h3R2hCREpPQk92VzcyQkJ0RTRpc0RIZkpSODVkTGE1RkVTY0tWM3lITFBheV9fbTJwdm92cE9KVWw4V19GcUhRSGE2YnF4cVE3cXVJQ1dLRFlqUk4yVGdTTE1jVdIB9AFBVV95cUxPdnBJNGE1eEFqZVlJSUZRZ3c3V3lWT0stcG1SOUZrbHJtMUpyYkphbTZ1cENKR011NWI5LVVMM0RzQ1p4OENRcXl3ay1VRVEtUVY5OEtwYm82d0lLTDBDSzNpTGhuTVhFNmxGMmtRQjhNbExoNXpVdGJrTncxTzhWcnlTY3FMZHZ1Y1ZVRHkwanlnLTBYNG55a2FrM0xpenJkRlBDekRZY1NwNEhLOEx3VlVGcmduWDJ6dUV4akdNdHhqSmcyRlRyRUczVUdJOVROZVI2Y0xrTFpEU2dIV09UdktlOGdBOURTRWJ5Yk1ZXzZubWZh?oc=5",
+      "source": "News.com.au",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Labor dumps ‘widow tax’ as contentious reform bill passes parliament",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZms0Unhzam1SOFpqRVE0OHppM001dUF5Tnc0N1NrMjgyd3NITVdNcEg0aXN4SWNZdmsyT3ZVVHN6UVB1dEtDTHlnT1IxQlBWdU81ZWVFLTUxZjAxeFRmWm5fYmNxOHhjNmVEWGRLN01oQ0FIMlZtc2VVNGtJUUJ4ZzVPSFNuVlp1OWxwbXZtdmN2eGFSNEFNVWJNSmpGdzRMaDV1UEEwaV8zdWsxaU1KRFVFbmxBaTlaVGxLRDJocDVpMU9Qb2c?oc=5",
+      "source": "Nine.com.au",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
       "title": "Taxpayers give $2.7b to rich families in childcare, parental leave",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHpkU3poVGxaNUZIRGZrdUtHcHM4elFvbzZuVGduVDNCTGxPMVRkc0MtZU9wdWtHVkotdEFwal9RN2huM25ibnQwUE9rU3R3djJFRnFwckljVVFGRk5KRUk3Q0gtWDFEV3BJX21DbTd3RlZJOHFOU2xlLXNqNXpheGxCU0s1b1plY3JST2Jqcnd4SVVJV0ZkQkttVVUxOUN6SzBVWnVIb2FBanJHZmxmS2w3cUQtZw?oc=5",
       "source": "AFR",
@@ -1227,6 +1364,17 @@
         "Housing"
       ],
       "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Bad budget another marker in Australia’s managed decline - The Institute Of Public Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmVFS1hfV1VRSWpzMFhFdWUtVFRmTXhwVWtQSWZ1d2w3SWZsNHdYYWJlQUZMUHJYeW1KNDN6NzZ1Z1NjUkxUSDVWT1VmR1pxcXcwRmozSkEwQ2ZRZGZMLWNGR29RVnNZWG5JNjQ4cHJTN3ZkejFMejB2QzVobGpJRVZQaHYwSHBEdEc2VHU5ZlMya1VmQVg0cU5HM2RBT2lVSXdiajRFRy1nQQ?oc=5",
+      "source": "The Institute Of Public Affairs - IPA",
+      "publishedAt": "2026-06-24T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
       "score": 0,
       "spicy": false
     },
@@ -1265,6 +1413,19 @@
       ],
       "relevant": true,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Labor’s controversial tax changes will pass parliament after gaining Greens support",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdTI2NnlnSUwtUUFONkxpcXZDMEVqc21kT3dLZWg3azBMMHJZNzlYSENmWlktbHFyb1lFdG44MlBYWnRHQVhyamVSX3pHMUdaTzJBWS14a0hoODQ1eVhOSV9KYzE1R0U2YTBZbmFDTElIT1BRNUEzTFRaVkkxT1RvQTk4RmktalRRZnhsOEQybFk4Rzd6U192U0xlaTBOWl9GMmVXbGh0LW5VOHJQZUdWMnFKbGlRcnUtMXJvN1hjNW1LZk1NZzgzMmxjbUJaTTVkSDFFN3Z3SEZNQVBZYnlISVh4Q1B2dEMwOVp6ZWFWQzVYUFFKSEROcGNiYw?oc=5",
+      "source": "Nine.com.au",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1339,161 +1500,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "NSW budget winners and losers",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVc3TU4tVlR4dGNySHpzV3M4aEVQc2ljYmRBR3JxVEd1S2kzTmZTS214Yk41WWhWRm5xSjd1REhLMmZjUmZYNnZvUENHVjZFMm00T1VoNGxsVTlaSUgwWGRNbFgxbXJQckk4OWJ6Q0lnRTdaQjMtLUVIdzFWNHpSVFNOVUt5bWxrRHdjYzN2TQ?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Big spending NSW budget banks on relief now, surplus later",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMzU3Xzd3dlE5RTFtcVVJVjBrQTBWYUNRWEY4UmUzcUpNR0xQQU41WHVUTUFaYzhsX1Bzck1fNWQ4aXhuYmJydEpFcHlkUlFxR09ieDdPU2NBLXQ3dlhpTWVVX25BWTdnZjh0ZnNIUWZwZkRfS0lVNi00UWg2QzlUOVB0eVNfRkFrejhfMGl2c3RpaVpUTnNCUlJxU1FxXzFRY3dSeUNleGZQNEh0cktmMWR5Rk5GWWJBeER4Zm5zNnhZSDg4VXpWZFM2cG0zYUU0T2VMNWFZQTR3YlJnNVM5VDdkZzZRSk1qMDFpSElKMzBSazdkd1J0c0loci1lZV9PQ1HSAYcCQVVfeXFMT2RWWllRd0Ntdk02X2ZCeWlvcWdYbG4zTTlESXl3SXh3eWZfUUtKMnhPS1hTUXpIM0pwdmF1a0Fid1JvdG1XcE5hUVdSSXZibWxkZkVIcGNEdXlrcGVTdGVnSjRVUmhuMV9BcC1RNmVhbjNoQ1hSZVh3ako1cVJEamExRVlEUUVSUnh0T0xEWFd3dy1hQjRraWVMM0g5UTZtMWEwTGZPczktTVVzSjBJMTNTd3k1WFNldVpxTTZ4MVVOTE9NYUg4NTgxWUV0NjdYQzVBQ3RYVXNhd25sSzNLRGw0REM0SWtNa0dxZVRRTThYWWk5VVRSSHdvMnVJNFREckN0YTJYVzg?oc=5",
-      "source": "The Australian",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Executive public service roles capped and back-to-school payments in Qld budget",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnhIQ3BHVnR3cGFSbzdLVWZMWVBoWExaMnJSa0NCQWVwTXFpdjlDYkczbXJxTFB1VkMtWGExNFpndkpiMU1KM3R2THFXVnc4TklaaUhGbDVHQjdTZkZDemxET19tcmkzZzczNHhlaEVONVlnMmozeGN6WDR6VWpvTHo3bXcyUjN6MktuRE5zZGxnV2FDNlVJaWtXejg5aWNreFI2TFVvSzJkSjA?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": true
-    },
-    {
-      "title": "Winners and losers in the NSW budget",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1dOX1JvY0NLME9IRWdxazdodDFVNTFNUUJrSElRbDVXNkFaa1hXVmVGUkNaNk9aLTBqdTB5a1NfRnZLRllKWldLTGhpSkJDYjdOaU9KSERkWkNpcjhRejhrTXRLRnB2ZWNNZTFoaTZpa0kxeksxVEhhWFpvNFl1bTgybXR2cGw3?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Who wins and who loses in the NSW budget",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTZKTFpSbnZDYTI2a0o3amJVdWxKTlpFTDY4WmRKbzBDVlJIY1hMbElLSExEdXBnSWdxaUktUmZLVnpGQ1NLekQwcTRoYmpRQWZOdG5KNjBBLUZGR0E1VU9JWnhtdjlhbEluaDlpNTBvS01CeEY5Q3dDTzBabm1NM1NkaXJPeFJ3cVRvalk1QkF0UXhxQVVNZkhhMTdHSDNa?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "NSW budget offers short-term sugar hit but there could be bitterness to come",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWURlMHNidk5XVndUN1VfeWFLSnlKelphUEVib2JUVnlxLXI3VVZ3NDhWRXhxc1ZaVlhnelRBd3pWajdVVzB1bWh5eE9LR2d5ZWdtOUpGQV9PRmFNckI2aVVzQ09zeFdIS0JpdmJZYjhyY0tHQVh2WkV0eFVuQ2ZuNERWRjVhUHBwenZjMjBDVlpEdw?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Five key takeaways from Crisafulli's second budget",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3NDMDRnYVhvV0FwRmNXX3Q5SEhjM21WbHNJeDR0eU5aYms2VjIyOUZ3S0hmRUJHdm9pWjRWNXBVVVlDbkVRWE44VTVITklRcVo3SGsxTGs1NmNzUUdxNFQ5WnROZGFNRWRtWHllTEgxa0pHLUpPX2UyZHdjQTBkNFRKQVUtWVE0blE0MDVn?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Thousands of public servants to receive cash bonus from government",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQUmQ1djY2QU16VEJoakREbHVOX1VIajIwWkg4RFIzOEFRalUzSmdzU1BHN2tra2RIdW5PZXNNOUpqZnVRLXJGY3BlUGNCRWxZUGlhbGRQWkJmRjRfYmdsWkxYckt5R0VaTS02ZHl4OVdJMmFNdUpoaVc0SDBET0VoMmY1RHVNR3NGbjZXUm5YNXlqdFltdmJtNm5ZQ1ZCUEdHWlVPMzcwY1YteEVPMEV1RWlMMGcxaHg2VmstUHZpRmVBUUJHYzNaS1lQQTUwQ1hzd0podnFYdE43N0J4dHBQWW91SWY1anNHNk1kTW14d3otOWViMzBnb3JqeXUtMDdkeDVzbUlXdTI5UjI3SzhULTVKZDFxSG9OSmdCckNlONIBpAJBVV95cUxNZEMtdER0aFdrcVpUR3NkUUZzaVJLOThXbVNwdnl0c1pJeVdzZUhmaERmd05TWWdDM3lpbzdaaURQdHFzRXkyVzRNdDhNMVdQbm5Vdk51U2Z0X3k3eHhfWXlyOWRQb3o1YktHR1RYQzd4bV9Hdktka0llSEFhNFlXQUpoS0NCSWRYWGh0bHlYNHJUcVVydWFSX3dGbTd3cVViM2gwclBibXFSbVd6RzlxaHUyVTRvSkpELTgtZnFBeTNyZ1g1aTFnNktLbkFGSUlXeTR6WEcxYXBlWFdQTG53NGlod2NKVGpLNjN2YjdpUGxUUWd1QVQydnRHdWQyc3pWQ1Z1ZWJXQ1NZQkJCZnZzS0VCWjRTNDBZX0s0QzRSYk03SlFs?oc=5",
-      "source": "Sky News Australia",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Sydney motorists get up to $520 more toll relief in NSW budget",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORjdWUnlaMTMyeFBRZ1JkMHVwZDZSQWtlZ3BhZENkMWxOSngtN083NE5INlZaNUN3ZTZoWlA3UDk2dkRqVnpjSHV2NmRvRTh3eXBOXzQ3Q2xBMWZKZGtPUWp1SmdITkZ4ekRPT2NIOE9BWkpjRThMOHFjUkhmbC15cDEyMmJoZzNwcFAwZlJpYzFaU0Q0MTRqaDFKWVBOa1VGaGNXS2hFNjdKdw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": true
-    },
-    {
-      "title": "Mookhey’s motorway: $100 cut to rego in cost-of-living budget",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3dqbTBleVJRTFpaS3Zzc3J1MENaajQ1SEVOZnpWRVg5dHFvejU4b1NhU2EybGJWTkE4VUt6dzFoVS0wRFBqeXFVZ1dta3hkenBrS0E4eV8tQ3BMSmFFU2tDZkgzbHUxQjRWQV9ZVUJCNVUtVzN1M1BINnlhQjFMdEh0TzZMS2RFR3hfTS1HLWg2eHVKWDJNZUV2YTdEdlJ0aGJsVGgyWGk2ZjNNUmRPcHUyYVZ4cXM?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Maitland budget promises cost-of-living relief, health and transport spending",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXluZDBJRGx6LVRZMGlnNzZOV2hpdVF3WjctQW1NNThpWC1QWmtQNFlZaVdybVNfRmtWYlRuenNDNFcxQW1Cb2pDNXh6bFdFQzEwTy1HRElhY3dJaU83T0wwcTdkeS1TNFQxb2tQVEItQVhMZ3hiUlJ1dU5QQkdSOWRvVTRmbS0wVzRkMzRFbzFWdWRGQmt5VFVIZzNGTXEwUHJFNlRqc2g0YzRK?oc=5",
-      "source": "newy.com.au",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "NSW budget delivers $561m transport relief amid $2.3b deficit",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYzNManpELXNCZ3Z4cDBsQ3VLTGNEd2FYZlB0TXZNQnN2UUtvNWFhcC1UZjhuazI5NUllcG1Eb0RUeXRDd3hRTTZtbUVNSmN1U3NNaUJ6OG4zSUJWVWExS1BmYWQwb0YxV1VtenRVZFBnRm9jaFItRmF2RkN2NG5aZlNKdndHazZzRlVtWmZ3d3ozSEhFTVdvczN2OHRoYjFGN3RYV1psOWx3VGxYNWc4YnhXQXRVbWRpbE1iWjBpbWVhejNBVGR5MEhKYl9sYkpFWWgyLWhwVnAyZG42SUFmTGFYRQ?oc=5",
-      "source": "MSN",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Greens demand Labor tax changes extend to SMSFs in budget’s latest parliament hurdle",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN241QURyM0VlX01OakJNYVFXd0plZnVqODVtMjU5ZTdlQ18xeGoxeEF3Ui1tVFllbTV6N2pwd3pHaDBjcXdsZjNzUVllcENscExOSTA3bm0tS2VHdTAxSUV4NWdrTDJ0OGhIVWVJYk8xRnJreWhSWnZ1Q3Ryd0xmWG9qcjJ3TXdfQ3lZSzB4V0kxVFg3bVZxNXNSLWliZ3NJOXROdGdHbnE1TWRCM01KQmx2WXJzMGNqdGlHUXdR?oc=5",
-      "source": "Wilson Asset Management",
-      "publishedAt": "2026-06-22T23:05:17.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     }
   ]
