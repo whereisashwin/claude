@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-13T22:30:23.050Z",
+  "updatedAt": "2026-07-13T23:58:47.312Z",
   "count": 120,
-  "relevantCount": 63,
+  "relevantCount": 64,
   "spicyCount": 12,
   "spiceThreshold": 5,
   "categories": [
@@ -39,7 +39,6 @@
     "Independent Australia",
     "Khaleej Times",
     "Mondaq",
-    "NRI Affairs",
     "NSW Government",
     "News.com.au",
     "Nine.com.au",
@@ -51,6 +50,7 @@
     "SMH.com.au",
     "Sky News Australia",
     "Sydney Morning Herald",
+    "TV Blackbox",
     "The Age",
     "The Australia Today",
     "The Australian",
@@ -66,11 +66,11 @@
   ],
   "items": [
     {
-      "title": "Australia news live: NT police still seek answers over 25 year-old murder of British backpacker Peter Falconio",
+      "title": "Australia news live: Four more charged over alleged murder of Chris Baghsarian; Labor says Australians may ‘pay the price’ of renewed US-Iran conflict",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-07-13T22:22:12.000Z",
-      "summary": "Bradley John Murdoch was convicted of 28-year-old’s murder but remains were never found",
+      "publishedAt": "2026-07-13T23:52:03.000Z",
+      "summary": "NSW police say 11 men have now been charged over the alleged crimes, including the ‘alleged coordinator’",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -113,25 +113,14 @@
       "spicy": false
     },
     {
-      "title": "Former Victorian Young Australian of the Year charged over imitation guns",
-      "url": "https://www.abc.net.au/news/2026-07-14/darcy-mcgauley-bartlett-charges-imitation-guns-police-uniforms/106827732",
-      "source": "ABC News",
-      "publishedAt": "2026-07-13T20:32:10.000Z",
-      "summary": "Darcy McGauley-Bartlett has been arrested and charged with a raft of offences, including possessing imitation firearms and police uniforms.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "'So many questions remain unanswered': 25 years since the Peter Falconio case",
+      "title": "In Barrow Creek a $5 note hangs on the pub's wall, still waiting for Peter Falconio",
       "url": "https://www.abc.net.au/news/2026-07-14/peter-falconio-murder-25-years-on-joanne-lees-bradley-murdoch/106847392",
       "source": "ABC News",
       "publishedAt": "2026-07-13T20:27:42.000Z",
       "summary": "Twenty-five years ago, the murder of British backpacker Peter Falconio and the abduction and escape of his girlfriend Joanne Lees in the remote Central Australian outback captured global attention. Today, it remains one of the nation's most infamous cases.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 9,
       "spicy": false
     },
     {
@@ -155,6 +144,19 @@
       "relevant": false,
       "score": 4,
       "spicy": false
+    },
+    {
+      "title": "Labor has broken the tax reform ice. Now it must keep going",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVExaMjVnc1BHMTVhMkppbTVualBfSjM1cFNrekxKWGlreHViY1JUWHAzbS14OC1ObGlkNmJxaG1VQ212YUZxa0JNOHBld1RhWGx3bGRPRzg1bmZOS3A2YS1HN21sRUJPLWZ0cl9LM3cyUVFabWpaQ0FESUFHS2tDRndvM1k5WE9QaUlCYVdzUzd1cWJXNUdEcnVhUG16YWxQdTJPMDdSdjRvQXNQUHc?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-13T19:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 8,
+      "spicy": true
     },
     {
       "title": "‘OK, can you spell your surname’: How a super fund responded to a call for compassion",
@@ -194,7 +196,20 @@
       "spicy": false
     },
     {
-      "title": "How property developers are benefiting from Australia's housing crisis",
+      "title": "'Good time to be a developer': Who's winning in the rush to build affordable homes?",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnFSaTJza1VOaHl5SVNrR3dSUXdnRERoQTBSSDVCaHpTNUd2bEJDMlJsdXAzZVhYMWpJYTQ4QkdPd3VCdUkydlFtcjJ6UVVCWGV0eHN5R21aQTNFV1ZoQnh1UHBLMTFXNFZvUUxXYTlNNk9mdkI5ZmgwUG95NEJ6OV9xUUVLRWN4LTBKcWFWa1JWREVyWWtQSkRVV2ZnNWg2UlpTTEcwMjU0cllGYURidE1n?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-07-13T18:43:03.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Property developers are benefiting from Australia's housing crisis",
       "url": "https://www.abc.net.au/news/2026-07-14/property-developers-benefit-in-race-to-build-affordable-housing/106889346",
       "source": "ABC News",
       "publishedAt": "2026-07-13T18:43:03.000Z",
@@ -285,6 +300,19 @@
       ],
       "relevant": true,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "FOUR CORNERS probes Australia’s housing affordability gap",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0NSYkFKY0I0bXFWOTlXZ3VUZGZhU2U3RnNWMEJaNkpManhTRG1tQ0FkR3QwNjVUcExlSnB6TkM5YTZ5b0YxTVZKTEpIOGV3cHJ0aGJtTzFMR1pOZzZSdGVtR0tVc1B4QWU4Zzdkc0tNelNTR2pzUkt4RGtRM2xLMWJrS3JORWd2ZUxsazh5UlNRU2NCbi15NW4zYms3N1Z0?oc=5",
+      "source": "TV Blackbox",
+      "publishedAt": "2026-07-12T19:50:53.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     },
     {
@@ -642,6 +670,19 @@
       "spicy": false
     },
     {
+      "title": "Curbing well-off taxpayers' access to key programs could save billions",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGVwWTFMNkZJeWZqc3ozeU0tR0swWWVZYTRQM1JNbjQ2RkJLS2xoT21kV0hCNnBlbnpxdkVQRWFXS1pRcXJwYjI0bkFhejY4QkRQeHhacF9uOHRsRTlFdGZTbGQxazJrU0ZvNjdkVnQxWTFHOW1PdXVuRzk2WTZjQTFhVUFLaVhGdG44NkdsbEQ0WVoxdUtSa0NGUVQ2MkpiZDJtdg?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-07-10T19:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
       "title": "How Beijing’s nuclear gambit gave Australia a surprise advantage",
       "url": "https://www.smh.com.au/politics/federal/how-beijing-s-nuclear-gambit-gave-australia-a-surprise-advantage-20260707-p60dch.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -804,19 +845,6 @@
       "spicy": false
     },
     {
-      "title": "Australia’s housing accord in crisis amid alarming construction plunge",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHZ4eU9PU19oaWlrczBGeFQ3bzEyUzVfeWoyczRUazNRMW91QWlBbGhtSXo0bkNVTWRYdWVZWmF6UGRQM2xYNHRvaS1VY29VT2h0RmxrMkxCWkFsa21rWnFGc2wxckRsdWxzQmlxMVdGeVdxWUtIRl9Yak5IbTUtVFlva21yblZRaUlXWEYzT1ZocHdqN2lyZFJ0cElDX0wySk1WY21DUlM?oc=5",
-      "source": "realestate.com.au",
-      "publishedAt": "2026-07-08T22:58:32.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
       "url": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment",
       "source": "The Guardian",
@@ -896,6 +924,19 @@
       ],
       "relevant": true,
       "score": 2,
+      "spicy": false
+    },
+    {
+      "title": "Do Australians really want more affordable housing?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUFHZVNTS2o5c1hYemFGeG5VQXlVY1BEZ0gyWG1RYzBucmFZSi1GU0NVaGw4VFQ2cVRNY1p2QldIR25sSWFfYkFaV0lWdHMxa09OaXVYaEZKTS1nRzZrSTI3UzVxQjl1YXpGMnlpRUxTSEJBWjZ4WG9vYV80ZkJJTmNpT25ja2NF?oc=5",
+      "source": "Property Update",
+      "publishedAt": "2026-07-04T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1051,19 +1092,6 @@
       "relevant": true,
       "score": 7,
       "spicy": true
-    },
-    {
-      "title": "Australia's 2026 migration changes: what's law, what's only proposed, and what it means for you",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13QzhpT1pETXRfYUV3Smc0Y2FDWEZ6RlZ0aEFUbGU3SXdsc29tZG5FTGV3TllSckNKMXE0YTQ5Tzdtak9qMEU5Z3hTY1JNaUU1b3ZrcVAzRHd1WWVSVHNBanVpQ0lUU29JY2pFY1hMRQ?oc=5",
-      "source": "NRI Affairs",
-      "publishedAt": "2026-07-01T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 2,
-      "spicy": false
     },
     {
       "title": "Australia Sparks Global Outrage With Sweeping Visa Fee Hikes Affecting Travellers Worldwide",
@@ -1322,19 +1350,6 @@
       "spicy": false
     },
     {
-      "title": "Do Australians really want more affordable housing?",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUFHZVNTS2o5c1hYemFGeG5VQXlVY1BEZ0gyWG1RYzBucmFZSi1GU0NVaGw4VFQ2cVRNY1p2QldIR25sSWFfYkFaV0lWdHMxa09OaXVYaEZKTS1nRzZrSTI3UzVxQjl1YXpGMnlpRUxTSEJBWjZ4WG9vYV80ZkJJTmNpT25ja2NF?oc=5",
-      "source": "Property Update",
-      "publishedAt": "2026-06-24T08:00:07.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Bad budget another marker in Australia’s managed decline - The Institute Of Public Affairs",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmVFS1hfV1VRSWpzMFhFdWUtVFRmTXhwVWtQSWZ1d2w3SWZsNHdYYWJlQUZMUHJYeW1KNDN6NzZ1Z1NjUkxUSDVWT1VmR1pxcXcwRmozSkEwQ2ZRZGZMLWNGR29RVnNZWG5JNjQ4cHJTN3ZkejFMejB2QzVobGpJRVZQaHYwSHBEdEc2VHU5ZlMya1VmQVg0cU5HM2RBT2lVSXdiajRFRy1nQQ?oc=5",
       "source": "The Institute Of Public Affairs - IPA",
@@ -1505,19 +1520,6 @@
       "relevant": false,
       "score": 3,
       "spicy": false
-    },
-    {
-      "title": "Executive public service roles capped and back-to-school payments in Qld budget",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnhIQ3BHVnR3cGFSbzdLVWZMWVBoWExaMnJSa0NCQWVwTXFpdjlDYkczbXJxTFB1VkMtWGExNFpndkpiMU1KM3R2THFXVnc4TklaaUhGbDVHQjdTZkZDemxET19tcmkzZzczNHhlaEVONVlnMmozeGN6WDR6VWpvTHo3bXcyUjN6MktuRE5zZGxnV2FDNlVJaWtXejg5aWNreFI2TFVvSzJkSjA?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": true
     }
   ]
 }
