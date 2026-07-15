@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-14T23:02:49.022Z",
+  "updatedAt": "2026-07-15T00:53:17.792Z",
   "count": 120,
-  "relevantCount": 63,
-  "spicyCount": 12,
+  "relevantCount": 61,
+  "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -39,7 +39,6 @@
     "Fragomen",
     "Independent Australia",
     "Khaleej Times",
-    "NSW Government",
     "News.com.au",
     "Nine.com.au",
     "Nomad Lawyer",
@@ -55,6 +54,7 @@
     "The Age",
     "The Australia Today",
     "The Australian",
+    "The Canberra Times",
     "The Conversation",
     "The Guardian",
     "The Institute Of Public Affairs - IPA",
@@ -67,17 +67,36 @@
   ],
   "items": [
     {
-      "title": "Australia news live: Bill Shorten says anti-immigrant politics a sign of ‘creeping cultural dementia’; CEOs bank 16% pay rise",
+      "title": "News live: Jane Hume says Australia should be ‘encouraging’ datacentres and claims PM’s plan to regulate AI may stifle innovation",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/15/australia-news-live-ceo-pay-anthony-albanese-palestine-gaza-ai-artificial-intelligence-datacentres-copyright-royal-commission-antisemitism-labor-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-07-14T22:43:19.000Z",
-      "summary": "Former Labor leader, now University of Canberra vice-chancellor, also said he was shocked by some evidence given at the royal commission on antisemitism.",
-      "categories": [
-        "Visas & Migration",
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 13,
+      "publishedAt": "2026-07-15T00:43:52.000Z",
+      "summary": "Liberal deputy leader said datacentres will ‘power the productivity boom of the future’.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "New political parties are trying to harvest Victorians' votes",
+      "url": "https://www.abc.net.au/news/2026-07-15/victoria-election-group-voting-tickets-one-nation/106914588",
+      "source": "ABC News",
+      "publishedAt": "2026-07-15T00:32:51.000Z",
+      "summary": "New political parties are seeking to exploit Victoria's anachronistic electoral system in the upper house, to harvest voters' preferences and funnel them wherever they please.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Life at Antarctic research station: 24 minutes of sun after six weeks of darkness",
+      "url": "https://www.abc.net.au/news/2026-07-15/davis-antarctic-research-station-no-sun-for-six-weeks/106910010",
+      "source": "ABC News",
+      "publishedAt": "2026-07-14T23:05:41.000Z",
+      "summary": "Researchers spending winter at Australia's southernmost Antarctic research station gathered to celebrate the return of the sun following weeks of darkness.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
       "spicy": false
     },
     {
@@ -92,27 +111,14 @@
       "spicy": false
     },
     {
-      "title": "Scale of Australia's shortage of child psychiatrists revealed in new report",
-      "url": "https://www.abc.net.au/news/2026-07-15/shortage-of-psychiatrists-experts-warn-children-at-risk/106910346",
-      "source": "ABC News",
-      "publishedAt": "2026-07-14T21:27:03.000Z",
-      "summary": "Experts are warning younger children are presenting with increasingly complex mental health needs as a new report predicts a nationwide shortfall of child and adolescent psychiatrists.",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Live: Minister pushes back on calls to cut tobacco excise as black market grows",
+      "title": "Live: Taylor accuses PM of creating 'office inside his office' to deal with AI",
       "url": "https://www.abc.net.au/news/2026-07-15/federal-politics-live-blog-tobacco-july-5/106916356",
       "source": "ABC News",
       "publishedAt": "2026-07-14T21:12:59.000Z",
-      "summary": "Clare O'Neil says reducing the tobacco excise to address the rising take-up of illicit tobacco will not help Australians give up smoking.",
+      "summary": "Angus Taylor says Anthony Albanese is adding to bureaucracy by creating an Office of AI within his department to deal with artificial intelligence policy.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 4,
       "spicy": false
     },
     {
@@ -129,7 +135,7 @@
       "spicy": false
     },
     {
-      "title": "New owner of Rushy Lagoon outlines plans for pine, cattle and tourism",
+      "title": "New owner of Rushy Lagoon reveals plans for Tasmania's largest farm",
       "url": "https://www.abc.net.au/news/2026-07-15/new-owner-rushy-lagoon-reveals-plans-tasmanias-largest-farm/106912164",
       "source": "ABC News",
       "publishedAt": "2026-07-14T20:26:27.000Z",
@@ -142,14 +148,27 @@
       "spicy": false
     },
     {
-      "title": "Woman sues ex-Catholic archbishop over alleged abuse by another priest",
-      "url": "https://www.abc.net.au/news/2026-07-15/ex-catholic-archbishop-sued-alleged-duty-of-care-failure/106909790",
-      "source": "ABC News",
-      "publishedAt": "2026-07-14T19:31:00.000Z",
-      "summary": "A Tasmanian woman is suing former Archbishop of Hobart Julian Porteous and the state of Tasmania over allegations of sexual abuse by two others when she was a child.",
+      "title": "ASX rises after Wall Street gains on inflation data; IBM shares plunge",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-rise-wall-street-steady-after-inflation-data-ibm-plunges-20260715-p60fcn.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-14T20:17:50.000Z",
+      "summary": "The Australian sharemarket has opened stronger, shrugging off another rise in oil prices, after an unexpectedly sharp slowdown in US inflation fuelled gains on Wall Street.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Shock APS job-cut figure aired in federal budget watchdog report",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ191bVZmeDdvZmtnSThvaXJFTXVldDJ0LVZZWjVzSmRQWVB1aEVlMGlUOFlnNm5ldGJFaTZTNjUxeklyT1gwQmpQZ0NObTJyckNsNXlhbUV2REFobXItWk92cF9nWmJRcVpvUE1JSjBqX29Pa2JPLUhsWVdjb0NBZHhHVV9vWER5ZDNTN1p2aEo4Y2pPdThJVVFidW56UU5ZVDI4cElkMmlNdEFT?oc=5",
+      "source": "The Canberra Times",
+      "publishedAt": "2026-07-14T19:31:52.000Z",
+      "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 8,
       "spicy": false
     },
     {
@@ -175,7 +194,7 @@
       "spicy": false
     },
     {
-      "title": "Monet, Renoir, van Gogh masterpieces appear in two new blockbuster exhibitions",
+      "title": "Four must-see Impressionist masterpieces in two new blockbuster exhibitions",
       "url": "https://www.abc.net.au/news/2026-07-15/impressionist-art-exhibitions-agsa-geelong-gallery/106908738",
       "source": "ABC News",
       "publishedAt": "2026-07-14T18:30:00.000Z",
@@ -230,7 +249,7 @@
       "summary": "PM to declare Australia the first country worldwide to bring economic, social, security and environmental issues from AI under single office in major speech",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -241,7 +260,7 @@
       "summary": "The prime minister will emphasise the technology’s “pivotal” role in resuscitating productivity and warn of extremists and hostile states using it “to spread disinformation that targets democracies”.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -252,18 +271,7 @@
       "summary": "Labor will develop a new national framework in response to artificial intelligence as it seeks to address the technology’s growing economic and social impacts.",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "'I'm ruling it out': Taylor categorically kills off One Nation coalition talk",
-      "url": "https://www.abc.net.au/news/2026-07-14/angus-taylor-rules-out-one-nation-coalition-categorically/106894716",
-      "source": "ABC News",
-      "publishedAt": "2026-07-14T11:33:26.000Z",
-      "summary": "Coalition leader Angus Taylor has renewed his criticism of Pauline Hanson's party and categorically ruled out any alliance with it.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -362,6 +370,17 @@
       ],
       "relevant": true,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Chalmers’ budget surplus rests on ‘unrealistic’ assumptions: PBO",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeV90VVlZSTJhUlJKZUNSdnlaSlh2bW15bWw5WndtN0lpV0dlMTB4N3V2TzVCUVBMQ1hVLVNaUGhtR0VTY1pqRG1heGlPczBvUno5aGhXczRpVlZKak5UbVlTbGduSGdfVks1WU0xQVg0X3RlUGhQeldYallIcl9ZQnFGaTBvV0RfMVctMzhJVDQ0ZS1xd0ZKXzFJWHZXUHdwbUd4TWhhbEtIbUZFc01Fbw?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-14T07:03:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
       "spicy": false
     },
     {
@@ -670,6 +689,19 @@
       "summary": "A digital travel declaration will be rolled out at Australian airports and seaports as border agencies move to modernise biosecurity and security checks.",
       "categories": [],
       "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Businesses caught between Labor's trust tax and stamp duty",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMW9lbzNESkYxOXUwNEdQTTJjcVlDaVFIUUJBODlzdkhWQTRfY25UYmlXLTBPM29uT1A4bmM3M3JYV0wtd0FONHlHN1l1a19VWjdWZkdFR1BVM1NleWdLamNZMmZ5NXItMTE1U0tKcW45aVhnSmdDcVRjTGhuSW05OVFId0M2bnRscUthQ3RKaC1hLWVFNG5GWllRRk95MVNYdkg3dmRhVQ?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-07-12T18:50:50.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
       "score": 3,
       "spicy": false
     },
@@ -1435,19 +1467,6 @@
       "spicy": true
     },
     {
-      "title": "Labor, Greens cut deal on CGT and negative gearing",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHlKS3J5WFl6cEhacGxpangxYmVNSWhSejd1TzU5OGRLaE91UVZ1MjNxM1dCcndqWGlpbTBaalpsOG5IdWtYZm02b0VReWVZaUdPMjEzVXJkdmYwYUhablNDRjdvZmEybnJCZkNUdGhHRk03YjRybm1odG0zeHFObGdCM2lpOFc1ZmN3VHBJa0xqZ2VTM0NlRQ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 7,
-      "spicy": true
-    },
-    {
       "title": "Budget backflip on testamentary trusts not all that it seems",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlh2RzhNdzc1UUtLR1B3SG14MTh4WFBsdjM5RzBEWFNpUUpXekhSQ2J1YXNyOXFfZTcwOUhMNGNJZGdpTzV2bVM2eUZIT1ZydDVhd2xSektJRVQyVG43cDFkVGt4YnZDb0FNdTdMOHRLeXdOT05hWnFIUzlHVTRLVFZ3aDVwamFjdWdJanhuc2czUmh0SkxISkhUS0cyWlpVcDRuNFJFcVE5c0VYMUI5NFlhdFhHTHgt?oc=5",
       "source": "Accountants Daily",
@@ -1472,6 +1491,19 @@
       "spicy": false
     },
     {
+      "title": "Labor, Greens cut deal on CGT and negative gearing",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHlKS3J5WFl6cEhacGxpangxYmVNSWhSejd1TzU5OGRLaE91UVZ1MjNxM1dCcndqWGlpbTBaalpsOG5IdWtYZm02b0VReWVZaUdPMjEzVXJkdmYwYUhablNDRjdvZmEybnJCZkNUdGhHRk03YjRybm1odG0zeHFObGdCM2lpOFc1ZmN3VHBJa0xqZ2VTM0NlRQ?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
+    },
+    {
       "title": "Labor’s controversial tax changes will pass parliament after gaining Greens support",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdTI2NnlnSUwtUUFONkxpcXZDMEVqc21kT3dLZWg3azBMMHJZNzlYSENmWlktbHFyb1lFdG44MlBYWnRHQVhyamVSX3pHMUdaTzJBWS14a0hoODQ1eVhOSV9KYzE1R0U2YTBZbmFDTElIT1BRNUEzTFRaVkkxT1RvQTk4RmktalRRZnhsOEQybFk4Rzd6U192U0xlaTBOWl9GMmVXbGh0LW5VOHJQZUdWMnFKbGlRcnUtMXJvN1hjNW1LZk1NZzgzMmxjbUJaTTVkSDFFN3Z3SEZNQVBZYnlISVh4Q1B2dEMwOVp6ZWFWQzVYUFFKSEROcGNiYw?oc=5",
       "source": "Nine.com.au",
@@ -1481,43 +1513,6 @@
         "Tax"
       ],
       "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "$33bn tax perk’s end date finally confirmed",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPWnIxTUpvanJaOWJqU21PV3JTY2oteUtXQjNrTkppbDdTOHVZcVlOeDBVLUVjMTlRN0JtMWJZVFgzeUFwN1VNa3NJNVBLaVE4Z1RCTGtXZWhEa2I4dXR6UF9pSHNObEFtbEVtcUt5U2FVaDgwLXB4cHFqUmhmam1NeHFuLUptTFp5cnJIeWVGRXl2bWwteXhFb3E4SGVzdFI3Y25hRWZ1M0gyZFlBRmxGXzRKdHR0SkNBRVl4R0htTk1odGJIelF5dDI1UGRsZll0X2RKU0oxUnR0REhSRW1GZjU2a0JJZzBjZjhITnF3enNPaXVWd2ZTdkhJbmpISDFyR0FUbEU0aGkwSmVfbTFjetIBlgJBVV95cUxNd2M2QUNOYjJpdkU1M1RpS1puVlAtWW9lQmp3ZFFtMV9seGtzSnNBWXVDb0dYVnBoTU5VblpRMXlpNnZoVThnZXhZa3VEV2FRb0RaeU9IZVhTOFVUc05WRTNrX3Zzc0NrNTFldjhOaXp1SVpHVmRIbkR4VmRfRFg3ejBhb3FtT0dCQmVNblFGZjQyYi1Sc0phN280bXZ3Mmd6MVMyQXQ1Y2E3TDlfYjlGZnhIV2l3TW9IXzFhckFLNTE3a2gxckV6QnZPemJxSEtvTkI0d1d2SEo1dTZJUFphT3QyRWdoa2xhRmJ0UlFHWFhRQUNIRWF2QmJDZlFFQ0d1bElNcjR0UDVBY2F4YlpxdmY0X0JPUQ?oc=5",
-      "source": "News.com.au",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": true
-    },
-    {
-      "title": "Labor’s housing affordability fix could freeze the market",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVdEUnhrTWdwZ0g3Ym04cjV1MDd2aHZKX2lubEtaSTVXZ085OUZrMEk5Mlh1anN4VEhHdWo1aUNiblZZeWR1VEU5LTRxZnZKT2ppVXpkajFUb09RREx1NkFJRUNiYWxWeVVxY01nRE5rR2JOLXgxYnhwNTl4UVVNOVloTGxyTDFwUjR2S0lXbEVHdnE2YmJzcDB6OGxiSDRwTkp2MW45ODBXMThz?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "NSW Budget 2026-27: Cost-of-living measures",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2tpT3ZWajMweWc5cl95OENmZDdXbEJ1UUZhN0U5S3VQc2c3NXJTalZ3MjljWnB0VHpJakFuZERkem9VV0pxV3hKOS10TnRSYWVsWWFoMEplc2d1YkxjUlJ0bnVhQ3R3VEFfWDNGcHdzSW8yVEp0Z3lPSXotZlZjaGllOVRBS2RreGpxLWdOZw?oc=5",
-      "source": "NSW Government",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
       "score": 0,
       "spicy": false
     }
