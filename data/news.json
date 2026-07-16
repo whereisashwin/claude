@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-16T19:43:00.237Z",
+  "updatedAt": "2026-07-16T21:10:21.051Z",
   "count": 120,
-  "relevantCount": 65,
-  "spicyCount": 11,
+  "relevantCount": 68,
+  "spicyCount": 12,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -42,6 +42,7 @@
     "Khaleej Times",
     "MacroBusiness",
     "Mondaq",
+    "News.com.au",
     "Nine.com.au",
     "Nomad Lawyer",
     "Property Council Australia",
@@ -64,6 +65,54 @@
     "streamlinefeed.co.ke"
   ],
   "items": [
+    {
+      "title": "Australia news live: Telstra CEO to face parliamentary inquiry over mobile outage",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-16T20:57:20.000Z",
+      "summary": "Vicki Brady due to appear at inquiry over mobile outage last week.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Victorian council 'disgusted' by mining company's attitude",
+      "url": "https://www.abc.net.au/news/2026-07-17/horsham-council-reject-wim-resource-invite/106916902",
+      "source": "ABC News",
+      "publishedAt": "2026-07-16T20:28:24.000Z",
+      "summary": "A regional council has declined a mining company's invitation to join a community reference group and slammed the company for its attitude towards community concerns.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "ATO asked to justify 'extravagant' $73m Adelaide office move",
+      "url": "https://www.abc.net.au/news/2026-07-17/ato-relocating-adelaide-offices-into-festival-tower-two/106918860",
+      "source": "ABC News",
+      "publishedAt": "2026-07-16T20:12:11.000Z",
+      "summary": "The Australian Taxation Office will spend at least $73.4 million to relocate its offices into \"the best building in Adelaide\", four streets away.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
+    },
+    {
+      "title": "Evictions from Queensland public housing triple in one year",
+      "url": "https://www.abc.net.au/news/2026-07-17/qld-public-housing-evictions-for-behaviour/106901616",
+      "source": "ABC News",
+      "publishedAt": "2026-07-16T19:36:17.000Z",
+      "summary": "Under the new policy, tenants who receive three warnings for serious behaviour, including aggressive language, harassment and deliberate damage, in a year are evicted.",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
     {
       "title": "Concerns smelter closure exposes Australia to geopolitical risk",
       "url": "https://www.abc.net.au/news/2026-07-17/future-liberty-bell-bay-site-in-doubt-following-closure-tasmania/106923960",
@@ -92,17 +141,6 @@
       "source": "ABC News",
       "publishedAt": "2026-07-16T18:49:32.000Z",
       "summary": "Vaping and smoking rates are on the decline, but a shift to other nicotine products could represent an increase in average use.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Taylor has two major problems — and that's leaving aside One Nation",
-      "url": "https://www.abc.net.au/news/2026-07-17/angus-taylor-two-major-problems/106925008",
-      "source": "ABC News",
-      "publishedAt": "2026-07-16T18:46:10.000Z",
-      "summary": "The mismatch between where the public resides and what the Liberals are expounding is a deeper challenge — a gulf perhaps unable to be bridged, at least in the short term.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -152,7 +190,7 @@
       "summary": "Banks have begun reining in generous credit card points earning and associated perks ahead of Reserve Bank changes that cut their revenue from the schemes.",
       "categories": [],
       "relevant": false,
-      "score": 13,
+      "score": 12,
       "spicy": false
     },
     {
@@ -165,7 +203,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -223,17 +261,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "'Haven't had a day off all year': PM defends broken festival promise",
-      "url": "https://www.abc.net.au/news/2026-07-16/anthony-albanese-breaks-garma-festival-promise/106923234",
-      "source": "ABC News",
-      "publishedAt": "2026-07-16T05:52:33.000Z",
-      "summary": "A year ago the Anthony Albanese vowed to attend the Garma Festival every year for as long as he remained prime minister. Now he says he needs a break.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
       "spicy": false
     },
     {
@@ -485,17 +512,6 @@
       ],
       "relevant": true,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Telstra and telco regulator prepare for grilling over widespread outage",
-      "url": "https://www.abc.net.au/news/2026-07-16/telstra-prepares-for-grilling-consumer-group-threatened/106915896",
-      "source": "ABC News",
-      "publishedAt": "2026-07-15T18:47:04.000Z",
-      "summary": "Telstra prepares for a grilling in parliament about the recent network outage that disrupted Australia, with the communications regulator also set to face tough questions.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -885,17 +901,6 @@
       "spicy": false
     },
     {
-      "title": "Can Labor save us from the risks of AI? – podcast",
-      "url": "https://www.theguardian.com/australia-news/audio/2026/jul/13/can-labor-save-us-from-the-risks-of-ai-full-story-podcast",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-13T15:00:51.000Z",
-      "summary": "The AI revolution is here, and with it a fear that soon it will replace many of us in the workplace. The Australian government is grappling with how to deal with the multi-layered disruption but so far reform has been slow as it weighs up regulation against the claims of investment opportunities an ",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Offshore landlords claim billions in Australian property tax write-offs",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVndfekZnTHdWc25pZHUtRURYOE90ZXFLUENtQnZaalQ3Mm01UGsyMlJGVGtHRndxRjhjWUZJc0pFN1pNc3U2REVsUUFpV3JINmRsNHc5REMtX3dOam50YnNBVDN0TVhQOFRfb2xNbXpiampoS0p1c2Iyc3hqWnFVTS1RUWRYUUlVc0RmVmxrVjhfSTk5bWR0X0FWODM2ZFhTcHdNWGM0ZjFpdw?oc=5",
       "source": "realestate.com.au",
@@ -1017,17 +1022,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-07-10T10:19:37.000Z",
       "summary": "Chloe Moffat, 26, killed herself day after meeting about anonymous complaint in which she was not allowed to bring a colleague The mother of a young woman who took her own life after facing disciplinary proceedings at the Treasury has called on the government department to change its practices. Chlo",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Anika Wells says Telstra must 'face the music' as regulator begins investigation – video",
-      "url": "https://www.theguardian.com/business/video/2026/jul/10/anika-wells-says-telstra-must-face-the-music-as-regulator-begins-investigation-video",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-10T05:37:32.000Z",
-      "summary": "The communications minister, Anika Wells, says Telstra must 'face the music' and rebuild public trust after its nationwide outage, vowing that the government will hold the telco to account. She says Telstra should provide an expedited process for customers seeking compensation. The Australian Commun",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -1521,6 +1515,19 @@
       ],
       "relevant": true,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Labor makes another U-turn on CGT changes",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNm1TSTRwTzJGOVp4R1B4R19iS01kZVVOOU8tSkp1ODdFQlR5YV9Wakl2NDg4dm9xLVcwbm5FTDlqNlVFVS1LbmpteVNlZnZOMEUwZzNMS0tfbXhsblBFOXhTaTBoYVhKNVJNTUVJTGcwLUo4a0RtcEZYQVQwb3BEcC1JT2VjbXVDeXVrdnJDUVY4U0h3R2hCREpPQk92VzcyQkJ0RTRpc0RIZkpSODVkTGE1RkVTY0tWM3lITFBheV9fbTJwdm92cE9KVWw4V19GcUhRSGE2YnF4cVE3cXVJQ1dLRFlqUk4yVGdTTE1jVdIB9AFBVV95cUxPdnBJNGE1eEFqZVlJSUZRZ3c3V3lWT0stcG1SOUZrbHJtMUpyYkphbTZ1cENKR011NWI5LVVMM0RzQ1p4OENRcXl3ay1VRVEtUVY5OEtwYm82d0lLTDBDSzNpTGhuTVhFNmxGMmtRQjhNbExoNXpVdGJrTncxTzhWcnlTY3FMZHZ1Y1ZVRHkwanlnLTBYNG55a2FrM0xpenJkRlBDekRZY1NwNEhLOEx3VlVGcmduWDJ6dUV4akdNdHhqSmcyRlRyRUczVUdJOVROZVI2Y0xrTFpEU2dIV09UdktlOGdBOURTRWJ5Yk1ZXzZubWZh?oc=5",
+      "source": "News.com.au",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 3,
       "spicy": false
     }
   ]
