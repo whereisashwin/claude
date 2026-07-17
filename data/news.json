@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-17T03:48:52.601Z",
+  "updatedAt": "2026-07-17T06:23:29.317Z",
   "count": 120,
-  "relevantCount": 67,
-  "spicyCount": 11,
+  "relevantCount": 65,
+  "spicyCount": 12,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -34,9 +34,9 @@
     "AFR",
     "Absolute Immigration",
     "Accountants Daily",
-    "Australian Broker News",
     "Australian Government Department of Health, Disability and Ageing",
     "Australian Property Update",
+    "Crikey",
     "Expatica",
     "Fragomen",
     "Khaleej Times",
@@ -53,28 +53,100 @@
     "SMH.com.au",
     "Sky News Australia",
     "Sydney Morning Herald",
-    "TV Blackbox",
     "The Age",
     "The Australia Today",
     "The Australian",
     "The Canberra Times",
     "The Guardian",
+    "The Institute Of Public Affairs - IPA",
     "Travel And Tour World",
+    "Wilson Asset Management",
     "grafa.com",
     "newsweekly.com.au",
     "realestate.com.au",
-    "streamlinefeed.co.ke"
+    "streamlinefeed.co.ke",
+    "superguide.com.au"
   ],
   "items": [
     {
-      "title": "Australia news live: One Nation policy has ‘a bit of cray cray’, says Nationals senator; Telstra outage hit 45% of calls and data, inquiry hears",
+      "title": "Hanson blasted for White Australia comments after attending lavish Italian fashion show",
+      "url": "https://www.smh.com.au/politics/federal/hanson-blasted-for-white-australia-comments-after-attending-lavish-italian-fashion-show-20260717-p60g6l.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-17T06:16:42.000Z",
+      "summary": "Images have emerged of Hanson mingling with celebrities and Gina Rinehart earlier this week at a lavish Dolce & Gabbana fashion show in Sicily.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "NSW woman arrested as part of Dezi Freeman investigation",
+      "url": "https://www.abc.net.au/news/2026-07-17/woman-arrested-over-dezi-freeman-case/106929252",
+      "source": "ABC News",
+      "publishedAt": "2026-07-17T06:06:45.000Z",
+      "summary": "A NSW woman was arrested in Bairnsdale today as part of Victoria Police's investigation into the movements of dead police killer Dezi Freeman.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australia news live: mobile networks ‘not infallible’, Telstra boss tells Senate inquiry; Anton Enus to retire from SBS World News",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-07-17T03:28:51.000Z",
-      "summary": "‘With One Nation, you get 60% solid policy and a bit of cray cray thrown in’, senator says.",
+      "publishedAt": "2026-07-17T06:00:29.000Z",
+      "summary": "Telstra outage hit ‘approximately 45%’ of calls and data, CEO tells Senate inquiry",
       "categories": [],
       "relevant": false,
       "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Chauffeur who agreed to retire at 65 to be paid $40,000 after ageist dismissal",
+      "url": "https://www.smh.com.au/business/workplace/chauffer-who-agreed-to-retire-at-65-to-be-paid-40-000-after-ageist-dismissal-20260717-p60g3f.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-17T05:59:17.000Z",
+      "summary": "The case highlights the extent to which Australia’s unfair dismissal and anti-discrimination laws can apply, even where someone agrees to stop working at a particular age.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "PNG ousts Taiwan officials, seeks to 'reassure' China after Australian treaty",
+      "url": "https://www.abc.net.au/news/2026-07-17/png-to-close-taiwan-trade-office-seeking-to-reassure-china/106927630",
+      "source": "ABC News",
+      "publishedAt": "2026-07-17T04:51:19.000Z",
+      "summary": "Papua New Guinea will close Taiwan's trade mission in the country, freezing out its fifth largest trading partner in a major strategic move designed to reaffirm ties with China.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Supreme Court battle over traditional owner consultation pauses flood works",
+      "url": "https://www.abc.net.au/news/2026-07-17/nyah-vinifera-floodplain-restoration-project-water-first-nations/106917364",
+      "source": "ABC News",
+      "publishedAt": "2026-07-17T04:35:17.000Z",
+      "summary": "The Victorian government and a regional water authority have admitted they did not property consult with traditional owners before approving a controversial flood plain restoration project.",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "ASX value stocks smash growth as tax changes turbocharge rotation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdjdFVmNHQ1Z3SWFSbnRLWWFSeUdXU25JQ0lWWHFVTGxSMWhvUHhKRmVQMmZFR0lkVm11WjVLekJwSVlqQnlXbDBvdHNxYnVLQmNsaThkbTVtU1poYXRWQlFfOHdJOF9MeWMtS0FfVFlRRHdzR3RESmlHRGVaUHl3ZXlyYkdEUmlRWWtUQ3c0S2swQU4xRTVFaUtnTVk4cmxfdmxvSEtWVVNWSnMteC1sMFNQUDBTdVFfT1M3VEtHZFlpQQ?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-17T04:20:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
       "spicy": false
     },
     {
@@ -86,17 +158,6 @@
       "categories": [],
       "relevant": false,
       "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "MP laments 'horrifying' amount lost to pokies by Tasmanians",
-      "url": "https://www.abc.net.au/news/2026-07-17/tasmanians-lost-more-than-200-million-on-pokies-2025-26/106926898",
-      "source": "ABC News",
-      "publishedAt": "2026-07-17T02:49:15.000Z",
-      "summary": "Tasmanians lost $208.27 million to poker machines in 2025-26, or around $360 per person — a 6.9 per cent increase on last financial year.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
       "spicy": false
     },
     {
@@ -146,7 +207,7 @@
       "spicy": false
     },
     {
-      "title": "Ex Wagga MP Daryl Maguire found guilty of conspiracy over fraudulent visas",
+      "title": "Ex-Wagga MP Daryl Maguire found guilty of conspiracy over fraudulent visas",
       "url": "https://www.abc.net.au/news/2026-07-17/daryl-maguire-guilty-of-conspiracy/106889306",
       "source": "ABC News",
       "publishedAt": "2026-07-17T00:25:20.000Z",
@@ -228,17 +289,6 @@
       "source": "ABC News",
       "publishedAt": "2026-07-16T19:24:06.000Z",
       "summary": "Australia's only manganese alloy smelter has closed, leaving the future of the site uncertain and the country more reliant on imported alloys for steel production.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Vaping in decline as young Australians shift to other nicotine products",
-      "url": "https://www.abc.net.au/news/2026-07-17/vaping-on-decline-as-smoking-rates-hit-historic-low/106925270",
-      "source": "ABC News",
-      "publishedAt": "2026-07-16T18:49:32.000Z",
-      "summary": "Vaping and smoking rates are on the decline, but a shift to other nicotine products could represent an increase in average use.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -340,17 +390,6 @@
       "spicy": false
     },
     {
-      "title": "No hiring if an AI can do the job, staff at mining giant told",
-      "url": "https://www.smh.com.au/business/workplace/no-hiring-if-an-ai-can-do-the-job-staff-at-mining-giant-told-20260713-p60eth.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-16T05:58:23.000Z",
-      "summary": "An Australian company has become the latest in a line to curb its workforce as powerful tech tools come to do work once reserved for humans.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "AUKUS will not run on time or on budget, Christopher Pyne says",
       "url": "https://www.smh.com.au/politics/federal/aukus-will-not-run-on-time-or-on-budget-christopher-pyne-says-20260716-p60fux.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -409,20 +448,6 @@
       "spicy": true
     },
     {
-      "title": "Housing tax burden blamed for stalling affordable housing supply",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPME8xb25pODRaYTJ3cEFiakNZSTAwVDcwRUVUVUlMd1FyR2diWVRib0pRNk9Idl9ZQzk1MF92aloza1pxRFBZODBXbnZWeS02UHd5QnpVX3pEdldNU0dZSzZzZTZLaEFnWk43UjhQMXZkSkNZOXE4QzAwVFkwTXJsNDdGRi1ycUl5MFlWaERvZWZkMTl6eWE0SGVxS0RUcUZkWUxYdG9IWGlTX2pMS1J4NnY1clVDWlpEM3duWmJVRWxjZ28?oc=5",
-      "source": "Australian Broker News",
-      "publishedAt": "2026-07-16T02:31:28.000Z",
-      "summary": "",
-      "categories": [
-        "Tax",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 2,
-      "spicy": false
-    },
-    {
       "title": "Australian companies could face criminal charges over forced labour in global supply chains",
       "url": "https://www.smh.com.au/politics/federal/australian-companies-could-face-criminal-charges-over-forced-labour-in-global-supply-chains-20260716-p60frl.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -479,17 +504,6 @@
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Australia's only manganese smelter to close immediately",
-      "url": "https://www.abc.net.au/news/2026-07-16/tasmania-liberty-bell-bay-smelter-to-close/106921706",
-      "source": "ABC News",
-      "publishedAt": "2026-07-16T01:04:09.000Z",
-      "summary": "The Liberty Bell Bay manganese smelter in northern Tasmania will close immediately after administrators failed to find a buyer for the former GFG Alliance asset.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
       "spicy": false
     },
     {
@@ -623,7 +637,7 @@
       "title": "Business group hits out over government spending, ‘revenue grab’ changes",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM2hJN19zb0w2TGo0T3lmMFpuLWFndTllMUYzTWZ1VURQSk43b2RhSGpCOTcxNDZsb1Y0WVRVakZsMGdzdXptUzJSdFNoV1p2RXFKZy0tYUYtdXpxaUk3SkNnWWQ5cFc5RU5Cc3MxN0V5aWFMTmJMenlweEpXV1Q1MzBtbnp2bk1saGpWWVZBZGJOeWhqV1pXRkY0dmZOVnNXSnVwajFtR0NxanhTSXU0TkUtNExUazA3MkxmNFRKckFhOFp6ZDNldDVhTG5td1lmUk1ndXBianpiN1XSAeABQVVfeXFMT25falpoNFpxN2VHUDBYSksyZmE2SHFBU1lTSU5SLWp0WFNoTGk2eHNlRHFDWnA4SHJQSU5CZTBoRG1IbnJrdlUzckdRenprMm1rUDB5azZWbmlMdldjS09qRzFyY3l0aFRoWlJNZ2Y2dFoyYUZkaHZnMUVTbkVWRWNuTnI3NGNZSGk3cE5qZEdMeDFlX0tQQkpYWUt6TVg0UkRNc0E1RzI3eV9pUURWMl93UXFaWmJoeW9GVTgyRzgxcllvZ3AtSHZoZ1d4MnEtcEhQZmZtT2gzNjZEWDYybFU?oc=5",
       "source": "The Australian",
-      "publishedAt": "2026-07-15T10:12:26.000Z",
+      "publishedAt": "2026-07-15T09:51:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
@@ -665,30 +679,6 @@
       "relevant": false,
       "score": 3,
       "spicy": false
-    },
-    {
-      "title": "For the true believers: Albanese echoes Pope Leo in his own AI missive",
-      "url": "https://www.smh.com.au/politics/federal/for-the-true-believers-albanese-echoes-pope-leo-in-his-own-ai-missive-20260715-p60fhr.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-15T07:50:12.000Z",
-      "summary": "As technology threatens to upend life as we know it, Albanese came with a message of reassurance and calm, on a mission to lower the collective heart rate.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Labor’s reforms harm the people they’re supposed to help: aged care watchdog",
-      "url": "https://www.smh.com.au/politics/federal/labor-s-reforms-harm-the-people-they-re-supposed-to-help-aged-care-watchdog-20260715-p60fhs.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-15T07:47:03.000Z",
-      "summary": "The outgoing aged care watchdog said user co-payments and long wait times for home care packages were driving people into nursing homes and costing taxpayers.",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": true
     },
     {
       "title": "Treasurer Jim Chalmers’ budget hinges on 41,200 public service job cuts",
@@ -812,19 +802,6 @@
       "spicy": false
     },
     {
-      "title": "Chief Executive | Social and affordable housing: Four Corners misses the maths",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTHBVY1JrSFA3RVkzdDcxcjFPT0tzUlc1eXBRelJyaUtLM3VBT0lIVWhlS1A3N1dfcTIyYXlmN0lVcFRuaGt4N0g3T0NUREhOTm5xMnBaZTM2cjItUEhROTJCMmsxQzl3MlN3ZzF0SEpFdWRvVVdCZWFGOU12c0Y4cTFReWt3c2dxSk84aFFMX2tSWE9MUDY3SlFlQVl1bXhHc09zRnhVSzJyamNCaHczbGdtZXRzTUl0UGhEeGgya25MNngzT0tHTQ?oc=5",
-      "source": "Property Council Australia",
-      "publishedAt": "2026-07-14T07:20:39.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Chalmers’ budget surplus rests on ‘unrealistic’ assumptions: PBO",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeV90VVlZSTJhUlJKZUNSdnlaSlh2bW15bWw5WndtN0lpV0dlMTB4N3V2TzVCUVBMQ1hVLVNaUGhtR0VTY1pqRG1heGlPczBvUno5aGhXczRpVlZKak5UbVlTbGduSGdfVks1WU0xQVg0X3RlUGhQeldYallIcl9ZQnFGaTBvV0RfMVctMzhJVDQ0ZS1xd0ZKXzFJWHZXUHdwbUd4TWhhbEtIbUZFc01Fbw?oc=5",
       "source": "AFR",
@@ -849,19 +826,6 @@
       "spicy": false
     },
     {
-      "title": "Solving affordable housing starts with delivering more homes",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3k4QVNYVjducTdyZ21rOXpoMWlXdlRYU1oxZTRBVk5nSzkwd3RlWlBmVTZjcG5UWmlWMDhmUm9nMS1LN1M5eDhaNXNMZDlfWGhuMlF3dWhOd1EtM3ZCcXJiaUFYUUlOdnFOSTExYmdmbXV4TVRVekhESXRQVEk1c01pMWxPRmU4WEdBamc1cUhkS2dPZV9XNEJZRnVoTVRrdklxVXJ0dnRPWG9RTnRIRTBQRUo?oc=5",
-      "source": "Property Council Australia",
-      "publishedAt": "2026-07-14T04:30:17.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Labor has broken the tax reform ice. Now it must keep going",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVExaMjVnc1BHMTVhMkppbTVualBfSjM1cFNrekxKWGlreHViY1JUWHAzbS14OC1ObGlkNmJxaG1VQ212YUZxa0JNOHBld1RhWGx3bGRPRzg1bmZOS3A2YS1HN21sRUJPLWZ0cl9LM3cyUVFabWpaQ0FESUFHS2tDRndvM1k5WE9QaUlCYVdzUzd1cWJXNUdEcnVhUG16YWxQdTJPMDdSdjRvQXNQUHc?oc=5",
       "source": "AFR",
@@ -873,59 +837,6 @@
       "relevant": true,
       "score": 7,
       "spicy": true
-    },
-    {
-      "title": "Property developers are benefiting from Australia's housing crisis",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnFSaTJza1VOaHl5SVNrR3dSUXdnRERoQTBSSDVCaHpTNUd2bEJDMlJsdXAzZVhYMWpJYTQ4QkdPd3VCdUkydlFtcjJ6UVVCWGV0eHN5R21aQTNFV1ZoQnh1UHBLMTFXNFZvUUxXYTlNNk9mdkI5ZmgwUG95NEJ6OV9xUUVLRWN4LTBKcWFWa1JWREVyWWtQSkRVV2ZnNWg2UlpTTEcwMjU0cllGYURidE1n?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-07-13T18:43:03.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Offshore landlords claim billions in Australian property tax write-offs",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVndfekZnTHdWc25pZHUtRURYOE90ZXFLUENtQnZaalQ3Mm01UGsyMlJGVGtHRndxRjhjWUZJc0pFN1pNc3U2REVsUUFpV3JINmRsNHc5REMtX3dOam50YnNBVDN0TVhQOFRfb2xNbXpiampoS0p1c2Iyc3hqWnFVTS1RUWRYUUlVc0RmVmxrVjhfSTk5bWR0X0FWODM2ZFhTcHdNWGM0ZjFpdw?oc=5",
-      "source": "realestate.com.au",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Flaws in affordable housing model revealed",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80ZjFBNnFWRE9OeUxsMG5PVWtyTm9VTlZOdy13aWMzcGtzekV6Q28yc09ZanJRd0syU1hpSEtrWEl4b2t2UjlLUWJWUWxUTHp2WHRSUGk3N3ZPYmd5SzdNa3Rwc0g0b0x3ZUJMYVlVdVA?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-07-12T20:30:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "FOUR CORNERS probes Australia’s housing affordability gap",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0NSYkFKY0I0bXFWOTlXZ3VUZGZhU2U3RnNWMEJaNkpManhTRG1tQ0FkR3QwNjVUcExlSnB6TkM5YTZ5b0YxTVZKTEpIOGV3cHJ0aGJtTzFMR1pOZzZSdGVtR0tVc1B4QWU4Zzdkc0tNelNTR2pzUkt4RGtRM2xLMWJrS3JORWd2ZUxsazh5UlNRU2NCbi15NW4zYms3N1Z0?oc=5",
-      "source": "TV Blackbox",
-      "publishedAt": "2026-07-12T19:50:53.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
     },
     {
       "title": "Biotech companies issue warning over Labor changes to R&D tax incentives",
@@ -954,19 +865,6 @@
       "spicy": false
     },
     {
-      "title": "'Affordable' homes sit vacant more than seven months after completion",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzR0U25yTWMxVG1BOXhWQmlFOVVleU9uM0pUams1LTI5SWtnRFp4R2ExSzlKc2ZCVVh1eEVYWkhwNEx0alZJQndjMC1FWGplUnkzWmpCaEQtWVY4N1k4bHRuLU9yN3hOMVhrQ1ZPMWcwckZaUUhFV0Yzc1dhWFB1LWNoRTB3Sm4yVk9uMmhoV3hMdU80Tk9laWVoX25JaXhTWTZ6Q1VfTlI1c2dTSndXNw?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-07-12T18:42:41.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Victorian crossbench MP warns voting system overhaul must be backed by broader reform – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/12/anthony-albanese-pat-conroy-labor-liberal-angus-taylor-one-nation-ntwnfb",
       "source": "The Guardian",
@@ -975,19 +873,6 @@
       "categories": [],
       "relevant": false,
       "score": 9,
-      "spicy": false
-    },
-    {
-      "title": "What falling home prices mean for affordability",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZk1DWEFqU05WdkhfRUkzV3A0RmlieGppVVRfMmo5SHJSZEk2RmZRdFEwMUpiaDAyOUVNakNYWHdwelkwNW5Wd0k3dFhrNGItTDNtdFpNVjRYcldXbWpFZWFMdzAzeDlHNUVnOEhqX2JuZ2VLUktINGpRQzlGc0U4YUtzWjlEaExUaHY1MjYyR0NBZVE2OXVZ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-07-11T19:16:39.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
       "spicy": false
     },
     {
@@ -1000,17 +885,6 @@
         "Tax"
       ],
       "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "UK Treasury must change disciplinary process after worker’s suicide, mother says",
-      "url": "https://www.theguardian.com/politics/2026/jul/10/uk-treasury-must-change-disciplinary-process-after-workers-suicide-mother-says",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-10T10:19:37.000Z",
-      "summary": "Chloe Moffat, 26, killed herself day after meeting about anonymous complaint in which she was not allowed to bring a colleague The mother of a young woman who took her own life after facing disciplinary proceedings at the Treasury has called on the government department to change its practices. Chlo",
-      "categories": [],
-      "relevant": false,
       "score": 3,
       "spicy": false
     },
@@ -1072,6 +946,33 @@
       "relevant": false,
       "score": 3,
       "spicy": false
+    },
+    {
+      "title": "Australia’s housing accord in crisis amid alarming construction plunge",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHZ4eU9PU19oaWlrczBGeFQ3bzEyUzVfeWoyczRUazNRMW91QWlBbGhtSXo0bkNVTWRYdWVZWmF6UGRQM2xYNHRvaS1VY29VT2h0RmxrMkxCWkFsa21rWnFGc2wxckRsdWxzQmlxMVdGeVdxWUtIRl9Yak5IbTUtVFlva21yblZRaUlXWEYzT1ZocHdqN2lyZFJ0cElDX0wySk1WY21DUlM?oc=5",
+      "source": "realestate.com.au",
+      "publishedAt": "2026-07-08T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Labor’s housing tax reforms must be the beginning, not the end",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGdnWm14YTVjd2NrMWRET0kwNjA0a1Z5dXFoLWp5QlhJdGNoOEg0UFhjR2hzaVdobjRMY2d3SVVCQkN5cENUUWZRdjMydFI3TVpfbzZDVHpHbXAxcFRJWWhyZVQ1cUJYdjJnSmRGRDJIMGRqLVBHazFJNGR4Q0NQc2JiQUJmemRsSzRNdUk3VTBSR3J4WWJn?oc=5",
+      "source": "Crikey",
+      "publishedAt": "2026-07-07T01:53:58.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
     },
     {
       "title": "2026-27 NSW Budget Analysis",
@@ -1274,6 +1175,19 @@
       "relevant": true,
       "score": 7,
       "spicy": true
+    },
+    {
+      "title": "Australia Sparks Global Outrage With Sweeping Visa Fee Hikes Affecting Travellers Worldwide",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OV01KTVRfaTlmS1ZZOHF6THpBd2ZZUXZuNjJUUDNyQXZYaWJ4dnJWUkxqeC14WnE5eHBjSnRHUTdQbXlLUmtJVkFYQVFWZ2RfeERkS3Z2ZllvQ05aOVZ5QmJnUU80a2ozbWFSRHJB?oc=5",
+      "source": "Travel And Tour World",
+      "publishedAt": "2026-07-01T01:37:21.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 2,
+      "spicy": false
     },
     {
       "title": "Bookshops offer much more than just retail – but who would open one in this economy?",
@@ -1523,6 +1437,89 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWJ6Snl5b3p2MFhlS3ZObVQ1UjVpQXZXUFdUb3BmWHN1ZkRBTVExeXZHLUpKcE1hcDYxaU1lbjluYjQ1ZThSV1lYRE1naExjdWh0c0l1YzdLemxDQjJXM3F5MEQwSFNQQW84S0d6SUlwdGtSdkg2T25pNHdES2N6TWpkYVBtNFIxODJSLXpabXhsZmZXYU1GWkRwaktWSXYtMURBWjBGLWRSTkRZMWZFaERB?oc=5",
       "source": "Accountants Daily",
       "publishedAt": "2026-06-24T20:54:14.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Bad budget another marker in Australia’s managed decline - The Institute Of Public Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmVFS1hfV1VRSWpzMFhFdWUtVFRmTXhwVWtQSWZ1d2w3SWZsNHdYYWJlQUZMUHJYeW1KNDN6NzZ1Z1NjUkxUSDVWT1VmR1pxcXcwRmozSkEwQ2ZRZGZMLWNGR29RVnNZWG5JNjQ4cHJTN3ZkejFMejB2QzVobGpJRVZQaHYwSHBEdEc2VHU5ZlMya1VmQVg0cU5HM2RBT2lVSXdiajRFRy1nQQ?oc=5",
+      "source": "The Institute Of Public Affairs - IPA",
+      "publishedAt": "2026-06-24T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Treasury was once the premier agency for economic counsel. Not any longer",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR3JvUUZvaEJQandYa3hFWU9xanZoT0xMdUg4X1JIRkI5UElUcC12dkk5cW9pcEY1M3ZYalpSRGgyVTdwdXZpVnZNcjlJLUwwV1RUSWE5QWdURzVSREJpbG9DelE2SjBuc3ByN2tqR3E5YXI1MTJkNUZWQzBnSW83ZW82NFc0UkNyeXU4djZXMG1vRlY3OWxuZ1VtWHpBTjFTeE9YQk9EVDNQWEpMVFJsN0hIRm5IV0RYYVFDMXdpSkxiLTh1Zm5YLWNPWlo5eGQ4WjEzeFo5QnVFWlFOWXRtelh0RnUya21TaGxNUzg3NjZQQQ?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-06-24T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Labor dumps ‘widow tax’ as contentious reform bill passes parliament",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZms0Unhzam1SOFpqRVE0OHppM001dUF5Tnc0N1NrMjgyd3NITVdNcEg0aXN4SWNZdmsyT3ZVVHN6UVB1dEtDTHlnT1IxQlBWdU81ZWVFLTUxZjAxeFRmWm5fYmNxOHhjNmVEWGRLN01oQ0FIMlZtc2VVNGtJUUJ4ZzVPSFNuVlp1OWxwbXZtdmN2eGFSNEFNVWJNSmpGdzRMaDV1UEEwaV8zdWsxaU1KRFVFbmxBaTlaVGxLRDJocDVpMU9Qb2c?oc=5",
+      "source": "Nine.com.au",
+      "publishedAt": "2026-06-24T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Federal Budget 2026 overview",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oYUxTSWR1VnpSUURuY2ZuRWZIOEs1TzdTM3F3bXNCbjVadFozdDVxaGdJZzk1WFBDcG9ReVllWGwxdGwtVmhGaVhmcUw5R2VwWEl4bTVETzg5d085MEZuMXRnOFowUXpXM0dCYVlQNFdUdzc4SWdfUlJ0c18?oc=5",
+      "source": "superguide.com.au",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Budget backflip on testamentary trusts not all that it seems",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlh2RzhNdzc1UUtLR1B3SG14MTh4WFBsdjM5RzBEWFNpUUpXekhSQ2J1YXNyOXFfZTcwOUhMNGNJZGdpTzV2bVM2eUZIT1ZydDVhd2xSektJRVQyVG43cDFkVGt4YnZDb0FNdTdMOHRLeXdOT05hWnFIUzlHVTRLVFZ3aDVwamFjdWdJanhuc2czUmh0SkxISkhUS0cyWlpVcDRuNFJFcVE5c0VYMUI5NFlhdFhHTHgt?oc=5",
+      "source": "Accountants Daily",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Labor reaches deal with the Greens to pass changes to capital gains tax and negative gearing reforms",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSllWMEM4YUtIeUVkZVRwRkRQMFdJNUk1dXp6U0tZX2xLeVp1YWM1U3FLYThlSW91VnYxX2xBUUxMbTQxRnliQXdUSmJtbmRUYXd3MmxGamViU0Q3aGpqVExFREIxcmh1S1RPMzEtMGptRk9ENElCNElEcHVoNzY0Slh1dmJ4dmRJZVVWa3Q3M2M4WTFuUDZRN3F2NFRyS2JJX0xBanM4SkFjLXppVXlZMVg3dFZFZw?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 9,
+      "spicy": true
+    },
+    {
+      "title": "Greens demand Labor tax changes extend to SMSFs in budget’s latest parliament hurdle",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN241QURyM0VlX01OakJNYVFXd0plZnVqODVtMjU5ZTdlQ18xeGoxeEF3Ui1tVFllbTV6N2pwd3pHaDBjcXdsZjNzUVllcENscExOSTA3bm0tS2VHdTAxSUV4NWdrTDJ0OGhIVWVJYk8xRnJreWhSWnZ1Q3Ryd0xmWG9qcjJ3TXdfQ3lZSzB4V0kxVFg3bVZxNXNSLWliZ3NJOXROdGdHbnE1TWRCM01KQmx2WXJzMGNqdGlHUXdR?oc=5",
+      "source": "Wilson Asset Management",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
       "summary": "",
       "categories": [
         "Tax"
