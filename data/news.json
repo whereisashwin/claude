@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-17T06:23:29.317Z",
+  "updatedAt": "2026-07-17T08:37:04.662Z",
   "count": 120,
-  "relevantCount": 65,
-  "spicyCount": 12,
+  "relevantCount": 67,
+  "spicyCount": 13,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -39,6 +39,7 @@
     "Crikey",
     "Expatica",
     "Fragomen",
+    "Independent Australia",
     "Khaleej Times",
     "MacroBusiness",
     "Mondaq",
@@ -57,6 +58,7 @@
     "The Australia Today",
     "The Australian",
     "The Canberra Times",
+    "The Conversation",
     "The Guardian",
     "The Institute Of Public Affairs - IPA",
     "Travel And Tour World",
@@ -64,20 +66,80 @@
     "grafa.com",
     "newsweekly.com.au",
     "realestate.com.au",
-    "streamlinefeed.co.ke",
     "superguide.com.au"
   ],
   "items": [
+    {
+      "title": "Australia news live: NSW woman arrested over movements of Dezi Freeman; Barnaby Joyce defends Hanson’s presence at Dolce & Gabbana show",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-17T08:01:49.000Z",
+      "summary": "Police arrested a 58-year-old woman as part of ongoing investigations into the movements of Dezi Freeman",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Breaking: Moira Deeming ousted as Liberal candidate after apology stand-off",
+      "url": "https://www.abc.net.au/news/2026-07-17/moira-deeming-liberal-party-decision-preselection/106928954",
+      "source": "ABC News",
+      "publishedAt": "2026-07-17T07:46:20.000Z",
+      "summary": "Moira Deeming's political career as a Liberal is over after the party's Victorian state executive voted to revoke the MP's candidacy for the November state election.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Controversial Sunshine Coast housing development fast-tracked",
+      "url": "https://www.abc.net.au/news/2026-07-17/stockland-halls-creeks-development-fast-tracked/106926886",
+      "source": "ABC News",
+      "publishedAt": "2026-07-17T07:24:57.000Z",
+      "summary": "The Queensland government declares the Halls Creek development a priority development area. The project is expected to deliver 12,000 new homes.",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Budget tax oddity sparks confusion over expat CGT",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQenFWaUxrbk5QZXZOUHFJNlFlQUxIaFRTTklKbWVzUzNTMl8wb1FoN0xOWGZnYWs0MlB3andIXzR6bnptLVZDRlVGVl9BSzJpX3VyUU1SMnNwMEtrS0FBbndjeWRmOEIyZFdRdkc5eTJZR1B6Y2piQm15b3VhOHNQOGlMSnFtZVJkaUgxRmd3RU9OdWhBaWQ4MVNlbFZldGpJQkJ6NnBTblZlSTUzSXc?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-17T06:52:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Hanson blasted for White Australia comments after attending lavish Italian fashion show",
       "url": "https://www.smh.com.au/politics/federal/hanson-blasted-for-white-australia-comments-after-attending-lavish-italian-fashion-show-20260717-p60g6l.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-07-17T06:16:42.000Z",
-      "summary": "Images have emerged of Hanson mingling with celebrities and Gina Rinehart earlier this week at a lavish Dolce & Gabbana fashion show in Sicily.",
+      "summary": "Images have emerged of Hanson attending at a lavish Dolce & Gabbana fashion show in Sicily earlier this week. Mining billionaire and One Nation benefactor Gina Rinehart was also in attendance.",
       "categories": [],
       "relevant": false,
       "score": 4,
       "spicy": false
+    },
+    {
+      "title": "Budget forecasts rest on ‘unlikely’ $480b income tax boon",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX0NUa095T2ptS3JyR3FwelZQd3J4ZWp3YW9KQllVTjBtei1IdlJSUHNFYUhUOXlySUZENGhiNWdRZWROVzU0RGtxNTZfY0Z4NmM5aVBOTm50eFZsUlVqdHVJR2RfZDZhQTJsOVBDTTBrcXZpcUFGNDFvdk9VVHlwc2lScno0eUU2OHJCNl91cVZKU0c0a2JrNF9kUlV4Rm11VUJTRUE5Nmg?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-17T06:16:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
     },
     {
       "title": "NSW woman arrested as part of Dezi Freeman investigation",
@@ -91,17 +153,6 @@
       "spicy": false
     },
     {
-      "title": "Australia news live: mobile networks ‘not infallible’, Telstra boss tells Senate inquiry; Anton Enus to retire from SBS World News",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-17T06:00:29.000Z",
-      "summary": "Telstra outage hit ‘approximately 45%’ of calls and data, CEO tells Senate inquiry",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
       "title": "Chauffeur who agreed to retire at 65 to be paid $40,000 after ageist dismissal",
       "url": "https://www.smh.com.au/business/workplace/chauffer-who-agreed-to-retire-at-65-to-be-paid-40-000-after-ageist-dismissal-20260717-p60g3f.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
@@ -110,17 +161,6 @@
       "categories": [],
       "relevant": false,
       "score": 7,
-      "spicy": false
-    },
-    {
-      "title": "PNG ousts Taiwan officials, seeks to 'reassure' China after Australian treaty",
-      "url": "https://www.abc.net.au/news/2026-07-17/png-to-close-taiwan-trade-office-seeking-to-reassure-china/106927630",
-      "source": "ABC News",
-      "publishedAt": "2026-07-17T04:51:19.000Z",
-      "summary": "Papua New Guinea will close Taiwan's trade mission in the country, freezing out its fifth largest trading partner in a major strategic move designed to reaffirm ties with China.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
       "spicy": false
     },
     {
@@ -196,17 +236,6 @@
       "spicy": false
     },
     {
-      "title": "Mining stocks send ASX lower in early trade; Coles shares jump",
-      "url": "https://www.smh.com.au/business/markets/asx-set-to-slide-ai-stock-slump-hurts-wall-street-20260717-p60g1s.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-17T00:47:14.000Z",
-      "summary": "The Australian sharemarket has opened lower after drops for computer chipmakers and other winners of the artificial-intelligence boom dragged down stock markets worldwide overnight.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Ex-Wagga MP Daryl Maguire found guilty of conspiracy over fraudulent visas",
       "url": "https://www.abc.net.au/news/2026-07-17/daryl-maguire-guilty-of-conspiracy/106889306",
       "source": "ABC News",
@@ -267,7 +296,7 @@
       "summary": "A regional council has declined a mining company's invitation to join a community reference group and slammed the company for its attitude towards community concerns.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -280,7 +309,7 @@
         "Tax"
       ],
       "relevant": true,
-      "score": 7,
+      "score": 6,
       "spicy": true
     },
     {
@@ -291,7 +320,7 @@
       "summary": "Australia's only manganese alloy smelter has closed, leaving the future of the site uncertain and the country more reliant on imported alloys for steel production.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -302,7 +331,7 @@
       "summary": "Labor insiders expect ongoing debate about artificial intelligence when party faithful gather to hash out a policy platform to guide the next three years.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -467,17 +496,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Community meets over plans for large 'AI factory' at River Murray town",
-      "url": "https://www.abc.net.au/news/2026-07-16/sa-firmus-factory-tailem-bend-community-meeting/106919542",
-      "source": "ABC News",
-      "publishedAt": "2026-07-16T01:51:14.000Z",
-      "summary": "An AI company says its proposed projects have the potential to create hundreds of jobs in South Australia, but residents of one River Murray town say they want to know more about the potential impacts.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -839,19 +857,6 @@
       "spicy": true
     },
     {
-      "title": "Biotech companies issue warning over Labor changes to R&D tax incentives",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzRNakRPS3RERlEzYlJvYTJfMXdjYmZreEZ5azV0Z3pRY3lQYmJKNVRSanBBeG9STUF5X21PUWV5RzhybEJ2cnBJVWVwLWFadUxNRERCTFBkM0dvWmlZd1FXSWpfc2FyWDU1VEF0dkFrUTlEM3V2NkEzMG5TcFVxQzZIVnZ0NGJVY0ZqbjJnWVZsMDFJMXVobzRjRzU5QXBDalpPcHBNQTVMSGZzaXBjV1JB?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-12T19:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Businesses caught between Labor's trust tax and stamp duty",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMW9lbzNESkYxOXUwNEdQTTJjcVlDaVFIUUJBODlzdkhWQTRfY25UYmlXLTBPM29uT1A4bmM3M3JYV0wtd0FONHlHN1l1a19VWjdWZkdFR1BVM1NleWdLamNZMmZ5NXItMTE1U0tKcW45aVhnSmdDcVRjTGhuSW05OVFId0M2bnRscUthQ3RKaC1hLWVFNG5GWllRRk95MVNYdkg3dmRhVQ?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1177,19 +1182,6 @@
       "spicy": true
     },
     {
-      "title": "Australia Sparks Global Outrage With Sweeping Visa Fee Hikes Affecting Travellers Worldwide",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OV01KTVRfaTlmS1ZZOHF6THpBd2ZZUXZuNjJUUDNyQXZYaWJ4dnJWUkxqeC14WnE5eHBjSnRHUTdQbXlLUmtJVkFYQVFWZ2RfeERkS3Z2ZllvQ05aOVZ5QmJnUU80a2ozbWFSRHJB?oc=5",
-      "source": "Travel And Tour World",
-      "publishedAt": "2026-07-01T01:37:21.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 2,
-      "spicy": false
-    },
-    {
       "title": "Bookshops offer much more than just retail – but who would open one in this economy?",
       "url": "https://www.theguardian.com/books/2026/jul/01/bookshops-australia-industry-decline-economy",
       "source": "The Guardian",
@@ -1201,13 +1193,13 @@
       "spicy": false
     },
     {
-      "title": "Australia Enforces Strict Visa Compliance Rules for 2026-27 Financial Year",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZzh0bDVNZjhhX3pQamZWeXRFc1pDU3p0RFdTaEtTOUZKQUh1LU9zMGxLYnBvbDBvNTVQVUhPV21NQ29qbFhwb3FaeG90SXNsaWtmcFk1MlJ1anRYd0J4MWt4cmMtYzlSTDJmNzVMcnMwSTNjNndLaldTVVdwM0l2U0EyR3U1N1BXSnNUcktkZXJZS1BaOGpNRWxaMThQR0N6aTZfYWdmUmRQU3dJaUM1bA?oc=5",
-      "source": "streamlinefeed.co.ke",
-      "publishedAt": "2026-06-30T06:50:18.000Z",
+      "title": "Good news! Housing is getting more and more affordable",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWMzVlFOMFdVUTlYVWNlQzRvTk1rVHlBTVdzNGxFc2pHbUpENno1U0d4V3kyT1F5QWlhR1B0elF5YXFpM201a0o3UmhtSmI4ZUFYUEpXb2Vjamtwc0hlNUJUMlQ2RkJObDhKOWZjRm1KcEpyc3l3bTlWMmdiNzRvUUV3X3k4OXlrNHZlVHpVOVdmb25VM05FWGNqU2doR2ZpcUJHU3FHWEFUWUk4WngtWmo0eXBSTWNVYXQ0?oc=5",
+      "source": "Independent Australia",
+      "publishedAt": "2026-06-29T22:00:06.000Z",
       "summary": "",
       "categories": [
-        "Visas & Migration"
+        "Housing"
       ],
       "relevant": true,
       "score": 0,
@@ -1526,6 +1518,19 @@
       ],
       "relevant": true,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "From pay to taxes, big changes are coming for Australian workers and businesses from July 1",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSEdWa2tUQmZlWjFzTm96UzQ0RGFSbm5oU2xCcVZsREZOVDM2cWdkR3BDQWgtYWdfb3JmZ1BRWXE2TXpMSk9GQ2pGcGVBSDk2TFNkQkNwOEJBNEg4NGEzY0pNMFk3Q29fMlRSNDJ2ZjRPWDlUcUtZMFNMczNuUVJPUGRQUWVTeUx6R2piek9WWWM4aW13S2luWWVfcUtmZEF2NzI0c3JaWkRBcWVDSG90cEFUOUt2NVlYUllQU0U4OW5uTlU?oc=5",
+      "source": "The Conversation",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 3,
       "spicy": false
     }
   ]
