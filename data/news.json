@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-19T20:09:38.169Z",
+  "updatedAt": "2026-07-19T21:27:30.815Z",
   "count": 120,
-  "relevantCount": 57,
-  "spicyCount": 11,
+  "relevantCount": 59,
+  "spicyCount": 13,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -34,6 +34,7 @@
     "AFR",
     "Absolute Immigration",
     "Accountants Daily",
+    "Australian Broker News",
     "Australian Government Department of Health, Disability and Ageing",
     "Australian Property Update",
     "Crikey",
@@ -61,13 +62,37 @@
   ],
   "items": [
     {
-      "title": "Australian baseball's 37yo 'rookie' making national debut at World Cup",
-      "url": "https://www.abc.net.au/news/2026-07-20/meet-australian-baseballs-37-year-old-rookie/106932748",
-      "source": "ABC News",
-      "publishedAt": "2026-07-19T19:33:53.000Z",
-      "summary": "Jess Johnson is one of the feel-good stories of the Australian Women's national baseball team.",
+      "title": "Australia news live: PM says Pauline Hanson should not ‘talk Australia down’ when overseas",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-19T21:24:52.000Z",
+      "summary": "Albanese’s comments come as One Nation leader nears end of UK tour.",
       "categories": [],
       "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Fox takes out British Open, denies Aussie after 'two perfect shots'",
+      "url": "https://www.abc.net.au/news/2026-07-20/golf-ryan-fox-wins-british-open-herbert-second/106934248",
+      "source": "ABC News",
+      "publishedAt": "2026-07-19T20:44:34.000Z",
+      "summary": "Ryan Fox shows nerves of steel to claim the British Open as Australia's Lucas Herbert has a near miss.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Lesbian couple told they are no longer the same family by fertility clinic",
+      "url": "https://www.abc.net.au/news/2026-07-20/qld-health-queer-couples-assisted-reproductive-guidance/106891908",
+      "source": "ABC News",
+      "publishedAt": "2026-07-19T20:00:47.000Z",
+      "summary": "The Queensland Health advice, given to fertility providers to help navigate the state's assisted reproductive technology legislation, has had a \"devastating\" impact on some same-sex couples trying to have more children.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
       "score": 4,
       "spicy": false
     },
@@ -79,19 +104,6 @@
       "summary": "Paramedics have been told to transport complex cardiac patients in Tasmania's north-west to the Launceston General Hospital rather than the local Mersey Community Hospital.",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Museum wants Holocaust education to create 'a safe Australia for everybody'",
-      "url": "https://www.abc.net.au/news/2026-07-20/holocaust-museum-royal-commission-antisemitism-education/106921230",
-      "source": "ABC News",
-      "publishedAt": "2026-07-19T19:19:23.000Z",
-      "summary": "Melbourne Holocaust Museum has had to step up security since 2020 following a rise in incidents that have seen threatening voice messages and hateful comments left online.",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
       "score": 4,
       "spicy": false
     },
@@ -118,22 +130,22 @@
       "spicy": false
     },
     {
-      "title": "Australia is making humanoid robots in the midst of its AI reckoning",
-      "url": "https://www.abc.net.au/news/2026-07-20/artificial-intelligence-testing-models-humanoids-data-centres/106928550",
+      "title": "Abbott amplifies Hanson problem for Liberals",
+      "url": "https://www.abc.net.au/news/2026-07-20/multiculturalism-abbott-hanson-andrew-bragg-albanese-insiders/106928546",
       "source": "ABC News",
       "publishedAt": "2026-07-19T19:00:00.000Z",
-      "summary": "Australia this week made an important step forward in grappling with the AI revolution. Meanwhile, in Melbourne a company is making humanoid robots.",
+      "summary": "Pauline Hanson's grievance politics is a challenge for Labor, but a splitting headache for the Liberals — compounded by former prime minister Tony Abbott.",
       "categories": [],
       "relevant": false,
       "score": 4,
       "spicy": false
     },
     {
-      "title": "Abbott amplifies Hanson problem for Liberals",
-      "url": "https://www.abc.net.au/news/2026-07-20/multiculturalism-abbott-hanson-andrew-bragg-albanese-insiders/106928546",
+      "title": "Australia is making humanoid robots in the midst of its AI reckoning",
+      "url": "https://www.abc.net.au/news/2026-07-20/artificial-intelligence-testing-models-humanoids-data-centres/106928550",
       "source": "ABC News",
       "publishedAt": "2026-07-19T19:00:00.000Z",
-      "summary": "Pauline Hanson's grievance politics is a challenge for Labor, but a splitting headache for the Liberals — compounded by former prime minister Tony Abbott.",
+      "summary": "Australia this week made an important step forward in grappling with the AI revolution. Meanwhile, in Melbourne a company is making humanoid robots.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -164,7 +176,7 @@
       "spicy": false
     },
     {
-      "title": "One telehealth consult and a doctor prescribed unapproved peptides",
+      "title": "I tried to get unapproved injectables from a doctor. It was too easy",
       "url": "https://www.abc.net.au/news/2026-07-20/peptide-prescription-from-longevity-clinic-risk-regulator-warns/106924894",
       "source": "ABC News",
       "publishedAt": "2026-07-19T18:44:18.000Z",
@@ -179,7 +191,7 @@
       "url": "https://www.theguardian.com/business/2026/jul/20/australias-life-dissatisfaction-levels-double-as-wellbeing-poverty-reaches-new-highs",
       "source": "The Guardian",
       "publishedAt": "2026-07-19T15:00:31.000Z",
-      "summary": "ABS data show one in 10 people are not satisfied with life – but community cohesion and trust lift happiness scores",
+      "summary": "ABS data shows one in 10 people are not satisfied with life – but community cohesion and trust lift happiness scores",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -243,28 +255,17 @@
       "spicy": false
     },
     {
-      "title": "Asylum seekers sent to Nauru by Australia say they are going hungry",
+      "title": "Asylum seekers sent Australia to Nauru say they are going hungry",
       "url": "https://www.abc.net.au/news/2026-07-19/asylum-seekers-sent-to-nauru-by-australia-go-hungry/106933536",
       "source": "ABC News",
       "publishedAt": "2026-07-19T11:58:05.000Z",
-      "summary": "According to a survey of 78 asylum seekers on Nauru, 99 per cent said they were regularly skipping meals because they could not afford to buy enough food, while more than three quarters said they rarely had access to free, clean drinking water.",
+      "summary": "According to a survey of 78 asylum seekers on Nauru, 99 per cent are regularly skipping meals because they cannot not afford to buy enough food, while more than three-quarters rarely have access to free, clean drinking water.",
       "categories": [
         "Visas & Migration"
       ],
       "relevant": true,
       "score": 7,
       "spicy": true
-    },
-    {
-      "title": "Special guest dazzles aspiring astronauts at Space Day Out",
-      "url": "https://www.abc.net.au/news/2026-07-19/sa-space-day-out-special-guest-katherine-bennell-pegg/106933180",
-      "source": "ABC News",
-      "publishedAt": "2026-07-19T09:14:34.000Z",
-      "summary": "Young Australians got one step closer to achieving their space exploration dreams on Sunday when they met a \"real-life\" astronaut.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
     },
     {
       "title": "Can Australia dodge the next Iran oil shock?",
@@ -274,7 +275,7 @@
       "summary": "Energy companies and governments are racing to find new oil supply routes. Others argue the real solution is to reduce the need for oil in the first place.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -294,28 +295,6 @@
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-07-19T07:26:04.000Z",
       "summary": "Branded the most expensive sporting event in history, the World Cup’s eye-watering ticket costs and travel expenses didn’t stop some Australians.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "The 'terrifying' lab test results from store-bought bottle of vodka",
-      "url": "https://www.abc.net.au/news/2026-07-19/illicit-alcohol-test-finds-vodka-contains-paint-stripper-product/106923632",
-      "source": "ABC News",
-      "publishedAt": "2026-07-19T05:28:36.000Z",
-      "summary": "Australia's bootleg booze market is booming and an alarming new discovery from a bottle of vodka sold in Melbourne reveals it is turning into a major health problem.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Actor Terence Donovan remembered by son Jason as 'larger than life'",
-      "url": "https://www.abc.net.au/news/2026-07-19/terence-donovan-death/106933112",
-      "source": "ABC News",
-      "publishedAt": "2026-07-19T03:38:22.000Z",
-      "summary": "Jason Donovan has paid tribute to his father who has died at the age of 90 after decades on Australian screens.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -728,19 +707,6 @@
       "spicy": false
     },
     {
-      "title": "Pauline Hanson laments end of White Australia policy and talks up daughter’s leadership potential",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/17/pauline-hanson-laments-end-of-white-australia-policy-and-talks-up-daughters-leadership-potential-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-17T01:47:52.000Z",
-      "summary": "Appearing on a podcast with the far-right UK activist who goes by the name Tommy Robinson, Hanson makes evidence-free claims about migrants",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Scandal-plagued Aussie travel giant loses its chief legal officer",
       "url": "https://www.smh.com.au/business/companies/scandal-plagued-aussie-travel-giant-loses-its-chief-legal-officer-20260717-p60g3t.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
@@ -873,19 +839,6 @@
       ],
       "relevant": true,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Budget loses billions, nation in deeper debt: The cost of cutting migration",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYWp2ZFUtaW9nSlBPVENhbEstbHFSSktENDlRN2lfb21oSllfRjdWTWFCcTFPUDU1UXBud1VDUkhKUTRnTFhBeUJibzFyY1c2Q2J4bmUxZ3BJTzU1REI5QzhWc0JkRUdpeTJ0XzJHMkt5c1pqN1BnU2lhR0xCZEdCb21fWmJkZFpHM1ltdkNUbDV6SUptM1pNNlVsWWF1ck9ON3ZYNzlYcHlXZm9PQmQwOTVjMVZGcHN1cXcwZWVpLUEteXV5aDlsNEhFcnNmZjg?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-07-14T09:30:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 2,
       "spicy": false
     },
     {
@@ -1048,17 +1001,6 @@
       "relevant": true,
       "score": 7,
       "spicy": true
-    },
-    {
-      "title": "Window of opportunity for regional buyers as investors pull back post-budget",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXlSX0p2VTFmZ1VCM2E1Q1Zvb3ZUYkJRZEhMTlRPY041SFVhTEJXUzRsdWF0cTlxOUxKTHdEcFVFWDIwVGg5OVFIeWppSlJzMmowZlh5bF9iQ044Y0RiSGdqQzVjU0NKdGdxcXRHTzAtcFJjanhtR1l1djd2V3o1Zl9QSXFHOFNWbmlnY045MlM3cVFMenNWQW9vSEVnSVNTbGlMYUx2ejdONllYemtfcG53YnY?oc=5",
-      "source": "realestate.com.au",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
     },
     {
       "title": "2026-27 NSW Budget Analysis",
@@ -1501,6 +1443,70 @@
       "relevant": true,
       "score": 3,
       "spicy": false
+    },
+    {
+      "title": "Budget shake-up gives commercial property a new edge over residential",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRDJVaDI1T09nazJIVHdXeXBpSFdQMmt3X3BWSGJYdXVBc3BNRGhWQnF4aFdrVFlMbjlaVnNLbTIybDR2V1RsMWhkeUF0cGdQS1Jhc2VTMWllSlBocldESGlsRVJ5QjNrZzhIaXVGVWdaa2ttWW1NMFc4STBHNzQ5Y3RLVklNT1N4SllDX2dOUHM0R0hpTjFRQW1vMlJHMW1tVFBoT0VtSVNwNmNxWXBNTVE2UUFkU1VzUFZrZThGN19BZ0VjQmZzcA?oc=5",
+      "source": "Australian Broker News",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Taxpayers give $2.7b to rich families in childcare, parental leave",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHpkU3poVGxaNUZIRGZrdUtHcHM4elFvbzZuVGduVDNCTGxPMVRkc0MtZU9wdWtHVkotdEFwal9RN2huM25ibnQwUE9rU3R3djJFRnFwckljVVFGRk5KRUk3Q0gtWDFEV3BJX21DbTd3RlZJOHFOU2xlLXNqNXpheGxCU0s1b1plY3JST2Jqcnd4SVVJV0ZkQkttVVUxOUN6SzBVWnVIb2FBanJHZmxmS2w3cUQtZw?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 8,
+      "spicy": true
+    },
+    {
+      "title": "Treasury was once the premier agency for economic counsel. Not any longer",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR3JvUUZvaEJQandYa3hFWU9xanZoT0xMdUg4X1JIRkI5UElUcC12dkk5cW9pcEY1M3ZYalpSRGgyVTdwdXZpVnZNcjlJLUwwV1RUSWE5QWdURzVSREJpbG9DelE2SjBuc3ByN2tqR3E5YXI1MTJkNUZWQzBnSW83ZW82NFc0UkNyeXU4djZXMG1vRlY3OWxuZ1VtWHpBTjFTeE9YQk9EVDNQWEpMVFJsN0hIRm5IV0RYYVFDMXdpSkxiLTh1Zm5YLWNPWlo5eGQ4WjEzeFo5QnVFWlFOWXRtelh0RnUya21TaGxNUzg3NjZQQQ?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-06-24T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Labor dumps ‘widow tax’ as contentious reform bill passes parliament",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZms0Unhzam1SOFpqRVE0OHppM001dUF5Tnc0N1NrMjgyd3NITVdNcEg0aXN4SWNZdmsyT3ZVVHN6UVB1dEtDTHlnT1IxQlBWdU81ZWVFLTUxZjAxeFRmWm5fYmNxOHhjNmVEWGRLN01oQ0FIMlZtc2VVNGtJUUJ4ZzVPSFNuVlp1OWxwbXZtdmN2eGFSNEFNVWJNSmpGdzRMaDV1UEEwaV8zdWsxaU1KRFVFbmxBaTlaVGxLRDJocDVpMU9Qb2c?oc=5",
+      "source": "Nine.com.au",
+      "publishedAt": "2026-06-24T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Labor reaches deal with the Greens to pass changes to capital gains tax and negative gearing reforms",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSllWMEM4YUtIeUVkZVRwRkRQMFdJNUk1dXp6U0tZX2xLeVp1YWM1U3FLYThlSW91VnYxX2xBUUxMbTQxRnliQXdUSmJtbmRUYXd3MmxGamViU0Q3aGpqVExFREIxcmh1S1RPMzEtMGptRk9ENElCNElEcHVoNzY0Slh1dmJ4dmRJZVVWa3Q3M2M4WTFuUDZRN3F2NFRyS2JJX0xBanM4SkFjLXppVXlZMVg3dFZFZw?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 9,
+      "spicy": true
     }
   ]
 }
