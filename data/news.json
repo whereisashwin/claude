@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-22T04:26:19.785Z",
+  "updatedAt": "2026-07-22T07:15:26.407Z",
   "count": 120,
-  "relevantCount": 60,
+  "relevantCount": 56,
   "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
@@ -40,9 +40,9 @@
     "Expatica",
     "Fragomen",
     "Khaleej Times",
-    "MacroBusiness",
     "Michael West Media",
     "Mondaq",
+    "NSW Government",
     "News.com.au",
     "Nine.com.au",
     "Nomad Lawyer",
@@ -58,20 +58,131 @@
     "The Australian",
     "The Conversation",
     "The Guardian",
-    "The Institute Of Public Affairs - IPA",
     "Wilson Asset Management",
-    "Yahoo News Australia",
+    "aapnews.aap.com.au",
     "facebook.com",
     "realestate.com.au",
     "superguide.com.au"
   ],
   "items": [
     {
-      "title": "Minister says Australian ISIS-linked 'Doctor Jihad' can rot in Iraqi jail",
-      "url": "https://www.abc.net.au/news/2026-07-22/tareq-kamleh-isis-jihad-doctor-iraq/106944450",
+      "title": "Australia news live: Origin Energy investigating potential data breach that could affect millions",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-22T07:04:07.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australians don't understand how interest rates work, RBA finds",
+      "url": "https://www.abc.net.au/news/2026-07-22/understanding-inflation-would-help-lower-interest-rates-rba/106944486",
+      "source": "ABC News",
+      "publishedAt": "2026-07-22T07:02:06.000Z",
+      "summary": "The Reserve Bank is concerned that too many Australians have little idea what the central bank is trying to achieve with interest rates, which it says could be making its job harder.",
+      "categories": [],
+      "relevant": false,
+      "score": 8,
+      "spicy": false
+    },
+    {
+      "title": "How much would you pay to see a rock band of politicians? Labor is asking for $1000",
+      "url": "https://www.smh.com.au/politics/federal/how-much-would-you-pay-to-see-a-rock-band-of-politicians-labor-is-asking-for-1000-20260722-p60hlj.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-22T06:45:32.000Z",
+      "summary": "A band led by Tony Burke, a music buff who is also the arts minister, will play at a secret location in Adelaide on Wednesday – a creative example of Labor’s slick fundraising machine.",
+      "categories": [],
+      "relevant": false,
+      "score": 11,
+      "spicy": false
+    },
+    {
+      "title": "Hanson labels domestic violence 'two-way street'",
+      "url": "https://www.abc.net.au/news/2026-07-22/pauline-hanson-domestic-violence-two-way-street/106945146",
+      "source": "ABC News",
+      "publishedAt": "2026-07-22T06:30:03.000Z",
+      "summary": "The One Nation leader said women should not 'put up with' domestic violence, as she highlighted the cost of living pressures on families.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Proteomics taps Healius network for national diagnostics rollout",
+      "url": "https://www.smh.com.au/business/companies/proteomics-taps-healius-network-for-national-diagnostics-rollout-20260722-p60hn5.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-22T06:30:03.000Z",
+      "summary": "Proteomics International Laboratories has signed Healius as exclusive Australian pathology distributor for its Promarker blood tests, unlocking a network of more than 2000 collection centres.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Peak Jewish group says Labor platform ‘regurgitates one-eyed obsession with Israel’",
+      "url": "https://www.smh.com.au/politics/federal/peak-jewish-group-says-labor-platform-regurgitates-one-eyed-obsession-with-israel-20260722-p60hi2.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-22T05:59:34.000Z",
+      "summary": "Infighting over the wording of Labor’s policy platform is threatening to derail hopes for an uplifting moment at the party’s national conference.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Brittany Higgins accuses Pauline Hanson of victim-blaming for calling domestic violence a ‘two-way street’",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/brittany-higgins-pauline-hanson-domestic-violence-comments-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-22T05:53:13.000Z",
+      "summary": "One Nation leader criticised by advocates after telling women being abused: ‘don’t put up with it’",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "The claims and evidence behind popular wellness treatments",
+      "url": "https://www.abc.net.au/news/2026-07-22/peptides-red-light-nad-wellness-therapies-claims/106937662",
+      "source": "ABC News",
+      "publishedAt": "2026-07-22T05:28:13.000Z",
+      "summary": "Wellness and anti-aging clinics are popping up across Australia. But do their treatments work and are they safe?",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Hanson says domestic violence a ‘two-way street’",
+      "url": "https://www.smh.com.au/politics/federal/hanson-says-domestic-violence-a-two-way-street-20260722-p60hjx.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-22T04:52:23.000Z",
+      "summary": "The One Nation leader was asked to condemn violence against women.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Minister says Australian IS-linked 'Doctor Jihad' can 'rot' in Iraqi jail",
+      "url": "https://www.abc.net.au/news/2026-07-22/tareq-kamleh-islamic-state-doctor-jihad-iraq-jail/106944450",
       "source": "ABC News",
       "publishedAt": "2026-07-22T04:22:29.000Z",
       "summary": "Perth paediatrician Tareq Kamleh went to Syria to join the Islamic State group in 2015 and has, until now, been presumed dead.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "25,000-year-old grass-burning ritual unearthed in Victorian cave",
+      "url": "https://www.abc.net.au/news/science/2026-07-22/gunaikurnai-plant-burnt-25000-years-cave-study/106936554",
+      "source": "ABC News",
+      "publishedAt": "2026-07-22T04:09:22.000Z",
+      "summary": "Evidence of ancient burnt grasses unearthed in a Victorian cave suggest the old ancestors of the GunaiKurnai people used the cave for fire rituals during the Ice Age.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -88,28 +199,6 @@
       ],
       "relevant": true,
       "score": 1,
-      "spicy": false
-    },
-    {
-      "title": "Australia news live: Brittany Higgins accuses Hanson of victim-blaming in ‘atrocious’ comments on domestic violence",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-22T04:07:32.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Hanson says domestic violence a ‘two-way street’",
-      "url": "https://www.smh.com.au/politics/federal/hanson-says-domestic-violence-a-two-way-street-20260722-p60hjx.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-22T03:49:23.000Z",
-      "summary": "The One Nation leader was asked to condemn violence against women.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
       "spicy": false
     },
     {
@@ -208,18 +297,7 @@
       "summary": "Australia's \"pharmacy deserts\" have been mapped for the first time, revealing remote NT communities and outer-city Melbourne have fewer pharmacies per person than some other parts of the country.",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Albanese's career mirrors Howard's in two important ways",
-      "url": "https://www.abc.net.au/news/2026-07-22/anthony-albanese-political-career-kitchen-cabinet-john-howard/106933402",
-      "source": "ABC News",
-      "publishedAt": "2026-07-21T19:00:00.000Z",
-      "summary": "Anthony Albanese has been in near-fatal vehicle accidents not once, but three times. Politically, his is also a story of survival against the odds.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -230,7 +308,7 @@
       "summary": "The Labor Party collected more than $4 million in gambling donations over the last five years, including $1.5 million around the last election.",
       "categories": [],
       "relevant": false,
-      "score": 9,
+      "score": 8,
       "spicy": false
     },
     {
@@ -243,21 +321,8 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 7,
+      "score": 6,
       "spicy": true
-    },
-    {
-      "title": "How school is different for Jewish Australian kids",
-      "url": "https://www.abc.net.au/news/2026-07-22/how-school-is-different-for-jewish-australian-students/106941984",
-      "source": "ABC News",
-      "publishedAt": "2026-07-21T18:43:24.000Z",
-      "summary": "The Royal Commission into Antisemitism and Social Cohesion hears from Jewish school leaders about how they need to implement extraordinary and expensive security measures.",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 4,
-      "spicy": false
     },
     {
       "title": "Family of seven's home left uninhabitable as insurer worsens damage",
@@ -267,7 +332,7 @@
       "summary": "A Queensland family is living in an overcrowded caravan and shed after insurance provider Suncorp exacerbated damage to their home, initially caused by a leak.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -278,7 +343,7 @@
       "summary": "Diligent, popular, unexpected pick for the Treasury has been given a straitjacket – and the job of funding PM’s policy promises On the frequent occasions that John Healey would travel abroad as defence secretary, he was so determined to keep working he would get the crew to tether a desk to the insi",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -397,39 +462,15 @@
     },
     {
       "title": "Investors returning after budget blow to housing breaks",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEpmbmFlb2pvM0Jqbi1KV3BaWENRWlQyc0pQdTltNWV4dHJYSXRpaGp2dVR0RnhwRF9yQkxrdWxRcl8wUWlLaVViaE9CTGRndWd4RE15Uk1VaVZsN2VIWmFyVTI1WVIxSjlsamtNQkVPcmthVUJGODZDWDNJR2JGMm9uVzduN1U?oc=5",
-      "source": "Yahoo News Australia",
-      "publishedAt": "2026-07-21T04:07:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOEFid0NhU3c0NjhaQWI1dThqbHMxdzNsTFY5eGZZUjN4TEM3QW1HS3dvMmd0eTM5eGZhZE40cERhcm42WmtKMjRKa0V1MVdJVFU1c3lpSVBpMzdfV2RPdGhjVnR1cGxlSlgzUEpuNHI4dU5FVldMcjBybVJ1X3k3OFRwVnFSMUthR3llaG5fbWo?oc=5",
+      "source": "aapnews.aap.com.au",
+      "publishedAt": "2026-07-21T04:16:11.000Z",
       "summary": "",
       "categories": [
         "Housing"
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Victoria faces severe debt‑affordability crunch",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzQtVnFqZ3pZell2bFFsam94ZVdFU0FtNGI4OUdvQk1GRTB4a3ZVZUhWWmFRN09DQXdhWi1tUnNxc2NGOHlJdkFUNmxhWkRpWWVRRWVxVDY3eXVtdnFqNGluLXR6dVZCMlNwNWxYQkxURDAyNE9iSHJUU0ZoV1RLckV5Y2Q4S2pwNll4aDkzMVFqdm8wWFJHTE91UEVldw?oc=5",
-      "source": "MacroBusiness",
-      "publishedAt": "2026-07-21T04:00:20.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "NSW gold-antimony plant springs to life as Larvotto nears production",
-      "url": "https://www.smh.com.au/business/companies/nsw-gold-antimony-plant-springs-to-life-as-larvotto-nears-production-20260721-p60h77.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-21T02:58:22.000Z",
-      "summary": "Larvotto Resources has fired up staged commissioning of its Hillgrove antimony-gold plant in NSW, with first crushed ore from the Metz underground moving to fine ore storage.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -534,30 +575,6 @@
       "spicy": false
     },
     {
-      "title": "Stubborn stigma fuelling shocking violence against sex workers in Australia",
-      "url": "https://www.abc.net.au/news/2026-07-21/inquiry-violence-against-sex-workers-stigma-legal-reforms/106918414",
-      "source": "ABC News",
-      "publishedAt": "2026-07-20T18:41:37.000Z",
-      "summary": "A new inquiry into violence against sex workers in Australia and Thailand comes just weeks after the murder of Thai teenager Tunchanok Donhomla, allegedly by an Australian man.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Australian EV owners deal with 'range anxiety'. China has almost eliminated it",
-      "url": "https://www.abc.net.au/news/2026-07-21/china-ev-dominance-over-europe-united-states/106913324",
-      "source": "ABC News",
-      "publishedAt": "2026-07-20T18:41:25.000Z",
-      "summary": "You can swap an empty electric vehicle battery in about four minutes in China. It is part of how China has come to dominate the EV industry.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Manufacturing union says Australia’s tax system is ‘rigged’ in bold manifesto ahead of Labor conference",
       "url": "https://www.theguardian.com/australia-news/2026/jul/21/manufacturing-union-says-australias-tax-system-is-rigged-in-bold-manifesto-ahead-of-labor-conference",
       "source": "The Guardian",
@@ -605,19 +622,6 @@
       "spicy": false
     },
     {
-      "title": "Federal budget changes have influenced investor demand in the property market",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTldlb1FlU243Y3JmcGUzTzVReE90Zm9NcUVucXNFNEFMTGFGRkFGaWdKUkVrN0EwM2xqV2llc2szMWhkdFAwNFpXZUh5RG1yN1pmLVZRblRiNUZ3ZWt4Z3psaENxSkU4MjlyZ3kyRGN4anY5Y29qYmVfM3FVR2JRbmdrZ2FjejNpMjVJRHczOFF3UGJaSkdseDNsQkJ4M2pmMnEzSXFjLWtwcVUwaDNWbG1CYUpFLVRONi0yS1pqMUc0bzV3UzBnUDZyMEJ6ZHl5Z2txeXg2QVR1Q2VvbmVfRnJ2U3lFSGItbi1NYllJQ1MzUdIB9wFBVV95cUxNdVN6dzRLZExIdTNIQ256OHhhLURHckYzSjdCQkVRa29NX1hQUHMyckxLZlBnc0ZmSHdocmdteEdoUDF4a1NRU3NENFMyeEYtb2NhdnVQMjk4RUs2Nk1rQ09kcU9OVkdyaW9sendNdDJUV1hZWi1FMmlQQTVJZFJJdWZDb3B2OWhMbGszMnVIU1ZHMGwxVWxaRnM0RjVqMi1RYk1BajF6QTQwWUpWem5BTnhFODZ6QlZVYVpuU09VaHdzSDF0eGhQS0l5UTdidk1JQXRydW5yVDZlZE1QRHlNejZkcmt2RUdWVEVJRVhTTlVYNXVxRTQw?oc=5",
-      "source": "Sky News Australia",
-      "publishedAt": "2026-07-20T08:11:18.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Barnaby Joyce says One Nation doesn’t want return of White Australia policy but backs Pauline Hanson on mass deportations",
       "url": "https://www.theguardian.com/australia-news/2026/jul/20/barnaby-joyce-one-nation-white-australia-policy-pauline-hanson-ntwnfb",
       "source": "The Guardian",
@@ -657,32 +661,6 @@
       "spicy": true
     },
     {
-      "title": "Joyce backs Hanson on mass deportations, denies One Nation wants return of White Australia policy",
-      "url": "https://www.smh.com.au/politics/federal/joyce-backs-hanson-on-mass-deportations-denies-one-nation-wants-return-of-white-australia-policy-20260720-p60goy.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-20T02:02:23.000Z",
-      "summary": "Barnaby Joyce has backed party leader Pauline Hanson’s call for mass deportations from Australia, suggesting illegal immigrants could be targeted when they seek medical treatment.",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "The 18 important medicines that Australians are missing out on",
-      "url": "https://www.smh.com.au/politics/federal/the-18-important-medicines-that-australians-are-missing-out-on-20260714-p60f3p.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-19T19:00:00.000Z",
-      "summary": "Pharmaceutical companies warn Australia’s complex approvals process is turning off drug companies, as the Trump administration stokes global pricing pressures.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Australia’s life dissatisfaction levels double as ‘wellbeing poverty’ reaches new highs",
       "url": "https://www.theguardian.com/business/2026/jul/20/australias-life-dissatisfaction-levels-double-as-wellbeing-poverty-reaches-new-highs",
       "source": "The Guardian",
@@ -705,27 +683,16 @@
       "spicy": false
     },
     {
-      "title": "Conservatives around world at war against ‘leftwing globalists’, Bridget McKenzie tells CPAC London event",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-18T23:37:48.000Z",
-      "summary": "Nationals senator echoes comments by Pauline Hanson as Labor criticises One Nation leader’s divisive stance",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Pauline Hanson addresses CPAC in London and denies rift with Barnaby Joyce over far-right podcast",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/18/pauline-hanson-barnaby-joyce-rift-rumours-tommy-robinson-podcast-cpac-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-18T22:54:06.000Z",
-      "summary": "One Nation leader makes series of unsubstantiated claims about “mass migration” as Australia’s Islamophobia envoy warns of potential consequences from her rhetoric",
+      "title": "How to work out whether to sell or keep your rental property",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRU5fVG1hTVAySlRiUGxZR29pQUdoYktGWnRpVFRrNkpkaWhWUHBXVmZJNkpSd2hxZTNvYmtvRTcwckQ5RFNOdkFJOWxVSXhGVTB2ejdRaWZERGt4OHdFczh2MVMyUzNRaW5hVVF6cy1PTG00aGU4R1FsTEwtZmtCOTRJT212cGZMNVY5UFk0bmwxUHlYMUlPQ3lCMy1ydG9iUUpHRlVIR2s1T0dOTWlFU0Yzb3Aza1pkRUwtMA?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-17T19:00:00.000Z",
+      "summary": "",
       "categories": [
-        "Visas & Migration"
+        "Housing"
       ],
       "relevant": true,
-      "score": 5,
+      "score": 3,
       "spicy": false
     },
     {
@@ -1225,19 +1192,6 @@
       "spicy": false
     },
     {
-      "title": "It Depends – What Are The Proposed Changes To Negative Gearing Announced In The 2026 Federal Budget? (Video)",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZHZhb1loTWl1RTludnZlLUNTVzlMRzBsdjk4WTVrNWhBZnlKQjdkbUs1Q3dUOU9ZcTFsMmNjYWpiTWlHZTM3NjhqdnVQTjZ2SC1VcTZyRURBRDRpeDBZaC1mLUdUX1V1V2YzN1JUdWdEY01SOWYxdm9iWmJhWl91bXp1enN3ZHJSWFdnTllOTnI4b0dVZnY5YjhZV1o4VDVpS09zUkg5azF2S0pCSUc2SDNJY1h2dWJtNldtSjNpbjdwZVZBczFneFotcGUzN2dncDY1VUFKVGk5c0pvbUtlalZaa3RUQVRVT1pkRnhCZnY?oc=5",
-      "source": "Mondaq",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 2,
-      "spicy": false
-    },
-    {
       "title": "What Australia’s biggest tax overhaul in 25 years will mean for you",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXAzb3RVNWRoVHNEU05RTVJHMDcxc1RGdWlEaFNUYjhaTnRYYUk3WnA3b0pQbkQ5TF81Q0tsV3MyOE9YX2FvT1F5b2U4SVZQeWpUd21iOFc2M2o0YzlRVXlERnY2YlNsSjVHVFpkanBIZ1NHTHNxT2J5WVRzSm5MLVk1b3kyeWRwWG5YWGlxYnJURE5wRUUzaG5od2hFWjdMYWluODlid3FmcVo3eVYwNVVQdHduNVRSUktkUllDOElzZw?oc=5",
       "source": "AFR",
@@ -1259,6 +1213,19 @@
       "categories": [],
       "relevant": false,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "It Depends – What Are The Proposed Changes To Negative Gearing Announced In The 2026 Federal Budget? (Video)",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZHZhb1loTWl1RTludnZlLUNTVzlMRzBsdjk4WTVrNWhBZnlKQjdkbUs1Q3dUOU9ZcTFsMmNjYWpiTWlHZTM3NjhqdnVQTjZ2SC1VcTZyRURBRDRpeDBZaC1mLUdUX1V1V2YzN1JUdWdEY01SOWYxdm9iWmJhWl91bXp1enN3ZHJSWFdnTllOTnI4b0dVZnY5YjhZV1o4VDVpS09zUkg5azF2S0pCSUc2SDNJY1h2dWJtNldtSjNpbjdwZVZBczFneFotcGUzN2dncDY1VUFKVGk5c0pvbUtlalZaa3RUQVRVT1pkRnhCZnY?oc=5",
+      "source": "Mondaq",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 2,
       "spicy": false
     },
     {
@@ -1378,17 +1345,6 @@
       "relevant": true,
       "score": 8,
       "spicy": true
-    },
-    {
-      "title": "Bad budget another marker in Australia’s managed decline - The Institute Of Public Affairs",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmVFS1hfV1VRSWpzMFhFdWUtVFRmTXhwVWtQSWZ1d2w3SWZsNHdYYWJlQUZMUHJYeW1KNDN6NzZ1Z1NjUkxUSDVWT1VmR1pxcXcwRmozSkEwQ2ZRZGZMLWNGR29RVnNZWG5JNjQ4cHJTN3ZkejFMejB2QzVobGpJRVZQaHYwSHBEdEc2VHU5ZlMya1VmQVg0cU5HM2RBT2lVSXdiajRFRy1nQQ?oc=5",
-      "source": "The Institute Of Public Affairs - IPA",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
     },
     {
       "title": "Treasury was once the premier agency for economic counsel. Not any longer",
@@ -1511,6 +1467,41 @@
       ],
       "relevant": true,
       "score": 2,
+      "spicy": false
+    },
+    {
+      "title": "Labor’s housing affordability fix could freeze the market",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVdEUnhrTWdwZ0g3Ym04cjV1MDd2aHZKX2lubEtaSTVXZ085OUZrMEk5Mlh1anN4VEhHdWo1aUNiblZZeWR1VEU5LTRxZnZKT2ppVXpkajFUb09RREx1NkFJRUNiYWxWeVVxY01nRE5rR2JOLXgxYnhwNTl4UVVNOVloTGxyTDFwUjR2S0lXbEVHdnE2YmJzcDB6OGxiSDRwTkp2MW45ODBXMThz?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "NSW Budget 2026-27: Cost-of-living measures",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2tpT3ZWajMweWc5cl95OENmZDdXbEJ1UUZhN0U5S3VQc2c3NXJTalZ3MjljWnB0VHpJakFuZERkem9VV0pxV3hKOS10TnRSYWVsWWFoMEplc2d1YkxjUlJ0bnVhQ3R3VEFfWDNGcHdzSW8yVEp0Z3lPSXotZlZjaGllOVRBS2RreGpxLWdOZw?oc=5",
+      "source": "NSW Government",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Five key takeaways from Crisafulli's second budget",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3NDMDRnYVhvV0FwRmNXX3Q5SEhjM21WbHNJeDR0eU5aYms2VjIyOUZ3S0hmRUJHdm9pWjRWNXBVVVlDbkVRWE44VTVITklRcVo3SGsxTGs1NmNzUUdxNFQ5WnROZGFNRWRtWHllTEgxa0pHLUpPX2UyZHdjQTBkNFRKQVUtWVE0blE0MDVn?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
       "spicy": false
     }
   ]
