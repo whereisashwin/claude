@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-21T23:04:06.543Z",
+  "updatedAt": "2026-07-22T00:57:55.854Z",
   "count": 120,
-  "relevantCount": 61,
-  "spicyCount": 12,
+  "relevantCount": 60,
+  "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -54,10 +54,8 @@
     "Sydney Morning Herald",
     "The Age",
     "The Australian",
-    "The Conversation",
     "The Guardian",
     "The Institute Of Public Affairs - IPA",
-    "Wilson Asset Management",
     "Yahoo News Australia",
     "facebook.com",
     "realestate.com.au",
@@ -65,14 +63,27 @@
   ],
   "items": [
     {
-      "title": "Australia news live: Joyce sorry for ‘verbally assaulting’ dog Stella in live interview; Watt calls on Hanson to reveal Europe trip funding",
+      "title": "Australia news live: vulnerable women and children warned to turn off concealed phones during national emergency alert test next week",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-07-21T22:49:49.000Z",
-      "summary": "Minister for environment and water says One Nation leader ‘not on the side of working people’.",
+      "publishedAt": "2026-07-22T00:45:06.000Z",
+      "summary": "System update aims to deliver warnings in ‘a more timely manner’.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "$30m biochar facility could help replace coal at Rio Tinto refineries",
+      "url": "https://www.abc.net.au/news/2026-07-22/biochar-coal-superchar-rio-tinto-central-qld/106897034",
+      "source": "ABC News",
+      "publishedAt": "2026-07-21T23:00:59.000Z",
+      "summary": "Rio Tinto has signed an agreement with an Australian company for a biochar product that could help replace coal used in its emissions-intensive Queensland refineries.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 7,
       "spicy": false
     },
     {
@@ -87,25 +98,25 @@
       "spicy": false
     },
     {
-      "title": "Live: ASX to rise as oil prices hit five-week high, Wall Street tech stocks rebound",
+      "title": "Live: ASX rises as oil prices hit five-week high, Wall Street tech stocks rebound",
       "url": "https://www.abc.net.au/news/2026-07-22/asx-markets-business-live-news-july-22/106942906",
       "source": "ABC News",
       "publishedAt": "2026-07-21T21:54:55.000Z",
-      "summary": "The Australian share market is likely to start its day higher after Wall Street's beaten-down tech and semiconductor stocks rebounded sharply overnight. Oil prices surged to a five-week high as Donald Trump signalled the US is \"not finished\" attacking Iran.",
+      "summary": "The Australian share market has started its day higher after Wall Street's beaten-down tech and semiconductor stocks rebounded sharply overnight. Oil prices surged to a five-week high as Donald Trump signalled the US is \"not finished\" attacking Iran.",
       "categories": [],
       "relevant": false,
       "score": 6,
       "spicy": false
     },
     {
-      "title": "Live: Penny Wong raises missile test with Chinese foreign minister",
-      "url": "https://www.abc.net.au/news/2026-07-22/federal-politics-live-blog-isis-doctor-july-22/106942730",
-      "source": "ABC News",
-      "publishedAt": "2026-07-21T21:16:24.000Z",
-      "summary": "Penny Wong has raised China's missile test and detention of Australian democracy activist Dr Yang Hengjun with the Chinese foreign minister.",
+      "title": "ASX opens higher after tech stocks push up Wall Street",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-advance-tech-stocks-push-wall-street-higher-google-s-new-ai-offerings-20260722-p60hd2.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-21T20:40:24.000Z",
+      "summary": "The Australian sharemarket advanced in early trade after Wall Street waded back into makers of computer chips and other winners of the artificial-intelligence boom, shrugging off another jump in oil prices amid the hostilities in the Middle East.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 4,
       "spicy": false
     },
     {
@@ -120,7 +131,7 @@
       "spicy": false
     },
     {
-      "title": "Victorian teachers are going on strike again — here's what you need to know",
+      "title": "What you need to know about Thursday's teacher strike in Victoria",
       "url": "https://www.abc.net.au/news/2026-07-22/victorian-teachers-to-strike-again-what-you-need-to-know/106941206",
       "source": "ABC News",
       "publishedAt": "2026-07-21T19:11:47.000Z",
@@ -190,13 +201,15 @@
       "spicy": false
     },
     {
-      "title": "Labor conference braces for gambling, gas and AI stoushes",
+      "title": "Gas tax, gambling and AI at stake at the Labor conference",
       "url": "https://www.abc.net.au/news/2026-07-22/labor-conference-anthony-albanese-gambling-regulation/106942106",
       "source": "ABC News",
       "publishedAt": "2026-07-21T18:50:33.000Z",
       "summary": "Labor members and unions are gearing up for fights over gambling, gas and AI at the party's national conference later this week.",
-      "categories": [],
-      "relevant": false,
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
       "score": 4,
       "spicy": false
     },
@@ -225,6 +238,17 @@
       "spicy": false
     },
     {
+      "title": "Family's cross-contamination nightmare after contractors spread mould",
+      "url": "https://www.abc.net.au/news/2026-07-22/family-home-uninhabitable-due-to-insurer-suncorp-claims-handling/106831134",
+      "source": "ABC News",
+      "publishedAt": "2026-07-21T18:40:06.000Z",
+      "summary": "A Queensland family is living in an overcrowded caravan and shed after insurance provider Suncorp exacerbated damage in their home, initially caused by a leak.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
       "title": "Fiscal hawk or big spender – what kind of chancellor will John Healey be?",
       "url": "https://www.theguardian.com/politics/2026/jul/21/fiscal-hawk-or-big-spender-what-kind-of-chancellor-will-john-healey-be",
       "source": "The Guardian",
@@ -241,6 +265,17 @@
       "source": "The Guardian",
       "publishedAt": "2026-07-21T15:00:52.000Z",
       "summary": "There has been no end to the negative headlines generated in response to comments made by Pauline Hanson on her trip overseas – and it has forced members of One Nation, including Barnaby Joyce, to defend and explain her actions back home. Guardian Australia political reporter Josh Butler speaks to R",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Kate Ellis is back – and the heat of political debate is higher than ever, incoming Labor president says",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/kate-ellis-is-back-and-this-time-the-heat-of-political-debate-is-higher-than-ever-the-incoming-labor-president-says",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-21T15:00:50.000Z",
+      "summary": "The former Rudd/Gillard government minister has a plan for fighting back against populists including Pauline Hanson",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -267,7 +302,18 @@
       "summary": "The heads of the ABC, SBS, Nine and News Corp say AI companies should strike licensing deals rather than freely train on Australian news, warning journalism is a public good that must be protected.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "AI companies 'stole' Australian culture, news bosses say, as they call for licensing deals",
+      "url": "https://www.abc.net.au/news/2026-07-21/news-bosses-call-for-licensing-deals-with-ai-companies/106942202",
+      "source": "ABC News",
+      "publishedAt": "2026-07-21T12:16:57.000Z",
+      "summary": "The heads of the ABC, SBS, Nine and News Corp say AI companies should strike licensing deals rather than freely train on Australian news, warning journalism is a public good that must be protected.",
+      "categories": [],
+      "relevant": false,
+      "score": 5,
       "spicy": false
     },
     {
@@ -727,20 +773,6 @@
       "relevant": true,
       "score": 5,
       "spicy": false
-    },
-    {
-      "title": "Australia’s fuel tax break slowing BHP’s decarbonisation, mining giant’s investors warned",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/18/australias-fuel-tax-break-slowing-bhps-decarbonisation-mining-giants-investors-warned",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-18T20:00:09.000Z",
-      "summary": "Removal of tax credit would incentivise electrification of truck and rail fleets, Australian Centre for Corporate Responsibility says",
-      "categories": [
-        "Tax",
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 7,
-      "spicy": true
     },
     {
       "title": "NSW woman arrested over movements of Dezi Freeman – as it happened",
@@ -1315,19 +1347,6 @@
       "spicy": false
     },
     {
-      "title": "Tax changes ‘damaging the future Australian economy’: Tim Wilson",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWJ6Snl5b3p2MFhlS3ZObVQ1UjVpQXZXUFdUb3BmWHN1ZkRBTVExeXZHLUpKcE1hcDYxaU1lbjluYjQ1ZThSV1lYRE1naExjdWh0c0l1YzdLemxDQjJXM3F5MEQwSFNQQW84S0d6SUlwdGtSdkg2T25pNHdES2N6TWpkYVBtNFIxODJSLXpabXhsZmZXYU1GWkRwaktWSXYtMURBWjBGLWRSTkRZMWZFaERB?oc=5",
-      "source": "Accountants Daily",
-      "publishedAt": "2026-06-25T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Labor won’t rule out more budget back-downs after ‘widow’s tax’ U-turn",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTgwQ2ljNkFEYnN6ZTNKelpwTzF6QnZyM0hiLUFXTk1PQTV0Xzl4bHVjUVh6bk1RT01WejB5Ukx2dXlOcjZfMGdxQUt6RkN3YnRFRGFacGpnOXZWSU9QUzJNLWhaQkZzMVhXSS1nQU9HQ19wQU02cy0wQ0w5a3ZhekpSOWRUa0FfelhoaGVXVkt6WVVHamxaVE0yQTZRMmw0R0l5c1FpdDcxeGhs?oc=5",
       "source": "AFR",
@@ -1338,6 +1357,19 @@
       ],
       "relevant": true,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Tax changes ‘damaging the future Australian economy’: Tim Wilson",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWJ6Snl5b3p2MFhlS3ZObVQ1UjVpQXZXUFdUb3BmWHN1ZkRBTVExeXZHLUpKcE1hcDYxaU1lbjluYjQ1ZThSV1lYRE1naExjdWh0c0l1YzdLemxDQjJXM3F5MEQwSFNQQW84S0d6SUlwdGtSdkg2T25pNHdES2N6TWpkYVBtNFIxODJSLXpabXhsZmZXYU1GWkRwaktWSXYtMURBWjBGLWRSTkRZMWZFaERB?oc=5",
+      "source": "Accountants Daily",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1474,43 +1506,6 @@
       "categories": [],
       "relevant": false,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Budget backflip on testamentary trusts not all that it seems",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlh2RzhNdzc1UUtLR1B3SG14MTh4WFBsdjM5RzBEWFNpUUpXekhSQ2J1YXNyOXFfZTcwOUhMNGNJZGdpTzV2bVM2eUZIT1ZydDVhd2xSektJRVQyVG43cDFkVGt4YnZDb0FNdTdMOHRLeXdOT05hWnFIUzlHVTRLVFZ3aDVwamFjdWdJanhuc2czUmh0SkxISkhUS0cyWlpVcDRuNFJFcVE5c0VYMUI5NFlhdFhHTHgt?oc=5",
-      "source": "Accountants Daily",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Greens demand Labor tax changes extend to SMSFs in budget’s latest parliament hurdle",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN241QURyM0VlX01OakJNYVFXd0plZnVqODVtMjU5ZTdlQ18xeGoxeEF3Ui1tVFllbTV6N2pwd3pHaDBjcXdsZjNzUVllcENscExOSTA3bm0tS2VHdTAxSUV4NWdrTDJ0OGhIVWVJYk8xRnJreWhSWnZ1Q3Ryd0xmWG9qcjJ3TXdfQ3lZSzB4V0kxVFg3bVZxNXNSLWliZ3NJOXROdGdHbnE1TWRCM01KQmx2WXJzMGNqdGlHUXdR?oc=5",
-      "source": "Wilson Asset Management",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "From pay to taxes, big changes are coming for Australian workers and businesses from July 1",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSEdWa2tUQmZlWjFzTm96UzQ0RGFSbm5oU2xCcVZsREZOVDM2cWdkR3BDQWgtYWdfb3JmZ1BRWXE2TXpMSk9GQ2pGcGVBSDk2TFNkQkNwOEJBNEg4NGEzY0pNMFk3Q29fMlRSNDJ2ZjRPWDlUcUtZMFNMczNuUVJPUGRQUWVTeUx6R2piek9WWWM4aW13S2luWWVfcUtmZEF2NzI0c3JaWkRBcWVDSG90cEFUOUt2NVlYUllQU0U4OW5uTlU?oc=5",
-      "source": "The Conversation",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 3,
       "spicy": false
     }
   ]
