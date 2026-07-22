@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-22T07:15:26.407Z",
+  "updatedAt": "2026-07-22T10:02:48.365Z",
   "count": 120,
-  "relevantCount": 56,
-  "spicyCount": 11,
+  "relevantCount": 55,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -34,7 +34,7 @@
     "AFR",
     "Absolute Immigration",
     "Accountants Daily",
-    "Australian Broker News",
+    "Australian Broker",
     "Australian Government Department of Health, Disability and Ageing",
     "Crikey",
     "Expatica",
@@ -66,14 +66,93 @@
   ],
   "items": [
     {
-      "title": "Australia news live: Origin Energy investigating potential data breach that could affect millions",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-22T07:04:07.000Z",
-      "summary": "",
+      "title": "Former Labor MP accuses Josh Burns of acting as ‘human shield for Penny Wong’",
+      "url": "https://www.smh.com.au/politics/federal/peak-jewish-group-says-labor-platform-regurgitates-one-eyed-obsession-with-israel-20260722-p60hi2.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-22T10:02:34.000Z",
+      "summary": "Infighting over the wording of Labor’s policy platform is threatening to derail hopes for an uplifting moment at the party’s national conference.",
       "categories": [],
       "relevant": false,
       "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australia to warn China it won’t be bulled by ‘provocative‘ actions as it builds military and nuclear arsenal",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-22T10:00:13.000Z",
+      "summary": "Foreign minister Penny Wong will deliver speech criticising China’s recent launch of a nuclear-capable submarine-launched missile",
+      "categories": [],
+      "relevant": false,
+      "score": 8,
+      "spicy": false
+    },
+    {
+      "title": "Does One Nation’s migration policy actually add up?",
+      "url": "https://www.smh.com.au/politics/federal/does-one-nation-s-migration-policy-actually-add-up-20260721-p60h6v.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-22T09:50:00.000Z",
+      "summary": "More than one third of voters regard One Nation as the best party to handle immigration. But could their policy work in practice?",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Flying the flag for a fight nobody else wanted to have",
+      "url": "https://www.smh.com.au/politics/federal/flying-the-flag-for-a-fight-nobody-else-wanted-to-have-20260722-p60hm6.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-22T09:30:00.000Z",
+      "summary": "As Anthony Albanese smothers every debate before it begins, a union’s radical push to strip the Union Jack from the Australian flag stands out as a rare relic of Labor’s factional warfare.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Miners and energy stocks push ASX higher; Origin, Lynas decline",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-advance-tech-stocks-push-wall-street-higher-google-s-new-ai-offerings-20260722-p60hd2.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-22T08:10:38.000Z",
+      "summary": "The Australian sharemarket advanced after Wall Street climbed, shrugging off another jump in oil prices amid the hostilities in the Middle East.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Meet the Australian multi-millionaire pardoned by Trump",
+      "url": "https://www.abc.net.au/news/2026-07-22/tech-millionaire-chris-wade-returns-home-murwillumbah/106941360",
+      "source": "ABC News",
+      "publishedAt": "2026-07-22T08:07:22.000Z",
+      "summary": "Chris Wade was arrested by the Secret Service in Dallas in the early 2000s. It took him on a journey where he went from FBI hacker to Mar-a-Lago and eventually the White House before he came back to Australia to buy his favourite pub.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Private 'space port' to test guided weapons in Queensland outback",
+      "url": "https://www.abc.net.au/news/2026-07-22/thargomindah-weapons-testing-range-investment/106944852",
+      "source": "ABC News",
+      "publishedAt": "2026-07-22T07:47:26.000Z",
+      "summary": "Black Sky Aerospace will construct a new airstrip and explosives storage to support defence and aerospace testing within the state.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "$16 million mansion set for demolition catches fire twice in a night",
+      "url": "https://www.abc.net.au/news/2026-07-22/two-fires-one-night-sapphire-beach-mansion/106944642",
+      "source": "ABC News",
+      "publishedAt": "2026-07-22T07:06:01.000Z",
+      "summary": "Fire broke out twice in one night at a $16-million mansion on the NSW Mid North Coast. It was approved for demolition just weeks ago, and police are treating the blazes as suspicious.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
       "spicy": false
     },
     {
@@ -123,14 +202,14 @@
       "spicy": false
     },
     {
-      "title": "Peak Jewish group says Labor platform ‘regurgitates one-eyed obsession with Israel’",
-      "url": "https://www.smh.com.au/politics/federal/peak-jewish-group-says-labor-platform-regurgitates-one-eyed-obsession-with-israel-20260722-p60hi2.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-22T05:59:34.000Z",
-      "summary": "Infighting over the wording of Labor’s policy platform is threatening to derail hopes for an uplifting moment at the party’s national conference.",
+      "title": "Anxiety as Australia issues new travel advice for Middle East countries",
+      "url": "https://www.abc.net.au/news/2026-07-22/australians-travel-advice-middle-east-conflict-us-iran/106944564",
+      "source": "ABC News",
+      "publishedAt": "2026-07-22T06:23:16.000Z",
+      "summary": "As conflict between the United States and Iran escalates once again, the Department of Foreign Affairs and Trade has issued a warning to \"reconsider\" travel to several more countries in the region.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 6,
       "spicy": false
     },
     {
@@ -145,7 +224,7 @@
       "spicy": false
     },
     {
-      "title": "The claims and evidence behind popular wellness treatments",
+      "title": "The risks and claims behind these popular wellness treatments",
       "url": "https://www.abc.net.au/news/2026-07-22/peptides-red-light-nad-wellness-therapies-claims/106937662",
       "source": "ABC News",
       "publishedAt": "2026-07-22T05:28:13.000Z",
@@ -156,14 +235,14 @@
       "spicy": false
     },
     {
-      "title": "Hanson says domestic violence a ‘two-way street’",
+      "title": "Swift backlash after Hanson says domestic violence a ‘two-way street’",
       "url": "https://www.smh.com.au/politics/federal/hanson-says-domestic-violence-a-two-way-street-20260722-p60hjx.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-07-22T04:52:23.000Z",
       "summary": "The One Nation leader was asked to condemn violence against women.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 6,
       "spicy": false
     },
     {
@@ -178,7 +257,7 @@
       "spicy": false
     },
     {
-      "title": "25,000-year-old grass-burning ritual unearthed in Victorian cave",
+      "title": "Grass 'skeletons' hint at 25,000-year-old Indigenous fire ritual in cave",
       "url": "https://www.abc.net.au/news/science/2026-07-22/gunaikurnai-plant-burnt-25000-years-cave-study/106936554",
       "source": "ABC News",
       "publishedAt": "2026-07-22T04:09:22.000Z",
@@ -207,17 +286,6 @@
       "source": "ABC News",
       "publishedAt": "2026-07-22T03:30:00.000Z",
       "summary": "Torrie Lewis shows she is hitting her straps ahead of the Commonwealth Games by beating her own record mark during a meet in Slovakia.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Miners and energy stocks push ASX higher; Lynas, tech stocks decline",
-      "url": "https://www.smh.com.au/business/markets/asx-set-to-advance-tech-stocks-push-wall-street-higher-google-s-new-ai-offerings-20260722-p60hd2.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-22T01:58:06.000Z",
-      "summary": "The Australian sharemarket advanced in early trade after Wall Street climbed, shrugging off another jump in oil prices amid the hostilities in the Middle East.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -268,17 +336,6 @@
       "spicy": false
     },
     {
-      "title": "Cameron McEvoy has lived a life between trips to Glasgow",
-      "url": "https://www.abc.net.au/news/2026-07-22/commonwealth-games-cam-mcevoy-back-in-glasgow/106942604",
-      "source": "ABC News",
-      "publishedAt": "2026-07-21T22:30:17.000Z",
-      "summary": "As one of just two Australian swimmers returning to Glasgow for a second Commonwealth Games, Cameron McEvoy is taking time to appreciate how much has happened to him in the past 12 years.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
       "title": "Iran war delays upgrades to Queensland's Triple Zero phone system",
       "url": "https://www.abc.net.au/news/2026-07-22/queensland-triple-zero-000-phone-system-upgrades-delay-iran-war/106922772",
       "source": "ABC News",
@@ -286,7 +343,7 @@
       "summary": "The Iran war has been a contributing factor to Queensland's Triple Zero phone system being delayed until next year, the ABC understands.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -330,17 +387,6 @@
       "source": "ABC News",
       "publishedAt": "2026-07-21T18:40:06.000Z",
       "summary": "A Queensland family is living in an overcrowded caravan and shed after insurance provider Suncorp exacerbated damage to their home, initially caused by a leak.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Fiscal hawk or big spender – what kind of chancellor will John Healey be?",
-      "url": "https://www.theguardian.com/politics/2026/jul/21/fiscal-hawk-or-big-spender-what-kind-of-chancellor-will-john-healey-be",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-21T17:58:21.000Z",
-      "summary": "Diligent, popular, unexpected pick for the Treasury has been given a straitjacket – and the job of funding PM’s policy promises On the frequent occasions that John Healey would travel abroad as defence secretary, he was so determined to keep working he would get the crew to tether a desk to the insi",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -553,17 +599,6 @@
       "spicy": false
     },
     {
-      "title": "Firewood side hustle sparks multi-million-dollar business in four states",
-      "url": "https://www.abc.net.au/news/2026-07-21/petrol-station-firewood-starts-at-canyonleigh-farm-nsw/106883990",
-      "source": "ABC News",
-      "publishedAt": "2026-07-20T20:59:46.000Z",
-      "summary": "When bushfire and drought robbed farmer Peter Chauncy of his livelihood, he started chopping wood to sell. Forty years later, he runs one of Australia's largest firewood businesses.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
       "title": "Thorn in the side: Antic’s Liberal Party future at risk after praise for One Nation",
       "url": "https://www.smh.com.au/politics/federal/thorn-in-the-side-antic-s-liberal-party-future-at-risk-after-praise-for-one-nation-20260720-p60gvx.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -608,17 +643,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Israel blasts Labor’s ‘one-sided’ policy platform as Palestinian advocates push further",
-      "url": "https://www.smh.com.au/politics/federal/israel-blasts-labor-s-one-sided-policy-platform-as-palestinian-advocates-push-further-20260720-p60gxz.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-20T08:28:33.000Z",
-      "summary": "The draft platform does not contain accusations of genocide or call for a ban on arms sales to Israel, but party activists are pushing for more action.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
       "spicy": false
     },
     {
@@ -683,19 +707,6 @@
       "spicy": false
     },
     {
-      "title": "How to work out whether to sell or keep your rental property",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRU5fVG1hTVAySlRiUGxZR29pQUdoYktGWnRpVFRrNkpkaWhWUHBXVmZJNkpSd2hxZTNvYmtvRTcwckQ5RFNOdkFJOWxVSXhGVTB2ejdRaWZERGt4OHdFczh2MVMyUzNRaW5hVVF6cy1PTG00aGU4R1FsTEwtZmtCOTRJT212cGZMNVY5UFk0bmwxUHlYMUlPQ3lCMy1ydG9iUUpHRlVIR2s1T0dOTWlFU0Yzb3Aza1pkRUwtMA?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-17T19:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "NSW woman arrested over movements of Dezi Freeman – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb",
       "source": "The Guardian",
@@ -744,20 +755,6 @@
       "relevant": true,
       "score": 3,
       "spicy": false
-    },
-    {
-      "title": "Demand for mortgages slumps in June as tax changes, rates bite",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNazdwN01PUGtmWmRGT1ZsUC1jWkdLQ0MwYmNHYXZfQUhoSXFVcUFZWEZ3ZlVSajFrWHJyR3BQSjdFOWVEWHFIcGdmeVJCRFNlRUNUazk4R3hpcVRNa0lhMXc0QTFUZExTX0VZUXNvU1FkV2xqMmZDQXRLOU1zZFRIQkxQTUdCOUxsUkw0cE9CT0lxeS11a0N4SVZ5aG4xaXVNTHFYNmtHbUFOZGxkRFNyVU1mSi12WEVpMTNIZlNDM0VuaUZH?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-16T03:18:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": true
     },
     {
       "title": "Labor tax changes imperil ‘optimistic’ state budgets",
@@ -1458,7 +1455,7 @@
     {
       "title": "The great property reset: tax changes, rate rises, and an 'air pocket' ahead",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTVFuODkyNkYwSlRidVI0aGhpMW0xLUhXR0pEbW1MZlFuMEZEVkktc1lpZlB3am1CVFVsdHFMeklNbDI5VjRVSFhhR3BGa0kzWEY3Vnc0N2tWM2FqTWlaenN2Q0lvMWJJNnRaUlVvcDVHLU5xYVB1LTRFdE1CYUpVVVliLUxnLVhibTVRVExGR1hkVGlCNlFENFVKZVhsbUljR0JQMGNoRHJzR1BpejVveGVzRzdjRE81R1ZXSXV1Wk1wNWRaZ2VUazdua08?oc=5",
-      "source": "Australian Broker News",
+      "source": "Australian Broker",
       "publishedAt": "2026-06-23T07:00:00.000Z",
       "summary": "",
       "categories": [
