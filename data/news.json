@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-22T22:35:34.366Z",
+  "updatedAt": "2026-07-23T00:07:43.855Z",
   "count": 120,
-  "relevantCount": 56,
+  "relevantCount": 57,
   "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
@@ -58,13 +58,71 @@
     "The Age",
     "The Australian",
     "The Guardian",
+    "The Institute Of Public Affairs - IPA",
     "Wilson Asset Management",
-    "aapnews.aap.com.au",
+    "Yahoo News Australia",
     "facebook.com",
     "realestate.com.au",
     "superguide.com.au"
   ],
   "items": [
+    {
+      "title": "Cam made up stories about his family, a historical journal revealed the truth",
+      "url": "https://www.abc.net.au/news/2026-07-23/wa-historical-collection-reconnects-family-history/106933120",
+      "source": "ABC News",
+      "publishedAt": "2026-07-22T23:56:04.000Z",
+      "summary": "For most of his life, Cam Sojan knew nothing of his family history until he stumbled upon a historical society in Western Australia's Midwest last year, which revealed his Sikh ancestry.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Tourism body slams 'disgusting price gouging' for beef expo beds",
+      "url": "https://www.abc.net.au/news/2026-07-23/charter-flights-to-major-beef-expo-amid-accommodation-shortfall/106939912",
+      "source": "ABC News",
+      "publishedAt": "2026-07-22T23:52:14.000Z",
+      "summary": "Beef Australia is exploring new ways to get visitors to travel to Rockhampton, amid a scarcity of hotel rooms and some accommodation advertised for $24,000 for the week of the event in May 2027.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "How do Lime’s ebikes make money? Share market debut sheds light on finances",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/23/how-do-limes-ebikes-make-money-finances-reveal-the-juice-isnt-worth-the-squeeze-at-least-not-yet",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-22T23:49:19.000Z",
+      "summary": "The firm’s public listing raised US$167m but analysts have been wondering for years: how does this business stack up? In April, Lime brought its green ebikes and e-scooters to Canberra. Before it had even arrived, the US micro-mobility firm had spent nearly US$2m. Lime’s experience in Australia’s sp",
+      "categories": [],
+      "relevant": false,
+      "score": 9,
+      "spicy": false
+    },
+    {
+      "title": "Australia news live: Brisbane fog causes flight delays; Labor faces seven major challenges, Chalmers says",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-22T23:44:17.000Z",
+      "summary": "Treasurer says ‘parties of the sensible centre and the centre-left parties’ face ‘serious economic challenges’.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Labor National Conference LIVE updates: Gas tax, AI on agenda as PM set to address party’s 50th National Conference in Adelaide",
+      "url": "https://www.smh.com.au/politics/federal/labor-national-conference-live-updates-gas-tax-ai-on-agenda-as-pm-set-to-address-party-s-50th-national-conference-in-adelaide-20260723-p60hre.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-22T23:16:40.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Victorian teachers begin second major strike as pay talks stall",
       "url": "https://www.abc.net.au/news/2026-07-23/victorian-teachers-on-strike-today-as-offer-is-rejected/106946678",
@@ -79,33 +137,11 @@
       "spicy": true
     },
     {
-      "title": "Australia news live: Labor faces seven major challenges, Chalmers says; China hits back at Wong’s comments",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-22T22:21:35.000Z",
-      "summary": "China’s foreign ministry says ‘relevant countries’ should ‘stop stirring up tension’.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Could cropping transform Queensland's cattle country?",
-      "url": "https://www.abc.net.au/news/2026-07-23/north-west-queensland-cotton-grain-cropping-expansion/106942844",
-      "source": "ABC News",
-      "publishedAt": "2026-07-22T21:48:20.000Z",
-      "summary": "A $5.3 million investment aims to expand cropping across North West Queensland, with ambitious targets for cotton, grain and pulses in traditionally cattle country.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
-      "title": "Live: ASX set to open higher as Tesla shares plunge",
+      "title": "Live: ASX opens higher as Tesla shares plunge",
       "url": "https://www.abc.net.au/news/2026-07-23/asx-markets-business-news-live-updates-thursday-23-july/106947502",
       "source": "ABC News",
       "publishedAt": "2026-07-22T21:25:25.000Z",
-      "summary": "The Australian share market is set to open in the green after Tesla shares plunging on cash flow news.",
+      "summary": "The Australian share market opens in the green after Tesla shares tumble on cash flow news.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -116,7 +152,7 @@
       "url": "https://www.abc.net.au/news/2026-07-23/federal-politics-live-blog-paid-prac/106947462",
       "source": "ABC News",
       "publishedAt": "2026-07-22T21:09:50.000Z",
-      "summary": "Anthony Albanese will announce an expansion of the Commonwealth's \"paid prac\" scheme at Labor's National Conference.",
+      "summary": "Anthony Albanese will announce an expansion of the Commonwealth's \"paid prac\" scheme at Labor's national conference.",
       "categories": [
         "Family & Education"
       ],
@@ -204,7 +240,7 @@
       "spicy": false
     },
     {
-      "title": "How One Nation's winning over the bush",
+      "title": "How One Nation is winning over the bush",
       "url": "https://www.abc.net.au/news/2026-07-23/australia-wide-one-nation-regional-australia/106917258",
       "source": "ABC News",
       "publishedAt": "2026-07-22T18:41:45.000Z",
@@ -228,7 +264,7 @@
       "spicy": false
     },
     {
-      "title": "Quiz: What do you know about the Logies?",
+      "title": "Try our quiz about Australian TV's night of nights, the Logies",
       "url": "https://www.abc.net.au/news/2026-07-23/logies-2026-quiz-australian-tv-awards-night/106942148",
       "source": "ABC News",
       "publishedAt": "2026-07-22T18:30:00.000Z",
@@ -271,17 +307,6 @@
       "categories": [],
       "relevant": false,
       "score": 11,
-      "spicy": false
-    },
-    {
-      "title": "How do Lime’s ebikes make money? Finances reveal the juice isn’t worth the squeeze, at least not yet",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/23/how-do-limes-ebikes-make-money-finances-reveal-the-juice-isnt-worth-the-squeeze-at-least-not-yet",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-22T15:00:18.000Z",
-      "summary": "The firm’s share market debut raised US$167m but analysts have been wondering for years: how does this business stack up? In April, Lime brought its green ebikes and e-scooters to Canberra. Before it had even arrived, the US micro-mobility firm had lost nearly US$2m. Lime’s experience in Australia’s",
-      "categories": [],
-      "relevant": false,
-      "score": 9,
       "spicy": false
     },
     {
@@ -343,7 +368,7 @@
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 1,
+      "score": 0,
       "spicy": false
     },
     {
@@ -354,7 +379,7 @@
       "summary": "Foreign minister Penny Wong will deliver speech criticising China’s recent launch of a nuclear-capable submarine-launched missile",
       "categories": [],
       "relevant": false,
-      "score": 8,
+      "score": 7,
       "spicy": false
     },
     {
@@ -527,17 +552,6 @@
       "spicy": false
     },
     {
-      "title": "Map reveals Australia's 'pharmacy deserts' are not all in the bush",
-      "url": "https://www.abc.net.au/news/health/2026-07-22/pharmacy-deserts-in-australia-mapped/106883376",
-      "source": "ABC News",
-      "publishedAt": "2026-07-21T19:00:00.000Z",
-      "summary": "Australia's \"pharmacy deserts\" have been mapped for the first time, revealing remote NT communities and outer-city Melbourne have fewer pharmacies per person than some other parts of the country.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Labor’s millions in gambling donations revealed amid last-ditch push for reform",
       "url": "https://www.smh.com.au/politics/federal/labor-s-millions-in-gambling-donations-revealed-amid-last-ditch-push-for-reform-20260714-p60f59.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -642,26 +656,15 @@
     },
     {
       "title": "Investors returning after budget blow to housing breaks",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOEFid0NhU3c0NjhaQWI1dThqbHMxdzNsTFY5eGZZUjN4TEM3QW1HS3dvMmd0eTM5eGZhZE40cERhcm42WmtKMjRKa0V1MVdJVFU1c3lpSVBpMzdfV2RPdGhjVnR1cGxlSlgzUEpuNHI4dU5FVldMcjBybVJ1X3k3OFRwVnFSMUthR3llaG5fbWo?oc=5",
-      "source": "aapnews.aap.com.au",
-      "publishedAt": "2026-07-21T04:16:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEpmbmFlb2pvM0Jqbi1KV3BaWENRWlQyc0pQdTltNWV4dHJYSXRpaGp2dVR0RnhwRF9yQkxrdWxRcl8wUWlLaVViaE9CTGRndWd4RE15Uk1VaVZsN2VIWmFyVTI1WVIxSjlsamtNQkVPcmthVUJGODZDWDNJR2JGMm9uVzduN1U?oc=5",
+      "source": "Yahoo News Australia",
+      "publishedAt": "2026-07-21T04:07:00.000Z",
       "summary": "",
       "categories": [
         "Housing"
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Every phone in Australia will get the same text on Monday. That’s if it works",
-      "url": "https://www.smh.com.au/politics/federal/every-phone-in-australia-will-get-the-same-text-on-monday-that-s-if-it-works-20260720-p60gxx.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-21T02:37:45.000Z",
-      "summary": "Technical gremlins appear inevitable for the nationwide test of the AusAlert emergency warning system, but what they are will have to wait until July 27 at 2pm.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
       "spicy": false
     },
     {
@@ -747,6 +750,19 @@
       "spicy": false
     },
     {
+      "title": "Federal budget changes have influenced investor demand in the property market",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTldlb1FlU243Y3JmcGUzTzVReE90Zm9NcUVucXNFNEFMTGFGRkFGaWdKUkVrN0EwM2xqV2llc2szMWhkdFAwNFpXZUh5RG1yN1pmLVZRblRiNUZ3ZWt4Z3psaENxSkU4MjlyZ3kyRGN4anY5Y29qYmVfM3FVR2JRbmdrZ2FjejNpMjVJRHczOFF3UGJaSkdseDNsQkJ4M2pmMnEzSXFjLWtwcVUwaDNWbG1CYUpFLVRONi0yS1pqMUc0bzV3UzBnUDZyMEJ6ZHl5Z2txeXg2QVR1Q2VvbmVfRnJ2U3lFSGItbi1NYllJQ1MzUdIB9wFBVV95cUxNdVN6dzRLZExIdTNIQ256OHhhLURHckYzSjdCQkVRa29NX1hQUHMyckxLZlBnc0ZmSHdocmdteEdoUDF4a1NRU3NENFMyeEYtb2NhdnVQMjk4RUs2Nk1rQ09kcU9OVkdyaW9sendNdDJUV1hZWi1FMmlQQTVJZFJJdWZDb3B2OWhMbGszMnVIU1ZHMGwxVWxaRnM0RjVqMi1RYk1BajF6QTQwWUpWem5BTnhFODZ6QlZVYVpuU09VaHdzSDF0eGhQS0l5UTdidk1JQXRydW5yVDZlZE1QRHlNejZkcmt2RUdWVEVJRVhTTlVYNXVxRTQw?oc=5",
+      "source": "Sky News Australia",
+      "publishedAt": "2026-07-20T08:11:18.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
       "title": "Downsizer drought weighs on housing supply as Baby Boomers stay put",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWGtLREx5NmY2YVZqUWQ1bTUzcGR3Xy1PV2ROcW9XeFB0Ykx0c0RYMHZyUVFyTlk1R19YQTVrRG13RTVWUWQ5SmY0NWZWSnhaQ1ZxU3NSWU85SjRPd2ZmWlF6cXNQRDJ4YW5jYkt3ZVp4QXAtMjhDVjhIaWdlZUVxM1NxVDV6b3pDdVZ2VmVrajI2Z0xPeHR6Rm0zVWtFV0FNQ3Mwamg4VGxRSm41X21jNHpENVdDdVY4cDJ4TG9WNmdlX0ZDbVZ2RmttellBZw?oc=5",
       "source": "AFR",
@@ -778,19 +794,6 @@
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Budget tax oddity sparks confusion over expat CGT",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQenFWaUxrbk5QZXZOUHFJNlFlQUxIaFRTTklKbWVzUzNTMl8wb1FoN0xOWGZnYWs0MlB3andIXzR6bnptLVZDRlVGVl9BSzJpX3VyUU1SMnNwMEtrS0FBbndjeWRmOEIyZFdRdkc5eTJZR1B6Y2piQm15b3VhOHNQOGlMSnFtZVJkaUgxRmd3RU9OdWhBaWQ4MVNlbFZldGpJQkJ6NnBTblZlSTUzSXc?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-17T06:52:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
       "score": 3,
       "spicy": false
     },
@@ -1387,6 +1390,17 @@
       "spicy": true
     },
     {
+      "title": "Bad budget another marker in Australia’s managed decline - The Institute Of Public Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmVFS1hfV1VRSWpzMFhFdWUtVFRmTXhwVWtQSWZ1d2w3SWZsNHdYYWJlQUZMUHJYeW1KNDN6NzZ1Z1NjUkxUSDVWT1VmR1pxcXcwRmozSkEwQ2ZRZGZMLWNGR29RVnNZWG5JNjQ4cHJTN3ZkejFMejB2QzVobGpJRVZQaHYwSHBEdEc2VHU5ZlMya1VmQVg0cU5HM2RBT2lVSXdiajRFRy1nQQ?oc=5",
+      "source": "The Institute Of Public Affairs - IPA",
+      "publishedAt": "2026-06-24T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Treasury was once the premier agency for economic counsel. Not any longer",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR3JvUUZvaEJQandYa3hFWU9xanZoT0xMdUg4X1JIRkI5UElUcC12dkk5cW9pcEY1M3ZYalpSRGgyVTdwdXZpVnZNcjlJLUwwV1RUSWE5QWdURzVSREJpbG9DelE2SjBuc3ByN2tqR3E5YXI1MTJkNUZWQzBnSW83ZW82NFc0UkNyeXU4djZXMG1vRlY3OWxuZ1VtWHpBTjFTeE9YQk9EVDNQWEpMVFJsN0hIRm5IV0RYYVFDMXdpSkxiLTh1Zm5YLWNPWlo5eGQ4WjEzeFo5QnVFWlFOWXRtelh0RnUya21TaGxNUzg3NjZQQQ?oc=5",
       "source": "The Australian",
@@ -1491,17 +1505,6 @@
       "categories": [],
       "relevant": false,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Five key takeaways from Crisafulli's second budget",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3NDMDRnYVhvV0FwRmNXX3Q5SEhjM21WbHNJeDR0eU5aYms2VjIyOUZ3S0hmRUJHdm9pWjRWNXBVVVlDbkVRWE44VTVITklRcVo3SGsxTGs1NmNzUUdxNFQ5WnROZGFNRWRtWHllTEgxa0pHLUpPX2UyZHdjQTBkNFRKQVUtWVE0blE0MDVn?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     }
   ]
