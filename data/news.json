@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-23T19:36:51.791Z",
+  "updatedAt": "2026-07-23T21:13:26.920Z",
   "count": 120,
-  "relevantCount": 57,
-  "spicyCount": 11,
+  "relevantCount": 59,
+  "spicyCount": 12,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -35,6 +35,7 @@
     "Absolute Immigration",
     "Accountants Daily",
     "Australian Government Department of Health, Disability and Ageing",
+    "City of Ballarat",
     "Crikey",
     "Expatica",
     "Fragomen",
@@ -57,26 +58,84 @@
     "The Australian",
     "The Greek Herald",
     "The Guardian",
-    "The Institute Of Public Affairs - IPA",
-    "Yahoo News Australia",
+    "aapnews.aap.com.au",
     "facebook.com",
     "realestate.com.au",
     "superguide.com.au"
   ],
   "items": [
     {
-      "title": "Queensland-style inquiry needed for Victoria's Big Build, says academic",
-      "url": "https://www.abc.net.au/news/2026-07-24/david-hayward-calls-for-victoria-big-build-inquiry/106951428",
+      "title": "Australia news live: Jim Chalmers says he has ‘other priorities’ than a gas tax; Anthony Albanese calls to congratulate Andy Burnham",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-23T20:48:10.000Z",
+      "summary": "Treasurer points to other reforms after Labor members call for ‘fairer return’ from natural resources.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
+    },
+    {
+      "title": "Violence by son-in-law left 72-year-old 'homeless and hopeless'",
+      "url": "https://www.abc.net.au/news/2026-07-24/elder-abuse-queensland-increasing-calls-for-support-services/106926758",
       "source": "ABC News",
-      "publishedAt": "2026-07-23T19:09:20.000Z",
-      "summary": "One of Australia's leading public policy academics says a \"Queensland-style\" commission of inquiry is needed into Victoria's Big Build.",
+      "publishedAt": "2026-07-23T20:05:02.000Z",
+      "summary": "Reports of elder abuse in Queensland have steadily increased in recent years, with women being the most common victims. Advocates say urgent investment is needed for prevention and response.",
       "categories": [],
       "relevant": false,
       "score": 4,
       "spicy": false
     },
     {
-      "title": "How a series of urgent texts warned of a major corruption scandal",
+      "title": "Qantas plane set to arrive in Australia today - direct from France",
+      "url": "https://www.smh.com.au/business/companies/qantas-plane-set-to-arrive-in-australia-today-direct-from-france-20260723-p60i3u.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-23T20:00:55.000Z",
+      "summary": "The custom-built Airbus A350-1000ULR is expected to land in Melbourne on Friday after making a direct 20-hour plus flight from the factory in Toulouse.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Labor warned regional funding woes will drive One Nation support",
+      "url": "https://www.abc.net.au/news/2026-07-24/labor-push-to-lift-council-funding-amid-voter-frustration/106951850",
+      "source": "ABC News",
+      "publishedAt": "2026-07-23T19:42:06.000Z",
+      "summary": "The ALP's 50th National Conference kicked off with the rise of One Nation, local council budgets and regional voter frustrations leading negotiations.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Security concerns in US over Chinese ships that visit Australia",
+      "url": "https://www.abc.net.au/news/2026-07-24/us-security-concerns-over-china-icebreakers-xue-long-australia/106944284",
+      "source": "ABC News",
+      "publishedAt": "2026-07-23T19:40:08.000Z",
+      "summary": "Two Chinese polar research ships that make regular port visits in Australia have come under increased scrutiny by US authorities targeting \"any detected malign activity\".",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "'Far more' needs to be done to help children leaving state care",
+      "url": "https://www.abc.net.au/news/2026-07-24/queensland-child-care-transition/106948148",
+      "source": "ABC News",
+      "publishedAt": "2026-07-23T19:32:03.000Z",
+      "summary": "In Queensland, the Family and Children's Commissioner Luke Twyford, said the situation is \"profoundly upsetting\".",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "The text warnings about a looming Liberal Party corruption scandal",
       "url": "https://www.abc.net.au/news/2026-07-24/ray-williams-warned-gladys-berejiklian-about-looming-scandal/106910478",
       "source": "ABC News",
       "publishedAt": "2026-07-23T19:08:35.000Z",
@@ -122,14 +181,25 @@
       "spicy": false
     },
     {
-      "title": "How China won the car wars",
+      "title": "Automakers in shock as China takes over",
       "url": "https://www.abc.net.au/news/2026-07-24/china-dominates-ev-market/106951586",
       "source": "ABC News",
       "publishedAt": "2026-07-23T18:46:56.000Z",
       "summary": "In June, a bulk carrier made an unprecedented delivery of EVs to Australia, sounding an ominous warning to the world's automakers.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 8,
+      "spicy": false
+    },
+    {
+      "title": "Live: King Charles opens Glasgow 2026 after ceremony buoyed by Scottish pride",
+      "url": "https://www.abc.net.au/news/2026-07-24/commonwealth-games-opening-ceremony-live-blog/106952502",
+      "source": "ABC News",
+      "publishedAt": "2026-07-23T18:37:14.000Z",
+      "summary": "The Commonwealth Games are officially opened by King Charles III as many of the 3,000 athletes parade in front of 14,000 spectators.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
       "spicy": false
     },
     {
@@ -206,7 +276,7 @@
       "summary": "One Nation leader labels family violence leave ‘ridiculous’ and decries ‘woke’ support of women’s rights in November podcast",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -217,7 +287,7 @@
       "summary": "Criticism comes as prime minister frames unity as point of difference to political opponents, saying ALP chooses ‘progress over protest’",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -228,7 +298,7 @@
       "summary": "The Australian sharemarket pared most of its early gains after the nation’s latest job market figures came in stronger than expected, keeping the chances of another interest rate rise next month on the table.",
       "categories": [],
       "relevant": false,
-      "score": 8,
+      "score": 7,
       "spicy": false
     },
     {
@@ -250,17 +320,6 @@
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-07-23T03:56:47.000Z",
       "summary": "Great Southern Mining has begun drilling its big Mt Dillon copper-gold porphyry target in Queensland, with global major Gold Fields funding the campaign.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Labor debates future, Liberals hold up pamphlet",
-      "url": "https://www.abc.net.au/news/2026-07-23/labor-conference-barnaby-joyce-dog-angus-taylor-brochure/106945568",
-      "source": "ABC News",
-      "publishedAt": "2026-07-23T03:22:53.000Z",
-      "summary": "Australia's two major parties are deliberating their futures this week with Labor's national conference and the Liberal Party's glossy new pamphlet.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -357,17 +416,6 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "KPMG whistleblower refused to move to Australia, fearing alleged bullying",
-      "url": "https://www.smh.com.au/business/companies/kpmg-whistleblower-refused-to-move-to-australia-fearing-alleged-bullying-20260722-p60hf0.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-22T19:00:00.000Z",
-      "summary": "KPMG partner and former board member Kim Lawry has been accused of bullying and defaming the whistleblower who later triggered an existential crisis at the firm.",
-      "categories": [],
-      "relevant": false,
       "score": 3,
       "spicy": false
     },
@@ -491,17 +539,6 @@
       "spicy": false
     },
     {
-      "title": "Australians don't understand how interest rates work, RBA finds",
-      "url": "https://www.abc.net.au/news/2026-07-22/understanding-inflation-would-help-lower-interest-rates-rba/106944486",
-      "source": "ABC News",
-      "publishedAt": "2026-07-22T07:02:06.000Z",
-      "summary": "The Reserve Bank is concerned that too many Australians have little idea what the central bank is trying to achieve with interest rates, which it says could be making its job harder.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
       "title": "People with secret ‘safe phones’ advised to turn off devices during national test of AusAlert emergency warning",
       "url": "https://www.theguardian.com/australia-news/2026/jul/22/people-with-secret-safe-phones-advised-to-turn-off-devices-during-national-test-of-ausalert-emergency-warning",
       "source": "The Guardian",
@@ -573,9 +610,9 @@
     },
     {
       "title": "Investors returning after budget blow to housing breaks",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEpmbmFlb2pvM0Jqbi1KV3BaWENRWlQyc0pQdTltNWV4dHJYSXRpaGp2dVR0RnhwRF9yQkxrdWxRcl8wUWlLaVViaE9CTGRndWd4RE15Uk1VaVZsN2VIWmFyVTI1WVIxSjlsamtNQkVPcmthVUJGODZDWDNJR2JGMm9uVzduN1U?oc=5",
-      "source": "Yahoo News Australia",
-      "publishedAt": "2026-07-21T04:07:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOEFid0NhU3c0NjhaQWI1dThqbHMxdzNsTFY5eGZZUjN4TEM3QW1HS3dvMmd0eTM5eGZhZE40cERhcm42WmtKMjRKa0V1MVdJVFU1c3lpSVBpMzdfV2RPdGhjVnR1cGxlSlgzUEpuNHI4dU5FVldMcjBybVJ1X3k3OFRwVnFSMUthR3llaG5fbWo?oc=5",
+      "source": "aapnews.aap.com.au",
+      "publishedAt": "2026-07-21T04:16:11.000Z",
       "summary": "",
       "categories": [
         "Housing"
@@ -603,41 +640,6 @@
       "summary": "Countering the populist challenge to liberal democracy requires something of a reset The British love a coronation. That’s how the arrival of Andy Burnham into 10 Downing Street is being described in the UK. On Friday, Burnham was “crowned” as Labour leader, after being the only party MP to secure e",
       "categories": [],
       "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "How much does Australia spend on offshore detention in Nauru? | Fiona Katauskas",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/jul/21/how-much-does-australia-spend-on-offshore-detention-in-nauru",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-21T01:04:40.000Z",
-      "summary": "It’s hard to tell where it all goes… See more of Fiona Katauskas’s cartoons here Continue reading...",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Budget improves by billions, but petrol pain about to grow",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjMyN1R5OTJoeU1ySDRXRzRqbDlLYmNISktIRDV3UmFjQUM0Zkk4LVhzUVNvUWFRNktjdXBOVTd6V2tEdXpPcWt2UlJKYkNOYTlwRUFzcGwwWkVuZ0ZhZHBUdV8tZ2VxZU9XamU1QXpaM1ZrQWNhNllUSWVMT1AybHgycnZ3UzBtSk9JaDJ2WXZoZ3NQWm1oU2VLdXBhRVhLU0JxVTlsY1JjYnYwVjBWa094YjMyNGlXc3c?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-07-20T12:30:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Federal budget changes have influenced investor demand in the property market",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTldlb1FlU243Y3JmcGUzTzVReE90Zm9NcUVucXNFNEFMTGFGRkFGaWdKUkVrN0EwM2xqV2llc2szMWhkdFAwNFpXZUh5RG1yN1pmLVZRblRiNUZ3ZWt4Z3psaENxSkU4MjlyZ3kyRGN4anY5Y29qYmVfM3FVR2JRbmdrZ2FjejNpMjVJRHczOFF3UGJaSkdseDNsQkJ4M2pmMnEzSXFjLWtwcVUwaDNWbG1CYUpFLVRONi0yS1pqMUc0bzV3UzBnUDZyMEJ6ZHl5Z2txeXg2QVR1Q2VvbmVfRnJ2U3lFSGItbi1NYllJQ1MzUdIB9wFBVV95cUxNdVN6dzRLZExIdTNIQ256OHhhLURHckYzSjdCQkVRa29NX1hQUHMyckxLZlBnc0ZmSHdocmdteEdoUDF4a1NRU3NENFMyeEYtb2NhdnVQMjk4RUs2Nk1rQ09kcU9OVkdyaW9sendNdDJUV1hZWi1FMmlQQTVJZFJJdWZDb3B2OWhMbGszMnVIU1ZHMGwxVWxaRnM0RjVqMi1RYk1BajF6QTQwWUpWem5BTnhFODZ6QlZVYVpuU09VaHdzSDF0eGhQS0l5UTdidk1JQXRydW5yVDZlZE1QRHlNejZkcmt2RUdWVEVJRVhTTlVYNXVxRTQw?oc=5",
-      "source": "Sky News Australia",
-      "publishedAt": "2026-07-20T08:11:18.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
       "score": 3,
       "spicy": false
     },
@@ -750,17 +752,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Shoebridge criticises Labor for delayed AI policy – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/15/australia-news-live-ceo-pay-anthony-albanese-palestine-gaza-ai-artificial-intelligence-datacentres-copyright-royal-commission-antisemitism-labor-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-15T08:06:13.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -1256,13 +1247,15 @@
       "spicy": true
     },
     {
-      "title": "Bad budget another marker in Australia’s managed decline - The Institute Of Public Affairs",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmVFS1hfV1VRSWpzMFhFdWUtVFRmTXhwVWtQSWZ1d2w3SWZsNHdYYWJlQUZMUHJYeW1KNDN6NzZ1Z1NjUkxUSDVWT1VmR1pxcXcwRmozSkEwQ2ZRZGZMLWNGR29RVnNZWG5JNjQ4cHJTN3ZkejFMejB2QzVobGpJRVZQaHYwSHBEdEc2VHU5ZlMya1VmQVg0cU5HM2RBT2lVSXdiajRFRy1nQQ?oc=5",
-      "source": "The Institute Of Public Affairs - IPA",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
+      "title": "Council adopts 2026/27 Budget focused on cost-of-living relief and sustained investment",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbkp1dU1lSlVlS2RLT1pWdjJjVHRtam1ubW9NVUZEaXdCN19TTno3aDNsaXlPa3dIUmV1SDJKSU40dmFwclNmNk4ycDRSLS1Vc1JjdmxmZlVvb0xnbElMcGI4ZjBkNm5qSV8zSGtnSWI0dW11cEZld1dZQ2NaVEdYdklmZ0oyMmhwUHM5a0VUU3ljVTBySXduSW94OVlUVXFhRmZqb2hOU1o1c0trWTdiMkJsMmNvbWJr?oc=5",
+      "source": "City of Ballarat",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
       "summary": "",
-      "categories": [],
-      "relevant": false,
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
       "score": 0,
       "spicy": false
     },
@@ -1503,6 +1496,17 @@
       "relevant": true,
       "score": 5,
       "spicy": true
+    },
+    {
+      "title": "Who wins and who loses in the NSW budget",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTZKTFpSbnZDYTI2a0o3amJVdWxKTlpFTDY4WmRKbzBDVlJIY1hMbElLSExEdXBnSWdxaUktUmZLVnpGQ1NLekQwcTRoYmpRQWZOdG5KNjBBLUZGR0E1VU9JWnhtdjlhbEluaDlpNTBvS01CeEY5Q3dDTzBabm1NM1NkaXJPeFJ3cVRvalk1QkF0UXhxQVVNZkhhMTdHSDNa?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
     }
   ]
 }
