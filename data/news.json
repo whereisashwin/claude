@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-26T09:20:10.374Z",
+  "updatedAt": "2026-07-26T11:04:51.914Z",
   "count": 120,
-  "relevantCount": 47,
-  "spicyCount": 9,
+  "relevantCount": 49,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -42,7 +42,7 @@
     "Khaleej Times",
     "MacroBusiness",
     "Mondaq",
-    "NSW Government",
+    "News.com.au",
     "Nomad Lawyer",
     "Proactive financial news",
     "Property Council Australia",
@@ -51,14 +51,27 @@
     "SMH.com.au",
     "Sky News Australia",
     "Sydney Morning Herald",
+    "The Age",
     "The Australian",
     "The Guardian",
+    "The New Daily",
     "Yahoo Finance Australia",
     "facebook.com",
     "realestate.com.au",
     "superguide.com.au"
   ],
   "items": [
+    {
+      "title": "Victorian premier facing leadership challenge this week",
+      "url": "https://www.abc.net.au/news/2026-07-26/victoria-premier-jacinta-allan-leadership-challenge/106960114",
+      "source": "ABC News",
+      "publishedAt": "2026-07-26T10:46:19.000Z",
+      "summary": "Factional convenors from both the right and left of the party room met on Sunday night to discuss whether Jacinta Allan still had the support of a majority of caucus. The ABC understands they agreed she did not.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "‘Ulterior motives’: Bad blood simmers within Labor over Israel policy",
       "url": "https://www.smh.com.au/politics/federal/ulterior-motives-bad-blood-simmers-within-labor-over-israel-policy-20260726-p60inp.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
@@ -71,11 +84,11 @@
       "spicy": false
     },
     {
-      "title": "Live: Diamonds face early test, McEvoy hits the water for 50m free final",
+      "title": "Live: Diamonds in action against England, Aussies in form in the pool",
       "url": "https://www.abc.net.au/news/2026-07-26/commonwealth-games-day-three-live-blog/106959386",
       "source": "ABC News",
       "publishedAt": "2026-07-26T08:24:52.000Z",
-      "summary": "Day three of the Commonwealth Games sees the Diamonds face an early test, taking on 2018 gold medallists England, and Cam McEvoy will hit the water for the 50m freestyle final.",
+      "summary": "Day three of the Commonwealth Games sees the Diamonds face an early test, taking on 2018 gold medallists England, and the Dolphins are in the pool ahead of finals early tomorrow.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -287,17 +300,6 @@
       "spicy": true
     },
     {
-      "title": "Father of tourist killed in Laos calls police probe 'incompetent'",
-      "url": "https://www.abc.net.au/news/2026-07-26/families-outraged-over-laos-methanol-poisoning-probe/106957610",
-      "source": "ABC News",
-      "publishedAt": "2026-07-25T18:41:47.000Z",
-      "summary": "The families of six people, including two Australians, who died from suspected mass methanol poisoning at a Laos hostel have described the outcome of a 20-month police investigation into the incident as \"false\".",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "The 10 books our critics couldn't put down in July",
       "url": "https://www.abc.net.au/news/2026-07-26/best-new-books-dave-eggers-colson-whitehead-kris-kneen/106918862",
       "source": "ABC News",
@@ -447,6 +449,17 @@
       "relevant": true,
       "score": 6,
       "spicy": true
+    },
+    {
+      "title": "Labor promises a ‘fairer’ gas deal",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaTdsTFZzc1FjcjFmemtpOGJlcUdGRVJUakl2U3F6ajZxTjJLcU13TlRLbGJoT0ZMaWJzeXdnLVZDbDVfaGc5cUV2dTg5VDktNTFYbkpJOHdCRXE2a09vM0lraGpOdExxUTB0ejk3WHhiSWFXdmVMVENVd1JZSG13bnhyUUFiUFlCYW5qN1JNNGk?oc=5",
+      "source": "The New Daily",
+      "publishedAt": "2026-07-24T19:57:06.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
     },
     {
       "title": "Electric cars are taking off in Australia. Charging stations are the next challenge",
@@ -627,6 +640,19 @@
       "spicy": false
     },
     {
+      "title": "Time for the mining diesel rebate to go",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2VQWVBCQ0JHWnd3YjlDbkdWdUZxZVJncXY3T3NRSUt4ekZmakU4Y3RhXzdhTXc3Y2RwczZPM3R1Qi1ULVlMRmdmYXl4RDZQbURGTnFpVzNrVnRXQ0dSc2hwTDluXzkzY0lQZ2lrb2tGWldOVVo4dlRnNTc4MUF2blRvbGd5X1NJ?oc=5",
+      "source": "MacroBusiness",
+      "publishedAt": "2026-07-24T02:35:28.000Z",
+      "summary": "",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "The great copper migration: ASX juniors head to South America",
       "url": "https://www.smh.com.au/business/companies/the-great-copper-migration-asx-juniors-head-to-south-america-20260724-p60i8j.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
@@ -717,17 +743,6 @@
       "spicy": false
     },
     {
-      "title": "Labor grassroots push on green agenda faces resistance from senior MPs",
-      "url": "https://www.smh.com.au/politics/federal/labor-grassroots-push-on-green-agenda-faces-resistance-from-senior-mps-20260723-p60hzu.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-23T09:15:47.000Z",
-      "summary": "Senior MPs from resource states are staring down environmental advocates and insist that Labor is not about to embark on a radical green agenda.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Pauline Hanson says domestic violence prevents police from dealing with ‘real crime’ in unearthed interview",
       "url": "https://www.theguardian.com/australia-news/2026/jul/23/pauline-hanson-said-domestic-violence-prevented-police-from-dealing-with-real-in-2025-podcast-ntwnfb",
       "source": "The Guardian",
@@ -746,19 +761,6 @@
       "summary": "Criticism comes as prime minister frames unity as point of difference to political opponents, saying ALP chooses ‘progress over protest’",
       "categories": [],
       "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Fair Work Court to assist Australian workers with employment, underpayment issues",
-      "url": "https://www.smh.com.au/politics/federal/fair-work-court-to-assist-australian-workers-with-employment-underpayment-issues-20260723-p60hwv.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-23T07:36:25.000Z",
-      "summary": "The party also agreed to back compulsory superannuation for teenagers, regardless of how many hours they work.",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
       "score": 3,
       "spicy": false
     },
@@ -1060,6 +1062,20 @@
       "spicy": false
     },
     {
+      "title": "‘Anti-aspiration’: New tax rules hit first home buyers",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdERjeXJiUTBBeGI5NTFabnl6Zndhc0gwSGdySDRvYnF2SGxEWWJHLW1CUHBycGhzNkR6cFNxUTd4WEpmM0wtSFJjd1loOW9iRHFFYlJBbjhJTXdqX2hkdno3X1pRNGJaV2I1cXN6WFd6ejA2VDkyNDVGSEhIeVJ5UVZHb1BsbjZOZUVneVJsVURYNDlHTDdaNWJ4U1VWZEhHZ2hvQmdzUGR1djI3SUZNWlNRLWcxVHd6ZHpBZVVETUY0Mk9reGE4WU5yal9TMGk5S1hWWGcwS2NLTVJzZHYzQ2plQ1ZJangwTWdDS3VhZUowNHpTbXhEcWRoQlotTkk00gGGAkFVX3lxTFB1b1hhMkd6ZjZxMl9zOUZXV2Jyd1ZlMFhfdHVOWFJyeVlBQ2VQWFM0cjhfM1lva1pNOW01S0xlV0NCQ0JDaklaak85bExUMWthX2VnTU5tUzhKUU9RUndKN1NmNnhpeE5NTFhwNGFISEhUWkVja3g4c0RSTEphaGVFVDB5Q2NSTGRJeU5rSE1jU3RqaUNOdUJtSEk5WS1uQmo1cGg1ZkNaVGs4ZHRGN2JvUGFRRG16Z2x2RTd6NWJtaFdEUFdpZElpVmtwYjFKYjR1SDlaYzg5UmFFTVRpZDRlMm9kMGItMm40bVRCRVV3MVdOdWFIX2xLS1l1VFFkV2pnOGhSUEE?oc=5",
+      "source": "News.com.au",
+      "publishedAt": "2026-07-08T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
+    },
+    {
       "title": "Australia’s housing accord in crisis amid alarming construction plunge",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHZ4eU9PU19oaWlrczBGeFQ3bzEyUzVfeWoyczRUazNRMW91QWlBbGhtSXo0bkNVTWRYdWVZWmF6UGRQM2xYNHRvaS1VY29VT2h0RmxrMkxCWkFsa21rWnFGc2wxckRsdWxzQmlxMVdGeVdxWUtIRl9Yak5IbTUtVFlva21yblZRaUlXWEYzT1ZocHdqN2lyZFJ0cElDX0wySk1WY21DUlM?oc=5",
       "source": "realestate.com.au",
@@ -1184,6 +1200,19 @@
       "spicy": false
     },
     {
+      "title": "10 tax and super changes you need to know",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPV2I4N0pwWmlxdk1nUFQ0SWlCWlBTQUVPbkNTbHJ4R3FkQ1g2QlJIMk1MQ1ZiN3lhM0FOS2JQTXByS09zbW9kcWhNNXFYUEwyVERtcktZbnJ6V0hkWk8wR2ZxM2JsSHMyZVlrUlRsYUdULUNuS2gwbERBU2wyNG9PWGt6SXJ4QU9mVkVSX3M4SEFEYWYwa3QycF9WRlBVNkpPS1hDTm1UX0huY2dsZnRmSlJ0S3BuYXlDZEFfbHo2U3VCaXp3TXVoa1gwb3ZtRnE2dHpVWXRuaXJZVkppUjdZSEhSVEdKTmxxbnpyMUhuRTBaZ3N2SjdBSld30gH_AUFVX3lxTFBVbEdydkNNd3JmOTdsUUh3aGo3dGVmZzdWNDdpSGpkdUYxOTNraTk4SjZ1QmJjNUo2cFpxUDBVbFJuWXMybDFnWk1VVy0zN2pDNVR4MU95dXlGbUtQczR6bXAxVERnWElOVGdzY3BOYkZYbnZUNFpXUllabWszaTlkTkNoN3p0R1NNUWxyVUljUC1ieXpsaGRrS3VydjNRWE1YRC10V1hGMkplVlI5SG1UWGtZYXJtNE15SU9QaExYcy1tdGhFUnpybmp6SUV1RXYzN1lLVWpnT2FyaFkyTmdXdF9jcHJzU3BjZGFyWmFKemhTQ3JHNGctNjZ5a09Raw?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
       "title": "House values fall – but homes are not getting more affordable",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX29XcHAxWHZETUlWTENzeGNLWEJsMkR5ZkdSQVVmaDRSNjdCSnFUcWVQNjhRSEhpV0NLYkEtcXU3d2FKeGRNbUhyVkRsQ0lIRURfbnN5eGc1N1lCLUFGMkxDU3pzVjgwdmhrdWhUQkZ2Z29jR1hhNm9ieEJYNkdPaHJmMUZkVzN1czBORGc3VzE5dG5jbDZXWnZMUWVURTNIMzJiSjhzcE1QbFVtNk5pYlVENWgxUnJHQ01mUA?oc=5",
       "source": "SMH.com.au",
@@ -1244,6 +1273,17 @@
       ],
       "relevant": true,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Kristian had given up on buying a home. The budget changed everything",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNWZ3akdzX1RJNGZINDhWRUpMeWh2amptbnkyQTZsck5DLVdXWE9qZWZYQlZHV2JqRHN2VjI5c1lNU3FFREw2TlRlQVBHSm9DdEViLUlFMy05WU9vazBYbi10aHNmaUs4ZUJNbzhOUEFlVUFPSkdNM3pEUUpQclRXRjJWWVZwUkxBNzB2aEN6c3lJMTdJNXhOZ21rdUc1MXhDTEFhaEZZWGd5dTBDekxNWlFqZlg0b0xyZ1QxcWRJS1pIV3NUdTM3SQ?oc=5",
+      "source": "The Age",
+      "publishedAt": "2026-06-28T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
       "spicy": false
     },
     {
@@ -1363,6 +1403,19 @@
       "spicy": false
     },
     {
+      "title": "Tax changes ‘damaging the future Australian economy’: Tim Wilson",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWJ6Snl5b3p2MFhlS3ZObVQ1UjVpQXZXUFdUb3BmWHN1ZkRBTVExeXZHLUpKcE1hcDYxaU1lbjluYjQ1ZThSV1lYRE1naExjdWh0c0l1YzdLemxDQjJXM3F5MEQwSFNQQW84S0d6SUlwdGtSdkg2T25pNHdES2N6TWpkYVBtNFIxODJSLXpabXhsZmZXYU1GWkRwaktWSXYtMURBWjBGLWRSTkRZMWZFaERB?oc=5",
+      "source": "Accountants Daily",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Taxpayers give $2.7b to rich families in childcare, parental leave",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHpkU3poVGxaNUZIRGZrdUtHcHM4elFvbzZuVGduVDNCTGxPMVRkc0MtZU9wdWtHVkotdEFwal9RN2huM25ibnQwUE9rU3R3djJFRnFwckljVVFGRk5KRUk3Q0gtWDFEV3BJX21DbTd3RlZJOHFOU2xlLXNqNXpheGxCU0s1b1plY3JST2Jqcnd4SVVJV0ZkQkttVVUxOUN6SzBVWnVIb2FBanJHZmxmS2w3cUQtZw?oc=5",
       "source": "AFR",
@@ -1431,52 +1484,6 @@
       "categories": [],
       "relevant": false,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Labor’s housing affordability fix could freeze the market",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVdEUnhrTWdwZ0g3Ym04cjV1MDd2aHZKX2lubEtaSTVXZ085OUZrMEk5Mlh1anN4VEhHdWo1aUNiblZZeWR1VEU5LTRxZnZKT2ppVXpkajFUb09RREx1NkFJRUNiYWxWeVVxY01nRE5rR2JOLXgxYnhwNTl4UVVNOVloTGxyTDFwUjR2S0lXbEVHdnE2YmJzcDB6OGxiSDRwTkp2MW45ODBXMThz?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "NSW Budget 2026-27: Cost-of-living measures",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2tpT3ZWajMweWc5cl95OENmZDdXbEJ1UUZhN0U5S3VQc2c3NXJTalZ3MjljWnB0VHpJakFuZERkem9VV0pxV3hKOS10TnRSYWVsWWFoMEplc2d1YkxjUlJ0bnVhQ3R3VEFfWDNGcHdzSW8yVEp0Z3lPSXotZlZjaGllOVRBS2RreGpxLWdOZw?oc=5",
-      "source": "NSW Government",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Five key takeaways from Crisafulli's second budget",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3NDMDRnYVhvV0FwRmNXX3Q5SEhjM21WbHNJeDR0eU5aYms2VjIyOUZ3S0hmRUJHdm9pWjRWNXBVVVlDbkVRWE44VTVITklRcVo3SGsxTGs1NmNzUUdxNFQ5WnROZGFNRWRtWHllTEgxa0pHLUpPX2UyZHdjQTBkNFRKQVUtWVE0blE0MDVn?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "NSW budget offers short-term sugar hit but there could be bitterness to come",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWURlMHNidk5XVndUN1VfeWFLSnlKelphUEVib2JUVnlxLXI3VVZ3NDhWRXhxc1ZaVlhnelRBd3pWajdVVzB1bWh5eE9LR2d5ZWdtOUpGQV9PRmFNckI2aVVzQ09zeFdIS0JpdmJZYjhyY0tHQVh2WkV0eFVuQ2ZuNERWRjVhUHBwenZjMjBDVlpEdw?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     }
   ]
