@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-28T19:46:29.776Z",
+  "updatedAt": "2026-07-28T21:14:48.183Z",
   "count": 120,
-  "relevantCount": 52,
-  "spicyCount": 10,
+  "relevantCount": 53,
+  "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,6 +33,7 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
+    "Accountants Daily",
     "Australian Government Department of Health, Disability and Ageing",
     "City of Ballarat",
     "Crikey",
@@ -60,6 +61,41 @@
   ],
   "items": [
     {
+      "title": "Australia news live: Jacinta Allan was subjected to ‘vile sexism’ as premier, Julia Gillard says",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-28T20:53:58.000Z",
+      "summary": "Former PM says ousted Victorian premier was ‘courageous in combating misogyny’ and was a trailblazer for other women. Follow updates",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Woman who accused 'Australia's Banksy' of rape wants the courts to hear this",
+      "url": "https://www.abc.net.au/news/2026-07-29/nsw-lister-violet-speaks-out-after-failed-court-case/106949450",
+      "source": "ABC News",
+      "publishedAt": "2026-07-28T20:36:42.000Z",
+      "summary": "A woman who accused street artist Anthony Lister of rape is speaking up to help others navigate the police and court systems. Lister was acquitted of all charges last year.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Hundreds of Queensland social housing tenants evicted after review",
+      "url": "https://www.abc.net.au/news/2026-07-29/queensland-public-housing-rent-tenancy-reviews/106962176",
+      "source": "ABC News",
+      "publishedAt": "2026-07-28T19:41:32.000Z",
+      "summary": "Dozens of households have been kicked out of social housing in Queensland after being found to own property or earn more than $80,000 a year.",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
+    },
+    {
       "title": "Ben Carroll begins first full day as Victorian premier",
       "url": "https://www.abc.net.au/news/2026-07-29/ben-carroll-first-full-day-as-victorian-premier/106968666",
       "source": "ABC News",
@@ -82,7 +118,18 @@
       "spicy": false
     },
     {
-      "title": "Age-check providers want Australia to 'test' social media platforms",
+      "title": "Brothers who kidnapped, menaced teen with chainsaw lashed by judge",
+      "url": "https://www.abc.net.au/news/2026-07-29/teenager-kidnapped-tied-up-and-locked-in-shipping-container/106966500",
+      "source": "ABC News",
+      "publishedAt": "2026-07-28T19:08:46.000Z",
+      "summary": "A teenage boy was \"terrified\" during an assault by two brothers, during which he was kidnapped and menaced with a chainsaw in a shipping container in Tasmania in 2023.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Warning social media giants might wear fines to help sink the age ban",
       "url": "https://www.abc.net.au/news/2026-07-29/age-checking-companies-want-esafety-to-test-social-media-giants/106968702",
       "source": "ABC News",
       "publishedAt": "2026-07-28T19:00:29.000Z",
@@ -115,22 +162,11 @@
       "spicy": false
     },
     {
-      "title": "Food industry insiders reveal how Australians are being 'fooled' at the supermarket",
+      "title": "'They are getting fooled': How ultra-processed food is made to look healthier",
       "url": "https://www.abc.net.au/news/2026-07-29/processed-food-marketing-fooling-shoppers-over-health-claims/106961954",
       "source": "ABC News",
       "publishedAt": "2026-07-28T18:38:16.000Z",
       "summary": "Industry insiders reveal how Australians are being deceived by marketing and labelling that makes ultra-processed foods appear healthier than they really are.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Australians are the villains in star-studded New Zealand spy comedy",
-      "url": "https://www.abc.net.au/news/2026-07-29/new-zealand-spy-paul-williams-bret-mckenzie/106949316",
-      "source": "ABC News",
-      "publishedAt": "2026-07-28T18:30:00.000Z",
-      "summary": "What happens when you take the exciting world of spies and subterfuge to 1970s New Zealand? We talk to Paul Williams and Bret McKenzie about making their childhood fantasies come true in hilarious new comedy.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -148,6 +184,17 @@
       "spicy": false
     },
     {
+      "title": "Australians are the villains in star-studded New Zealand spy comedy",
+      "url": "https://www.abc.net.au/news/2026-07-29/new-zealand-spy-paul-williams-bret-mckenzie/106949316",
+      "source": "ABC News",
+      "publishedAt": "2026-07-28T18:30:00.000Z",
+      "summary": "What happens when you take the exciting world of spies and subterfuge to 1970s New Zealand? We talk to Paul Williams and Bret McKenzie about making their childhood fantasies come true in hilarious new comedy.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
       "title": "Marathon 24-hour Qantas flight tracked by 3.6 million internet users",
       "url": "https://www.abc.net.au/news/2026-07-29/qantas-project-sunrise-test-flight/106969232",
       "source": "ABC News",
@@ -156,6 +203,17 @@
       "categories": [],
       "relevant": false,
       "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Ben Carroll will want to distance himself from Jacinta Allan’s unpopularity – but will that be enough to save Victorian Labor? | Jon Faine",
+      "url": "https://www.theguardian.com/australia-news/commentisfree/2026/jul/29/ben-carroll-will-want-to-distance-himself-from-jacinta-allans-unpopularity-but-will-that-be-enough-to-save-victorian-labor",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-28T15:00:09.000Z",
+      "summary": "Another female politician has fallen to opinion polls and factional leaders as the spectre of Pauline Hanson’s One Nation hovers over all You can be sure Victoria’s new premier Ben Carroll will never be seen in a North Face jacket. Even if the leisure brand is to be found in his wardrobe, he would b",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
       "spicy": false
     },
     {
@@ -169,17 +227,6 @@
       ],
       "relevant": true,
       "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Ben Carroll will want to distance himself from Jacinta Allan’s unpopularity – but will that be enough to save Victorian Labor? | Jon Faine",
-      "url": "https://www.theguardian.com/australia-news/commentisfree/2026/jul/29/ben-carroll-will-want-to-distance-himself-from-jacinta-allans-unpopularity-but-will-that-be-enough-to-save-victorian-labor",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-28T15:00:09.000Z",
-      "summary": "Another female politician has fallen to opinion polls and factional leaders as the spectre of Pauline Hanson’s One Nation hovers over all You can be sure Victoria’s new premier Ben Carroll will never be seen in a North Face jacket. Even if the leisure brand is to be found in his wardrobe, he would b",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
       "spicy": false
     },
     {
@@ -295,18 +342,18 @@
       "summary": "The settlement brings to a close one of the final pieces of litigation arising from the Higgins affair, which has spawned multiple court cases, investigations and compensation claims since first erupting in 2021.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
-      "title": "Live: Dolphins dominating in the pool, Aussie sprinters fly despite rain",
+      "title": "Live: National records tumble as Aussie sprinters storm to 100m medals",
       "url": "https://www.abc.net.au/news/2026-07-28/commonwealth-games-glasgow-day-five-live-blog/106965170",
       "source": "ABC News",
       "publishedAt": "2026-07-28T08:38:33.000Z",
       "summary": "Australia is set to add to its medal tally on day five of the Commonwealth Games, with its swimmers and athletes in contention for podium finishes.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -317,7 +364,7 @@
       "summary": "One Nation leader declares billionaire donated flights and invited her to the fashion show, but she paid for her own luxury accommodation",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -328,7 +375,7 @@
       "summary": "Gen-Z firecracker Hannah Ferguson says mainstream political parties are broken – and now she’s hatched a plan to get elected.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -339,7 +386,7 @@
       "summary": "The benefactor of Pauline Hanson's Italy trip has been disclosed in an update to the One Nation leader's gift registry.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -350,7 +397,7 @@
       "summary": "This blog is now closed Jacinta Allan resigns as Victorian premier before leadership challenge by Ben Carroll Who is Ben Carroll?",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -361,7 +408,7 @@
       "summary": "Australian shares closed in the green after a speech from RBA governor Michele Bullock prompted investors to slightly lower their bets on a rate rise this year.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -398,33 +445,11 @@
       "spicy": false
     },
     {
-      "title": "Australian-founded restaurant at centre of South Korean court case over ant garnish",
-      "url": "https://www.abc.net.au/news/2026-07-28/evett-south-korea-court-case-over-restaurant-use-of-ants/106949890",
-      "source": "ABC News",
-      "publishedAt": "2026-07-28T04:18:28.000Z",
-      "summary": "Seoul prosecutors have alleged Evett in Seoul's Gangnam district served ants illegally imported from Thailand and the US in violation of food safety regulations.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Renewable-powered aluminium smelter snubbed for green energy funding",
       "url": "https://www.abc.net.au/news/2026-07-28/no-green-energy-funding-for-rio-tinto-bell-bay-smelter/106966502",
       "source": "ABC News",
       "publishedAt": "2026-07-28T04:03:45.000Z",
       "summary": "Further doubt has been cast over the future of an aluminium smelter in Tasmania's north-east after a federal MP said it would not be eligible for a green energy scheme.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "A rogue AI just gave us a warning. Australia isn't prepared",
-      "url": "https://www.abc.net.au/news/2026-07-28/openai-artificial-intelligence-terminator-safety-hugging-face/106965400",
-      "source": "ABC News",
-      "publishedAt": "2026-07-28T03:35:10.000Z",
-      "summary": "Far-fetched scenarios about artificial intelligence became more realistic last week when an OpenAI model hacked another company.",
       "categories": [],
       "relevant": false,
       "score": 5,
@@ -720,17 +745,6 @@
       "spicy": false
     },
     {
-      "title": "Food fraud investigation reveals the disturbing truth behind the labels",
-      "url": "https://www.abc.net.au/news/2026-07-27/food-fraud-investigation-reveals-truth-behind-labels/106960116",
-      "source": "ABC News",
-      "publishedAt": "2026-07-27T07:18:51.000Z",
-      "summary": "A Four Corners investigation has uncovered products whose labels did not match independent scientific testing, raising serious questions about the integrity of Australia's food supply.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Libs face fresh confusion over possible One Nation coalition",
       "url": "https://www.smh.com.au/politics/federal/libs-face-fresh-confusion-over-possible-one-nation-coalition-20260727-p60iqs.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -808,19 +822,6 @@
       "summary": "Journalist and author Cory Doctorow is coming to Australia to spread his message – humans will take their jobs back",
       "categories": [],
       "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Barnaby Joyce backs One Nation’s ‘monocultural’ vision of Australia. But the reality in his NSW electorate is very different",
-      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/jul/27/barnaby-joyce-one-nation-immigration-monoculture-australia-refugees",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-26T15:00:16.000Z",
-      "summary": "New England MP previously supported Armidale becoming a refugee resettlement site. Now he’s flagging a possible exception to his new party’s strict English-language requirement",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
       "score": 3,
       "spicy": false
     },
@@ -1441,6 +1442,19 @@
       "spicy": false
     },
     {
+      "title": "Tax changes ‘damaging the future Australian economy’: Tim Wilson",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWJ6Snl5b3p2MFhlS3ZObVQ1UjVpQXZXUFdUb3BmWHN1ZkRBTVExeXZHLUpKcE1hcDYxaU1lbjluYjQ1ZThSV1lYRE1naExjdWh0c0l1YzdLemxDQjJXM3F5MEQwSFNQQW84S0d6SUlwdGtSdkg2T25pNHdES2N6TWpkYVBtNFIxODJSLXpabXhsZmZXYU1GWkRwaktWSXYtMURBWjBGLWRSTkRZMWZFaERB?oc=5",
+      "source": "Accountants Daily",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Taxpayers give $2.7b to rich families in childcare, parental leave",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHpkU3poVGxaNUZIRGZrdUtHcHM4elFvbzZuVGduVDNCTGxPMVRkc0MtZU9wdWtHVkotdEFwal9RN2huM25ibnQwUE9rU3R3djJFRnFwckljVVFGRk5KRUk3Q0gtWDFEV3BJX21DbTd3RlZJOHFOU2xlLXNqNXpheGxCU0s1b1plY3JST2Jqcnd4SVVJV0ZkQkttVVUxOUN6SzBVWnVIb2FBanJHZmxmS2w3cUQtZw?oc=5",
       "source": "AFR",
@@ -1476,17 +1490,6 @@
       "categories": [],
       "relevant": false,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Treasury was once the premier agency for economic counsel. Not any longer",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR3JvUUZvaEJQandYa3hFWU9xanZoT0xMdUg4X1JIRkI5UElUcC12dkk5cW9pcEY1M3ZYalpSRGgyVTdwdXZpVnZNcjlJLUwwV1RUSWE5QWdURzVSREJpbG9DelE2SjBuc3ByN2tqR3E5YXI1MTJkNUZWQzBnSW83ZW82NFc0UkNyeXU4djZXMG1vRlY3OWxuZ1VtWHpBTjFTeE9YQk9EVDNQWEpMVFJsN0hIRm5IV0RYYVFDMXdpSkxiLTh1Zm5YLWNPWlo5eGQ4WjEzeFo5QnVFWlFOWXRtelh0RnUya21TaGxNUzg3NjZQQQ?oc=5",
-      "source": "The Australian",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     }
   ]
