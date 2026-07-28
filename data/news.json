@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-27T23:36:52.279Z",
+  "updatedAt": "2026-07-28T03:20:22.916Z",
   "count": 120,
-  "relevantCount": 51,
-  "spicyCount": 7,
+  "relevantCount": 55,
+  "spicyCount": 9,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -45,6 +45,7 @@
     "Mondaq",
     "Money Management",
     "NSW Government",
+    "News.com.au",
     "Nomad Lawyer",
     "Proactive financial news",
     "Property Council Australia",
@@ -54,7 +55,6 @@
     "Sydney Morning Herald",
     "The Australian",
     "The Guardian",
-    "The New Daily",
     "Y-Axis Overseas Careers",
     "facebook.com",
     "fundsforNGOs",
@@ -64,51 +64,130 @@
   ],
   "items": [
     {
-      "title": "Australia news live: Jacinta Allan quits as premier of Victoria before leadership challenge in favour of Ben Carroll",
+      "title": "Australia news live: Ben Carroll promises new direction for Victoria ahead of ‘high stakes’ election; Moira Deeming quits Liberal party",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-07-27T23:35:41.000Z",
-      "summary": "Allan says she believes she would have won leadership spill. Follow updates live",
+      "publishedAt": "2026-07-28T03:18:04.000Z",
+      "summary": "Follow updates live Jacinta Allan resigns as Victorian premier before leadership challenge by Ben Carroll Who is Ben Carroll?",
       "categories": [],
       "relevant": false,
       "score": 4,
       "spicy": false
     },
     {
-      "title": "Australia news live: Victorian Labor MPs gather before Jacinta Allan leadership challenge; NSW Liberal leader says Icac hearing ‘intensely uncomfortable listening’",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-27T23:20:40.000Z",
-      "summary": "The Victorian premier, Jacinta Allan, will be challenged by her deputy, Ben Carroll. Follow updates live",
+      "title": "'Straight to the pool room':  Film classic The Castle goes onstage",
+      "url": "https://www.abc.net.au/news/2026-07-28/the-castle-stage-adaptation/106966540",
+      "source": "ABC News",
+      "publishedAt": "2026-07-28T03:12:51.000Z",
+      "summary": "The feature film responsible for Australian sayings such as ''Tell him he's dreaming'' is being launched as a stage production.",
       "categories": [],
       "relevant": false,
       "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Kaiser Reef soil survey lights up 4.4km VIC gold trend",
+      "url": "https://www.smh.com.au/business/companies/kaiser-reef-soil-survey-lights-up-4-4km-vic-gold-trend-20260728-p60j9a.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-28T03:06:14.000Z",
+      "summary": "Kaiser Reef has uncovered a 4.4km gold-in-soil anomaly at its Maldon project in Victoria, a goldfield that historically produced a whopping 1.75 million ounces.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Rate rise on August agenda as Bullock issues wage warning",
+      "url": "https://www.smh.com.au/politics/federal/rate-rise-on-august-agenda-as-bullock-issues-wage-warning-20260728-p60j4f.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-28T03:05:00.000Z",
+      "summary": "Despite signs that past rate hikes are working, RBA governor Michele Bullock has made clear a further increase is likely to be considered next month.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 8,
+      "spicy": true
+    },
+    {
+      "title": "Embattled MP Moira Deeming resigns from Victorian Liberal Party",
+      "url": "https://www.abc.net.au/news/2026-07-28/mp-moira-deeming-resigns-liberal-party/106966506",
+      "source": "ABC News",
+      "publishedAt": "2026-07-28T02:56:11.000Z",
+      "summary": "Moira Deeming says she will remain in parliament as an independent, after having her candidacy revoked by the Liberal party earlier this month.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Hotelier tells ICAC he made 'mistake' trusting Liberal figures",
+      "url": "https://www.abc.net.au/news/2026-07-28/nsw-icac-operation-rosny-michael-ohara-reformer-liberals/106964276",
+      "source": "ABC News",
+      "publishedAt": "2026-07-28T02:48:43.000Z",
+      "summary": "A hotelier who helped fund a conservative Liberal Party faction has told the NSW corruption watchdog he made a \"mistake\" trusting key figures at the centre of the bombshell investigation.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Ben Carroll becomes new premier of Victoria after Jacinta Allan resigns",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-28T02:37:49.000Z",
+      "summary": "Allan stepped down from top job before expected spill, saying her deputy has her ‘unqualified support’ Live updates: Jacinta Allan quits as premier of Victoria Who is Ben Carroll?",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Origin Energy says 900,000 customers had their data hacked",
+      "url": "https://www.smh.com.au/business/companies/origin-energy-says-900-000-customers-had-their-data-hacked-20260728-p60j6y.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-28T01:43:08.000Z",
+      "summary": "A major cyberattack has compromised personal data belonging to 900,000 current and former customers of Australia’s largest energy retailer.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "The sun has set on the British Empire, and yet this celebration remains",
+      "url": "https://www.abc.net.au/news/2026-07-28/commonwealth-empire-games-scotland-vs-england-team-gb-glasgow/106928274",
+      "source": "ABC News",
+      "publishedAt": "2026-07-28T01:06:23.000Z",
+      "summary": "The Commonwealth Games continues to roll on despite calls to decolonise our lives, with Scotland of all places a strange venue to stage two celebrations of the British Empire over the past 12 years.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "ASX slides lower, Viva jumps; Trump pushes for rate cut",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-slide-wall-street-mixed-oil-prices-keep-falling-20260728-p60j2f.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-28T00:41:20.000Z",
+      "summary": "The Australian sharemarket slid lower at the open after a mixed session on Wall Street, while oil prices continued to fall after the US and Iran paused their attacks.",
+      "categories": [],
+      "relevant": false,
+      "score": 8,
       "spicy": false
     },
     {
       "title": "PM praises Sally McManus and Michele O’Neil as ‘giants’ as they resign from ACTU",
       "url": "https://www.theguardian.com/australia-news/2026/jul/28/sally-mcmanus-michele-oneil-resign-actu-union-leaders",
       "source": "The Guardian",
-      "publishedAt": "2026-07-27T23:13:18.000Z",
-      "summary": "Secretary and president of Australian Council of Trade Unions announced surprise departures on Monday evening The leadership of the trade union movement is set for a major shakeup after the secretary and president of the Australian Council of Trade Unions announced their surprise departures. The ACT",
+      "publishedAt": "2026-07-28T00:34:52.000Z",
+      "summary": "Secretary and president of Australian Council of Trade Unions announced surprise departures on Monday evening",
       "categories": [],
       "relevant": false,
       "score": 4,
       "spicy": false
     },
     {
-      "title": "Oscar-winning composer brings Icelandic poetry to Australian stages",
-      "url": "https://www.abc.net.au/news/2026-07-28/hildur-guonadottir-australian-chamber-orchestra-world-premiere/106948334",
-      "source": "ABC News",
-      "publishedAt": "2026-07-27T23:00:00.000Z",
-      "summary": "Oscar-winning composer Hildur Guðnadóttir never imagined global fame. Now she’s written new music for the Australian Chamber Orchestra, inspired by Icelandic poetry.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Live: Jacinta Allan pulls out of Victorian leadership race, paving way for Ben Carroll to become premier",
+      "title": "Live: Ben Carroll sworn in as premier of Victoria after chaotic Labor meeting",
       "url": "https://www.abc.net.au/news/2026-07-28/victorian-premier-jacinta-allan-ben-carroll-leadership-challenge/106791246",
       "source": "ABC News",
       "publishedAt": "2026-07-27T22:01:19.000Z",
@@ -119,47 +198,25 @@
       "spicy": false
     },
     {
-      "title": "Twice named and shamed builder accused of leaving customers out of pocket",
+      "title": "Thrice-bankrupt builder's past catches up with him in small town",
       "url": "https://www.abc.net.au/news/2026-07-28/steve-preston-building-in-nsw-after-warnings-in-wa-and-qld/106832478",
       "source": "ABC News",
       "publishedAt": "2026-07-27T21:38:06.000Z",
       "summary": "Unregistered builder Steve Preston has been operating in New South Wales after falling foul of authorities in Western Australia and Queensland.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 6,
       "spicy": false
     },
     {
-      "title": "Live: ASX to open lower as the price of oil plunges",
+      "title": "Live: Origin shares down on data breach details, ASX down as oil price plunges",
       "url": "https://www.abc.net.au/news/2026-07-28/asx-markets-business-news-live-updates-tuesday-28-july/106965036",
       "source": "ABC News",
       "publishedAt": "2026-07-27T21:27:57.000Z",
-      "summary": "The Australian share market is set to open lower as the price of oil plunges more than 9 per cent.",
+      "summary": "Shares in energy giant Origin are down after it provided an update on its data breach, while the Australian share market is lower after oil prices plunged more than 9 per cent overnight.",
       "categories": [],
       "relevant": false,
       "score": 7,
-      "spicy": false
-    },
-    {
-      "title": "Live: Shadow treasurer indicates Coalition support for new WA oil refinery",
-      "url": "https://www.abc.net.au/news/2026-07-28/federal-politics-live-blog-coalition-signal-oil-refinery-support/106965008",
-      "source": "ABC News",
-      "publishedAt": "2026-07-27T21:07:56.000Z",
-      "summary": "Shadow Treasurer Tim Wilson indicates the Coalition will support the construction of a new oil refinery in Western Australia.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Influencers pushing 'ideal of masculinity' drive male eating disorders",
-      "url": "https://www.abc.net.au/news/2026-07-28/increase-in-men-being-diagnosed-with-eating-disorders/106922228",
-      "source": "ABC News",
-      "publishedAt": "2026-07-27T21:00:10.000Z",
-      "summary": "About 365,000 men across Australia are living with an eating disorder, but they face a system still dismissing them.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
       "spicy": false
     },
     {
@@ -238,7 +295,7 @@
       "summary": "Taking place once every three years, the Labor party conference can be a chance to have open debates on vexed policy issues – but this one was different. Reged Ahmad speaks to the political editor, Tom McIlroy , about whether the prime minister is insisting on too much control and what his tight hol",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -249,7 +306,7 @@
       "summary": "The NSW anti-corruption watchdog has begun a public inquiry into allegations of branch stacking, illegal donations and interference with preselections",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -260,7 +317,7 @@
       "summary": "Exclusive: Resurfaced comments by the One Nation leader underline her criticism of paid family violence leave and domestic violence support groups",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -273,7 +330,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 11,
+      "score": 10,
       "spicy": true
     },
     {
@@ -284,7 +341,7 @@
       "summary": "The proposed facility would be built by Perdaman and be the first new large-scale oil refinery built in Australia since the 1960s.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -297,7 +354,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -305,22 +362,11 @@
       "url": "https://www.abc.net.au/news/2026-07-27/the-utopia-style-regulations-holding-back-new-homes/106963506",
       "source": "ABC News",
       "publishedAt": "2026-07-27T12:30:00.000Z",
-      "summary": "A new report from the Productivity Commission has called on governments to embrace a \"build mindset\" to make housing more affordable.",
+      "summary": "A new report from the Productivity Commission calls on governments to embrace a \"build mindset\" to make housing more affordable.",
       "categories": [
         "Housing"
       ],
       "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Bill Oddie, member of The Goodies comedy series, dead at 85",
-      "url": "https://www.abc.net.au/news/2026-07-27/bill-oddie-a-member-of-the-goodies-dead-at-85/106964222",
-      "source": "ABC News",
-      "publishedAt": "2026-07-27T11:12:28.000Z",
-      "summary": "British actor, comedian and broadcaster Bill Oddie, best known to Australian audiences as a member of the 1970s comedy trio The Goodies, has died aged 85, his agent has announced.",
-      "categories": [],
-      "relevant": false,
       "score": 3,
       "spicy": false
     },
@@ -346,17 +392,6 @@
       ],
       "relevant": true,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Australia claims first athletics gold, Dolphins dominating once more",
-      "url": "https://www.abc.net.au/news/2026-07-27/commonwealth-games-glasgow-day-four-live-blog/106961304",
-      "source": "ABC News",
-      "publishedAt": "2026-07-27T08:35:05.000Z",
-      "summary": "Australia is enjoying another wildly successful day at the Commonwealth Games, with Rose Davies claiming her nation's first athletics gold and the Dolphins sweeping the medals in two events in the pool.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -575,17 +610,6 @@
       "spicy": false
     },
     {
-      "title": "Runaway train with no driver travelled faster than 60km/h",
-      "url": "https://www.abc.net.au/news/2026-07-26/runaway-coal-train-hunter-valley/106959762",
-      "source": "ABC News",
-      "publishedAt": "2026-07-26T05:14:46.000Z",
-      "summary": "The fully laden coal train started rolling downhill during a crew change in the NSW Hunter Valley.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "‘I attend lots of functions’: Albanese defensive over exclusive fundraising dinner",
       "url": "https://www.smh.com.au/politics/federal/i-attend-lots-of-functions-albanese-defensive-over-exclusive-fundraising-dinner-20260726-p60ilk.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -702,44 +726,11 @@
       "spicy": false
     },
     {
-      "title": "Labor promises a ‘fairer’ gas deal",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaTdsTFZzc1FjcjFmemtpOGJlcUdGRVJUakl2U3F6ajZxTjJLcU13TlRLbGJoT0ZMaWJzeXdnLVZDbDVfaGc5cUV2dTg5VDktNTFYbkpJOHdCRXE2a09vM0lraGpOdExxUTB0ejk3WHhiSWFXdmVMVENVd1JZSG13bnhyUUFiUFlCYW5qN1JNNGk?oc=5",
-      "source": "The New Daily",
-      "publishedAt": "2026-07-24T19:57:06.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Back to Back Barries: Barnaby bends the media cycle - podcast",
-      "url": "https://www.theguardian.com/australia-news/audio/2026/jul/25/back-to-back-barries-podcast-barnaby-bends-the-media-cycle",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-24T15:00:20.000Z",
-      "summary": "Tony Barry and George Megalogenis (filling in for Barrie Cassidy) give their view on One Nation MP Barnaby Joyce’s viral moment this week and why they think it played well to his party’s base. George takes us back to past elections that produced favourable results for One Nation to remind us that we",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Labor promises conscience vote in debate over telehealth for assisted dying",
       "url": "https://www.smh.com.au/politics/federal/labor-promises-conscience-vote-in-debate-over-telehealth-for-assisted-dying-20260724-p60iar.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-07-24T07:41:04.000Z",
       "summary": "Voluntary assisted dying was the only issue that had attracted official dissenting remarks on the conference floor by Friday afternoon.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Labor National Conference as it happened: NDIS, gambling on agenda as protests erupt outside Adelaide Convention Centre on day two",
-      "url": "https://www.smh.com.au/politics/federal/labor-national-conference-live-updates-day-two-of-adelaide-event-continues-after-moves-on-super-for-teenagers-fair-ai-taskforce-20260724-p60i5n.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-24T07:08:19.000Z",
-      "summary": "Follow out live coverage from the 50th Labor Party national conference.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -994,6 +985,20 @@
       "spicy": false
     },
     {
+      "title": "Offshore landlords claim billions in Australian property tax write-offs",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVndfekZnTHdWc25pZHUtRURYOE90ZXFLUENtQnZaalQ3Mm01UGsyMlJGVGtHRndxRjhjWUZJc0pFN1pNc3U2REVsUUFpV3JINmRsNHc5REMtX3dOam50YnNBVDN0TVhQOFRfb2xNbXpiampoS0p1c2Iyc3hqWnFVTS1RUWRYUUlVc0RmVmxrVjhfSTk5bWR0X0FWODM2ZFhTcHdNWGM0ZjFpdw?oc=5",
+      "source": "realestate.com.au",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 2,
+      "spicy": false
+    },
+    {
       "title": "Property developers are benefiting from Australia's housing crisis",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnFSaTJza1VOaHl5SVNrR3dSUXdnRERoQTBSSDVCaHpTNUd2bEJDMlJsdXAzZVhYMWpJYTQ4QkdPd3VCdUkydlFtcjJ6UVVCWGV0eHN5R21aQTNFV1ZoQnh1UHBLMTFXNFZvUUxXYTlNNk9mdkI5ZmgwUG95NEJ6OV9xUUVLRWN4LTBKcWFWa1JWREVyWWtQSkRVV2ZnNWg2UlpTTEcwMjU0cllGYURidE1n?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1094,6 +1099,20 @@
       "spicy": false
     },
     {
+      "title": "‘Anti-aspiration’: New tax rules hit first home buyers",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdERjeXJiUTBBeGI5NTFabnl6Zndhc0gwSGdySDRvYnF2SGxEWWJHLW1CUHBycGhzNkR6cFNxUTd4WEpmM0wtSFJjd1loOW9iRHFFYlJBbjhJTXdqX2hkdno3X1pRNGJaV2I1cXN6WFd6ejA2VDkyNDVGSEhIeVJ5UVZHb1BsbjZOZUVneVJsVURYNDlHTDdaNWJ4U1VWZEhHZ2hvQmdzUGR1djI3SUZNWlNRLWcxVHd6ZHpBZVVETUY0Mk9reGE4WU5yal9TMGk5S1hWWGcwS2NLTVJzZHYzQ2plQ1ZJangwTWdDS3VhZUowNHpTbXhEcWRoQlotTkk00gGGAkFVX3lxTFB1b1hhMkd6ZjZxMl9zOUZXV2Jyd1ZlMFhfdHVOWFJyeVlBQ2VQWFM0cjhfM1lva1pNOW01S0xlV0NCQ0JDaklaak85bExUMWthX2VnTU5tUzhKUU9RUndKN1NmNnhpeE5NTFhwNGFISEhUWkVja3g4c0RSTEphaGVFVDB5Q2NSTGRJeU5rSE1jU3RqaUNOdUJtSEk5WS1uQmo1cGg1ZkNaVGs4ZHRGN2JvUGFRRG16Z2x2RTd6NWJtaFdEUFdpZElpVmtwYjFKYjR1SDlaYzg5UmFFTVRpZDRlMm9kMGItMm40bVRCRVV3MVdOdWFIX2xLS1l1VFFkV2pnOGhSUEE?oc=5",
+      "source": "News.com.au",
+      "publishedAt": "2026-07-08T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
+    },
+    {
       "title": "Australia’s housing accord in crisis amid alarming construction plunge",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHZ4eU9PU19oaWlrczBGeFQ3bzEyUzVfeWoyczRUazNRMW91QWlBbGhtSXo0bkNVTWRYdWVZWmF6UGRQM2xYNHRvaS1VY29VT2h0RmxrMkxCWkFsa21rWnFGc2wxckRsdWxzQmlxMVdGeVdxWUtIRl9Yak5IbTUtVFlva21yblZRaUlXWEYzT1ZocHdqN2lyZFJ0cElDX0wySk1WY21DUlM?oc=5",
       "source": "realestate.com.au",
@@ -1155,17 +1174,6 @@
       ],
       "relevant": true,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "PM and treasurer want to eat the pie themselves, not grow it for all",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkJDZWZGZWxEdkVaRXdCSF9ydjUyZnhpeDVRYTZTWGpVTk04ZUtzdzRWXzU3cVg2djdGRzJRM05wbGlCc2liczdsSE5FSEZjalJ6R3lTWjRYaVpkSGMtc2JfdjhEY1lkUEhHSW5pd0g2dmVIX3hxdEpZd3NmakpKeENxMEZfUFNsSzI0TnloUHc1YkFXUXZsTFJsb0FDVnhWRmNhdDlNSV9ZT2x6aG5fclBFaHNVLXdRZC1QMVFhbFdUVXRr?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-03T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -1372,6 +1380,19 @@
       "spicy": false
     },
     {
+      "title": "Tax changes ‘damaging the future Australian economy’: Tim Wilson",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWJ6Snl5b3p2MFhlS3ZObVQ1UjVpQXZXUFdUb3BmWHN1ZkRBTVExeXZHLUpKcE1hcDYxaU1lbjluYjQ1ZThSV1lYRE1naExjdWh0c0l1YzdLemxDQjJXM3F5MEQwSFNQQW84S0d6SUlwdGtSdkg2T25pNHdES2N6TWpkYVBtNFIxODJSLXpabXhsZmZXYU1GWkRwaktWSXYtMURBWjBGLWRSTkRZMWZFaERB?oc=5",
+      "source": "Accountants Daily",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Taxpayers give $2.7b to rich families in childcare, parental leave",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHpkU3poVGxaNUZIRGZrdUtHcHM4elFvbzZuVGduVDNCTGxPMVRkc0MtZU9wdWtHVkotdEFwal9RN2huM25ibnQwUE9rU3R3djJFRnFwckljVVFGRk5KRUk3Q0gtWDFEV3BJX21DbTd3RlZJOHFOU2xlLXNqNXpheGxCU0s1b1plY3JST2Jqcnd4SVVJV0ZkQkttVVUxOUN6SzBVWnVIb2FBanJHZmxmS2w3cUQtZw?oc=5",
       "source": "AFR",
@@ -1469,17 +1490,6 @@
     {
       "title": "Five key takeaways from Crisafulli's second budget",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3NDMDRnYVhvV0FwRmNXX3Q5SEhjM21WbHNJeDR0eU5aYms2VjIyOUZ3S0hmRUJHdm9pWjRWNXBVVVlDbkVRWE44VTVITklRcVo3SGsxTGs1NmNzUUdxNFQ5WnROZGFNRWRtWHllTEgxa0pHLUpPX2UyZHdjQTBkNFRKQVUtWVE0blE0MDVn?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "NSW budget offers short-term sugar hit but there could be bitterness to come",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWURlMHNidk5XVndUN1VfeWFLSnlKelphUEVib2JUVnlxLXI3VVZ3NDhWRXhxc1ZaVlhnelRBd3pWajdVVzB1bWh5eE9LR2d5ZWdtOUpGQV9PRmFNckI2aVVzQ09zeFdIS0JpdmJZYjhyY0tHQVh2WkV0eFVuQ2ZuNERWRjVhUHBwenZjMjBDVlpEdw?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-06-23T07:00:00.000Z",
       "summary": "",
