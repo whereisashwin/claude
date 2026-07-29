@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-29T12:07:21.502Z",
+  "updatedAt": "2026-07-29T14:53:22.812Z",
   "count": 120,
-  "relevantCount": 57,
-  "spicyCount": 17,
+  "relevantCount": 56,
+  "spicyCount": 16,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,12 +33,11 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
-    "Accountants Daily",
     "Australian Government Department of Health, Disability and Ageing",
     "City of Ballarat",
     "Crikey",
+    "Expatica",
     "Fragomen",
-    "Independent Australia",
     "Khaleej Times",
     "Mondaq",
     "Money Management",
@@ -53,8 +52,10 @@
     "The Guardian",
     "The Institute Of Public Affairs - IPA",
     "Yahoo Finance Australia",
+    "accountantsdaily.com.au",
     "facebook.com",
     "fundsforNGOs",
+    "independentaustralia.net",
     "mpamag.com",
     "news24.com.au",
     "realestate.com.au",
@@ -363,17 +364,6 @@
       "spicy": false
     },
     {
-      "title": "Taylor denies giving money to group at centre of NSW corruption probe",
-      "url": "https://www.abc.net.au/news/2026-07-29/angus-taylor-denies-funding-nsw-reformers-corruption-icac/106970262",
-      "source": "ABC News",
-      "publishedAt": "2026-07-29T00:58:01.000Z",
-      "summary": "The NSW Independent Commission Against Corruption has seen a series of text messages in which key figures discuss a plan to \"shake down\" Angus Taylor for financial support.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "One Nation faces being struck off in Queensland after failing to file audited financial statements",
       "url": "https://www.theguardian.com/australia-news/2026/jul/29/one-nation-faces-being-struck-off-in-queensland-after-failing-to-file-audited-financial-statements",
       "source": "The Guardian",
@@ -381,7 +371,7 @@
       "summary": "Breach exposes Pauline Hanson to possible fines as party given deadline to comply by 18 August",
       "categories": [],
       "relevant": false,
-      "score": 8,
+      "score": 7,
       "spicy": false
     },
     {
@@ -392,7 +382,7 @@
       "summary": "Federal agriculture minister Julie Collins says \"local transmission has occurred\" between greater crested terns infected with H5 bird flu in South Australia.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -403,21 +393,8 @@
       "summary": "The government says changes to Christmas and Easter trading are off the table, as Queensland prepares to reinvigorate its nightlife ahead of the 2032 Olympic and Paralympic Games.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
-    },
-    {
-      "title": "Public servant charged over alleged multi-million dollar fraud of NDIS",
-      "url": "https://www.abc.net.au/news/2026-07-29/nt-public-servant-genevine-ebelebe-charged-alleged-ndis-fraud/106969828",
-      "source": "ABC News",
-      "publishedAt": "2026-07-28T23:40:23.000Z",
-      "summary": "A 39-year-old Darwin woman is charged with using her position with the Department of Children and Families to defraud the NDIS of millions of dollars.",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": true
     },
     {
       "title": "Australian property markets diverge as buyer confidence wavers post-Budget",
@@ -1126,19 +1103,6 @@
       "spicy": false
     },
     {
-      "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
-      "source": "Fragomen",
-      "publishedAt": "2026-07-09T10:15:23.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Labor’s big spending agenda pushing up rents, locking out aspirational homeowners",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPelJYVnRXa3l0WnI2b242NGZYcjNYQ1FsXzZ5ZHk4dTY4bThTMUtVUGljdlotUUtzczBfbXItNEEzQk9XcVB5UTNSTzF1Q1BaRWc3Tm5JZVhxb0VsZEROeEZIRVkzd3RWVjFyRnpfWUtGdlJtd29XQlk5YmhxOFZaTVNrMjdUbDZKWUFrMjc2VjlOZDkzb1VVSHBxZnE0SlQyV1hzNFlFb2NDQ1NFeGcyNjUybU1CUjlJVEE4RDJxZnEwUHpyTHdVVWVJdDdWVTlMUkFsUFZYbHYwVzBFNnBwNDQxTTV3NW5HbjRVWHkxOVpXcXpuZWRJb0p1Tzg0VlUyUU9FVzB6Y2Rva3FsOXNxSlJhUzRSeHBCX1VkOUVIcHVvalo3NnhFV3l4Mk9XN2FjVTNFakdKZFhYQkdnR3M0anM1bDlFR3M20gHOAkFVX3lxTE9fdjFhWHNNbmpFQkdwWnVZdENXTXFERnNpNzI4dFNDbkJKcmdkQldqOTJ6UWhkV0paYjIwTTNTUVZhUnlBRVFLbXRhY0NmVThfSlhIRm5aVVVETU53UG9oMnNOMHVuWlJkUFJUTGUzczJEMktabG5JMW5SSmZKeVlocUhnTms4TjluSV9oSVVIRjRwSHh1ZFZVSjdCejJObTZDR1VMa0VhUUVtY3FOSElVUDVlZVc0UlVmZzcyWTc4X3V2Z055SVFuSUcwcll6MlB5VWNLTFNpNms1VmpIbGQ4Yl9qUkNrYW5qc18tVnJlbzc2eDNQRUpXR3BHUzF1ZVlQMU15aml3dGtRMU5XcmMxU0hlTmFyV1JrMnJkM0QzWlluTHl2ek1sVkkwcEV1Rkg1eVpKd0F4cnlTeTdNTnpCck1XUEVsM1h3a3hWSnc?oc=5",
       "source": "news24.com.au",
@@ -1264,6 +1228,17 @@
       "spicy": false
     },
     {
+      "title": "Au pair in the UK in 2026",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nZUVzNlhNckJiSjU3bUlEcUtWbXRJbk9NVFNpUmpJNnhXODdVUnF6YU5OQXRqUnhwSThRdzh2dmhKbGdEajVZTkFaNERBblp2a2NuLVBvLVZMTHZCaWlQRTl0d3E3b0E0NGZQU2ZCS1pEWVMwZUE?oc=5",
+      "source": "Expatica",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Visa application charges and key immigration fees increase from 1 July 2026",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGVPWTFHcUNwbi0zOTZ3UTdIZEdLVTg3NUN6Z2ZaazBUZGRDSGYwcDUwNzRzc3oyWTRhQjNROEllcDBiSXlKTEk5T0NzMVA3YUcwSWdjaS1FZG02U1Q2TTNuZkdmZTBsMzJWaEZDTFV2amtIclBjcjFOcVp4cXVBWXc4cDVRV3JRMUFQUmlwX3IwRldZTnc0T0RzNEF5SGxOY2J5djhkV3UzeTA4Q0s3ek13?oc=5",
       "source": "Absolute Immigration",
@@ -1292,7 +1267,7 @@
     {
       "title": "Good news! Housing is getting more and more affordable",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWMzVlFOMFdVUTlYVWNlQzRvTk1rVHlBTVdzNGxFc2pHbUpENno1U0d4V3kyT1F5QWlhR1B0elF5YXFpM201a0o3UmhtSmI4ZUFYUEpXb2Vjamtwc0hlNUJUMlQ2RkJObDhKOWZjRm1KcEpyc3l3bTlWMmdiNzRvUUV3X3k4OXlrNHZlVHpVOVdmb25VM05FWGNqU2doR2ZpcUJHU3FHWEFUWUk4WngtWmo0eXBSTWNVYXQ0?oc=5",
-      "source": "Independent Australia",
+      "source": "independentaustralia.net",
       "publishedAt": "2026-06-29T22:00:06.000Z",
       "summary": "",
       "categories": [
@@ -1421,7 +1396,7 @@
     {
       "title": "Tax changes ‘damaging the future Australian economy’: Tim Wilson",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWJ6Snl5b3p2MFhlS3ZObVQ1UjVpQXZXUFdUb3BmWHN1ZkRBTVExeXZHLUpKcE1hcDYxaU1lbjluYjQ1ZThSV1lYRE1naExjdWh0c0l1YzdLemxDQjJXM3F5MEQwSFNQQW84S0d6SUlwdGtSdkg2T25pNHdES2N6TWpkYVBtNFIxODJSLXpabXhsZmZXYU1GWkRwaktWSXYtMURBWjBGLWRSTkRZMWZFaERB?oc=5",
-      "source": "Accountants Daily",
+      "source": "accountantsdaily.com.au",
       "publishedAt": "2026-06-25T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1500,6 +1475,30 @@
       "categories": [],
       "relevant": false,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Budget backflip on testamentary trusts not all that it seems",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlh2RzhNdzc1UUtLR1B3SG14MTh4WFBsdjM5RzBEWFNpUUpXekhSQ2J1YXNyOXFfZTcwOUhMNGNJZGdpTzV2bVM2eUZIT1ZydDVhd2xSektJRVQyVG43cDFkVGt4YnZDb0FNdTdMOHRLeXdOT05hWnFIUzlHVTRLVFZ3aDVwamFjdWdJanhuc2czUmh0SkxISkhUS0cyWlpVcDRuNFJFcVE5c0VYMUI5NFlhdFhHTHgt?oc=5",
+      "source": "accountantsdaily.com.au",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Labor’s housing affordability fix could freeze the market",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVdEUnhrTWdwZ0g3Ym04cjV1MDd2aHZKX2lubEtaSTVXZ085OUZrMEk5Mlh1anN4VEhHdWo1aUNiblZZeWR1VEU5LTRxZnZKT2ppVXpkajFUb09RREx1NkFJRUNiYWxWeVVxY01nRE5rR2JOLXgxYnhwNTl4UVVNOVloTGxyTDFwUjR2S0lXbEVHdnE2YmJzcDB6OGxiSDRwTkp2MW45ODBXMThz?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
       "spicy": false
     }
   ]
