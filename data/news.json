@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-29T06:38:51.242Z",
+  "updatedAt": "2026-07-29T09:43:35.921Z",
   "count": 120,
-  "relevantCount": 54,
-  "spicyCount": 14,
+  "relevantCount": 57,
+  "spicyCount": 17,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -35,8 +35,8 @@
     "Absolute Immigration",
     "Accountants Daily",
     "Australian Government Department of Health, Disability and Ageing",
+    "City of Ballarat",
     "Crikey",
-    "Expatica",
     "Fragomen",
     "Independent Australia",
     "Khaleej Times",
@@ -50,6 +50,7 @@
     "Sydney Morning Herald",
     "The Australian",
     "The Guardian",
+    "The Institute Of Public Affairs - IPA",
     "Yahoo Finance Australia",
     "facebook.com",
     "fundsforNGOs",
@@ -59,15 +60,109 @@
   ],
   "items": [
     {
-      "title": "Australia news live: Icac witness accepts former NSW Liberal minister did not have extramarital affair despite ‘shit sheet’ claim",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-29T06:25:17.000Z",
-      "summary": "",
+      "title": "It’s lucky inflation is falling. Most of us don’t even understand what the Reserve Bank does",
+      "url": "https://www.smh.com.au/politics/federal/it-s-lucky-inflation-is-falling-most-of-us-don-t-even-understand-what-the-reserve-bank-does-20260729-p60jj6.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-29T08:53:36.000Z",
+      "summary": "An astonishing 59 per cent of Australians believe that when the RBA lifts rates, it is increasing inflation. In fact, it’s trying to do the opposite.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 9,
+      "spicy": true
+    },
+    {
+      "title": "Queenslander could face execution over alleged killing of Australian in Syria",
+      "url": "https://www.abc.net.au/news/2026-07-29/australian-patrick-stevenson-charged-with-murder-in-syria/106959686",
+      "source": "ABC News",
+      "publishedAt": "2026-07-29T08:11:58.000Z",
+      "summary": "A 20-year-old Gold Coast mobile phone technician is facing a possible death penalty in Syria for the alleged shooting murder of another Australian.",
       "categories": [],
       "relevant": false,
       "score": 4,
       "spicy": false
+    },
+    {
+      "title": "ASX surges as slowing inflation lowers rate hike odds; CSL, Rio rally",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-rise-oil-prices-extend-slide-apple-becomes-a-us5tr-company-20260729-p60jg3.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-29T07:56:19.000Z",
+      "summary": "The Australian sharemarket had a strong session on Wednesday as the latest inflation figures showed prices are not increasing as quickly as feared by the Reserve Bank.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 10,
+      "spicy": true
+    },
+    {
+      "title": "Man who allegedly filmed two decades of sexual abuse to stand trial",
+      "url": "https://www.abc.net.au/news/2026-07-29/man-denies-filming-sexual-abuse-woman-riverina-snowy-mountains/106971768",
+      "source": "ABC News",
+      "publishedAt": "2026-07-29T07:55:06.000Z",
+      "summary": "A southern NSW man is set to stand trial accused of filming himself raping and assaulting a woman over nearly two decades, with lawyers saying they have \"mental health concerns\" of showing the footage to a jury.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Cult inquiry recommends outlawing coercive control in groups",
+      "url": "https://www.abc.net.au/news/2026-07-29/cult-inquiry-recommendations-victoria-fringe-groups/106971052",
+      "source": "ABC News",
+      "publishedAt": "2026-07-29T07:52:51.000Z",
+      "summary": "A Victorian inquiry into the recruitment methods and impacts of cults and organised fringe groups is recommending world-leading laws against group coercive control.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "How a wealth management firm swindled older Australians",
+      "url": "https://www.abc.net.au/news/2026-07-29/capital-guard-bonds-investment-fraud-millions-missing/106951318",
+      "source": "ABC News",
+      "publishedAt": "2026-07-29T07:35:16.000Z",
+      "summary": "Everyday Australians who invested their retirement savings and inheritances with a wealth management company fear they have lost everything after the company's licence was cancelled for selling bank bonds that didn’t exist.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-29T07:34:38.000Z",
+      "summary": "Former leader shows support for new Victorian premier while paying tribute to Jacinta Allan",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Mother attended police station day before murder-suicide, search for baby called off",
+      "url": "https://www.abc.net.au/news/2026-07-29/mother-attended-police-station-day-before-murder-suicide/106973380",
+      "source": "ABC News",
+      "publishedAt": "2026-07-29T07:33:26.000Z",
+      "summary": "The mother at the centre of the horrific murder-suicide in South Australia's South East attended a police station the day before she and her daughter were found dead, police have confirmed.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Big four banks put rate cuts back on the menu after surprising inflation drop",
+      "url": "https://www.smh.com.au/politics/federal/unexpected-drop-in-inflation-squashes-rate-rise-fears-20260729-p60jh4.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-29T06:41:14.000Z",
+      "summary": "Surprisingly soft inflation figures suggest the Reserve Bank will not be lifting interest rates in coming months – and maybe not for the rest of the year.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 10,
+      "spicy": true
     },
     {
       "title": "Mooted WA oil refinery ‘dinosaur technology’ amid clean energy transition, experts say",
@@ -103,17 +198,6 @@
       "spicy": false
     },
     {
-      "title": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-29T05:52:02.000Z",
-      "summary": "Former leader shows support for new Victorian premier while paying tribute to Jacinta Allan",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Australia doesn’t need to lead world on ‘drone ships’, government says",
       "url": "https://www.smh.com.au/politics/federal/australia-doesn-t-need-to-lead-world-on-drone-ships-government-says-20260729-p60jjv.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -123,20 +207,6 @@
       "relevant": false,
       "score": 6,
       "spicy": false
-    },
-    {
-      "title": "Have you been paying the right interest on your home loan?",
-      "url": "https://www.abc.net.au/news/2026-07-29/have-you-been-paying-the-right-interest-on-your-home-loan/106966394",
-      "source": "ABC News",
-      "publishedAt": "2026-07-29T05:24:28.000Z",
-      "summary": "Many Australians have been missing out on the benefits of their mortgage offset account. Here's how to check whether yours is working for you, or whether you might want to get one.",
-      "categories": [
-        "Tax",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": true
     },
     {
       "title": "Angus Taylor insists he made no payments to conservative Liberal group amid Icac investigation",
@@ -209,7 +279,7 @@
       "spicy": false
     },
     {
-      "title": "Breaking: Police officer stabbed in neck, alleged attacker shot in leg in Adelaide's north",
+      "title": "Police officer stabbed in neck, alleged attacker shot in leg in Adelaide's north",
       "url": "https://www.abc.net.au/news/2026-07-29/police-responding-to-incident-at-elizabeth-east/106972018",
       "source": "ABC News",
       "publishedAt": "2026-07-29T04:39:26.000Z",
@@ -291,65 +361,6 @@
       "spicy": false
     },
     {
-      "title": "Senior Liberals tried to damage career of former minister, ICAC told",
-      "url": "https://www.abc.net.au/news/2026-07-29/nsw-icac-rosny-dylan-whitelaw-david-elliott/106971066",
-      "source": "ABC News",
-      "publishedAt": "2026-07-29T02:53:29.000Z",
-      "summary": "The NSW corruption watchdog has heard senior Liberal Party operatives created a document in alleged attempts to damage the career of former minister David Elliott.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Deaths of woman and toddler being treated as murder-suicide, police say",
-      "url": "https://www.abc.net.au/news/2026-07-29/police-treating-death-of-woman-and-toddler-as-murder-suicide/106968662",
-      "source": "ABC News",
-      "publishedAt": "2026-07-29T02:19:32.000Z",
-      "summary": "South Australia Police say they are treating the deaths of a woman and her toddler found in water off the state's south-east coast as a murder-suicide.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Unexpected drop in inflation squashes rate rise fears",
-      "url": "https://www.smh.com.au/politics/federal/unexpected-drop-in-inflation-squashes-rate-rise-fears-20260729-p60jh4.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-29T02:00:15.000Z",
-      "summary": "Surprisingly soft inflation figures suggest the Reserve Bank will not be lifting interest rates in coming months – and maybe not for the rest of the year.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 8,
-      "spicy": true
-    },
-    {
-      "title": "ASX surges as slowing inflation reduces rate rise chances; CSL, Rio rally",
-      "url": "https://www.smh.com.au/business/markets/asx-set-to-rise-oil-prices-extend-slide-apple-becomes-a-us5tr-company-20260729-p60jg3.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-29T01:57:38.000Z",
-      "summary": "The Australian sharemarket jumped at the open on Wednesday and extended gains after the release of the nation’s latest inflation figures.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Presumed dead, 'Doctor Jihad' gave a revealing interview about life under ISIS",
-      "url": "https://www.abc.net.au/news/2026-07-29/dr-jihad-tareq-kamleh-interviewed-on-islamic-state-syria-prison/106969094",
-      "source": "ABC News",
-      "publishedAt": "2026-07-29T01:26:14.000Z",
-      "summary": "An Australian man dubbed \"Dr Jihad\" claims he never intended to join Islamic State and never pledged allegiance to the extremist organisation, in a recently resurfaced interview.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Taylor denies giving money to group at centre of NSW corruption probe",
       "url": "https://www.abc.net.au/news/2026-07-29/angus-taylor-denies-funding-nsw-reformers-corruption-icac/106970262",
       "source": "ABC News",
@@ -372,7 +383,7 @@
       "spicy": false
     },
     {
-      "title": "Local transmission of H5 bird flu confirmed in Australia, federal government says",
+      "title": "Local transmission of H5 bird flu confirmed in Australia",
       "url": "https://www.abc.net.au/news/2026-07-29/h5-bird-flu-strain-very-likely-spreading-locally-in-sa/106970486",
       "source": "ABC News",
       "publishedAt": "2026-07-29T00:43:05.000Z",
@@ -383,18 +394,7 @@
       "spicy": false
     },
     {
-      "title": "Quick hits: Record beaten five times in 10 minutes, pool haka thrills",
-      "url": "https://www.abc.net.au/news/2026-07-29/commonwealth-games-glasgow-day-five-quick-hits/106965336",
-      "source": "ABC News",
-      "publishedAt": "2026-07-29T00:16:57.000Z",
-      "summary": "New Zealand swimmers pay tribute to a victorious teammate, a lawn bowler fits in some work shifts and a weightlifting record falls a staggering five times. Here are the quick hits from day five of the Commonwealth Games.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Queensland nightlife tsar recommends liquor law overhaul",
+      "title": "Queensland night-life tsar recommends liquor law overhaul",
       "url": "https://www.abc.net.au/news/2026-07-29/qld-brisbane-nightlife/106969772",
       "source": "ABC News",
       "publishedAt": "2026-07-29T00:15:37.000Z",
@@ -403,6 +403,19 @@
       "relevant": false,
       "score": 6,
       "spicy": false
+    },
+    {
+      "title": "Public servant charged over alleged multi-million dollar fraud of NDIS",
+      "url": "https://www.abc.net.au/news/2026-07-29/nt-public-servant-genevine-ebelebe-charged-alleged-ndis-fraud/106969828",
+      "source": "ABC News",
+      "publishedAt": "2026-07-28T23:40:23.000Z",
+      "summary": "A 39-year-old Darwin woman is charged with using her position with the Department of Children and Families to defraud the NDIS of millions of dollars.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
     },
     {
       "title": "Australian property markets diverge as buyer confidence wavers post-Budget",
@@ -429,33 +442,11 @@
       "spicy": false
     },
     {
-      "title": "Live: New premier under attack from opposition MP, who struggles to recall his name",
-      "url": "https://www.abc.net.au/news/2026-07-29/live-blog-victorian-politics-ben-carroll/106968964",
-      "source": "ABC News",
-      "publishedAt": "2026-07-28T22:17:29.000Z",
-      "summary": "Questions are swirling around the details of Ben Carroll's freshly announced royal commission into the construction sector, as the new Victorian premier starts his first full day in the job.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "AI job disruption poised to upend Labor’s electoral map One Nation-style",
       "url": "https://www.smh.com.au/politics/federal/ai-job-losses-poised-to-upend-labor-s-electoral-map-one-nation-style-20260721-p60h4c.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-07-28T19:00:00.000Z",
       "summary": "Labor holds the overwhelming majority of seats most exposed to AI, according to new research, suggesting the party’s urban base faces economic uncertainty.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "'They are getting fooled': How ultra-processed food is made to look healthier",
-      "url": "https://www.abc.net.au/news/2026-07-29/processed-food-marketing-fooling-shoppers-over-health-claims/106961954",
-      "source": "ABC News",
-      "publishedAt": "2026-07-28T18:38:16.000Z",
-      "summary": "Industry insiders reveal how Australians are being deceived by marketing and labelling that makes ultra-processed foods appear healthier than they really are.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -773,17 +764,6 @@
       "spicy": false
     },
     {
-      "title": "Thrice-bankrupt builder's past catches up with him in small town",
-      "url": "https://www.abc.net.au/news/2026-07-28/steve-preston-building-in-nsw-after-warnings-in-wa-and-qld/106832478",
-      "source": "ABC News",
-      "publishedAt": "2026-07-27T21:38:06.000Z",
-      "summary": "Unregistered builder Steve Preston has been operating in New South Wales after falling foul of authorities in Western Australia and Queensland.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Does Anthony Albanese rule Labor with an iron grip? - podcast",
       "url": "https://www.theguardian.com/australia-news/audio/2026/jul/27/does-anthony-albanese-rule-labor-with-an-iron-grip-full-story-podcast",
       "source": "The Guardian",
@@ -848,17 +828,6 @@
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-07-27T07:44:06.000Z",
       "summary": "The Albanese government says it will take time to figure out how many phones received the message as it investigates reports many missed out.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Libs face fresh confusion over possible One Nation coalition",
-      "url": "https://www.smh.com.au/politics/federal/libs-face-fresh-confusion-over-possible-one-nation-coalition-20260727-p60iqs.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-27T06:03:41.000Z",
-      "summary": "A senior Liberal moderate insisted on Monday it “shouldn’t be controversial” for his party to team up with One Nation. Angus Taylor thinks otherwise.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -1315,17 +1284,6 @@
       "spicy": false
     },
     {
-      "title": "Au pair in the UK in 2026",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nZUVzNlhNckJiSjU3bUlEcUtWbXRJbk9NVFNpUmpJNnhXODdVUnF6YU5OQXRqUnhwSThRdzh2dmhKbGdEajVZTkFaNERBblp2a2NuLVBvLVZMTHZCaWlQRTl0d3E3b0E0NGZQU2ZCS1pEWVMwZUE?oc=5",
-      "source": "Expatica",
-      "publishedAt": "2026-07-01T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Visa application charges and key immigration fees increase from 1 July 2026",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGVPWTFHcUNwbi0zOTZ3UTdIZEdLVTg3NUN6Z2ZaazBUZGRDSGYwcDUwNzRzc3oyWTRhQjNROEllcDBiSXlKTEk5T0NzMVA3YUcwSWdjaS1FZG02U1Q2TTNuZkdmZTBsMzJWaEZDTFV2amtIclBjcjFOcVp4cXVBWXc4cDVRV3JRMUFQUmlwX3IwRldZTnc0T0RzNEF5SGxOY2J5djhkV3UzeTA4Q0s3ek13?oc=5",
       "source": "Absolute Immigration",
@@ -1491,6 +1449,55 @@
       ],
       "relevant": true,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Taxpayers give $2.7b to rich families in childcare, parental leave",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHpkU3poVGxaNUZIRGZrdUtHcHM4elFvbzZuVGduVDNCTGxPMVRkc0MtZU9wdWtHVkotdEFwal9RN2huM25ibnQwUE9rU3R3djJFRnFwckljVVFGRk5KRUk3Q0gtWDFEV3BJX21DbTd3RlZJOHFOU2xlLXNqNXpheGxCU0s1b1plY3JST2Jqcnd4SVVJV0ZkQkttVVUxOUN6SzBVWnVIb2FBanJHZmxmS2w3cUQtZw?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 8,
+      "spicy": true
+    },
+    {
+      "title": "Council adopts 2026/27 Budget focused on cost-of-living relief and sustained investment",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbkp1dU1lSlVlS2RLT1pWdjJjVHRtam1ubW9NVUZEaXdCN19TTno3aDNsaXlPa3dIUmV1SDJKSU40dmFwclNmNk4ycDRSLS1Vc1JjdmxmZlVvb0xnbElMcGI4ZjBkNm5qSV8zSGtnSWI0dW11cEZld1dZQ2NaVEdYdklmZ0oyMmhwUHM5a0VUU3ljVTBySXduSW94OVlUVXFhRmZqb2hOU1o1c0trWTdiMkJsMmNvbWJr?oc=5",
+      "source": "City of Ballarat",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Bad budget another marker in Australia’s managed decline - The Institute Of Public Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmVFS1hfV1VRSWpzMFhFdWUtVFRmTXhwVWtQSWZ1d2w3SWZsNHdYYWJlQUZMUHJYeW1KNDN6NzZ1Z1NjUkxUSDVWT1VmR1pxcXcwRmozSkEwQ2ZRZGZMLWNGR29RVnNZWG5JNjQ4cHJTN3ZkejFMejB2QzVobGpJRVZQaHYwSHBEdEc2VHU5ZlMya1VmQVg0cU5HM2RBT2lVSXdiajRFRy1nQQ?oc=5",
+      "source": "The Institute Of Public Affairs - IPA",
+      "publishedAt": "2026-06-24T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Treasury was once the premier agency for economic counsel. Not any longer",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR3JvUUZvaEJQandYa3hFWU9xanZoT0xMdUg4X1JIRkI5UElUcC12dkk5cW9pcEY1M3ZYalpSRGgyVTdwdXZpVnZNcjlJLUwwV1RUSWE5QWdURzVSREJpbG9DelE2SjBuc3ByN2tqR3E5YXI1MTJkNUZWQzBnSW83ZW82NFc0UkNyeXU4djZXMG1vRlY3OWxuZ1VtWHpBTjFTeE9YQk9EVDNQWEpMVFJsN0hIRm5IV0RYYVFDMXdpSkxiLTh1Zm5YLWNPWlo5eGQ4WjEzeFo5QnVFWlFOWXRtelh0RnUya21TaGxNUzg3NjZQQQ?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-06-24T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
       "spicy": false
     }
   ]
