@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-07-31T04:02:51.535Z",
+  "updatedAt": "2026-07-31T07:24:34.137Z",
   "count": 120,
-  "relevantCount": 58,
-  "spicyCount": 12,
+  "relevantCount": 56,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,8 +33,10 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
+    "Accountants Daily",
     "Australian Government Department of Health, Disability and Ageing",
     "City of Ballarat",
+    "Crikey",
     "Erickson Immigration Group",
     "Ethos Migration Lawyers",
     "Fragomen",
@@ -52,22 +54,20 @@
     "The Australian",
     "The Guardian",
     "The Institute Of Public Affairs - IPA",
+    "Western Sydney University",
     "Yahoo Finance Australia",
-    "accountantsdaily.com.au",
-    "crikey.com.au",
     "facebook.com",
     "mpamag.com",
+    "news24.com.au",
     "realestate.com.au",
-    "skynews.com.au",
-    "superguide.com.au",
-    "westernsydney.edu.au"
+    "superguide.com.au"
   ],
   "items": [
     {
-      "title": "Australia news live: Reformers member tells Icac he can’t recall Taylor making donation, saying ‘I don’t think Angus worked out’",
+      "title": "Australia news live: Icac hears of friendship breakdown between Reformers members, third Victorian teachers’ strike announced",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-07-31T03:47:13.000Z",
+      "publishedAt": "2026-07-31T07:19:21.000Z",
       "summary": "Former premier’s brother to appear before inquiry.",
       "categories": [],
       "relevant": false,
@@ -75,14 +75,159 @@
       "spicy": false
     },
     {
-      "title": "Pregnant wagyu cows and calves worth $200,000 stolen from station",
-      "url": "https://www.abc.net.au/news/2026-07-31/stolen-wagyu-cattle-central-queensland/106974888",
+      "title": "Slow-motion big ship lift operation thrills spectators in Hobart",
+      "url": "https://www.abc.net.au/news/2026-07-31/tasmania-incat-ferry-ship-lift-operation-black-marlin-hobart/106981888",
       "source": "ABC News",
-      "publishedAt": "2026-07-31T03:20:21.000Z",
-      "summary": "Pregnant cows and calves are among 142 wagyu cross cattle believed to have been stolen from a central Queensland station.",
+      "publishedAt": "2026-07-31T07:18:16.000Z",
+      "summary": "Peering through binoculars and nestled on camp chairs, onlookers encircle Hobart's River Derwent to behold one of the most complex marine undertakings in Tasmania's history.",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "‘Trade friction’: Beijing is turning up the heat on Australian iron ore",
+      "url": "https://www.smh.com.au/business/companies/trade-friction-beijing-is-turning-up-the-heat-on-australian-iron-ore-20260731-p60kbo.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-31T06:56:12.000Z",
+      "summary": "Andrew Forrest’s Fortescue has become the latest Australian miner targeted by China’s push for lower iron ore prices, putting future export revenue at risk.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Teens flout social media ban, report says, citing lack of age checks",
+      "url": "https://www.abc.net.au/news/2026-07-31/most-australian-teens-still-on-social-media-after-ban/106983414",
+      "source": "ABC News",
+      "publishedAt": "2026-07-31T06:44:20.000Z",
+      "summary": "More than eight in 10 Australian teenagers are still using social media three months after the government's landmark ban.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Courts hears details of Labor MP’s alleged assault of NT administrator",
+      "url": "https://www.smh.com.au/politics/federal/courts-hears-details-of-labor-mp-s-alleged-assault-of-nt-administrator-20260731-p60kei.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-31T06:17:23.000Z",
+      "summary": "Federal Labor MP Luke Gosling is alleged to have struck the King’s representative in the NT with a hip-and-shoulder charge before later elbowing him during a Darwin cultural festival, a court has heard.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Education union threatens August 19 strike without teacher pay deal",
+      "url": "https://www.abc.net.au/news/2026-07-31/education-union-threatens-third-victorian-teacher-strike-august/106982846",
+      "source": "ABC News",
+      "publishedAt": "2026-07-31T05:51:40.000Z",
+      "summary": "Victorian teachers will stop work for a third time if the Carroll government does not return to the negotiating table with a better offer.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Forced out of Australia’s military due to his sexuality, David says an apology is ‘long overdue’ for veterans like him",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/31/forced-out-of-adf-military-due-to-his-sexuality-david-says-an-apology-is-long-overdue-for-veterans-like-him-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-31T05:48:54.000Z",
+      "summary": "Exclusive: ADF personnel who were discriminated against for being LGBTQ+ are owed a national apology, federal government told",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Kyle Sandilands quits Australian Idol as activists target advertisers",
+      "url": "https://www.smh.com.au/business/companies/kyle-sandilands-quits-australian-idol-as-activists-target-advertisers-20260731-p60kdr.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-31T05:46:07.000Z",
+      "summary": "The controversial radio host told Seven Network on Friday he would stand down “for the good of the brand.”",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "No CCTV, no eye-witnesses in Luke Gosling assault case, lawyer claims",
+      "url": "https://www.abc.net.au/news/2026-07-31/luke-gosling-banned-from-nt-government-house-bail-varied-court/106981964",
+      "source": "ABC News",
+      "publishedAt": "2026-07-31T05:32:23.000Z",
+      "summary": "Federal Labor MP Luke Gosling has been banned from approaching Government House in Darwin after facing court for the first time since being charged with assaulting the Northern Territory administrator, the territory's equivalent of a state governor.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Meet the ex-Liberal couple crafting One Nation’s campaign strategy",
+      "url": "https://www.smh.com.au/politics/federal/meet-the-ex-liberal-couple-crafting-one-nation-s-campaign-strategy-20260729-p60jlx.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-31T05:20:02.000Z",
+      "summary": "They once worked for moderate Liberals. Now they’ve been hired by the party’s greatest threat.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "HSBC to close all branches and pull out of Australian retail banking market",
+      "url": "https://www.theguardian.com/business/2026/jul/31/hsbc-bank-australia-closing-branches-blackstone-sale",
+      "source": "The Guardian",
+      "publishedAt": "2026-07-31T05:00:55.000Z",
+      "summary": "London-based company to sell local loan portfolio to Blackstone but will continue private and institutional banking services",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Escort agency bosses lied about model's disappearance, coroner finds",
+      "url": "https://www.abc.net.au/news/2026-07-31/revelle-balmain-inquest-finds-escort-bosses-knew/106977496",
+      "source": "ABC News",
+      "publishedAt": "2026-07-31T04:26:34.000Z",
+      "summary": "A NSW deputy state coroner has found evidence escort agency bosses knew what happened to Revelle Balmain, who vanished in 1994.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "‘Cautious, concerned and insecure’: Australians too scared to move jobs",
+      "url": "https://www.smh.com.au/politics/federal/cautious-concerned-and-insecure-australians-too-scared-to-move-jobs-20260731-p60kby.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-07-31T04:15:21.000Z",
+      "summary": "In a vibrant economy, workers freely move jobs searching for better conditions and pay. But Australians aren’t prepared to do that.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Leeser says Albanese has 'lost his direction' on Indigenous affairs",
+      "url": "https://www.abc.net.au/news/2026-07-31/garma-festival-julian-leeser-criticises-anthony-albanese/106981674",
+      "source": "ABC News",
+      "publishedAt": "2026-07-31T04:14:51.000Z",
+      "summary": "Shadow Indigenous Australians Minister Julian Leeser has accused the federal government of being \"adrift\" on Indigenous affairs during his speech at the Garma Festival.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Money for right-wing faction used for personal expenses, ICAC told",
+      "url": "https://www.abc.net.au/news/2026-07-31/nsw-icac-rosny-reformers-funds-bucks-party-robert-assaf/106981294",
+      "source": "ABC News",
+      "publishedAt": "2026-07-31T04:07:55.000Z",
+      "summary": "A founding member of a right-wing NSW Liberal Party group at the centre of a corruption inquiry has told the hearing some faction funds were used to pay for a \"bucks party\".",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
       "spicy": false
     },
     {
@@ -97,18 +242,7 @@
       "spicy": false
     },
     {
-      "title": "NSW minister reports 'vile' online threats to police",
-      "url": "https://www.abc.net.au/news/2026-07-31/nsw-minister-threatened-over-feral-pig-program/106980250",
-      "source": "ABC News",
-      "publishedAt": "2026-07-31T02:44:52.000Z",
-      "summary": "NSW Agriculture Minister Tara Moriarty says \"vile\" comments on the Shooters, Fishers and Farmers Facebook page were unacceptable and have been reported to police.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Pauline Hanson’s comments on ‘good Muslims’ don’t breach hate speech laws, Australian federal police finds",
+      "title": "Pauline Hanson’s no ‘good Muslims’ comment don’t breach hate speech laws, Australian federal police finds",
       "url": "https://www.theguardian.com/australia-news/2026/jul/31/pauline-hanson-muslim-comments-afp-australian-federal-police-ntwnfb",
       "source": "The Guardian",
       "publishedAt": "2026-07-31T02:44:15.000Z",
@@ -165,14 +299,14 @@
       "spicy": false
     },
     {
-      "title": "Miners, banks drive ASX higher; Microsoft’s $US450b record day",
+      "title": "Miners push ASX into the green; Microsoft’s $US450b record day",
       "url": "https://www.smh.com.au/business/markets/asx-set-to-jump-microsoft-leads-wall-street-rally-apple-results-ahead-20260731-p60k79.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-07-31T01:06:46.000Z",
-      "summary": "The Australian sharemarket has jumped at the open after a record day for Microsoft’s stock led a powerful rebound on Wall Street, while computer-chip companies regained some of their sharp recent losses.",
+      "summary": "The Australian sharemarket closed slightly higher on Friday, helped by a rally in the mining sector, as shares also climbed across Asia.",
       "categories": [],
       "relevant": false,
-      "score": 9,
+      "score": 7,
       "spicy": false
     },
     {
@@ -181,17 +315,6 @@
       "source": "ABC News",
       "publishedAt": "2026-07-31T00:02:29.000Z",
       "summary": "An analysis of cargo from one of Australia's best-known shipwrecks uncovers complex global trade routes from nearly 400 years ago.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Quick hits: Tongan dance moves bring joy, David Beckham hits the velodrome",
-      "url": "https://www.abc.net.au/news/2026-07-31/commonwealth-games-glasgow-day-seven-quick-hits/106974752",
-      "source": "ABC News",
-      "publishedAt": "2026-07-30T23:28:58.000Z",
-      "summary": "David Beckham and Ronaldo get on their bikes at the velodrome, a para athletics race will be run again amid much drama, and a Tongan weightlifter thrills the crowd with his dancing. Here are the quick hits from day seven of the Commonwealth Games.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -242,22 +365,11 @@
       "spicy": false
     },
     {
-      "title": "Live: ASX200 rises, regulator ASIC sues auditors post First Guardian collapse",
+      "title": "ASX200 closes higher, ASIC sues auditors after First Guardian collapse — as it happened",
       "url": "https://www.abc.net.au/news/2026-07-31/asx-markets-business-live-news-31-july-2026/104556762",
       "source": "ABC News",
       "publishedAt": "2026-07-30T21:45:50.000Z",
-      "summary": "The Australian share market opened higher in trade on Friday, and corporate regulator ASIC announced it's suing auditors linked to the now collapsed First Guardian Master Fund.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Luke Gosling facing growing calls to stand down after assault charges",
-      "url": "https://www.abc.net.au/news/2026-07-31/labor-luke-gosling-envoy-political-future-assault-charges/106977892",
-      "source": "ABC News",
-      "publishedAt": "2026-07-30T21:21:53.000Z",
-      "summary": "Labor's political opponents have lined up to call for the prime minister to force Solomon MP Luke Gosling to stand aside from his special envoy role after he was charged with assaulting the NT administrator.",
+      "summary": "Australian shares rose for a fourth consecutive month on Friday, and corporate regulator ASIC announced it is suing auditors linked to the collapsed First Guardian Master Fund.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -277,6 +389,17 @@
       "spicy": false
     },
     {
+      "title": "The ABC bureau that's older than the organisation itself celebrates 95 years",
+      "url": "https://www.abc.net.au/news/2026-07-31/abc-capricornia-95-years-rockhampton-radio-central-queensland/106943090",
+      "source": "ABC News",
+      "publishedAt": "2026-07-30T19:34:16.000Z",
+      "summary": "For nearly a century, ABC Capricornia has shared central Queensland's triumphs and stood beside its communities in times of need.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
       "title": "Most of us get this economics question wrong. We’re paying for it",
       "url": "https://www.smh.com.au/business/the-economy/most-of-us-get-this-economics-question-wrong-we-re-paying-for-it-20260730-p60k08.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
@@ -284,7 +407,7 @@
       "summary": "Australians care about price growth. So, why do most of us have the wrong idea about how to slow it down?",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -295,42 +418,7 @@
       "summary": "Coalition frontbencher Julian Leeser will use his first major Indigenous affairs speech to accuse the Albanese government of failing to chart a path forward after the Voice referendum.",
       "categories": [],
       "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "One Nation IS fighter laws spark backlash",
-      "url": "https://www.abc.net.au/news/2026-07-31/labor-warns-one-nation-terror-laws-would-not-survive-high-court/106979386",
-      "source": "ABC News",
-      "publishedAt": "2026-07-30T18:59:47.000Z",
-      "summary": "Former home affairs secretary Mike Pezzullo said there is merit in a \"compromise\" approach to the current process of allowing temporarily excluded Australian citizens back into the country.",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "The Strokes, Charli XCX, Jack White: who had the best album of July?",
-      "url": "https://www.abc.net.au/news/2026-07-31/charli-xcx-strokes-jack-white-willow-four-tet-best-albums-july/106972758",
-      "source": "ABC News",
-      "publishedAt": "2026-07-30T18:30:00.000Z",
-      "summary": "Blockbuster acts might have grabbed music headlines but it was Australian artists that had some of the best new releases of the month.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Friday news quiz: Neil the seal's damage bill, unusual birthing methods and three premiers in one day",
-      "url": "https://www.abc.net.au/news/2026-07-31/july-31-abc-news-quiz/106975216",
-      "source": "ABC News",
-      "publishedAt": "2026-07-30T18:30:00.000Z",
-      "summary": "You too could find yourself named interim premier of Victoria if you can hold your own in today's news quiz.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
+      "score": 5,
       "spicy": false
     },
     {
@@ -350,17 +438,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-07-30T15:00:17.000Z",
       "summary": "The opposition leader is the highest-profile person mentioned so far at the NSW anti-corruption commission – and the political figure with the most to lose",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Parents of Australian facing possible death penalty in Syria question confession",
-      "url": "https://www.abc.net.au/news/2026-07-30/parents-of-patrick-stevenson-australian-in-syria-speak-out/106976598",
-      "source": "ABC News",
-      "publishedAt": "2026-07-30T11:42:48.000Z",
-      "summary": "The family of a Gold Coast man who has been charged with murder over the death of an Australian in Syria is frustrated by the lack of progress made by the federal government in the case.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -584,50 +661,6 @@
       "spicy": false
     },
     {
-      "title": "Red Metal kicks off Sybella rare earths study",
-      "url": "https://www.smh.com.au/business/companies/red-metal-kicks-off-sybella-rare-earths-study-20260730-p60jzi.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-30T01:58:54.000Z",
-      "summary": "Red Metal is fast-tracking its giant Sybella rare earths project, launching a pre-feasibility study on a simple heap leach operation for its near-billion-tonne Queensland resource.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Optus sued in Federal Court over network outage",
-      "url": "https://www.abc.net.au/news/2026-07-30/acma-takes-optus-to-federal-court-over-2025-outage/106975412",
-      "source": "ABC News",
-      "publishedAt": "2026-07-30T00:40:56.000Z",
-      "summary": "The Australian Communications and Media Authority is suing Optus in the Federal Court over last year's network outage in which hundreds of calls failed to reach Triple Zero.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "KPMG says ‘no decisions have been made’ on staff purge amid reports of 1000 cuts",
-      "url": "https://www.smh.com.au/business/companies/kpmg-says-no-decisions-have-been-made-on-staff-purge-amid-reports-of-1000-cuts-20260729-p60jsy.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-30T00:38:38.000Z",
-      "summary": "KPMG responded to a report it is preparing to shed around 10 per cent of its workforce and dozens of its 600 partners, while members of its global team have jetted to Australia as the company grapples with the fallout from the whistleblower scandal.",
-      "categories": [],
-      "relevant": false,
-      "score": 10,
-      "spicy": false
-    },
-    {
-      "title": "Tasmanian producer pulls products after Four Corners report",
-      "url": "https://www.abc.net.au/news/2026-07-30/food-labelling-country-of-origin-concerns-small-batch-producer/106973206",
-      "source": "ABC News",
-      "publishedAt": "2026-07-29T22:44:49.000Z",
-      "summary": "The labels on some of Tasmanian producer Stuart Young's handcrafted goods say some ingredients may come from \"further afield\". But that was a reference to the Australian mainland, not China.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Australia Prioritizes Onshore Skilled Visa Applicants Under New Processing Directions",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzNlYkozZ3c2amZfMXJZZFptUzlwaWN6WE1MZExQa0NBTXhMV2RuVzBOdC10VGEyM2ZJUGRmTWQ5aUd5VHkzT0pUX1dROUhacmtvSzlyd2d5UlBibnBVaVFTN1lRSWVZMVN0MEdON2dTUWFkZGRUZDlvQkpZQWhXdllzclJzTll5LTN5bnE4NThSbE0ycWxqV1lHY2wzbWhndHRMY3l4SXA?oc=5",
       "source": "Erickson Immigration Group",
@@ -676,19 +709,6 @@
       "spicy": false
     },
     {
-      "title": "It’s lucky inflation is falling. Most of us don’t even understand what the Reserve Bank does",
-      "url": "https://www.smh.com.au/politics/federal/it-s-lucky-inflation-is-falling-most-of-us-don-t-even-understand-what-the-reserve-bank-does-20260729-p60jj6.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-29T08:53:36.000Z",
-      "summary": "An astonishing 59 per cent of Australians believe that when the RBA lifts rates, it is increasing inflation. In fact, it’s trying to do the opposite.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 8,
-      "spicy": true
-    },
-    {
       "title": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
       "url": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb",
       "source": "The Guardian",
@@ -700,35 +720,11 @@
       "spicy": false
     },
     {
-      "title": "Big four banks put rate cuts back on the menu after surprising inflation drop",
-      "url": "https://www.smh.com.au/politics/federal/unexpected-drop-in-inflation-squashes-rate-rise-fears-20260729-p60jh4.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-29T06:41:14.000Z",
-      "summary": "Surprisingly soft inflation figures suggest the Reserve Bank will not be lifting interest rates in coming months – and maybe not for the rest of the year.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 9,
-      "spicy": true
-    },
-    {
       "title": "Mooted WA oil refinery ‘dinosaur technology’ amid clean energy transition, experts say",
       "url": "https://www.theguardian.com/australia-news/2026/jul/29/western-australia-oil-refinery-feasibility-study",
       "source": "The Guardian",
       "publishedAt": "2026-07-29T06:15:55.000Z",
       "summary": "A feasibility study for the Western Australian project will show the project is uneconomic and requires government subsidies, experts say",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Victorian Labor has wounded itself. Albanese would be wise to learn the lessons",
-      "url": "https://www.smh.com.au/politics/federal/victorian-labor-has-destroyed-itself-albanese-would-be-wise-to-learn-the-lessons-20260729-p60jgz.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-07-29T05:56:52.000Z",
-      "summary": "The Andrews-Allan Labor government in Victoria was one that others once looked to for inspiration. There are lessons for Anthony Albanese in its downfall.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -773,6 +769,19 @@
       "spicy": true
     },
     {
+      "title": "Seachange on a budget: 50 affordable coastal suburbs making waves with buyers",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVJ3V05vZm1wM0xXVE9sRlFYcWtVdTVoUmpibDV3clo2elA1ekJOQ1Z4X2VpMncxZEdNdUUtZnZYXzBDYzlka09rS1JIQkw2MGRiVkVrTlJCWDREOXF1MHhZa0thN2hWclZKeERVM095Q0FncU0tN014bG9UWHFZVzdON3ZKMmlOUmN0V0RlbHl1bHUwTHhlelNuRlg5RlVrUVZXc1ZwdjE5WGRvcDI5amVn?oc=5",
+      "source": "realestate.com.au",
+      "publishedAt": "2026-07-29T02:44:10.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "One Nation faces being struck off in Queensland after failing to file audited financial statements",
       "url": "https://www.theguardian.com/australia-news/2026/jul/29/one-nation-faces-being-struck-off-in-queensland-after-failing-to-file-audited-financial-statements",
       "source": "The Guardian",
@@ -815,17 +824,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-07-28T15:00:09.000Z",
       "summary": "Another female politician has fallen to opinion polls and factional leaders as the spectre of Pauline Hanson’s One Nation hovers over all You can be sure that Ben Carroll will never be seen in a North Face jacket. Even if the leisure brand is to be found in his wardrobe, Victoria’s new premier will ",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Anger at Labor as Rex Patrick faces potential six-figure legal fee if he loses Aukus documents battle",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/anger-at-labor-as-rex-patrick-faces-potential-six-figure-legal-fee-if-he-loses-aukus-documents-battle",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-28T15:00:08.000Z",
-      "summary": "Australian government insists legal costs should be paid by former senator as FoI fight escalates",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -887,19 +885,6 @@
       "summary": "",
       "categories": [
         "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Why are Sydney house prices falling in some areas, but rising in others?",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZEJFRGhsYlpmQ0Uxd1F0dXl3bzB5SkFoeVU2OTdXSUZMekd1UTVsMmdBZEsxMnQ1QWMyWXlEdk9xeXZRcFo2Rkw5Slh0cmM4SjBnd1QtREZSVktEVlhiTDNkR1UxUHVHZ0JadktWWjJUYkZZRVV5bUxhWE12R2xIQW5uY3FRLTNkT08tMlNZNlBELWFpcmw2NWx6cGEzT1VIcmlRaFlGemt2eldn?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-07-23T20:39:10.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
       ],
       "relevant": true,
       "score": 3,
@@ -969,7 +954,7 @@
     {
       "title": "Vice-Chancellor's Address: Business Western Sydney's Annual Post-Federal Budget Luncheon",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT1RRNWZJeGZZcmNiMW5TQXpRN0VnSFR0Sm1zV0syQ1k5a0dHSGpWdjlkYTRmNUJZRzBfNlpkYkdIcmlhN3BWNGVhTUh3X1dxZkM4aVRtMDA0SFEzU05Pb1RITE1UdkVnWDNSS0loNWZ0Q1BYdEhyNi1aWEpCZ3hTdC1JYVNESm5ZMzYtTlZ1Q1Q1cFRSMXZGZE1fTmFuTFVQYVVtNXBzN0xWam5IbFRQOFVKTTRXYmZFZUdrTjJrS1FENWlVYTc2SVllaFM4YkV3TGdiME1NcDhPUzQ?oc=5",
-      "source": "westernsydney.edu.au",
+      "source": "Western Sydney University",
       "publishedAt": "2026-07-17T08:48:06.000Z",
       "summary": "",
       "categories": [],
@@ -1039,17 +1024,6 @@
       "spicy": false
     },
     {
-      "title": "Chalmers’ budget surplus rests on ‘unrealistic’ assumptions: PBO",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeV90VVlZSTJhUlJKZUNSdnlaSlh2bW15bWw5WndtN0lpV0dlMTB4N3V2TzVCUVBMQ1hVLVNaUGhtR0VTY1pqRG1heGlPczBvUno5aGhXczRpVlZKak5UbVlTbGduSGdfVks1WU0xQVg0X3RlUGhQeldYallIcl9ZQnFGaTBvV0RfMVctMzhJVDQ0ZS1xd0ZKXzFJWHZXUHdwbUd4TWhhbEtIbUZFc01Fbw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "The tax bill for working Australians is in the mail – and it’s growing",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3RsaVY0a2FnbWdabVFWTTNOTjJ4XzFTMllMUXZRM1RlaHM0bHRNNzItdlphQlFWakk1UlNKZ2VZdXJ6aEZyeVhTa0lJRFZEZGh2N0NVdEtoR3hiRDRqMDNqRmZPM1hPdFkwM2U3Tk5ZYjQ1OFhGU05FMVNub1plbDE4OXRWTEltTGRCR3h3dXRhUTVMaVBZb1VvRHFUQ1hLdkVaY0NMTUhSYzcyenh5ZzVkN190ZllEZ2U4TURTeHdQZHI3cnQyMw?oc=5",
       "source": "SMH.com.au",
@@ -1060,6 +1034,17 @@
       ],
       "relevant": true,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Chalmers’ budget surplus rests on ‘unrealistic’ assumptions: PBO",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeV90VVlZSTJhUlJKZUNSdnlaSlh2bW15bWw5WndtN0lpV0dlMTB4N3V2TzVCUVBMQ1hVLVNaUGhtR0VTY1pqRG1heGlPczBvUno5aGhXczRpVlZKak5UbVlTbGduSGdfVks1WU0xQVg0X3RlUGhQeldYallIcl9ZQnFGaTBvV0RfMVctMzhJVDQ0ZS1xd0ZKXzFJWHZXUHdwbUd4TWhhbEtIbUZFc01Fbw?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
       "spicy": false
     },
     {
@@ -1144,14 +1129,14 @@
     {
       "title": "Labor’s big spending agenda pushing up rents, locking out aspirational homeowners",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPelJYVnRXa3l0WnI2b242NGZYcjNYQ1FsXzZ5ZHk4dTY4bThTMUtVUGljdlotUUtzczBfbXItNEEzQk9XcVB5UTNSTzF1Q1BaRWc3Tm5JZVhxb0VsZEROeEZIRVkzd3RWVjFyRnpfWUtGdlJtd29XQlk5YmhxOFZaTVNrMjdUbDZKWUFrMjc2VjlOZDkzb1VVSHBxZnE0SlQyV1hzNFlFb2NDQ1NFeGcyNjUybU1CUjlJVEE4RDJxZnEwUHpyTHdVVWVJdDdWVTlMUkFsUFZYbHYwVzBFNnBwNDQxTTV3NW5HbjRVWHkxOVpXcXpuZWRJb0p1Tzg0VlUyUU9FVzB6Y2Rva3FsOXNxSlJhUzRSeHBCX1VkOUVIcHVvalo3NnhFV3l4Mk9XN2FjVTNFakdKZFhYQkdnR3M0anM1bDlFR3M20gHOAkFVX3lxTE9fdjFhWHNNbmpFQkdwWnVZdENXTXFERnNpNzI4dFNDbkJKcmdkQldqOTJ6UWhkV0paYjIwTTNTUVZhUnlBRVFLbXRhY0NmVThfSlhIRm5aVVVETU53UG9oMnNOMHVuWlJkUFJUTGUzczJEMktabG5JMW5SSmZKeVlocUhnTms4TjluSV9oSVVIRjRwSHh1ZFZVSjdCejJObTZDR1VMa0VhUUVtY3FOSElVUDVlZVc0UlVmZzcyWTc4X3V2Z055SVFuSUcwcll6MlB5VWNLTFNpNms1VmpIbGQ4Yl9qUkNrYW5qc18tVnJlbzc2eDNQRUpXR3BHUzF1ZVlQMU15aml3dGtRMU5XcmMxU0hlTmFyV1JrMnJkM0QzWlluTHl2ek1sVkkwcEV1Rkg1eVpKd0F4cnlTeTdNTnpCck1XUEVsM1h3a3hWSnc?oc=5",
-      "source": "skynews.com.au",
+      "source": "news24.com.au",
       "publishedAt": "2026-07-09T07:00:00.000Z",
       "summary": "",
       "categories": [
         "Housing"
       ],
       "relevant": true,
-      "score": 3,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1192,7 +1177,7 @@
     {
       "title": "Labor’s housing tax reforms must be the beginning, not the end",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOGdnWm14YTVjd2NrMWRET0kwNjA0a1Z5dXFoLWp5QlhJdGNoOEg0UFhjR2hzaVdobjRMY2d3SVVCQkN5cENUUWZRdjMydFI3TVpfbzZDVHpHbXAxcFRJWWhyZVQ1cUJYdjJnSmRGRDJIMGRqLVBHazFJNGR4Q0NQc2JiQUJmemRsSzRNdUk3VTBSR3J4WWJn?oc=5",
-      "source": "crikey.com.au",
+      "source": "Crikey",
       "publishedAt": "2026-07-07T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1245,12 +1230,12 @@
     {
       "title": "Treasurer accused of ‘crashing confidence’ in Australian economy",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOaHNld08xcDI0bVFMSGpuTlF1UTZrT3ZORm1BT3NpNFQxUFJfaXU0MmJmbjRIVVRQQzFuOTlaX3ZyMkdkR2p2SEI5akpIVWN5YVZkNTY0YU9GZHpVTFE5d1VXVl9wQ01RYTBYRURPdzRuWXMyOUd2RlRQN3pJNHZ0eGxuYVRVb3o0ZWVMTFdKUnNILVM4VFJ1TW9fdGV3RzM2azVqaGU0Mllrc1RFc2VnVk5mUUJEQnFsc2toY0YxeUxKNm4zb2FNWHVMdjRUREpWdVRxYjV2U0I2T1ZOWDJNRGZTaUVfTk9UcjFlSUswYTJkMWxseEtrUkFGVW90MFhDN0VTMDd5bmt1ZjIxbng2RzFkVXhVdllGZFFmOC1RRlVtalXSAagCQVVfeXFMT3YzNzVtSWVHeDlXczdSeERIVUVIQmVack1YT1I5Q2Z2Y2d2WjdhRDRRbm9maEVmSTd5WGxpaUtLSUtTc1ZhcG9NLXVvSzRsOGdYZU1KeFplaVF6eUYzVWlJWnFiZ1V2cWQ0bDhfajQ5OWdURWF5eGVCT2dWcEFoaU9Cb1lsUzNCQVVSWXdoeTU4MjY1Slh1UGdCaE5VVUVVWVUxVFFBdW42LVE1TDdUeUR0UjRBdnZrbmFMVHVSVVhQU0JFWGpKSmUxUXNHZTNQUjk1cUUtVU9jSlcyZTNZdWo1blRocmhlREJKenBVRzFoLUVOa2RfQ2NMcTdaWTZiMXlVbmNFVTYzYS11QzcxZThETUFGTTFzRElIaEpGNUNCQms4X21GWXI?oc=5",
-      "source": "skynews.com.au",
+      "source": "news24.com.au",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 3,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1424,7 +1409,7 @@
     {
       "title": "Tax changes ‘damaging the future Australian economy’: Tim Wilson",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWJ6Snl5b3p2MFhlS3ZObVQ1UjVpQXZXUFdUb3BmWHN1ZkRBTVExeXZHLUpKcE1hcDYxaU1lbjluYjQ1ZThSV1lYRE1naExjdWh0c0l1YzdLemxDQjJXM3F5MEQwSFNQQW84S0d6SUlwdGtSdkg2T25pNHdES2N6TWpkYVBtNFIxODJSLXpabXhsZmZXYU1GWkRwaktWSXYtMURBWjBGLWRSTkRZMWZFaERB?oc=5",
-      "source": "accountantsdaily.com.au",
+      "source": "Accountants Daily",
       "publishedAt": "2026-06-25T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1498,6 +1483,17 @@
       "title": "Federal Budget 2026 overview",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oYUxTSWR1VnpSUURuY2ZuRWZIOEs1TzdTM3F3bXNCbjVadFozdDVxaGdJZzk1WFBDcG9ReVllWGwxdGwtVmhGaVhmcUw5R2VwWEl4bTVETzg5d085MEZuMXRnOFowUXpXM0dCYVlQNFdUdzc4SWdfUlJ0c18?oc=5",
       "source": "superguide.com.au",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Budget backflip on testamentary trusts not all that it seems",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlh2RzhNdzc1UUtLR1B3SG14MTh4WFBsdjM5RzBEWFNpUUpXekhSQ2J1YXNyOXFfZTcwOUhMNGNJZGdpTzV2bVM2eUZIT1ZydDVhd2xSektJRVQyVG43cDFkVGt4YnZDb0FNdTdMOHRLeXdOT05hWnFIUzlHVTRLVFZ3aDVwamFjdWdJanhuc2czUmh0SkxISkhUS0cyWlpVcDRuNFJFcVE5c0VYMUI5NFlhdFhHTHgt?oc=5",
+      "source": "Accountants Daily",
       "publishedAt": "2026-06-23T07:00:00.000Z",
       "summary": "",
       "categories": [],
