@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-04T11:41:18.676Z",
+  "updatedAt": "2026-08-04T14:32:50.920Z",
   "count": 120,
-  "relevantCount": 63,
+  "relevantCount": 62,
   "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
@@ -30,8 +30,8 @@
   ],
   "sources": [
     "ABC News",
+    "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
-    "Absolute Immigration",
     "Accountants Daily",
     "Australian Government Department of Health, Disability and Ageing",
     "City of Ballarat",
@@ -43,6 +43,7 @@
     "Khaleej Times",
     "Legit.ng",
     "Mondaq",
+    "NSW Government",
     "Nomad Lawyer",
     "Ocean Road Magazine",
     "Proactive financial news",
@@ -57,15 +58,26 @@
     "The Australian",
     "The Guardian",
     "The Indian Sun",
+    "The Institute Of Public Affairs - IPA",
     "Tuko News",
     "Western Australian Government",
     "Western Sydney University",
-    "abc.net.au",
-    "ipa.org.au",
+    "absoluteimmigration.com",
     "realestate.com.au",
     "superguide.com.au"
   ],
   "items": [
+    {
+      "title": "Police investigate arson on Victorian defence company as 'far left terror'",
+      "url": "https://www.abc.net.au/news/2026-08-05/terrorism-police-investigate-arson-at-melbourne-defence-company/106997004",
+      "source": "ABC News",
+      "publishedAt": "2026-08-04T14:00:13.000Z",
+      "summary": "It is the first time Australian authorities have investigated what they consider to be a potential far-left terror attack, motivated by anarchist and revolutionary ideology.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Tony Burke delays speech expected to reveal sweeping migration cuts",
       "url": "https://www.abc.net.au/news/2026-08-04/tony-burke-national-press-club-migration-cuts/106996936",
@@ -94,14 +106,14 @@
       "spicy": true
     },
     {
-      "title": "Kevin Rudd says we need nuclear subs, discusses 2028 Taiwan theory",
+      "title": "'Script hasn't changed': Kevin Rudd derides Hanson's leadership capability",
       "url": "https://www.abc.net.au/news/2026-08-04/kevin-rudd-on-pauline-hanson-xi-jinping-donald-trump-aukus/106995564",
       "source": "ABC News",
       "publishedAt": "2026-08-04T09:19:08.000Z",
       "summary": "Former prime minister Kevin Rudd says One Nation leader Pauline Hanson has no real answers for the issues facing Australians but he does believe AUKUS submarines are a good thing for the nation.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 6,
       "spicy": false
     },
     {
@@ -256,19 +268,6 @@
       "spicy": false
     },
     {
-      "title": "Labor’s stealth visa overhaul targets offshore skilled workers",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2VwMzZMY2FDbDVHLWthdDRkWFcxd2dVOUFXbVVQQWtRTUNFcXBWZUt3cFVWdE1EbVhIcVJhMVQ1LVB5NlBYZmdJVUdtLUxLVHZFVGduMnc4bUpBTlV2Z3dRaUpoM2ppVS1LaDZBLTVMTVlwU1ZyYWE5THlQQzljcV9rbEpWdXFrUnh4aVg4M1NCNzN0ajhUUlBtbUZZZmMxSVdBUVpoNDREaml0U3ROUjI0SQ?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-04T02:16:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": false
-    },
-    {
       "title": "Hastie signals he might lose, hopes One Nation will preference him",
       "url": "https://www.smh.com.au/politics/federal/hastie-signals-he-might-lose-hopes-one-nation-will-preference-him-20260804-p60l5v.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -276,7 +275,7 @@
       "summary": "The gloomy comments have revived a conversation about how closely the Coalition and Pauline Hanson should co-operate to topple Anthony Albanese.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -438,6 +437,19 @@
       "summary": "An investigation is underway after a fatal truck accident in the NSW Hunter Valley.",
       "categories": [],
       "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Chalmers urged to fix widow tax as ‘devastated’ casualty seeks help",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTJCUV9vZDFlNkF1ak9hdlpXXzRWVVJYZ2c3OVBFd09ldEQwVVVYTWd1eUdQQ25aSGFpQW1WT3lVX3NyRm9ha0o0Q0ZRRzZwQ3VHOEVYU19vcVVIZjZlRjlpUUc4NERDS0lNNS1ZZmNCRXJRVVBaSjE2VnNZY0pzdEFTOERSYjhEYUp6Y1dRLTQ4aUtnSUFmZlIwQ3JJU2hEdzZyTzBvdkswWTgwakQtTDNQdWE1eGZZTUE?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-03T05:28:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
       "score": 3,
       "spicy": false
     },
@@ -912,7 +924,7 @@
     {
       "title": "'Nervous' investors retreat from housing market as downturn broadens",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTNiWXNrMjlXdGlPVzh4OVFEOTlMQTZrSTkzQjRFb21HWXp2aG1GbGdnZUJlTnZqMl85U1ZTMXpCY3JpMmxGd2ZqY2J0eDV4NTI2dmtyR2dDMUpGU0JEWi1ZTXdOZjc1eUQ2a1R3UUp6T3JoYlpPR3NRRms0cXoyWXJJdnhVOFp6M1hobXZIVGluaGpTVkkzcWVpLXQzWnUxSlV6SldZVDlrQQ?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -920,19 +932,6 @@
       ],
       "relevant": true,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
-      "source": "Fragomen",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     },
     {
@@ -1124,7 +1123,7 @@
     {
       "title": "Property developers are benefiting from Australia's housing crisis",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnFSaTJza1VOaHl5SVNrR3dSUXdnRERoQTBSSDVCaHpTNUd2bEJDMlJsdXAzZVhYMWpJYTQ4QkdPd3VCdUkydlFtcjJ6UVVCWGV0eHN5R21aQTNFV1ZoQnh1UHBLMTFXNFZvUUxXYTlNNk9mdkI5ZmgwUG95NEJ6OV9xUUVLRWN4LTBKcWFWa1JWREVyWWtQSkRVV2ZnNWg2UlpTTEcwMjU0cllGYURidE1n?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-07-13T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1137,7 +1136,7 @@
     {
       "title": "Curbing well-off taxpayers' access to key programs could save billions",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGVwWTFMNkZJeWZqc3ozeU0tR0swWWVZYTRQM1JNbjQ2RkJLS2xoT21kV0hCNnBlbnpxdkVQRWFXS1pRcXJwYjI0bkFhejY4QkRQeHhacF9uOHRsRTlFdGZTbGQxazJrU0ZvNjdkVnQxWTFHOW1PdXVuRzk2WTZjQTFhVUFLaVhGdG44NkdsbEQ0WVoxdUtSa0NGUVQ2MkpiZDJtdg?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1248,7 +1247,7 @@
     {
       "title": "Visa application charges and key immigration fees increase from 1 July 2026",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGVPWTFHcUNwbi0zOTZ3UTdIZEdLVTg3NUN6Z2ZaazBUZGRDSGYwcDUwNzRzc3oyWTRhQjNROEllcDBiSXlKTEk5T0NzMVA3YUcwSWdjaS1FZG02U1Q2TTNuZkdmZTBsMzJWaEZDTFV2amtIclBjcjFOcVp4cXVBWXc4cDVRV3JRMUFQUmlwX3IwRldZTnc0T0RzNEF5SGxOY2J5djhkV3UzeTA4Q0s3ek13?oc=5",
-      "source": "Absolute Immigration",
+      "source": "absoluteimmigration.com",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1313,7 +1312,7 @@
     {
       "title": "Treasurer promises to 'fix' property tax oversight, but won't say how exactly",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ29MRTR6SU4wU3pEU2FaWDJtV1k0cUhHTDNIb0dJdTBtQmFDYmNtMGd5RmJFekVPc0pBZTVVNnIwZUo5dTB6M0lrbzk5YVZ4NEpLczgtdks3VG10RE81Wm8zMFRsWE11M3dfWUw1czJQSG5NTDdqcTd5Yzd2Zk13ZHZva2tEOXBuaEFlVkJXUTREOHNEY1hIUWFZN0RadTZMVWlfT1Z1dXN0aGhFSmV3RUpVOA?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-06-27T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1388,9 +1387,9 @@
       "spicy": false
     },
     {
-      "title": "Labor won’t rule out more budget back-downs after ‘widow’s tax’ U-turn",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTgwQ2ljNkFEYnN6ZTNKelpwTzF6QnZyM0hiLUFXTk1PQTV0Xzl4bHVjUVh6bk1RT01WejB5Ukx2dXlOcjZfMGdxQUt6RkN3YnRFRGFacGpnOXZWSU9QUzJNLWhaQkZzMVhXSS1nQU9HQ19wQU02cy0wQ0w5a3ZhekpSOWRUa0FfelhoaGVXVkt6WVVHamxaVE0yQTZRMmw0R0l5c1FpdDcxeGhs?oc=5",
-      "source": "AFR",
+      "title": "Everything you need to know about Labor's latest tax changes",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUZ3QTMwMUZ4ZzdRSUJnOTM1cnRQajNQcEc3aXQ1VnZFd2xBU1QxenBiNUJxd0JvQ2JIMEJDbmFTM1B0NDNoT3pybkJLZjJUOUNyb2R6RnRhNkdwSS1tZWtpQWhzRmM1X08tLUp1YXo3TUl2WkNNeXkyZk00djYxV0MtTmtQTlNSVW1kaFA3d01VS0tyeEl4V1JzbWpubWJoVkJ0RHVaaDE?oc=5",
+      "source": "SBS",
       "publishedAt": "2026-06-25T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1401,9 +1400,9 @@
       "spicy": false
     },
     {
-      "title": "Everything you need to know about Labor's latest tax changes",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUZ3QTMwMUZ4ZzdRSUJnOTM1cnRQajNQcEc3aXQ1VnZFd2xBU1QxenBiNUJxd0JvQ2JIMEJDbmFTM1B0NDNoT3pybkJLZjJUOUNyb2R6RnRhNkdwSS1tZWtpQWhzRmM1X08tLUp1YXo3TUl2WkNNeXkyZk00djYxV0MtTmtQTlNSVW1kaFA3d01VS0tyeEl4V1JzbWpubWJoVkJ0RHVaaDE?oc=5",
-      "source": "SBS",
+      "title": "Labor won’t rule out more budget back-downs after ‘widow’s tax’ U-turn",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTgwQ2ljNkFEYnN6ZTNKelpwTzF6QnZyM0hiLUFXTk1PQTV0Xzl4bHVjUVh6bk1RT01WejB5Ukx2dXlOcjZfMGdxQUt6RkN3YnRFRGFacGpnOXZWSU9QUzJNLWhaQkZzMVhXSS1nQU9HQ19wQU02cy0wQ0w5a3ZhekpSOWRUa0FfelhoaGVXVkt6WVVHamxaVE0yQTZRMmw0R0l5c1FpdDcxeGhs?oc=5",
+      "source": "AFR",
       "publishedAt": "2026-06-25T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1454,9 +1453,9 @@
       "spicy": false
     },
     {
-      "title": "Bad budget another marker in Australia’s managed decline",
+      "title": "Bad budget another marker in Australia’s managed decline - The Institute Of Public Affairs",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmVFS1hfV1VRSWpzMFhFdWUtVFRmTXhwVWtQSWZ1d2w3SWZsNHdYYWJlQUZMUHJYeW1KNDN6NzZ1Z1NjUkxUSDVWT1VmR1pxcXcwRmozSkEwQ2ZRZGZMLWNGR29RVnNZWG5JNjQ4cHJTN3ZkejFMejB2QzVobGpJRVZQaHYwSHBEdEc2VHU5ZlMya1VmQVg0cU5HM2RBT2lVSXdiajRFRy1nQQ?oc=5",
-      "source": "ipa.org.au",
+      "source": "The Institute Of Public Affairs - IPA",
       "publishedAt": "2026-06-24T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1498,17 +1497,6 @@
       "spicy": false
     },
     {
-      "title": "Budget backflip on testamentary trusts not all that it seems",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlh2RzhNdzc1UUtLR1B3SG14MTh4WFBsdjM5RzBEWFNpUUpXekhSQ2J1YXNyOXFfZTcwOUhMNGNJZGdpTzV2bVM2eUZIT1ZydDVhd2xSektJRVQyVG43cDFkVGt4YnZDb0FNdTdMOHRLeXdOT05hWnFIUzlHVTRLVFZ3aDVwamFjdWdJanhuc2czUmh0SkxISkhUS0cyWlpVcDRuNFJFcVE5c0VYMUI5NFlhdFhHTHgt?oc=5",
-      "source": "Accountants Daily",
-      "publishedAt": "2026-06-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Labor’s housing affordability fix could freeze the market",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVdEUnhrTWdwZ0g3Ym04cjV1MDd2aHZKX2lubEtaSTVXZ085OUZrMEk5Mlh1anN4VEhHdWo1aUNiblZZeWR1VEU5LTRxZnZKT2ppVXpkajFUb09RREx1NkFJRUNiYWxWeVVxY01nRE5rR2JOLXgxYnhwNTl4UVVNOVloTGxyTDFwUjR2S0lXbEVHdnE2YmJzcDB6OGxiSDRwTkp2MW45ODBXMThz?oc=5",
       "source": "AFR",
@@ -1519,6 +1507,17 @@
       ],
       "relevant": true,
       "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "NSW Budget 2026-27: Cost-of-living measures",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2tpT3ZWajMweWc5cl95OENmZDdXbEJ1UUZhN0U5S3VQc2c3NXJTalZ3MjljWnB0VHpJakFuZERkem9VV0pxV3hKOS10TnRSYWVsWWFoMEplc2d1YkxjUlJ0bnVhQ3R3VEFfWDNGcHdzSW8yVEp0Z3lPSXotZlZjaGllOVRBS2RreGpxLWdOZw?oc=5",
+      "source": "NSW Government",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
       "spicy": false
     }
   ]
