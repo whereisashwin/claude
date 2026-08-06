@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-05T23:08:28.922Z",
+  "updatedAt": "2026-08-06T00:53:39.279Z",
   "count": 120,
   "relevantCount": 69,
-  "spicyCount": 11,
+  "spicyCount": 12,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -29,12 +29,12 @@
     "Australia cost of living relief budget"
   ],
   "sources": [
+    "9Now",
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
     "Australian Government Department of Health, Disability and Ageing",
-    "City of Ballarat",
     "Erickson Immigration Group",
     "Ethos Migration Lawyers",
     "Expatica",
@@ -45,7 +45,9 @@
     "Legit.ng",
     "Mondaq",
     "Nomad Lawyer",
+    "ProPakistani",
     "Property Update",
+    "Royal Australian College of General Practitioners (RACGP)",
     "SBS",
     "SMH.com.au",
     "Shiksha",
@@ -54,30 +56,50 @@
     "The Australian",
     "The Guardian",
     "The Indian Sun",
-    "The Institute Of Public Affairs - IPA",
     "Tuko News",
     "Urban List",
     "Western Australian Government",
-    "fundsforngos.org",
+    "Western Sydney University",
+    "fundsforNGOs",
     "news24.com.au",
-    "propakistani.pk",
-    "realestate.com.au",
-    "westernsydney.edu.au"
+    "realestate.com.au"
   ],
   "items": [
     {
-      "title": "News live: News Corp loses subscribers in Australia as company lashes out at AI ‘crass kleptomaniacs’ and ‘slimy sea of slop’",
+      "title": "Australia news live: new national standards for ebikes; man dies after trying to protect Sunshine shop from alleged thieves",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-05T23:03:35.000Z",
-      "summary": "Internal data shows digital subscribers slide from 1,166,000 to 1,162,000.",
+      "publishedAt": "2026-08-06T00:40:10.000Z",
+      "summary": "Government asks watchdog to crack down on the sale of unsafe ebikes.",
       "categories": [],
       "relevant": false,
       "score": 4,
       "spicy": false
     },
     {
-      "title": "Labor MP Ed Husic taken to hospital with fractures and concussion after car accident",
+      "title": "Farmers fined for blocking VNI West transmission work",
+      "url": "https://www.abc.net.au/news/2026-08-06/farmers-fined-for-blocking-access-for-transmission-lines-vic/106998866",
+      "source": "ABC News",
+      "publishedAt": "2026-08-05T23:30:30.000Z",
+      "summary": "Farmers in Victoria's west have been issued infringement notices after they refused access to authorised officers looking to continue planning for the VNI West transmission line project.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Pineapple growers raise biosecurity concerns as Asian imports considered",
+      "url": "https://www.abc.net.au/news/rural/2026-08-06/biosecurity-concerns-over-proposed-pineapple-import-plan/106989614",
+      "source": "ABC News",
+      "publishedAt": "2026-08-05T23:20:18.000Z",
+      "summary": "Australian producers flag biosecurity worries as the Department of Agriculture, Fisheries and Forestry considers importing pineapples from India and Indonesia.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Labor MP Ed Husic taken to hospital with fractures and concussion after car crash",
       "url": "https://www.theguardian.com/australia-news/2026/aug/06/ed-husic-car-accident-sydney-labor-mp-ntwnfb",
       "source": "The Guardian",
       "publishedAt": "2026-08-05T22:52:51.000Z",
@@ -88,22 +110,11 @@
       "spicy": false
     },
     {
-      "title": "Exposure to pesticides at work could raise risk of ALS, study finds",
-      "url": "https://www.abc.net.au/news/2026-08-06/pesticide-exposure-linked-motor-neurone-disease/106998230",
-      "source": "ABC News",
-      "publishedAt": "2026-08-05T21:37:26.000Z",
-      "summary": "Two people in Australia are diagnosed with ALS each day. Researchers say working with pesticides could bring a 70 per cent greater risk of developing the fatal disease.",
-      "categories": [],
-      "relevant": false,
-      "score": 9,
-      "spicy": false
-    },
-    {
-      "title": "Live: ASX to edge lower after mixed results on Wall Street",
+      "title": "Live: ASX hits record high for second day running",
       "url": "https://www.abc.net.au/news/2026-08-06/asx-markets-business-news-live-updates-thursday-6-august/107002346",
       "source": "ABC News",
       "publishedAt": "2026-08-05T21:31:20.000Z",
-      "summary": "The Australian share market is set for a lower open after yesterday's record close.",
+      "summary": "The Australian share market opens at record high in morning trading.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -121,7 +132,7 @@
       "spicy": false
     },
     {
-      "title": "Outback city's young population revels in its housing market amid low prices",
+      "title": "First homebuyers enter market in outback city where median house price is $312K",
       "url": "https://www.abc.net.au/news/2026-08-06/mount-isa-outback-queensland-home-ownership/106975586",
       "source": "ABC News",
       "publishedAt": "2026-08-05T21:04:50.000Z",
@@ -130,11 +141,11 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 4,
-      "spicy": false
+      "score": 9,
+      "spicy": true
     },
     {
-      "title": "Woman and man found dead in suspected murder-suicide",
+      "title": "Toddler found safe after woman and man died in suspected murder-suicide",
       "url": "https://www.abc.net.au/news/2026-08-06/man-and-woman-found-dead-in-charleville-police/107002338",
       "source": "ABC News",
       "publishedAt": "2026-08-05T21:03:07.000Z",
@@ -187,19 +198,6 @@
       "summary": "One year after a couple left in a brightly coloured plane from a small Tasmanian airport, friends are still hoping for answers about their disappearance.",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "How a bitter firefighters' pay dispute turned toxic in Victoria",
-      "url": "https://www.abc.net.au/news/2026-08-06/ibac-operation-richmond-firefighters-union-report-dan-andrews/107001568",
-      "source": "ABC News",
-      "publishedAt": "2026-08-05T19:10:18.000Z",
-      "summary": "IBAC's Operation Richmond found former premier Daniel Andrews, his senior ministers and public servants breached codes of conduct during protracted negotiations over a firefighters' wage deal in 2016.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
       "score": 4,
       "spicy": false
     },
@@ -300,7 +298,7 @@
     {
       "title": "Australia Changes Visa Processing Rules for Skilled Workers",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjFVTmZmQnI1Y2FnYzlVWFBnTVV1NVM1dmYxUWM1OVhreWRLRXNfalFfOE5yUjBoNG1uS240NkRtNm9qZW9ERWhiVXZPM2gyNElBcUhVQ3JPVUEtSmhrcUJvVW43dHlWSHJ3TWFXbjBfczN2ejJBZzhBYnhVc3hxb2JEd2ZaSnBtQmJWZFowcTBvdzFuQmtHZEVQZ9IBoAFBVV95cUxNWXBObW83YXdybExic19TM05VTmY0ZG9MX0RQcUdkTnBsaHdxTVl6X2ZkUVZTaUYweXNNX1lKU0VJWHNwQ2prZjJUNTFNaTJXU0RtMlNialllOXpnZFRrci1RZE5mTWx2VmNWcEpCeno1QkVPRU1Oei1zeENTUjBFdE5mYjRFaXJhYjdsbjE3VUZqbDJGZW5CdkZJNmc4ak9h?oc=5",
-      "source": "propakistani.pk",
+      "source": "ProPakistani",
       "publishedAt": "2026-08-05T09:41:43.000Z",
       "summary": "",
       "categories": [
@@ -490,6 +488,19 @@
       "spicy": false
     },
     {
+      "title": "Watch 9News Latest Stories - Season 2026 - Changes to skilled worker visas",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMlVhdGlVSXdSZmFnTWl2Zm9SVFNONkJIRlJxQlhCTkRFaTN6Z2RLcnJ2U1VyeVFoS0ZBRWFfaDhBXzNPbS1ZTk54V1cyMXluNW5TM2daa0pjdUhWM0hWcG5wdXFRYmRLV1lSS0NBVVFwZ3RsS0UwUlZiWXNiZmU0VTF2cE85Y054aEFNOQ?oc=5",
+      "source": "9Now",
+      "publishedAt": "2026-08-05T02:27:04.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Making Sense Of The Federal Budget: What It Means For First Home Buyers",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2pXS1VMajFpQWZJSEpZMU0tSGY0cEU2UVU3QW1EU2J4aG4tOXc3VjgxUTJwbG9GbHZJaXBKdTR5Y0NCaVE1UTZIc2tRc2RvMmRxOUdVQ0tGcUYyb29ZS2NzemtRXzJuMTl1ZWQwYUlac3V2aFZDX2J6Q2JXbGpldnN0UEk?oc=5",
       "source": "Urban List",
@@ -594,7 +605,7 @@
       "title": "Hey, Treasurer, we still need answers on your budget bomb",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQWRwOHVlSHZxcnhkSkltUWRCU2I2V195RGxObGJYakYyLUtDdDIyNU9hcDJrcTVhOHp4bUVmaURlNldVc2NlVGRGQ1ZYc2hGQkpVVkN6MUlSYWNFc0FfYWcxZ0N2cC1hbnE5X0o0Sllrbk51QWdVbi04Smwyb3ZVYzVCYzlTdW9hc3BYNDJqZ01nNVkyaTdpVzIxMC1KN3EyZm5jdmxqODc2YWprV3lGRGw4OF9DR0R2b1B6ajBkYmY2R1QwRXNZZXZzWHpIaTdRTzZqLW1lQnZucFdaX1M2SFFEWTVoQWpxeC1YZjlFdFJVd2pXbUJiNtIB_gFBVV95cUxNMkpyV1JCdXFjQ3NMSDhhQjM1czBVM3RYLUVLN2J6anNyU3UtNUtpc0Zyd2VOWDROLV9TTVlETzdTNGVsWXdNY0JLQXQtYUxBVnBWOGpiRzlURTd3bFhxNjM0bnFYRmd1azQ5QnN3QWQzelZBdjl0SWFpMHc0UG1zTGVCX3d4cVlxd0JHUHAxbzZNRU9DM052M0daM2lQUWNKTFJMbExGNmJuNno1RXN3TGtpUHFZVEkwU245R09YVFFMNDVOS2RoSEJKZ3MyckhpeFZURGpXd2ZZM3ctSmpleFBwRVU5LTFrb1ZmX3N4N2g5YUJHSk0wemxUMW1JQQ?oc=5",
       "source": "The Australian",
-      "publishedAt": "2026-08-04T18:57:07.000Z",
+      "publishedAt": "2026-08-04T19:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
@@ -794,10 +805,24 @@
       "spicy": false
     },
     {
+      "title": "House prices slide across Australia as Middle East conflict and tax changes begin to bite | Housing",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRExVUVgxZWkzU084aDRVREJEQ0dzeEdWQzQyVExNNFEwQlFHSTR4TDBjLUEtYUl1RVptYUpxSUdrM3UtR04wVENxeXctV0F6dnlTWDFlbWlSRUhVdDJkTE8zcXFXN3AydmdrcjlsWmdPR0RmSG9LREZ4LUpLWlFWZmJ1NFFKTGRvcExuZzdfX3Zza001NVcwa3NWVFlLTkdWdHV1aVBxcTlDdHNCVllPT3dsQktWVGFxSWEwNDVYM1ViQ1czTXh4UnN3X0dJeXFmYTV1Y3llZFV3b0Nr?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-02T21:33:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": true
+    },
+    {
       "title": "House prices slide across Australia as Middle East conflict and tax changes begin to bite",
       "url": "https://www.theguardian.com/australia-news/2026/aug/03/house-prices-slide-across-australia-as-middle-east-conflict-and-tax-changes-begin-to-bite",
       "source": "The Guardian",
-      "publishedAt": "2026-08-02T21:33:00.000Z",
+      "publishedAt": "2026-08-02T14:01:23.000Z",
       "summary": "Cotality data shows a drop in Brisbane, Adelaide and Perth, as nation’s median home price falls about $19,000 below its March peak",
       "categories": [
         "Tax",
@@ -984,7 +1009,7 @@
     {
       "title": "Apply for Affordable and Diverse Housing Fund (Australia)",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ084enh3QkJFLUMtTzlfR2Jidl84VjBCQkpUOU9wTmtDeUtEZVdwZzJDYUlkM0RzU242LXJEQkt4dnJrQ2Nmd0liZEV4NEkyaTV1UzlpdlJXbl9JY1kybldORmhwaEJ1VVhJbk9DRk9KeG51NlNYQ0lSbVgyei1ZWU1QVmJWSXZzdGlFc3pOdEtSNTRrcXE5VHVSWnpRckXSAaQBQVVfeXFMUFBZTlVsTVFUR2lRcG1NbkxraEtJWmFjTVozNnJhNkI2eTllSDBqalc2bHpNcXI2LVQ3SmxBdFFSZ2xpN2ttcVozLWp2TTEyU2ppdTJSNUo2Tm5UYm9PdHVBZUhneVc2QkdhMFFkZUtfSV9NYkxCTHpjRjhoY1FQQUpvRU9CSzV3ajNmRExwWXpHSVN6SWNOZmloVkhRT08yYWdLbGw?oc=5",
-      "source": "fundsforngos.org",
+      "source": "fundsforNGOs",
       "publishedAt": "2026-07-27T09:05:47.000Z",
       "summary": "",
       "categories": [
@@ -1108,7 +1133,7 @@
     {
       "title": "Vice-Chancellor's Address: Business Western Sydney's Annual Post-Federal Budget Luncheon",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT1RRNWZJeGZZcmNiMW5TQXpRN0VnSFR0Sm1zV0syQ1k5a0dHSGpWdjlkYTRmNUJZRzBfNlpkYkdIcmlhN3BWNGVhTUh3X1dxZkM4aVRtMDA0SFEzU05Pb1RITE1UdkVnWDNSS0loNWZ0Q1BYdEhyNi1aWEpCZ3hTdC1JYVNESm5ZMzYtTlZ1Q1Q1cFRSMXZGZE1fTmFuTFVQYVVtNXBzN0xWam5IbFRQOFVKTTRXYmZFZUdrTjJrS1FENWlVYTc2SVllaFM4YkV3TGdiME1NcDhPUzQ?oc=5",
-      "source": "westernsydney.edu.au",
+      "source": "Western Sydney University",
       "publishedAt": "2026-07-17T08:48:06.000Z",
       "summary": "",
       "categories": [],
@@ -1376,6 +1401,19 @@
       "spicy": false
     },
     {
+      "title": "No place like home: The role of general practitioners in a housing crisis",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85VmoxUDFkYW16N3NRN2Y5T3lnZ2EyRlVwZnVJc1A1ODZsdERvYzZrZnJHXzNEQVdkNkhrdFd6WjFMaFR5UldHV0hoVS1RYzVIT0EyZnFQUE1UXzFqZW85S0FDSjZRM2xSN2tJ?oc=5",
+      "source": "Royal Australian College of General Practitioners (RACGP)",
+      "publishedAt": "2026-07-01T00:15:17.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "New Zealand: Major Changes Announced for Skilled Migrant Category Resident Visa",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWlNcFNGUG03U1YyQkpjSEFDY2RaY0RySHN4bzJnb2V6ODFVMjJwa0taaDNPYV9SM1ZnakdNNEozMGZTQ0VrREhtM2RFSlRVS1hYUks5T1FjY1l6Ylg3VFVfeDRwdGhTZ05JS3FPOGlxZlBfRlNRMXJfV2RpVEhXUWYwTU03bVhaTXA0NGN2R3drcUFCR2NxazctREVMdGZkcmstanhuVEp1RTc0Zkx0VWNYdzVrU2Zn?oc=5",
       "source": "Fragomen",
@@ -1489,44 +1527,6 @@
       ],
       "relevant": true,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Taxpayers give $2.7b to rich families in childcare, parental leave",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHpkU3poVGxaNUZIRGZrdUtHcHM4elFvbzZuVGduVDNCTGxPMVRkc0MtZU9wdWtHVkotdEFwal9RN2huM25ibnQwUE9rU3R3djJFRnFwckljVVFGRk5KRUk3Q0gtWDFEV3BJX21DbTd3RlZJOHFOU2xlLXNqNXpheGxCU0s1b1plY3JST2Jqcnd4SVVJV0ZkQkttVVUxOUN6SzBVWnVIb2FBanJHZmxmS2w3cUQtZw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-06-25T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax",
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 8,
-      "spicy": true
-    },
-    {
-      "title": "Council adopts 2026/27 Budget focused on cost-of-living relief and sustained investment",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbkp1dU1lSlVlS2RLT1pWdjJjVHRtam1ubW9NVUZEaXdCN19TTno3aDNsaXlPa3dIUmV1SDJKSU40dmFwclNmNk4ycDRSLS1Vc1JjdmxmZlVvb0xnbElMcGI4ZjBkNm5qSV8zSGtnSWI0dW11cEZld1dZQ2NaVEdYdklmZ0oyMmhwUHM5a0VUU3ljVTBySXduSW94OVlUVXFhRmZqb2hOU1o1c0trWTdiMkJsMmNvbWJr?oc=5",
-      "source": "City of Ballarat",
-      "publishedAt": "2026-06-25T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Bad budget another marker in Australia’s managed decline - The Institute Of Public Affairs",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmVFS1hfV1VRSWpzMFhFdWUtVFRmTXhwVWtQSWZ1d2w3SWZsNHdYYWJlQUZMUHJYeW1KNDN6NzZ1Z1NjUkxUSDVWT1VmR1pxcXcwRmozSkEwQ2ZRZGZMLWNGR29RVnNZWG5JNjQ4cHJTN3ZkejFMejB2QzVobGpJRVZQaHYwSHBEdEc2VHU5ZlMya1VmQVg0cU5HM2RBT2lVSXdiajRFRy1nQQ?oc=5",
-      "source": "The Institute Of Public Affairs - IPA",
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
       "spicy": false
     }
   ]
