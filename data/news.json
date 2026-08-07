@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T03:54:44.933Z",
+  "updatedAt": "2026-08-07T05:45:58.527Z",
   "count": 120,
   "relevantCount": 55,
   "spicyCount": 9,
@@ -32,12 +32,15 @@
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
+    "Australian Property Update",
     "Erickson Immigration Group",
     "Ethos Migration Lawyers",
+    "Expatica",
     "Financial Newswire",
     "Fragomen",
     "Kyabram Free Press",
     "Legit.ng",
+    "Mondaq",
     "Nomad Lawyer",
     "ProPakistani",
     "Property Council Australia",
@@ -48,27 +51,48 @@
     "TV Blackbox",
     "The Australian",
     "The Guardian",
-    "The Indian Sun",
     "Tuko News",
     "Urban List",
     "Western Australian Government",
     "Western Sydney University",
-    "fundsforNGOs",
-    "mondaq.com",
     "news24.com.au",
-    "pwc.com.au",
-    "studyinternational.com"
+    "studyinternational.com",
+    "theindiansun.com.au"
   ],
   "items": [
     {
-      "title": "Australia news live: airlines blame lack of traffic controllers for morning of cancellations and long delays at Sydney Airport",
+      "title": "Australia news live: Attorney General warns women and children at risk of ‘harmful conduct’ from smartglasses users; major delays at Sydney airport",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-07T03:54:23.000Z",
+      "publishedAt": "2026-08-07T05:42:01.000Z",
       "summary": "",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Labor MP questions social media value after alleged online threats",
+      "url": "https://www.abc.net.au/news/2026-08-07/liesl-tesch-questions-social-media-value-after-alleged-threats/107008944",
+      "source": "ABC News",
+      "publishedAt": "2026-08-07T04:59:26.000Z",
+      "summary": "A man was charged with threatening NSW MP Liesl Tesch the same week research found most female politicians and women running for office had received online abuse.",
       "categories": [],
       "relevant": false,
       "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "A 'gasp' and he was gone. Coroner warns of Federation Peak dangers",
+      "url": "https://www.abc.net.au/news/2026-08-07/coronial-findings-federation-peak-death-victorian-bushwalker/107008108",
+      "source": "ABC News",
+      "publishedAt": "2026-08-07T04:19:46.000Z",
+      "summary": "A Victorian bushwalker who wanted to climb Federation Peak in Tasmania's south-west as part of his \"bucket list\" had turned back with his companions when he fell, a coroner says.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
       "spicy": false
     },
     {
@@ -116,17 +140,6 @@
       "spicy": false
     },
     {
-      "title": "'No money left': Man stole $220k in three months to fund online bets",
-      "url": "https://www.abc.net.au/news/2026-08-07/man-who-stole-from-employer-to-fund-online-gambling-sentenced/107008546",
-      "source": "ABC News",
-      "publishedAt": "2026-08-07T02:28:22.000Z",
-      "summary": "The Supreme Court in Hobart has heard online gambling has been \"the primary cause of problems\" in the man's life. He'll spend six months in prison after pleading guilty to 20 charges relating to the theft from Salmon Tasmania.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
       "title": "The key takeaways from six days of evidence at NDIS Senate inquiry",
       "url": "https://www.abc.net.au/news/2026-08-07/ndis-senate-inquiry-main-takeaways/107002938",
       "source": "ABC News",
@@ -138,7 +151,7 @@
       "spicy": false
     },
     {
-      "title": "Hundreds of golden retrievers compete in regional SA",
+      "title": "Finnish judge impressed by Australia's best golden retrievers",
       "url": "https://www.abc.net.au/news/2026-08-07/golden-retriever-national-barossa-competition-sa/107006406",
       "source": "ABC News",
       "publishedAt": "2026-08-07T02:09:14.000Z",
@@ -157,28 +170,6 @@
       "categories": [],
       "relevant": false,
       "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Athletes go missing after Commonwealth Games",
-      "url": "https://www.abc.net.au/news/2026-08-07/commonwealth-games-missing-athletes-glasgow-uganda-boxing-team/107007912",
-      "source": "ABC News",
-      "publishedAt": "2026-08-07T00:36:15.000Z",
-      "summary": "Scottish Police are investigating after four members of the Ugandan boxing team reportedly failed to return home.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Elizabeth Young wants the system that 'killed' her daughter fixed",
-      "url": "https://www.abc.net.au/news/2026-08-07/nsw-mental-health-groups-victim-mother-bondi-junction-response/107007832",
-      "source": "ABC News",
-      "publishedAt": "2026-08-07T00:24:09.000Z",
-      "summary": "The mother of a Bondi Junction stabbing victim has joined with six mental health organisations to pressure the NSW government for a better response to the April 2024 deaths of six people.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
       "spicy": false
     },
     {
@@ -208,7 +199,7 @@
       "url": "https://www.abc.net.au/news/2026-08-07/asx-markets-business-live-news-august-7-2026/106774136",
       "source": "ABC News",
       "publishedAt": "2026-08-06T21:36:33.000Z",
-      "summary": "The Australian market has edged down, with the financial sector the biggest laggard. And a poll of 37 of Australia's leading economists found all expect the RBA to leave its key cash rate unchanged after its meeting on Tuesday.",
+      "summary": "The Australian market has edged down, with the Industrials sector the biggest laggard. And a poll of 37 of Australia's leading economists found all expect the RBA to leave its key cash rate unchanged after its meeting on Tuesday.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -250,11 +241,11 @@
       "spicy": false
     },
     {
-      "title": "'Coded to Chinese': Hongkongers unable to list their ancestry on census night",
-      "url": "https://www.abc.net.au/news/2026-08-07/census-2026-hong-kong-ancestry-chinese-community/106998196",
+      "title": "Battle for Victoria sends signals to Canberra",
+      "url": "https://www.abc.net.au/news/2026-08-07/federal-implications-victoria-election-one-nation-labor/107005850",
       "source": "ABC News",
-      "publishedAt": "2026-08-06T19:24:13.000Z",
-      "summary": "People with Hong Kong heritage are frustrated that their ancestry will not be recognised as distinct from Chinese in the upcoming Australian census, despite years of lobbying and political turmoil.",
+      "publishedAt": "2026-08-06T19:18:09.000Z",
+      "summary": "Victoria's election on November 28 has taken on a drama and significance we wouldn't have anticipated a year ago.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -329,6 +320,17 @@
       "spicy": false
     },
     {
+      "title": "Eat your greens this August thanks to these seasonal picks",
+      "url": "https://www.abc.net.au/news/2026-08-07/august-seasonal-fruit-and-vegetables/106999094",
+      "source": "ABC News",
+      "publishedAt": "2026-08-06T18:30:00.000Z",
+      "summary": "From baby broccoli to gai lan, these are the vegetables and fruit to look for this month.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
       "title": "Australia’s $50,000 parent visa takes so long to process that applicants die waiting",
       "url": "https://www.theguardian.com/australia-news/2026/aug/07/australia-parent-visa-processing-applicants-die-waiting",
       "source": "The Guardian",
@@ -389,6 +391,19 @@
       "relevant": true,
       "score": 5,
       "spicy": false
+    },
+    {
+      "title": "Treasury’s $88k CGT error exposes tax ‘rush’ by Chalmers",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDhKMjc3aU9US1k0bVRPSnA4QWZtY1RZZW9ySDFZdHRoUWRNT3VhX09KTkNUZ0FSVXVlcHdXeWpyNEtZaTNXZllZZFJSOTA5cUlIXzdqWmdSaWx5VU45dTFqRVR2Ul9sUlhwaTlVbElld3FDT1FGOHhWLUxNN2tnOVdybENKZFdyaC1DSEhJakJPZGdRVmhoQ0p3Q05MSFFCUk9pZmhfbGNMVTg?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-06T08:37:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
     },
     {
       "title": "Labor faces fierce backlash from gambling giants as Coalition and Greens push for new controls on inducements",
@@ -456,6 +471,19 @@
       "categories": [],
       "relevant": false,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Federal tax changes risk worsening apartment shortage",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXJyUHh1V1BLZFFOVFZmMjhuWkFuZ2RQRXRkZEo4SllWRWRKeGlkbk1YNTJmYWgyOXhSTGI2OGxDX3hsMzMxTHlwUm94RVF3WDVhTFBhc0lmejFSVE1XN05IbFF6cFpFN2F5T3E3MkhxZGo3US1YTVV2YVp2RWctOGNvSUlWQjZQOGFPM29RRU9uZzJydnJJUmctdkZHQQ?oc=5",
+      "source": "Australian Property Update",
+      "publishedAt": "2026-08-06T06:02:08.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     },
     {
@@ -602,19 +630,6 @@
       "relevant": false,
       "score": 3,
       "spicy": false
-    },
-    {
-      "title": "First homebuyers enter market in outback city where median house price is $312K",
-      "url": "https://www.abc.net.au/news/2026-08-06/mount-isa-outback-queensland-home-ownership/106975586",
-      "source": "ABC News",
-      "publishedAt": "2026-08-05T21:04:50.000Z",
-      "summary": "An outback city known for its rodeos and red dirt is home to one of the youngest average populations in Australia. With so many under 35s flocking to Mount Isa, it might be an opportunity to step into the housing market.",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 8,
-      "spicy": true
     },
     {
       "title": "Albanese is about to overtake Keating in time as PM, but the clock is ticking",
@@ -887,7 +902,7 @@
     {
       "title": "Australia’s skilled visa shake-up puts onshore applicants first",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVERJT1U1NFZGdTUyVzVCUTg1STJpWlhYN3VzV1NOWnNOSmtYWVpGdWs0eWMxS2R6R2RqakpaVlJpN2dkSkRnbmdaY291UHcxaXZpam9XZWZFeWxUdGR3dnpQVkJEWnAzM0R0YzhybXVsaTd0cGVJN2paOVFqNzVSOVJZcnAwZ0FHMmZVLW40QS1UZlM4NzhEUG4xQ2FtRmdnT1ZvdEFqdndYLTF3M3pTWDRYWW8zUFVy?oc=5",
-      "source": "The Indian Sun",
+      "source": "theindiansun.com.au",
       "publishedAt": "2026-08-04T06:06:35.000Z",
       "summary": "",
       "categories": [
@@ -1125,19 +1140,6 @@
       "spicy": false
     },
     {
-      "title": "Apply for Affordable and Diverse Housing Fund (Australia)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ084enh3QkJFLUMtTzlfR2Jidl84VjBCQkpUOU9wTmtDeUtEZVdwZzJDYUlkM0RzU242LXJEQkt4dnJrQ2Nmd0liZEV4NEkyaTV1UzlpdlJXbl9JY1kybldORmhwaEJ1VVhJbk9DRk9KeG51NlNYQ0lSbVgyei1ZWU1QVmJWSXZzdGlFc3pOdEtSNTRrcXE5VHVSWnpRckXSAaQBQVVfeXFMUFBZTlVsTVFUR2lRcG1NbkxraEtJWmFjTVozNnJhNkI2eTllSDBqalc2bHpNcXI2LVQ3SmxBdFFSZ2xpN2ttcVozLWp2TTEyU2ppdTJSNUo2Tm5UYm9PdHVBZUhneVc2QkdhMFFkZUtfSV9NYkxCTHpjRjhoY1FQQUpvRU9CSzV3ajNmRExwWXpHSVN6SWNOZmloVkhRT08yYWdLbGw?oc=5",
-      "source": "fundsforNGOs",
-      "publishedAt": "2026-07-27T09:05:47.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "When the AI bubble bursts, what will Australia do with the tools it built? One man thinks he has the answer",
       "url": "https://www.theguardian.com/australia-news/2026/jul/27/when-the-ai-bubble-bursts-what-will-australia-do-with-the-tools-it-built-one-man-thinks-he-has-the-answer",
       "source": "The Guardian",
@@ -1323,7 +1325,7 @@
     {
       "title": "It Depends – What Are The Proposed Changes To The Taxation Of Discretionary Trusts In The 2026 Federal Budget? (Video)",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1QtS3VRSjJyR2NIazBLbHd1M29adENmREZDYWJXQ0ZVQllVMmwzeEk3c1ItbTFCOXZlMkltNm9ESXNMTzdTOVVjTWdMMjBOdWZvVUk3eVZyYkdRVExBN3JzLTN3SUN0OHhKMnZzbEE5bDFXcFRpVl9OdHYxVFpsYTRRWkk2RC0yTmNUdVJXcEFheENGYnBOM3Y2bXUycGRqNFNWcGVLYVd5bHNhRjI1bUNuLUdjRGIwLVBPZU1Hd0R4TVc1OXJQUFdvOWFPWUFzMklJbEhLT3J5ZUNkU01tWlBtNmpJWGQ3djNQcEFRbGt1b0pnSzJ1UlZfU04?oc=5",
-      "source": "mondaq.com",
+      "source": "Mondaq",
       "publishedAt": "2026-07-15T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1469,19 +1471,6 @@
       "spicy": false
     },
     {
-      "title": "July Monthly Tax Upate",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyZUJKNEItcWhZYnVyYVlHRC14N21uZkFTVkVGYzNLajJPMTkzekJCWDFuMnl2R3pPUFhWWmpDSVpja2MxZENUSDFPLWVhX2xuOElPUVRrMHk3UHY0TDhDbnI5S29kcWl6ZXdEWUxB?oc=5",
-      "source": "pwc.com.au",
-      "publishedAt": "2026-07-01T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "House values fall – but homes are not getting more affordable",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX29XcHAxWHZETUlWTENzeGNLWEJsMkR5ZkdSQVVmaDRSNjdCSnFUcWVQNjhRSEhpV0NLYkEtcXU3d2FKeGRNbUhyVkRsQ0lIRURfbnN5eGc1N1lCLUFGMkxDU3pzVjgwdmhrdWhUQkZ2Z29jR1hhNm9ieEJYNkdPaHJmMUZkVzN1czBORGc3VzE5dG5jbDZXWnZMUWVURTNIMzJiSjhzcE1QbFVtNk5pYlVENWgxUnJHQ01mUA?oc=5",
       "source": "SMH.com.au",
@@ -1491,6 +1480,17 @@
         "Housing"
       ],
       "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Au pair in the UK in 2026",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nZUVzNlhNckJiSjU3bUlEcUtWbXRJbk9NVFNpUmpJNnhXODdVUnF6YU5OQXRqUnhwSThRdzh2dmhKbGdEajVZTkFaNERBblp2a2NuLVBvLVZMTHZCaWlQRTl0d3E3b0E0NGZQU2ZCS1pEWVMwZUE?oc=5",
+      "source": "Expatica",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
       "score": 0,
       "spicy": false
     }
