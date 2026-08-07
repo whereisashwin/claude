@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-07T09:08:07.006Z",
+  "updatedAt": "2026-08-07T10:27:55.555Z",
   "count": 120,
-  "relevantCount": 58,
-  "spicyCount": 9,
+  "relevantCount": 60,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -30,12 +30,11 @@
   ],
   "sources": [
     "ABC News",
-    "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
+    "Absolute Immigration",
     "Australian Property Update",
     "Discovery Alert",
     "Erickson Immigration Group",
-    "Ethos Migration Lawyers",
     "Expatica",
     "Financial Newswire",
     "Fragomen",
@@ -54,11 +53,12 @@
     "The Australian",
     "The Guardian",
     "The Indian Sun",
+    "Tuko News",
     "Urban List",
     "Western Australian Government",
-    "Western Sydney University",
-    "news24.com.au",
-    "tuko.co.ke"
+    "abc.net.au",
+    "khaleejtimes.com",
+    "news24.com.au"
   ],
   "items": [
     {
@@ -115,7 +115,7 @@
       "url": "https://www.smh.com.au/politics/federal/the-bill-should-not-pass-australians-with-disability-escalate-fears-over-ndis-cuts-20260807-p60meu.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-08-07T06:59:06.000Z",
-      "summary": "In the last week, the Australian Human Rights Commission, the major disability networks and more than 100 academics have urged the government to pause its $35 billion cuts.",
+      "summary": "In the past week, the Australian Human Rights Commission, the major disability networks and more than 100 academics have urged the government to pause its $35 billion cuts.",
       "categories": [],
       "relevant": false,
       "score": 9,
@@ -236,17 +236,6 @@
       "spicy": false
     },
     {
-      "title": "Imam calls out pro-Palestine rally comments as 'inappropriate'",
-      "url": "https://www.abc.net.au/news/2026-08-07/nsw-royal-commission-antisemitism-imam-rally-comments/107007802",
-      "source": "ABC News",
-      "publishedAt": "2026-08-07T02:46:30.000Z",
-      "summary": "A prominent Australian imam has said comments made at a pro-Palestinian rally at which another imam described October 7, 2023 as a \"day of pride\" and \"victory\" were inappropriate.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "'No money left': Man stole $220k in three months to fund online bets",
       "url": "https://www.abc.net.au/news/2026-08-07/man-who-stole-from-employer-to-fund-online-gambling-sentenced/107008546",
       "source": "ABC News",
@@ -287,7 +276,7 @@
       "summary": "The audit office finds governance and reporting weaknesses in a council-owned company, which was created without approval from the Queensland treasurer.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -298,7 +287,7 @@
       "summary": "The Australian market has closed down, with economists expecting the RBA to leave the cash rate on hold.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -443,6 +432,19 @@
       "relevant": true,
       "score": 5,
       "spicy": false
+    },
+    {
+      "title": "Treasury’s $88k CGT error exposes tax ‘rush’ by Chalmers",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDhKMjc3aU9US1k0bVRPSnA4QWZtY1RZZW9ySDFZdHRoUWRNT3VhX09KTkNUZ0FSVXVlcHdXeWpyNEtZaTNXZllZZFJSOTA5cUlIXzdqWmdSaWx5VU45dTFqRVR2Ul9sUlhwaTlVbElld3FDT1FGOHhWLUxNN2tnOVdybENKZFdyaC1DSEhJakJPZGdRVmhoQ0p3Q05MSFFCUk9pZmhfbGNMVTg?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-06T08:37:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
     },
     {
       "title": "Labor faces fierce backlash from gambling giants as Coalition and Greens push for new controls on inducements",
@@ -629,7 +631,7 @@
     {
       "title": "Labor's migration test looks different to Howard's",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcW5yaDR4cmt6SUpZY3J3eXNYVmVFX19NUGFQSkpyS01udktGR29uRld0T1BpWHBQaldpaEg4MVVqdnhXTHRUWU9PN2dzSTVLWEd2SXUtaFZjQ1ItME5qS0FkUUJwRXhtaFlLSk9VREF4U1p4WXlDcm51TVdEMWt2cTFJRzlGV0VGUlh2NmZZVS1uMG40bkZiNFp6ZFhsby1MS0tnNXBTaTFvdU15?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-05T19:00:00.000Z",
       "summary": "",
       "categories": [
@@ -773,7 +775,7 @@
     {
       "title": "Warnings Labor's plan to delay family reunions could be 'human rights issue'",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHQyc2g0WmxBYUN2QTNldVNvOXZ0QV9ZZ2x3bTlRZmdYMVZ6THFGcEVnanVrblRaVnlOTjJmcGRkdHE5RjRtZXVyQnl5cVMwWGFXcXd0NXFuWFNVdEJ2ZTNYazFsa3ZEZ3FheEdCajhKaTl2VHEtVnFSYWpYX0ZKUnViQ1dOLXJvWjA0dmF6RUJtdmdiQ2VsRGE5MTY?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-05T05:16:28.000Z",
       "summary": "",
       "categories": [],
@@ -836,7 +838,7 @@
     {
       "title": "Labor's quiet visa change prioritises onshore workers",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFc5bXZaUWh5eEhuT3gzdGl3SlowZzlZeW00X1d4TkxmR1lsZHlPMWVvQWw2WVV0bVEzcndoWlVYLTRMSVMwbWVyM1hYQXNfemFjSzZsU3ZPRTEzQlBJREx1d2RxU1hJMGdxTHhjLVRrVmtwYjl2SzhjT0xVT3l4ZDRsei1WZzVuYkg3ZXpBMEhkVE5HdFBPMDQxUktXcjJjanRaS0d5VXJwcUE?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-04T20:13:03.000Z",
       "summary": "",
       "categories": [
@@ -860,7 +862,7 @@
     {
       "title": "Labor was poised to reveal massive migration cuts, then suddenly delayed",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHZmVWloM2JsLXNBZHhFamVlRHByZkowdnctRTY0SXAtTGRiYmhVUm5rOWhaeGUwMDBrZHI5MFlQbDliUXVqR0NHalpCTkt2ZFN3WG1WRVFhVHlMRDI1VHh0WFE4VjZwYTNxN1ExLW1qNVdOcHVhbzlwQ3JMVUFVZURacDZnbENwXzJMRC14VnQ4a05DMXBTSEdB?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-04T10:33:17.000Z",
       "summary": "",
       "categories": [
@@ -949,7 +951,7 @@
     {
       "title": "On their doorstep: 129,590 spots for onshore migrants in new visa plan",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1VMT2pqTkQxOVZkb2dITmtMcnRrVDRnX3hmeDdrak1id1RyMUZaTkpMQTJRTFIzYV90UGw0cTg1MjdLUWtDaGNSTkUzNUtUcjlaaEFCaDFLVnU5a0dOZTQzZ0NidVV0R28zZnJtTlFGcFhrUE9jdkZVdHo2azlFc2pJblN6eEpBak1yaV9LaXVrT3JOSEE2M1lxRjUxeGRjTHc?oc=5",
-      "source": "tuko.co.ke",
+      "source": "Tuko News",
       "publishedAt": "2026-08-03T12:06:17.000Z",
       "summary": "",
       "categories": [
@@ -1070,19 +1072,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Introduction of new skilled visa processing priorities under Ministerial Direction 119",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcW94QUhVWFlHZDJDdXg4VHhrVnhVLTRMb3h3bUNUVDkzdUk5OXVjSDVSNHQ0SURheGRhQXJzOFpVR2duWjJNekZGR3dDZkFSaDctbFpSbXZuZWo1OHpfdUNxMl9KNW1tQnRlVVVxeXpiRUxLR0YyMWpkLXBhSTU1WTc4eWhkRkFsODlGVXk2Z1haTGVieXpnX0NidWkxbXRTTWNjdHl1aUdMRW1uQ3JPSy1NOUxIdl9K?oc=5",
-      "source": "Ethos Migration Lawyers",
-      "publishedAt": "2026-07-30T02:08:02.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     },
     {
@@ -1211,7 +1200,7 @@
     {
       "title": "'Nervous' investors retreat from housing market as downturn broadens",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTNiWXNrMjlXdGlPVzh4OVFEOTlMQTZrSTkzQjRFb21HWXp2aG1GbGdnZUJlTnZqMl85U1ZTMXpCY3JpMmxGd2ZqY2J0eDV4NTI2dmtyR2dDMUpGU0JEWi1ZTXdOZjc1eUQ2a1R3UUp6T3JoYlpPR3NRRms0cXoyWXJJdnhVOFp6M1hobXZIVGluaGpTVkkzcWVpLXQzWnUxSlV6SldZVDlrQQ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1256,17 +1245,6 @@
       ],
       "relevant": true,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Vice-Chancellor's Address: Business Western Sydney's Annual Post-Federal Budget Luncheon",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT1RRNWZJeGZZcmNiMW5TQXpRN0VnSFR0Sm1zV0syQ1k5a0dHSGpWdjlkYTRmNUJZRzBfNlpkYkdIcmlhN3BWNGVhTUh3X1dxZkM4aVRtMDA0SFEzU05Pb1RITE1UdkVnWDNSS0loNWZ0Q1BYdEhyNi1aWEpCZ3hTdC1JYVNESm5ZMzYtTlZ1Q1Q1cFRSMXZGZE1fTmFuTFVQYVVtNXBzN0xWam5IbFRQOFVKTTRXYmZFZUdrTjJrS1FENWlVYTc2SVllaFM4YkV3TGdiME1NcDhPUzQ?oc=5",
-      "source": "Western Sydney University",
-      "publishedAt": "2026-07-17T08:48:06.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
       "spicy": false
     },
     {
@@ -1409,7 +1387,7 @@
     {
       "title": "Curbing well-off taxpayers' access to key programs could save billions",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGVwWTFMNkZJeWZqc3ozeU0tR0swWWVZYTRQM1JNbjQ2RkJLS2xoT21kV0hCNnBlbnpxdkVQRWFXS1pRcXJwYjI0bkFhejY4QkRQeHhacF9uOHRsRTlFdGZTbGQxazJrU0ZvNjdkVnQxWTFHOW1PdXVuRzk2WTZjQTFhVUFLaVhGdG44NkdsbEQ0WVoxdUtSa0NGUVQ2MkpiZDJtdg?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1499,6 +1477,32 @@
       "summary": "",
       "categories": [],
       "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Visa application charges and key immigration fees increase from 1 July 2026",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGVPWTFHcUNwbi0zOTZ3UTdIZEdLVTg3NUN6Z2ZaazBUZGRDSGYwcDUwNzRzc3oyWTRhQjNROEllcDBiSXlKTEk5T0NzMVA3YUcwSWdjaS1FZG02U1Q2TTNuZkdmZTBsMzJWaEZDTFV2amtIclBjcjFOcVp4cXVBWXc4cDVRV3JRMUFQUmlwX3IwRldZTnc0T0RzNEF5SGxOY2J5djhkV3UzeTA4Q0s3ek13?oc=5",
+      "source": "Absolute Immigration",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Visa rule changes 2026: UAE eases entry; higher fees, tighter rules in US, Europe, Asia",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGFvN0J2RjZHdlNsOHRkMnNtaVhKZDBESVZFYW5IY2VuQ0JXLXNtd2pCR1ZEUU43SUNiMDZtSDRQZ2Q4X0tHMUJEVGhqSEhmNDZrZTJxRTF3UVNUWFdxVGpOUkhwT3FKdHUxaU43WVNTQW40V2stbWx2eDFmcWV2RjlEWnNHbFJkWTIwZEF2RFRhb2hjQzVvOEd30gGiAUFVX3lxTE5FUlRnT2ZIMWU5d2hjb08zS29YSDBjSnRPbzZQM3VqZTRPN0REN0Z2cm41N1FrOXdjNktWaGRKQ3NFM1cyRlhjRzVJcWFlMzdVNVI1NG56VDBIaFFncWhTMzk5dUsxUEgxU0s1SVRCX2E5ZGtUdEE4alR3cGxVdC1Sb0NQNzN3cU9rRkVBaUhRaUdYdWRNTm1sNkVoelhYSTh0dw?oc=5",
+      "source": "khaleejtimes.com",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
       "score": 0,
       "spicy": false
     }
