@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-08T20:38:13.227Z",
+  "updatedAt": "2026-08-08T21:37:11.604Z",
   "count": 120,
   "relevantCount": 59,
-  "spicyCount": 10,
+  "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -32,7 +32,6 @@
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
-    "Absolute Immigration",
     "Australian Property Update",
     "Discovery Alert",
     "Erickson Immigration Group",
@@ -41,7 +40,6 @@
     "Independent Australia",
     "Khaleej Times",
     "Kyabram Free Press",
-    "Mondaq",
     "Nomad Lawyer",
     "ProPakistani",
     "Property Council Australia",
@@ -50,6 +48,7 @@
     "Queensland Country Life",
     "SMH.com.au",
     "Shiksha",
+    "Study International",
     "Sydney Morning Herald",
     "TV Blackbox",
     "The Australian",
@@ -58,15 +57,53 @@
     "Tuko News",
     "Urban List",
     "Western Australian Government",
-    "studyinternational.com"
+    "absoluteimmigration.com",
+    "mondaq.com"
   ],
   "items": [
     {
-      "title": "Oats, water, salt the winning ingredients for porridge-making champ",
-      "url": "https://www.abc.net.au/news/2026-08-09/australias-porridge-making-champion-crowned-nsw-central-coast/107007742",
+      "title": "The phone taps, the $100k offer and the 'filthy schools' money'",
+      "url": "https://www.abc.net.au/news/2026-08-09/what-weve-learnt-after-two-weeks-icac-operation-rosny/107010690",
       "source": "ABC News",
-      "publishedAt": "2026-08-08T20:13:16.000Z",
-      "summary": "A former cafe owner from Sydney has been crowned Australia's porridge-making champion at an inaugural competition on the New South Wales Central Coast.",
+      "publishedAt": "2026-08-08T21:15:07.000Z",
+      "summary": "Here are some of the most notable moments from the first fortnight of NSW Independent Commission Against Corruption hearings under Operation Rosny.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
+    },
+    {
+      "title": "'Unusual' flu trend with SA cases to spike later than expected",
+      "url": "https://www.abc.net.au/news/2026-08-09/unusual-sa-flu-trend-cases-expected-to-spike-later/107004894",
+      "source": "ABC News",
+      "publishedAt": "2026-08-08T21:12:05.000Z",
+      "summary": "An \"unusual\" flu trend will likely see more people sneezing and reaching for their tissues after the peak winter season, South Australia's health experts say.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Iron deficiency from too much cow's milk a 'hidden health crisis' for toddlers",
+      "url": "https://www.abc.net.au/news/2026-08-09/cows-milk-iron-deficiency-toddler-health-nutrition/106953518",
+      "source": "ABC News",
+      "publishedAt": "2026-08-08T21:03:53.000Z",
+      "summary": "Paediatricians across Australia are concerned about a jump in iron deficiency in young children due to excess cow's milk, and the need to better educate parents about the issue.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Seal numbers on Victorian island plummet as pollution affects pups",
+      "url": "https://www.abc.net.au/news/2026-08-09/deen-maar-australian-fur-seal-population-decline-pollution/106970960",
+      "source": "ABC News",
+      "publishedAt": "2026-08-08T20:31:44.000Z",
+      "summary": "Deen Maar Island was once home to Australia's largest fur seal colony before the pups started developing alopecia.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -108,14 +145,14 @@
       "spicy": false
     },
     {
-      "title": "Everything you need to know about Australia's bird flu surge",
+      "title": "Bird flu is spreading across Australia — this is what you need to know",
       "url": "https://www.abc.net.au/news/2026-08-09/everything-you-need-to-know-about-australias-bird-flu-surge/106998006",
       "source": "ABC News",
       "publishedAt": "2026-08-08T19:07:27.000Z",
       "summary": "There are more than a hundred confirmed cases of the deadly H5N1 bird flu strain across Australia. Here's how it spreads and what to know.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 4,
       "spicy": false
     },
     {
@@ -179,17 +216,6 @@
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-08-08T09:00:00.000Z",
       "summary": "The Liberal leadership hopeful’s Western Australian seat of Canning is firmly in One Nation’s sights, as its Victorian leader flags conspiracy theories will not form part of the party’s campaign in the state.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "'Hurt ourselves': Wallabies survive scare as Les Kiss era begins with Japan win",
-      "url": "https://www.abc.net.au/news/2026-08-08/wallabies-vs-japan-first-test-live-scores/106999438",
-      "source": "ABC News",
-      "publishedAt": "2026-08-08T08:30:56.000Z",
-      "summary": "New Wallabies coach Les Kiss says his side will need to learn how to control their ambitions after Australia hangs on to win a frantic Test match against Japan in the Osaka heat.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -1154,7 +1180,7 @@
     {
       "title": "14 countries with dependant visas that let you bring your spouse and family",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqLWtXc0JNbVlkTlM4ZGVvTmo3NndGSk1ZOVhDWVliM1dQUlBMN0k2VTc0OFc0Ql9UVlFSbXdHakZtOEd0bW4xR2lzVTNqS281LUo5N0dWSVFXaHJQMHZLWmlISTl6VFprd1YtSVJWTFhkNGZKajJpd2FoZDNJSFk?oc=5",
-      "source": "studyinternational.com",
+      "source": "Study International",
       "publishedAt": "2026-07-23T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1228,19 +1254,6 @@
       "spicy": false
     },
     {
-      "title": "Labor tax changes imperil ‘optimistic’ state budgets",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNklnX29tX3N0eE1lanAzQjhlMXRBVzFVUTNZaGtpaC0zSjZabENjM2ZhY1NRN2R2U1luTnJuSXhwZDNtaF90RktJTWFCejFiUnFkMjhkN0dtX0IySDZRYnpMTk1ka0ZDVnJYTlZod05ROHVnblV0SDNqNk1mOGtIdWJEQUVXWm96WFBqVmZZT0xYR2puaDlQRmR2M1UxeG9JcjBxZEFMWnE3Zi1TckE?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-16T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Anthony Albanese’s AI vision scores high on vibes but the devil will be in the detail. And there is one glaring omission … | David Pocock",
       "url": "https://www.theguardian.com/australia-news/commentisfree/2026/jul/16/anthony-albanese-ai-vision-artificial-intelligence-omission",
       "source": "The Guardian",
@@ -1278,7 +1291,7 @@
     {
       "title": "It Depends – What Are The Proposed Changes To The Taxation Of Discretionary Trusts In The 2026 Federal Budget? (Video)",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1QtS3VRSjJyR2NIazBLbHd1M29adENmREZDYWJXQ0ZVQllVMmwzeEk3c1ItbTFCOXZlMkltNm9ESXNMTzdTOVVjTWdMMjBOdWZvVUk3eVZyYkdRVExBN3JzLTN3SUN0OHhKMnZzbEE5bDFXcFRpVl9OdHYxVFpsYTRRWkk2RC0yTmNUdVJXcEFheENGYnBOM3Y2bXUycGRqNFNWcGVLYVd5bHNhRjI1bUNuLUdjRGIwLVBPZU1Hd0R4TVc1OXJQUFdvOWFPWUFzMklJbEhLT3J5ZUNkU01tWlBtNmpJWGQ3djNQcEFRbGt1b0pnSzJ1UlZfU04?oc=5",
-      "source": "Mondaq",
+      "source": "mondaq.com",
       "publishedAt": "2026-07-15T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1441,7 +1454,7 @@
     {
       "title": "Visa application charges and key immigration fees increase from 1 July 2026",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGVPWTFHcUNwbi0zOTZ3UTdIZEdLVTg3NUN6Z2ZaazBUZGRDSGYwcDUwNzRzc3oyWTRhQjNROEllcDBiSXlKTEk5T0NzMVA3YUcwSWdjaS1FZG02U1Q2TTNuZkdmZTBsMzJWaEZDTFV2amtIclBjcjFOcVp4cXVBWXc4cDVRV3JRMUFQUmlwX3IwRldZTnc0T0RzNEF5SGxOY2J5djhkV3UzeTA4Q0s3ek13?oc=5",
-      "source": "Absolute Immigration",
+      "source": "absoluteimmigration.com",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1490,19 +1503,6 @@
       "relevant": true,
       "score": 5,
       "spicy": true
-    },
-    {
-      "title": "The Guardian view on royal tax secrecy: it survives King Charles’s latest disclosure | Editorial",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/26/the-guardian-view-on-royal-tax-secrecy-it-survives-king-charless-latest-disclosure",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-26T17:09:23.000Z",
-      "summary": "The monarch says how much he pays the Treasury but did not reveal the wealth behind it. Britain still lacks proper scrutiny of royal cash King Charles has become Britain’s first monarch in modern times to reveal how much tax he pays on his private income: £24.6m over the past two years . This is not",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
     }
   ]
 }
