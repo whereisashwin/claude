@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-09T07:35:42.657Z",
+  "updatedAt": "2026-08-09T08:53:02.516Z",
   "count": 120,
-  "relevantCount": 56,
-  "spicyCount": 9,
+  "relevantCount": 55,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,6 +33,7 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
+    "Australian Property Update",
     "Discovery Alert",
     "Erickson Immigration Group",
     "Expatica",
@@ -42,25 +43,46 @@
     "Kyabram Free Press",
     "Mondaq",
     "Nomad Lawyer",
-    "ProPakistani",
     "Property Council Australia",
     "Property Update",
     "PwC Australia",
     "Queensland Country Life",
     "SMH.com.au",
-    "Shiksha",
+    "Shiksha.com",
     "Study International",
     "Sydney Morning Herald",
     "TV Blackbox",
-    "The Australian",
     "The Guardian",
     "The Indian Sun",
     "Tuko News",
     "Urban List",
     "Western Australian Government",
-    "australianpropertyupdate.com.au"
+    "propakistani.pk",
+    "theaustralian.com.au"
   ],
   "items": [
+    {
+      "title": "Breaking: Body found in suitcase in southern NSW",
+      "url": "https://www.abc.net.au/news/2026-08-09/body-found-in-suitcase-oallen-nsw/107014740",
+      "source": "ABC News",
+      "publishedAt": "2026-08-09T08:42:04.000Z",
+      "summary": "Police were called to Oallen, about 60 kilometres south-east of Goulburn, just before 1pm.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "'Not good enough': Phone network down for thousands of FNQ residents",
+      "url": "https://www.abc.net.au/news/2026-08-09/bushfire-knocks-out-telecommunications-services-in-cape-york/107014630",
+      "source": "ABC News",
+      "publishedAt": "2026-08-09T07:37:01.000Z",
+      "summary": "Some residents in remote parts of Far North Queensland have not had telecommunications since Saturday evening, as Telstra works to restore services.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "What we know about Trump's new US ambassador to Australia",
       "url": "https://www.abc.net.au/news/2026-08-09/who-is-david-brat-new-us-ambassador-to-australia/107012582",
@@ -106,6 +128,17 @@
       "spicy": false
     },
     {
+      "title": "Raiders bemoan 'f***ing brain explosion' as their season ends",
+      "url": "https://www.abc.net.au/news/2026-08-09/nrl-live-updates-raiders-knights-dragons-sharks/107014254",
+      "source": "ABC News",
+      "publishedAt": "2026-08-09T03:19:51.000Z",
+      "summary": "The Dragons beat the Sharks 24-16 in a thrilling derby victory at Kogarah, as the Knights end the Raiders season with a victory following a \"brain explosion\" from a key Canberra forward.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
       "title": "Albanese, Taylor hedge their bets on gambling reform deal, spooked by One Nation",
       "url": "https://www.smh.com.au/politics/federal/give-me-a-freaking-break-greens-senator-spells-out-terms-on-albanese-s-gambling-bill-20260809-p60moh.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -139,7 +172,7 @@
       "spicy": false
     },
     {
-      "title": "Greens draw betting perk line ahead of gambling showdown",
+      "title": "Greens draw firm line on betting perks",
       "url": "https://www.abc.net.au/news/2026-08-09/greens-draw-line-on-gambling-promotions/107013944",
       "source": "ABC News",
       "publishedAt": "2026-08-09T00:42:07.000Z",
@@ -159,6 +192,19 @@
       "relevant": false,
       "score": 4,
       "spicy": false
+    },
+    {
+      "title": "The phone taps, the $100k offer and the 'filthy schools' money'",
+      "url": "https://www.abc.net.au/news/2026-08-09/what-weve-learnt-after-two-weeks-icac-operation-rosny/107010690",
+      "source": "ABC News",
+      "publishedAt": "2026-08-08T21:15:07.000Z",
+      "summary": "Here are some of the most notable moments from the first fortnight of NSW Independent Commission Against Corruption hearings under Operation Rosny.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
     },
     {
       "title": "Parents urged to restrict cow's milk for toddlers",
@@ -183,7 +229,7 @@
         "Family & Education"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -194,7 +240,7 @@
       "summary": "Australians are the biggest gambling losers in the world. Labor’s feeble ‘reforms’ aren’t close to good enough",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -205,18 +251,7 @@
       "summary": "Over the past 25 years of Insiders covering Australian politics, the art of it has sometimes been more finger painting than masterpiece.",
       "categories": [],
       "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Bird flu is spreading across Australia — this is what you need to know",
-      "url": "https://www.abc.net.au/news/2026-08-09/everything-you-need-to-know-about-australias-bird-flu-surge/106998006",
-      "source": "ABC News",
-      "publishedAt": "2026-08-08T19:07:27.000Z",
-      "summary": "There are more than 200 confirmed cases of the deadly H5N1 bird flu strain across Australia. Here's how it spreads and what to know.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
+      "score": 5,
       "spicy": false
     },
     {
@@ -609,17 +644,6 @@
       "spicy": false
     },
     {
-      "title": "ASX closes down, economists expect RBA cash rate on hold — as it happened",
-      "url": "https://www.abc.net.au/news/2026-08-07/asx-markets-business-live-news-august-7-2026/106774136",
-      "source": "ABC News",
-      "publishedAt": "2026-08-06T21:36:33.000Z",
-      "summary": "The Australian market has closed down, with economists expecting the RBA to leave the cash rate on hold.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "| Kyabram Free Press",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObHJJaWxRRFZhVm1WVGNfRUFMS2RLT1FYaUhFS3dtekRQbGJ0M19zbXZNcjdxRV81cXBYUERxNlpETVhwd1g4OWRJZ0lOakd6aVkwMGtQb251UTR1VDBSdHotclJ1NUM5Qy1RV01CeFpQcmVCSk9zcUtDVWdqRkNacVdpY0hpenhCRkFVQ05ZbTk2UVJkX3JJRA?oc=5",
       "source": "Kyabram Free Press",
@@ -702,6 +726,19 @@
       "spicy": false
     },
     {
+      "title": "‘Performative reductions’: Labor MPs and business groups urge Burke against sweeping immigration changes",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/06/performative-reductions-labor-mps-and-business-groups-urge-burke-against-sweeping-immigration-changes",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-06T09:09:00.000Z",
+      "summary": "MPs say they are anxious for the government to avoid cuts to family and humanitarian visa categories",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": false
+    },
+    {
       "title": "Texts suggest Angus Taylor ‘paid money to the Reformers … or was refusing to’, Icac inquiry hears",
       "url": "https://www.theguardian.com/australia-news/2026/aug/06/jean-claude-perrottet-icac-angus-taylor-reformers-ntwnfb",
       "source": "The Guardian",
@@ -709,19 +746,6 @@
       "summary": "Jean-Claude Perrottet, brother of former NSW premier, asked about messages referencing federal opposition leader and factional group Reformers Icac’s spotlight has shone on Dominic Perrottet’s brother – and it won’t be the last we hear from his family New South Wales’ anti-corruption watchdog has be",
       "categories": [],
       "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "‘Performative reductions’: Labor MPs and business groups urge Burke against sweeping immigration changes",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/06/performative-reductions-labor-mps-and-business-groups-urge-burke-against-sweeping-immigration-changes",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-06T08:37:44.000Z",
-      "summary": "MPs say they are anxious for the government to avoid cuts to family and humanitarian visa categories",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
       "score": 5,
       "spicy": false
     },
@@ -787,7 +811,7 @@
     {
       "title": "Federal tax changes risk worsening apartment shortage",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXJyUHh1V1BLZFFOVFZmMjhuWkFuZ2RQRXRkZEo4SllWRWRKeGlkbk1YNTJmYWgyOXhSTGI2OGxDX3hsMzMxTHlwUm94RVF3WDVhTFBhc0lmejFSVE1XN05IbFF6cFpFN2F5T3E3MkhxZGo3US1YTVV2YVp2RWctOGNvSUlWQjZQOGFPM29RRU9uZzJydnJJUmctdkZHQQ?oc=5",
-      "source": "australianpropertyupdate.com.au",
+      "source": "Australian Property Update",
       "publishedAt": "2026-08-06T06:02:08.000Z",
       "summary": "",
       "categories": [
@@ -850,7 +874,7 @@
     {
       "title": "Australia Changes Visa Processing Rules for Skilled Workers",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjFVTmZmQnI1Y2FnYzlVWFBnTVV1NVM1dmYxUWM1OVhreWRLRXNfalFfOE5yUjBoNG1uS240NkRtNm9qZW9ERWhiVXZPM2gyNElBcUhVQ3JPVUEtSmhrcUJvVW43dHlWSHJ3TWFXbjBfczN2ejJBZzhBYnhVc3hxb2JEd2ZaSnBtQmJWZFowcTBvdzFuQmtHZEVQZ9IBoAFBVV95cUxNWXBObW83YXdybExic19TM05VTmY0ZG9MX0RQcUdkTnBsaHdxTVl6X2ZkUVZTaUYweXNNX1lKU0VJWHNwQ2prZjJUNTFNaTJXU0RtMlNialllOXpnZFRrci1RZE5mTWx2VmNWcEpCeno1QkVPRU1Oei1zeENTUjBFdE5mYjRFaXJhYjdsbjE3VUZqbDJGZW5CdkZJNmc4ak9h?oc=5",
-      "source": "ProPakistani",
+      "source": "propakistani.pk",
       "publishedAt": "2026-08-05T09:41:43.000Z",
       "summary": "",
       "categories": [
@@ -913,12 +937,12 @@
     {
       "title": "Hey, Treasurer, we still need answers on your budget bomb",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQWRwOHVlSHZxcnhkSkltUWRCU2I2V195RGxObGJYakYyLUtDdDIyNU9hcDJrcTVhOHp4bUVmaURlNldVc2NlVGRGQ1ZYc2hGQkpVVkN6MUlSYWNFc0FfYWcxZ0N2cC1hbnE5X0o0Sllrbk51QWdVbi04Smwyb3ZVYzVCYzlTdW9hc3BYNDJqZ01nNVkyaTdpVzIxMC1KN3EyZm5jdmxqODc2YWprV3lGRGw4OF9DR0R2b1B6ajBkYmY2R1QwRXNZZXZzWHpIaTdRTzZqLW1lQnZucFdaX1M2SFFEWTVoQWpxeC1YZjlFdFJVd2pXbUJiNtIB_gFBVV95cUxNMkpyV1JCdXFjQ3NMSDhhQjM1czBVM3RYLUVLN2J6anNyU3UtNUtpc0Zyd2VOWDROLV9TTVlETzdTNGVsWXdNY0JLQXQtYUxBVnBWOGpiRzlURTd3bFhxNjM0bnFYRmd1azQ5QnN3QWQzelZBdjl0SWFpMHc0UG1zTGVCX3d4cVlxd0JHUHAxbzZNRU9DM052M0daM2lQUWNKTFJMbExGNmJuNno1RXN3TGtpUHFZVEkwU245R09YVFFMNDVOS2RoSEJKZ3MyckhpeFZURGpXd2ZZM3ctSmpleFBwRVU5LTFrb1ZmX3N4N2g5YUJHSk0wemxUMW1JQQ?oc=5",
-      "source": "The Australian",
+      "source": "theaustralian.com.au",
       "publishedAt": "2026-08-04T19:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 3,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1040,7 +1064,7 @@
     {
       "title": "Minimum PTE Score Required for Australia PR in 2026-27",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVpGYkFGTlpRb3FVZndGSmtJeUFaRWxFWi1ZNXh6dlZSTjN2WjB5aWdDYTR4aVo0Rmc1ZWJuVjQ2MTZha3JFa0xsNEhvNk5xX3lFeUFXeDJGcFhCZXpzUW9fNEg4Tm1WcjJwTWppS2JvZzNLSUYtcjM3TjNHdmxiYThZY2k3Zw?oc=5",
-      "source": "Shiksha",
+      "source": "Shiksha.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1471,32 +1495,6 @@
       "relevant": true,
       "score": 5,
       "spicy": true
-    },
-    {
-      "title": "The Guardian view on royal tax secrecy: it survives King Charles’s latest disclosure | Editorial",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/26/the-guardian-view-on-royal-tax-secrecy-it-survives-king-charless-latest-disclosure",
-      "source": "The Guardian",
-      "publishedAt": "2026-06-26T17:09:23.000Z",
-      "summary": "The monarch says how much he pays the Treasury but did not reveal the wealth behind it. Britain still lacks proper scrutiny of royal cash King Charles has become Britain’s first monarch in modern times to reveal how much tax he pays on his private income: £24.6m over the past two years . This is not",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "What Australia’s biggest tax overhaul in 25 years will mean for you",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXAzb3RVNWRoVHNEU05RTVJHMDcxc1RGdWlEaFNUYjhaTnRYYUk3WnA3b0pQbkQ5TF81Q0tsV3MyOE9YX2FvT1F5b2U4SVZQeWpUd21iOFc2M2o0YzlRVXlERnY2YlNsSjVHVFpkanBIZ1NHTHNxT2J5WVRzSm5MLVk1b3kyeWRwWG5YWGlxYnJURE5wRUUzaG5od2hFWjdMYWluODlid3FmcVo3eVYwNVVQdHduNVRSUktkUllDOElzZw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-06-26T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
     }
   ]
 }
