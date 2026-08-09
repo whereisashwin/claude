@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-09T21:39:45.427Z",
+  "updatedAt": "2026-08-09T22:38:22.700Z",
   "count": 120,
-  "relevantCount": 58,
-  "spicyCount": 10,
+  "relevantCount": 60,
+  "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -37,9 +37,9 @@
     "Discovery Alert",
     "Erickson Immigration Group",
     "Expatica",
-    "Independent Australia",
+    "Fragomen",
     "Khaleej Times",
-    "Legit.ng",
+    "Legit News",
     "LinkedIn",
     "Mondaq",
     "Nomad Lawyer",
@@ -59,22 +59,46 @@
     "Urban List",
     "Western Australian Government",
     "aapnews.aap.com.au",
-    "fragomen.com"
+    "independentaustralia.net"
   ],
   "items": [
     {
-      "title": "Australia news live: transport minister calls in Airservices Australia for urgent meeting after Sydney airport chaos",
+      "title": "Australia news live: NSW schools may ban take-home tests over AI concerns; minister calls urgent meeting over airport chaos",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-09T21:38:38.000Z",
+      "publishedAt": "2026-08-09T22:37:19.000Z",
       "summary": "Intervention follows days of delays and a near-miss between two planes on the Sydney aiport tarmac.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Gold hunters fear World Heritage bid could undermine prospecting",
+      "url": "https://www.abc.net.au/news/2026-08-10/goldfields-world-heritage-bid-gold-rush-prospectors-fears/106993404",
+      "source": "ABC News",
+      "publishedAt": "2026-08-09T22:01:18.000Z",
+      "summary": "Victorian prospectors say they fear further regulations could follow if the state's historic goldfields receive World Heritage status.",
       "categories": [],
       "relevant": false,
       "score": 4,
       "spicy": false
     },
     {
-      "title": "Police yet to identify body in suitcase in southern NSW",
+      "title": "Aviation bosses summoned, airport workers stood down after Sydney near-miss",
+      "url": "https://www.abc.net.au/news/2026-08-10/sydney-airport-near-miss-catherine-king-airservices-staff/107014408",
+      "source": "ABC News",
+      "publishedAt": "2026-08-09T21:56:33.000Z",
+      "summary": "Airservices Australia's CEO has been summoned to meet with the federal Transport Minister after a near-miss at Sydney Airport on Sunday.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Police working to determine how long body in suitcase lay by road",
       "url": "https://www.abc.net.au/news/2026-08-10/oallen-suitcase-body-police/107015534",
       "source": "ABC News",
       "publishedAt": "2026-08-09T21:19:54.000Z",
@@ -96,7 +120,7 @@
       "spicy": false
     },
     {
-      "title": "New rental bond scheme starts today in NSW, but only in select suburbs",
+      "title": "Big changes for NSW renters as portable bond scheme begins",
       "url": "https://www.abc.net.au/news/2026-08-10/nsw-portable-rental-bond-system-is-live/107014380",
       "source": "ABC News",
       "publishedAt": "2026-08-09T21:04:33.000Z",
@@ -109,33 +133,11 @@
       "spicy": true
     },
     {
-      "title": "Not every Mount Barker business is reaping the boom town benefit",
-      "url": "https://www.abc.net.au/news/2026-08-10/mount-barker-is-growing-but-not-all-businesses-are-booming/107003234",
-      "source": "ABC News",
-      "publishedAt": "2026-08-09T20:13:40.000Z",
-      "summary": "Mount Barker is one of South Australia's fastest-growing districts, but while some businesses are excited about the prospect of more customers, others are competing with tightening wallets and operating pressures.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "'Not going to be around for much longer': Small business under pressure despite population growth",
       "url": "https://www.abc.net.au/news/2026-08-10/mount-barker-is-growing-but-not-all-businesses-are-booming/107003234",
       "source": "ABC News",
       "publishedAt": "2026-08-09T20:13:40.000Z",
       "summary": "Mount Barker is one of South Australia's fastest-growing districts, but while some businesses are excited about the prospect of more customers, others are competing with tightening wallets and operating pressures.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "'Pack a poncho': Gusty winds and short storms for south-east corner",
-      "url": "https://www.abc.net.au/news/2026-08-10/gusty-winds-short-storms-for-south-east-qld/107014130",
-      "source": "ABC News",
-      "publishedAt": "2026-08-09T20:13:34.000Z",
-      "summary": "South-eastern and central Queensland may see thunderstorms on Monday, with strong winds and short, sharp rainfall with \"meagre\" totals. With some regions enjoying an Ekka public holiday, they are advised to \"pack a poncho\".",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -234,7 +236,7 @@
       "spicy": true
     },
     {
-      "title": "Millions of Australians will have no say in who inherits their super",
+      "title": "Millions of Australians could have no say in who inherits their super",
       "url": "https://www.abc.net.au/news/2026-08-10/superannuation-death-benefit-nominations-survey-finds-funds-fail/106991968",
       "source": "ABC News",
       "publishedAt": "2026-08-09T18:41:42.000Z",
@@ -682,17 +684,6 @@
       "spicy": false
     },
     {
-      "title": "Commonwealth's PFAS case against 3M 'daunting', judge says",
-      "url": "https://www.abc.net.au/news/2026-08-07/commonwealth-pfas-case-against-3m-daunting/107008470",
-      "source": "ABC News",
-      "publishedAt": "2026-08-07T03:20:35.000Z",
-      "summary": "A $2 billion lawsuit for defence base contamination against the US chemical manufacturer is heard in court for the first time.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
       "title": "Can the government really get ahead of the curve on AI? - podcast",
       "url": "https://www.theguardian.com/australia-news/audio/2026/aug/07/can-the-government-really-get-ahead-of-the-curve-on-ai-australian-politics-podcast",
       "source": "The Guardian",
@@ -1080,7 +1071,7 @@
     {
       "title": "Australia Raises Income Requirement for Skilled Work Visas in 2026, Shares New Figures",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDNGZy1WZmtvX09LRlo1ZHoxTGFsVjJGamhfYTgwMEFpeV9PemloaGZBYXY4bWM5RHpRZlVuNExRbXpYcFFHZkRLSDNBdzN3VGRNdzJkb2hOUnZpbkdGandiRk1tcGQ1d1J5R2ItTnFQTFF0X3RyQUpBS201YjNIcGk4QnhidlZIS1pEbjNXQnRwUEJRai1nczNTZlZ0UFVnelhyUmNLMXdxWDl0eUdTeg?oc=5",
-      "source": "Legit.ng",
+      "source": "Legit News",
       "publishedAt": "2026-08-02T12:07:53.000Z",
       "summary": "",
       "categories": [
@@ -1231,7 +1222,7 @@
     {
       "title": "Minimum Salary Changes Announced",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
-      "source": "fragomen.com",
+      "source": "Fragomen",
       "publishedAt": "2026-07-21T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1492,7 +1483,7 @@
     {
       "title": "Good news! Housing is getting more and more affordable",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWMzVlFOMFdVUTlYVWNlQzRvTk1rVHlBTVdzNGxFc2pHbUpENno1U0d4V3kyT1F5QWlhR1B0elF5YXFpM201a0o3UmhtSmI4ZUFYUEpXb2Vjamtwc0hlNUJUMlQ2RkJObDhKOWZjRm1KcEpyc3l3bTlWMmdiNzRvUUV3X3k4OXlrNHZlVHpVOVdmb25VM05FWGNqU2doR2ZpcUJHU3FHWEFUWUk4WngtWmo0eXBSTWNVYXQ0?oc=5",
-      "source": "Independent Australia",
+      "source": "independentaustralia.net",
       "publishedAt": "2026-06-29T22:00:06.000Z",
       "summary": "",
       "categories": [
@@ -1501,6 +1492,20 @@
       "relevant": true,
       "score": 0,
       "spicy": false
+    },
+    {
+      "title": "Treasurer promises to 'fix' property tax oversight, but won't say how exactly",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ29MRTR6SU4wU3pEU2FaWDJtV1k0cUhHTDNIb0dJdTBtQmFDYmNtMGd5RmJFekVPc0pBZTVVNnIwZUo5dTB6M0lrbzk5YVZ4NEpLczgtdks3VG10RE81Wm8zMFRsWE11M3dfWUw1czJQSG5NTDdqcTd5Yzd2Zk13ZHZva2tEOXBuaEFlVkJXUTREOHNEY1hIUWFZN0RadTZMVWlfT1Z1dXN0aGhFSmV3RUpVOA?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-06-27T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": true
     }
   ]
 }
