@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-10T19:35:09.165Z",
+  "updatedAt": "2026-08-10T20:52:27.040Z",
   "count": 120,
-  "relevantCount": 57,
+  "relevantCount": 59,
   "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
@@ -35,20 +35,20 @@
     "Absolute Immigration",
     "Australian Property Update",
     "CommBank",
-    "Discovery Alert",
     "Erickson Immigration Group",
     "Expatica",
     "Fragomen",
-    "Independent Australia",
     "Khaleej Times",
     "LinkedIn",
     "Mondaq",
     "Nomad Lawyer",
     "ProPakistani",
     "Property Update",
+    "PwC Australia",
     "Queensland Country Life",
     "SMH.com.au",
     "Shiksha.com",
+    "Study International",
     "Sydney Morning Herald",
     "TV Blackbox",
     "The Australian",
@@ -56,9 +56,32 @@
     "The Indian Sun",
     "Western Australian Government",
     "aapnews.aap.com.au",
-    "studyinternational.com"
+    "discoveryalert.com.au",
+    "independentaustralia.net"
   ],
   "items": [
+    {
+      "title": "'Ah, sorry guys': Pilot's reaction after Antarctic mishap damages plane",
+      "url": "https://www.abc.net.au/news/2026-08-11/helicopter-fuel-lift-mishap-grounds-plane-antarctica/107016386",
+      "source": "ABC News",
+      "publishedAt": "2026-08-10T19:50:28.000Z",
+      "summary": "An accident that damaged an Australian-contracted aircraft in Antarctica has triggered new safety protocols on the icy continent, internal government documents show.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Greyhound badly injured in race supporting Tasmanian industry",
+      "url": "https://www.abc.net.au/news/2026-08-11/tas-greyhound-injured-in-nsw-we-stand-with-tasmania-race/107016384",
+      "source": "ABC News",
+      "publishedAt": "2026-08-10T19:24:39.000Z",
+      "summary": "Greyhound races held under the name \"We Stand With Tasmania\", in support of the state's embattled industry, have featured a number of dog fall incidents which have been scrubbed from the record.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "ASX set to dip on RBA day, Wall Street drifts; Oil rises on Hormuz uncertainty",
       "url": "https://www.smh.com.au/business/markets/asx-set-to-dip-on-rba-day-wall-street-drifts-oil-rises-on-hormuz-uncertainty-20260811-p60n4f.html?ref=rss&utm_medium=rss&utm_source=rss_business",
@@ -71,7 +94,7 @@
       "spicy": false
     },
     {
-      "title": "Debut memoir deals with dating-app fatigue, fertility anxiety and egg-freezing",
+      "title": "Debut memoir reveals what it's really like to be a woman in her 30s today",
       "url": "https://www.abc.net.au/news/2026-08-11/sheree-joseph-memoir-juicy-interview/107002892",
       "source": "ABC News",
       "publishedAt": "2026-08-10T19:04:26.000Z",
@@ -117,18 +140,28 @@
       "spicy": false
     },
     {
-      "title": "Will the RBA blink on inflation as the property market slows?",
+      "title": "The RBA's big challenge: How to navigate a real estate downturn",
       "url": "https://www.abc.net.au/news/2026-08-11/will-the-rba-blink-on-inflation-as-the-property-market-slows/107021878",
       "source": "ABC News",
       "publishedAt": "2026-08-10T18:48:35.000Z",
       "summary": "Deflating a property bubble takes some skill, something that has escaped almost every government or central bank that has ever attempted it.",
       "categories": [
-        "Housing",
-        "Cost of living"
+        "Housing"
       ],
       "relevant": true,
-      "score": 8,
+      "score": 6,
       "spicy": true
+    },
+    {
+      "title": "Australian-first mass police AI pilot sparks concern",
+      "url": "https://www.abc.net.au/news/2026-08-11/ai-police-face-screening-trial-sparks-privacy-concern/107009644",
+      "source": "ABC News",
+      "publishedAt": "2026-08-10T18:46:00.000Z",
+      "summary": "More than 130,000 faces have already been scanned under WA Police's landmark facial recognition trial. The privacy watchdog, experts and Aboriginal advocates are raising concerns about who could be caught in its net.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
     },
     {
       "title": "Quiz: Does Australia have more baristas or personal trainers?",
@@ -160,7 +193,7 @@
       "summary": "“I don’t favour a nanny state approach. If people want to bet, they can bet… [but] the negative impact of gambling in working-class suburbs is very serious,” John Howard told this masthead.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -171,18 +204,7 @@
       "summary": "In a country as rich and technologically sophisticated as Australia, risk should not be part of the equation.",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Victorian health watchdog issues warning over alleged fake doctor",
-      "url": "https://www.abc.net.au/news/2026-08-10/melbourne-alleged-fake-doctor-warning-health-complaints/107017114",
-      "source": "ABC News",
-      "publishedAt": "2026-08-10T07:24:07.000Z",
-      "summary": "The Victorian Health Complaints Commissioner has issued a public warning about a Melbourne woman who is alleged to have charged $20,000 for unapproved treatments while pretending to be a doctor.",
-      "categories": [],
-      "relevant": false,
-      "score": 8,
+      "score": 3,
       "spicy": false
     },
     {
@@ -194,17 +216,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Adelaide waterfalls roar to life as reservoirs receive decade-high deluge",
-      "url": "https://www.abc.net.au/news/2026-08-10/morialta-conservation-park-waterfalls-sa-water-deluge-24-hours/107017466",
-      "source": "ABC News",
-      "publishedAt": "2026-08-10T06:16:46.000Z",
-      "summary": "In scenes reminiscent of tropical Queensland, waterfalls in the Adelaide Hills have been whipped into raging torrents as reservoirs receive 18 billion litres of water in just 24 hours.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -251,17 +262,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Former ambassador warns Australia's ties with China could spiral again",
-      "url": "https://www.abc.net.au/news/2026-08-10/former-ambassador-warns-china-relationship-vulnerable/107016922",
-      "source": "ABC News",
-      "publishedAt": "2026-08-10T04:47:04.000Z",
-      "summary": "Australia's former ambassador to China says the relationship between the two countries remains fragile and vulnerable to shocks, saying stability will \"remain a goal, not a given\" for Canberra.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
       "spicy": false
     },
     {
@@ -342,17 +342,6 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Australia has the most expensive cigarettes in the world, and now a booming black market",
-      "url": "https://www.abc.net.au/news/2026-08-10/charting-the-rise-of-illegal-tobacco-in-australia/106941130",
-      "source": "ABC News",
-      "publishedAt": "2026-08-09T19:00:42.000Z",
-      "summary": "After decades as a world leader in tobacco control, Australia now finds itself in troubled waters. But those trying to find solutions are far from on the same page.",
-      "categories": [],
-      "relevant": false,
       "score": 3,
       "spicy": false
     },
@@ -537,17 +526,6 @@
       "spicy": false
     },
     {
-      "title": "Gina Rinehart says ABC Ombudsman finding 'fails all Australian women'",
-      "url": "https://www.abc.net.au/news/2026-08-08/gina-rinehart-statement-race-around-the-world-abc-hugh-marks/107012884",
-      "source": "ABC News",
-      "publishedAt": "2026-08-08T05:19:37.000Z",
-      "summary": "The mining magnate says the ABC's Editorial Standards need \"significant improvement\" after a video describing a fictional scenario that involved a violent attack on her was aired on Race Around the World.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Farmers guide to tax rules, timelines and what remains before Parliament",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUxCS2drNmtWLTBjMWtZRWgta3pnSklrQUN2eTRSeVBIZWpPWDU5dm15alVuUGMxQlRGZk9nZjZKNWVBaGRBTGZoZVJHYW9uNUhOQ0FmbTVNaGptR0lSVUkxWTNwU2ZDZzNNcXZvLThGZGR0VjExUnlRQnBZdmliaExfcFgycE1vMFQ3LUJIUzFLT0hGWGk4bVpCRWVXQkxsX2VWQXN0VElZR0RnWkJnc0hoaw?oc=5",
       "source": "Queensland Country Life",
@@ -703,7 +681,7 @@
     {
       "title": "MCA Demands Skilled Migration Changes Be Suspended in 2026",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOU81emUxSnhLalhFc0hvaUR3X2NoT25DMk5MTUkwS0k5QzZOdHNSTlNKVnhTYXJMbkhONjlpSmdjcHktU0pTM3NPTFphNjR2NjFSUDVoUklSRzdLbGcwYTdGV3ozc3ZWM2VURUloZHlvXzl1V0pmR2pYLVoyQkxsTnQ1SnB5TGZZcGF3VnNPX2wtNmM?oc=5",
-      "source": "Discovery Alert",
+      "source": "discoveryalert.com.au",
       "publishedAt": "2026-08-07T04:54:43.000Z",
       "summary": "",
       "categories": [
@@ -1148,7 +1126,7 @@
     {
       "title": "14 countries with dependant visas that let you bring your spouse and family",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqLWtXc0JNbVlkTlM4ZGVvTmo3NndGSk1ZOVhDWVliM1dQUlBMN0k2VTc0OFc0Ql9UVlFSbXdHakZtOEd0bW4xR2lzVTNqS281LUo5N0dWSVFXaHJQMHZLWmlISTl6VFprd1YtSVJWTFhkNGZKajJpd2FoZDNJSFk?oc=5",
-      "source": "studyinternational.com",
+      "source": "Study International",
       "publishedAt": "2026-07-23T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1420,6 +1398,19 @@
       "spicy": false
     },
     {
+      "title": "July Monthly Tax Upate",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyZUJKNEItcWhZYnVyYVlHRC14N21uZkFTVkVGYzNLajJPMTkzekJCWDFuMnl2R3pPUFhWWmpDSVpja2MxZENUSDFPLWVhX2xuOElPUVRrMHk3UHY0TDhDbnI5S29kcWl6ZXdEWUxB?oc=5",
+      "source": "PwC Australia",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "House values fall – but homes are not getting more affordable",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX29XcHAxWHZETUlWTENzeGNLWEJsMkR5ZkdSQVVmaDRSNjdCSnFUcWVQNjhRSEhpV0NLYkEtcXU3d2FKeGRNbUhyVkRsQ0lIRURfbnN5eGc1N1lCLUFGMkxDU3pzVjgwdmhrdWhUQkZ2Z29jR1hhNm9ieEJYNkdPaHJmMUZkVzN1czBORGc3VzE5dG5jbDZXWnZMUWVURTNIMzJiSjhzcE1QbFVtNk5pYlVENWgxUnJHQ01mUA?oc=5",
       "source": "SMH.com.au",
@@ -1474,7 +1465,7 @@
     {
       "title": "Good news! Housing is getting more and more affordable",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWMzVlFOMFdVUTlYVWNlQzRvTk1rVHlBTVdzNGxFc2pHbUpENno1U0d4V3kyT1F5QWlhR1B0elF5YXFpM201a0o3UmhtSmI4ZUFYUEpXb2Vjamtwc0hlNUJUMlQ2RkJObDhKOWZjRm1KcEpyc3l3bTlWMmdiNzRvUUV3X3k4OXlrNHZlVHpVOVdmb25VM05FWGNqU2doR2ZpcUJHU3FHWEFUWUk4WngtWmo0eXBSTWNVYXQ0?oc=5",
-      "source": "Independent Australia",
+      "source": "independentaustralia.net",
       "publishedAt": "2026-06-29T22:00:06.000Z",
       "summary": "",
       "categories": [
@@ -1497,6 +1488,19 @@
       "relevant": true,
       "score": 5,
       "spicy": true
+    },
+    {
+      "title": "The Guardian view on royal tax secrecy: it survives King Charles’s latest disclosure | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/26/the-guardian-view-on-royal-tax-secrecy-it-survives-king-charless-latest-disclosure",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-26T17:09:23.000Z",
+      "summary": "The monarch says how much he pays the Treasury but did not reveal the wealth behind it. Britain still lacks proper scrutiny of royal cash King Charles has become Britain’s first monarch in modern times to reveal how much tax he pays on his private income: £24.6m over the past two years . This is not",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": false
     }
   ]
 }
