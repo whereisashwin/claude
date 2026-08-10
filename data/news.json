@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-10T13:57:59.280Z",
+  "updatedAt": "2026-08-10T15:09:45.569Z",
   "count": 120,
-  "relevantCount": 56,
+  "relevantCount": 57,
   "spicyCount": 8,
   "spiceThreshold": 5,
   "categories": [
@@ -33,8 +33,10 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
+    "Australian Government Department of Health, Disability and Ageing",
     "Australian Property Update",
     "CommBank",
+    "Discovery Alert",
     "Erickson Immigration Group",
     "Expatica",
     "Fragomen",
@@ -52,11 +54,10 @@
     "The Australian",
     "The Guardian",
     "The Indian Sun",
+    "Western Australian Government",
     "aapnews.aap.com.au",
-    "discoveryalert.com.au",
     "studyinternational.com",
-    "tvblackbox.com.au",
-    "wa.gov.au"
+    "tvblackbox.com.au"
   ],
   "items": [
     {
@@ -114,17 +115,6 @@
       "categories": [],
       "relevant": false,
       "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Victorian health watchdog issues warning over alleged fake doctor",
-      "url": "https://www.abc.net.au/news/2026-08-10/melbourne-alleged-fake-doctor-warning-health-complaints/107017114",
-      "source": "ABC News",
-      "publishedAt": "2026-08-10T07:24:07.000Z",
-      "summary": "The Victorian Health Complaints Commissioner has issued a public warning about a Melbourne woman who is alleged to have charged $20,000 for unapproved treatments while pretending to be a doctor.",
-      "categories": [],
-      "relevant": false,
-      "score": 9,
       "spicy": false
     },
     {
@@ -214,7 +204,7 @@
       "summary": "JobSeeker exists to support Australian's when they can't find work, but how far does that money actually go? The number of long-term JobSeeker recipients has almost tripled since 2012, despite hundreds of millions of dollars being paid to private equity-controlled firms to find people jobs. So, how ",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -536,17 +526,6 @@
       "spicy": false
     },
     {
-      "title": "Travellers warned of Sydney Airport delays, more than 150 flights impacted",
-      "url": "https://www.abc.net.au/news/2026-08-08/sydney-airport-flight-delays-long-queues-airservices-warns/107012486",
-      "source": "ABC News",
-      "publishedAt": "2026-08-08T00:52:40.000Z",
-      "summary": "Delays to dozens of flights in and out of Sydney Airport today have impacted thousands of passengers, with Airservices Australia saying it was managing roster issues.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "David Brat bound for Australia as diplomat confirmed as next US ambassador",
       "url": "https://www.theguardian.com/australia-news/2026/aug/08/david-brat-bound-for-australia-as-diplomat-confirmed-as-next-us-ambassador",
       "source": "The Guardian",
@@ -711,7 +690,7 @@
     {
       "title": "MCA Demands Skilled Migration Changes Be Suspended in 2026",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOU81emUxSnhLalhFc0hvaUR3X2NoT25DMk5MTUkwS0k5QzZOdHNSTlNKVnhTYXJMbkhONjlpSmdjcHktU0pTM3NPTFphNjR2NjFSUDVoUklSRzdLbGcwYTdGV3ozc3ZWM2VURUloZHlvXzl1V0pmR2pYLVoyQkxsTnQ1SnB5TGZZcGF3VnNPX2wtNmM?oc=5",
-      "source": "discoveryalert.com.au",
+      "source": "Discovery Alert",
       "publishedAt": "2026-08-07T04:54:43.000Z",
       "summary": "",
       "categories": [
@@ -1107,7 +1086,7 @@
     {
       "title": "2026-27 Housing Taxation Package",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3JKSWljYjZhdkZhY29nTGRzT0UtMmNWOWxjVnBHbE9pdF9wbE9adnNQOGYxREhtVUNHNmVka1VzV3pIV0hPc2xCVHppazJBUUxsQ0pEMDV3UjYwbkg0cDZkcmdTek9BcTUzWnVkcU9zU2JjMHpmOHRuY0hmTmljeVhSS2NpZw?oc=5",
-      "source": "wa.gov.au",
+      "source": "Western Australian Government",
       "publishedAt": "2026-07-29T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1493,6 +1472,30 @@
       ],
       "relevant": true,
       "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "What Australia’s biggest tax overhaul in 25 years will mean for you",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXAzb3RVNWRoVHNEU05RTVJHMDcxc1RGdWlEaFNUYjhaTnRYYUk3WnA3b0pQbkQ5TF81Q0tsV3MyOE9YX2FvT1F5b2U4SVZQeWpUd21iOFc2M2o0YzlRVXlERnY2YlNsSjVHVFpkanBIZ1NHTHNxT2J5WVRzSm5MLVk1b3kyeWRwWG5YWGlxYnJURE5wRUUzaG5od2hFWjdMYWluODlid3FmcVo3eVYwNVVQdHduNVRSUktkUllDOElzZw?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "TV interview with Minister Butler, Sunrise – 26 June 2026",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObm5TUlRzZjN6Zng5VDhHT2JsLVBiQThSNUFYTWp2MkRtZ25RTGZHQWNpeDJuTGdLSUJwUW5PQV9KeXJaRXdPOTVsejJyaFBHOXJuTnVSOHp4aVN2Yl9lVWhsZGgtU0VDQ1Bla3J1TkQyQWJvU1lfZDJxcVdsLXVVSGozS0duSDVmdnZwWTlFYmM4ek9hRGxkelJTaTVzOU1NSF8tbm4xR2l3Zm0wRGdDLVlEb1pFOFlVdDE0?oc=5",
+      "source": "Australian Government Department of Health, Disability and Ageing",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
       "spicy": false
     }
   ]
