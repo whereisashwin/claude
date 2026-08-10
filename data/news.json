@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-10T21:50:16.367Z",
+  "updatedAt": "2026-08-10T22:46:42.982Z",
   "count": 120,
   "relevantCount": 59,
-  "spicyCount": 9,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -30,6 +30,7 @@
   ],
   "sources": [
     "ABC News",
+    "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
     "Australian Property Update",
@@ -38,13 +39,13 @@
     "Erickson Immigration Group",
     "Expatica",
     "Fragomen",
+    "Independent Australia",
     "Khaleej Times",
     "LinkedIn",
     "Mondaq",
     "Nomad Lawyer",
     "ProPakistani",
     "Property Update",
-    "PwC Australia",
     "Queensland Country Life",
     "SMH.com.au",
     "Shiksha.com",
@@ -55,20 +56,29 @@
     "The Guardian",
     "The Indian Sun",
     "aapnews.aap.com.au",
-    "abc.net.au",
-    "independentaustralia.net",
     "wa.gov.au"
   ],
   "items": [
     {
-      "title": "Australia politics live: gambling lobby’s talking points ‘coming out the PM’s mouth’, Chaney says; RBA tipped to hold interest rates",
+      "title": "Australia politics live: gambling lobby talking points ‘coming out the PM’s mouth’, Chaney says; RBA tipped to hold interest rates",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-10T21:39:19.000Z",
+      "publishedAt": "2026-08-10T22:46:26.000Z",
       "summary": "Labor looks to negotiate with the Coalition to get several pieces of legislation through parliament.",
       "categories": [],
       "relevant": false,
       "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Kerry Stokes’ Southern Cross Media in the red as revenue drops",
+      "url": "https://www.smh.com.au/business/companies/kerry-stokes-southern-cross-media-in-the-red-as-revenue-drops-20260811-p60n5g.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-10T22:38:40.000Z",
+      "summary": "The group, which owns the Seven Network, West Australian newspaper and Triple M network, said revenue dropped across television, newspapers and radio.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
       "spicy": false
     },
     {
@@ -83,6 +93,19 @@
       "relevant": true,
       "score": 11,
       "spicy": true
+    },
+    {
+      "title": "High school student juggles classes and McDonald's job while running for parliament",
+      "url": "https://www.abc.net.au/news/2026-08-11/hera-sheppard-18-year-old-running-for-state-parliament-victoria/107007948",
+      "source": "ABC News",
+      "publishedAt": "2026-08-10T21:29:05.000Z",
+      "summary": "Hera Sheppard, 18, is one of the youngest candidates to contest the Victorian election.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
     },
     {
       "title": "Live: Teal MP urges Albanese to 'pick up phone' and apologise for melon gaffe",
@@ -508,17 +531,6 @@
       "spicy": false
     },
     {
-      "title": "Canberra apprenticeships hit a brick wall in the middle of construction boom",
-      "url": "https://www.abc.net.au/news/2026-08-09/act-apprentice-shortage-in-the-middle-of-construction-boom/107010532",
-      "source": "ABC News",
-      "publishedAt": "2026-08-08T23:36:21.000Z",
-      "summary": "Canberra is in the middle of a construction boom but if you're looking for a qualified bricklayer, there might be a bit of a wait, with just seven apprentice bricklayers currently in training in the ACT.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Nurses sleeping in campgrounds, shops shutting and two-hour school buses: what the closure of Victoria Pass means for the Blue Mountains",
       "url": "https://www.theguardian.com/australia-news/2026/aug/09/victoria-pass-road-closure-blue-mountains-great-western-highway-bridge-travel-times-roadworks-gridlock",
       "source": "The Guardian",
@@ -685,7 +697,7 @@
     {
       "title": "Visa overstayers to have work rights revoked if asylum claim rejected",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSl9CZHJqckNMQ1pMcEhsZGkzVEVFZE1Tb3FZS2dydENsT19tQkFHZkw2QjAyU2FqQjdVc3o0bVVQbWhaYm0tN1NzcWk4UHhncDMtbFhpTUNVVV9zdEN5eWdjMloxd0lkLWxCbnRoeGJUMll2QU9vQjBRQ01QbUlOaVpMUFdvN3BCQWc?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-07T06:51:46.000Z",
       "summary": "",
       "categories": [
@@ -755,7 +767,7 @@
     {
       "title": "Country cafe mounting costly battle to retain beloved barista",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFJXNW5BMy1ZYlg4aGVXX1AzRmptSWYxOWpJZGgwTm1iR2EtWVd2WmhocnVOaVVUa1FYS1hZTFduTXctUHRRMkg4ek81OFVRV0JOa3lmbkFVRldBOGVZbUZEZmFPZkx1RWNmY0tyQURGbHdTLXhxVFprYWZvbGpJTThwTVgzbG1VUlRKVGpwYnJYUHBNbnVvZnpzdHY?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-06T22:05:22.000Z",
       "summary": "",
       "categories": [],
@@ -779,7 +791,7 @@
     {
       "title": "How Australians on JobSeeker are living on $68 a day",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWk5NcFE5R0lGOEwzWldRTXFHZ3NSX0UtUkRUM3lCZURDMnhpdmI4TnNPNUNlYlMxNVZSem1nX0E5TDNtV3o3ZzRUYldORkRzT1pIWFUtZU9LdVZNVF9YOTEyYzM2Wl84QzNiQ2s1V0tWZllESWx2Wms3Q2VHVXAyalRkWjRXWE9MZGtteF9R?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-06T18:39:30.000Z",
       "summary": "",
       "categories": [],
@@ -866,7 +878,7 @@
     {
       "title": "One Nation leader Pauline Hanson says she does not care if immigration cuts impact businesses",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-06T03:31:59.000Z",
       "summary": "",
       "categories": [
@@ -929,7 +941,7 @@
     {
       "title": "Warnings Labor's plan to delay family reunions could be 'human rights issue'",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHQyc2g0WmxBYUN2QTNldVNvOXZ0QV9ZZ2x3bTlRZmdYMVZ6THFGcEVnanVrblRaVnlOTjJmcGRkdHE5RjRtZXVyQnl5cVMwWGFXcXd0NXFuWFNVdEJ2ZTNYazFsa3ZEZ3FheEdCajhKaTl2VHEtVnFSYWpYX0ZKUnViQ1dOLXJvWjA0dmF6RUJtdmdiQ2VsRGE5MTY?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-05T05:16:28.000Z",
       "summary": "",
       "categories": [],
@@ -940,7 +952,7 @@
     {
       "title": "Labor's quiet visa change prioritises onshore workers",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFc5bXZaUWh5eEhuT3gzdGl3SlowZzlZeW00X1d4TkxmR1lsZHlPMWVvQWw2WVV0bVEzcndoWlVYLTRMSVMwbWVyM1hYQXNfemFjSzZsU3ZPRTEzQlBJREx1d2RxU1hJMGdxTHhjLVRrVmtwYjl2SzhjT0xVT3l4ZDRsei1WZzVuYkg3ZXpBMEhkVE5HdFBPMDQxUktXcjJjanRaS0d5VXJwcUE?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-04T20:13:03.000Z",
       "summary": "",
       "categories": [
@@ -964,7 +976,7 @@
     {
       "title": "Labor was poised to reveal massive migration cuts, then suddenly delayed",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHZmVWloM2JsLXNBZHhFamVlRHByZkowdnctRTY0SXAtTGRiYmhVUm5rOWhaeGUwMDBrZHI5MFlQbDliUXVqR0NHalpCTkt2ZFN3WG1WRVFhVHlMRDI1VHh0WFE4VjZwYTNxN1ExLW1qNVdOcHVhbzlwQ3JMVUFVZURacDZnbENwXzJMRC14VnQ4a05DMXBTSEdB?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-04T10:33:17.000Z",
       "summary": "",
       "categories": [
@@ -1177,7 +1189,7 @@
     {
       "title": "'Nervous' investors retreat from housing market as downturn broadens",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTNiWXNrMjlXdGlPVzh4OVFEOTlMQTZrSTkzQjRFb21HWXp2aG1GbGdnZUJlTnZqMl85U1ZTMXpCY3JpMmxGd2ZqY2J0eDV4NTI2dmtyR2dDMUpGU0JEWi1ZTXdOZjc1eUQ2a1R3UUp6T3JoYlpPR3NRRms0cXoyWXJJdnhVOFp6M1hobXZIVGluaGpTVkkzcWVpLXQzWnUxSlV6SldZVDlrQQ?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1312,19 +1324,6 @@
       "spicy": true
     },
     {
-      "title": "The tax bill for working Australians is in the mail – and it’s growing",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3RsaVY0a2FnbWdabVFWTTNOTjJ4XzFTMllMUXZRM1RlaHM0bHRNNzItdlphQlFWakk1UlNKZ2VZdXJ6aEZyeVhTa0lJRFZEZGh2N0NVdEtoR3hiRDRqMDNqRmZPM1hPdFkwM2U3Tk5ZYjQ1OFhGU05FMVNub1plbDE4OXRWTEltTGRCR3h3dXRhUTVMaVBZb1VvRHFUQ1hLdkVaY0NMTUhSYzcyenh5ZzVkN190ZllEZ2U4TURTeHdQZHI3cnQyMw?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Budget loses billions, nation in deeper debt: The cost of cutting migration",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYWp2ZFUtaW9nSlBPVENhbEstbHFSSktENDlRN2lfb21oSllfRjdWTWFCcTFPUDU1UXBud1VDUkhKUTRnTFhBeUJibzFyY1c2Q2J4bmUxZ3BJTzU1REI5QzhWc0JkRUdpeTJ0XzJHMkt5c1pqN1BnU2lhR0xCZEdCb21fWmJkZFpHM1ltdkNUbDV6SUptM1pNNlVsWWF1ck9ON3ZYNzlYcHlXZm9PQmQwOTVjMVZGcHN1cXcwZWVpLUEteXV5aDlsNEhFcnNmZjg?oc=5",
       "source": "SMH.com.au",
@@ -1353,7 +1352,7 @@
     {
       "title": "Curbing well-off taxpayers' access to key programs could save billions",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGVwWTFMNkZJeWZqc3ozeU0tR0swWWVZYTRQM1JNbjQ2RkJLS2xoT21kV0hCNnBlbnpxdkVQRWFXS1pRcXJwYjI0bkFhejY4QkRQeHhacF9uOHRsRTlFdGZTbGQxazJrU0ZvNjdkVnQxWTFHOW1PdXVuRzk2WTZjQTFhVUFLaVhGdG44NkdsbEQ0WVoxdUtSa0NGUVQ2MkpiZDJtdg?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1423,19 +1422,6 @@
       "spicy": false
     },
     {
-      "title": "July Monthly Tax Upate",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyZUJKNEItcWhZYnVyYVlHRC14N21uZkFTVkVGYzNLajJPMTkzekJCWDFuMnl2R3pPUFhWWmpDSVpja2MxZENUSDFPLWVhX2xuOElPUVRrMHk3UHY0TDhDbnI5S29kcWl6ZXdEWUxB?oc=5",
-      "source": "PwC Australia",
-      "publishedAt": "2026-07-01T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "House values fall – but homes are not getting more affordable",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX29XcHAxWHZETUlWTENzeGNLWEJsMkR5ZkdSQVVmaDRSNjdCSnFUcWVQNjhRSEhpV0NLYkEtcXU3d2FKeGRNbUhyVkRsQ0lIRURfbnN5eGc1N1lCLUFGMkxDU3pzVjgwdmhrdWhUQkZ2Z29jR1hhNm9ieEJYNkdPaHJmMUZkVzN1czBORGc3VzE5dG5jbDZXWnZMUWVURTNIMzJiSjhzcE1QbFVtNk5pYlVENWgxUnJHQ01mUA?oc=5",
       "source": "SMH.com.au",
@@ -1490,7 +1476,7 @@
     {
       "title": "Good news! Housing is getting more and more affordable",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWMzVlFOMFdVUTlYVWNlQzRvTk1rVHlBTVdzNGxFc2pHbUpENno1U0d4V3kyT1F5QWlhR1B0elF5YXFpM201a0o3UmhtSmI4ZUFYUEpXb2Vjamtwc0hlNUJUMlQ2RkJObDhKOWZjRm1KcEpyc3l3bTlWMmdiNzRvUUV3X3k4OXlrNHZlVHpVOVdmb25VM05FWGNqU2doR2ZpcUJHU3FHWEFUWUk4WngtWmo0eXBSTWNVYXQ0?oc=5",
-      "source": "independentaustralia.net",
+      "source": "Independent Australia",
       "publishedAt": "2026-06-29T22:00:06.000Z",
       "summary": "",
       "categories": [
@@ -1499,6 +1485,20 @@
       "relevant": true,
       "score": 0,
       "spicy": false
+    },
+    {
+      "title": "Treasurer promises to 'fix' property tax oversight, but won't say how exactly",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ29MRTR6SU4wU3pEU2FaWDJtV1k0cUhHTDNIb0dJdTBtQmFDYmNtMGd5RmJFekVPc0pBZTVVNnIwZUo5dTB6M0lrbzk5YVZ4NEpLczgtdks3VG10RE81Wm8zMFRsWE11M3dfWUw1czJQSG5NTDdqcTd5Yzd2Zk13ZHZva2tEOXBuaEFlVkJXUTREOHNEY1hIUWFZN0RadTZMVWlfT1Z1dXN0aGhFSmV3RUpVOA?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-06-27T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": true
     }
   ]
 }
