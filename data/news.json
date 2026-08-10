@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-10T09:42:52.031Z",
+  "updatedAt": "2026-08-10T11:14:01.468Z",
   "count": 120,
   "relevantCount": 54,
-  "spicyCount": 10,
+  "spicyCount": 9,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -32,16 +32,16 @@
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
-    "Absolute Immigration",
     "Australian Property Update",
     "CommBank",
     "Discovery Alert",
     "Erickson Immigration Group",
     "Expatica",
+    "Fragomen",
     "LinkedIn",
     "Mondaq",
     "Nomad Lawyer",
-    "ProPakistani",
+    "Property Update",
     "Queensland Country Life",
     "SMH.com.au",
     "Shiksha",
@@ -53,9 +53,7 @@
     "The Indian Sun",
     "Western Australian Government",
     "aapnews.aap.com.au",
-    "fragomen.com",
-    "propertyupdate.com.au",
-    "theguardian.com"
+    "propakistani.pk"
   ],
   "items": [
     {
@@ -67,6 +65,30 @@
       "categories": [],
       "relevant": false,
       "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Former championship winning team cut from A-Leagues",
+      "url": "https://www.abc.net.au/news/2026-08-10/western-united-cut-from-a-leagues/107021526",
+      "source": "ABC News",
+      "publishedAt": "2026-08-10T08:44:16.000Z",
+      "summary": "The Australian Professional Leagues have terminated Western United's A-Leagues participation agreement, meaning the club won't be returning to the top flight.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Trial begins in case of man accused of Bogie triple murder",
+      "url": "https://www.abc.net.au/news/2026-08-10/trial-begins-man-accused-of-bogie-triple-murder/107016050",
+      "source": "ABC News",
+      "publishedAt": "2026-08-10T08:26:46.000Z",
+      "summary": "The trial of a man accused of murdering three people on a Queensland cattle property in 2022 has begun.",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 4,
       "spicy": false
     },
     {
@@ -108,17 +130,6 @@
       "source": "ABC News",
       "publishedAt": "2026-08-10T07:01:00.000Z",
       "summary": "The Australian prime minister has landed in hot water over a gesture involving two melons, which his office insists was not referring to Japanese Prime Minister Sanae Takaichi's body.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Coal locomotive derails weeks after runaway train incident",
-      "url": "https://www.abc.net.au/news/2026-08-10/coal-train-second-incident-pacific-national-upper-hunter/107017442",
-      "source": "ABC News",
-      "publishedAt": "2026-08-10T06:31:16.000Z",
-      "summary": "Another coal train run by haulage operator Pacific National is being investigated in New South Wales just weeks after a runaway train incident involving the same operator.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -204,6 +215,19 @@
       "spicy": false
     },
     {
+      "title": "Westpac mortgage applications plunge 20pc after budget, rate hikes",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXJ0YjFhMFRiTFFtZGpmSEdUcmd2djhxX2EtQW10N0I2MF9vNktBX01WSWdRSkZlamVjVTZBemxSMmNvSFF6bXE4MUV5SC1UaXhnVWF6dEFjbm1OSFM4RzZjNi0zb1BBaXBOQml1ZS1UWkVwaFNkLWRBcElPS0JtbE43SWZsbXpGejRpOC1DQ1phREJSM2VnLVNVUVkzNDVGM0o0alVOQ1NEQ20xV0ZWSFRpV1FrbGpjWjAtUU9JaW9HVFk1?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-10T02:38:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
       "title": "How far does the JobSeeker allowance actually go?",
       "url": "https://www.abc.net.au/news/2026-08-10/how-far-does-the-jobseeker-allowance-actually-go-/107016116",
       "source": "ABC News",
@@ -212,19 +236,6 @@
       "categories": [],
       "relevant": false,
       "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Westpac mortgage applications plunge 20pc after budget, rate hikes",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXJ0YjFhMFRiTFFtZGpmSEdUcmd2djhxX2EtQW10N0I2MF9vNktBX01WSWdRSkZlamVjVTZBemxSMmNvSFF6bXE4MUV5SC1UaXhnVWF6dEFjbm1OSFM4RzZjNi0zb1BBaXBOQml1ZS1UWkVwaFNkLWRBcElPS0JtbE43SWZsbXpGejRpOC1DQ1phREJSM2VnLVNVUVkzNDVGM0o0alVOQ1NEQ20xV0ZWSFRpV1FrbGpjWjAtUU9JaW9HVFk1?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-10T01:33:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 6,
       "spicy": false
     },
     {
@@ -246,7 +257,7 @@
       "summary": "Mining cities across Australia say the count fails to acknowledge the increasing pressure the nation's growing fly-in fly-out workforce puts on communities.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -257,7 +268,7 @@
       "summary": "Victorian prospectors say they fear further regulations could follow if the state's historic goldfields receive World Heritage status.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -268,7 +279,7 @@
       "summary": "Australian Transport Safety Bureau's Chief Commissioner Angus Mitchell says pilots who avoided a near miss at Sydney Airport on Sunday morning \"prevented what could have been far more serious\".",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -327,19 +338,6 @@
       "relevant": false,
       "score": 5,
       "spicy": false
-    },
-    {
-      "title": "Albanese is the opposite of Rudd and that comes with its own risks",
-      "url": "https://www.abc.net.au/news/2026-08-10/albanese-immigration-cuts-gambling-legislation/107014442",
-      "source": "ABC News",
-      "publishedAt": "2026-08-09T18:45:55.000Z",
-      "summary": "Cabinet's indecision on support for Tony Burke's immigration cuts shows a key difference between Anthony Albanese and Kevin Rudd.",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": true
     },
     {
       "title": "Millions of Australians could have no say in who inherits their super",
@@ -568,17 +566,6 @@
       "spicy": false
     },
     {
-      "title": "Crippling costs force family to close mushroom farm after 45 years",
-      "url": "https://www.abc.net.au/news/2026-08-08/queensland-mushroom-growers-close-as-farm-costs-soar/107000580",
-      "source": "ABC News",
-      "publishedAt": "2026-08-07T23:41:42.000Z",
-      "summary": "A Queensland grower of popular supermarket mushrooms says operational costs are too high to make the industry viable.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Death threats, doxxing and deepfakes: How online abuse hampers women in politics",
       "url": "https://www.smh.com.au/politics/federal/death-threats-doxxing-and-deepfakes-how-online-abuse-hampers-women-in-politics-20260804-p60lci.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -790,6 +777,17 @@
       "spicy": false
     },
     {
+      "title": "Country cafe mounting costly battle to retain beloved barista",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFJXNW5BMy1ZYlg4aGVXX1AzRmptSWYxOWpJZGgwTm1iR2EtWVd2WmhocnVOaVVUa1FYS1hZTFduTXctUHRRMkg4ek81OFVRV0JOa3lmbkFVRldBOGVZbUZEZmFPZkx1RWNmY0tyQURGbHdTLXhxVFprYWZvbGpJTThwTVgzbG1VUlRKVGpwYnJYUHBNbnVvZnpzdHY?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-06T22:05:22.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
       "title": "Tax changes get tick of approval from ratings agency",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb3hPY1JfUGtLbklhWktMVkhSVEtKanNwZS0yMzB1dXl2dS1tbFR6WFEwcTJUTkR4enljMFNxeWV0aDRjTllmTi1NX2prdGl3SVBBMFFHcWdTMmFLY0VXejF5WmhvcFE2WlBHNUxKb1RYVkR4aTFfVWdQbWdGbkVHYkcwQUZkOHBIdjgzTg?oc=5",
       "source": "aapnews.aap.com.au",
@@ -843,7 +841,7 @@
     {
       "title": "‘Performative reductions’: Labor MPs and business groups urge Burke against sweeping immigration changes",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSERoTS1HcUZtaVJaTU1vTHBFX1Z3dU5xZHRSdGxNMEpjb08zTkFVS1NtVlUzQnVyX0EzMjVIRmVwS1RaRGlNb1ZHbms3VTB6SjMyMk5GYzZ0Yl9XQjdWOUU5Z1oyREFPbG9PQ09qNkdVZnNLU1RuRnR4YjBhN1lWUktXaG45TWRkNFhaaWlSWlowMmRIX2VsODEyd01OM05pMktsWWlBUndqTGFIUGlsY3VGcW9HaGFNZDVtbENpOS1CU2U0ay1waFY2cTl0NnhDZWNhREVJVTFTZ2FIVmdLOEQ1TllMSVNCNW1kSA?oc=5",
-      "source": "theguardian.com",
+      "source": "The Guardian",
       "publishedAt": "2026-08-06T09:09:00.000Z",
       "summary": "",
       "categories": [
@@ -932,7 +930,7 @@
     {
       "title": "Australia Changes Visa Processing Rules for Skilled Workers",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjFVTmZmQnI1Y2FnYzlVWFBnTVV1NVM1dmYxUWM1OVhreWRLRXNfalFfOE5yUjBoNG1uS240NkRtNm9qZW9ERWhiVXZPM2gyNElBcUhVQ3JPVUEtSmhrcUJvVW43dHlWSHJ3TWFXbjBfczN2ejJBZzhBYnhVc3hxb2JEd2ZaSnBtQmJWZFowcTBvdzFuQmtHZEVQZ9IBoAFBVV95cUxNWXBObW83YXdybExic19TM05VTmY0ZG9MX0RQcUdkTnBsaHdxTVl6X2ZkUVZTaUYweXNNX1lKU0VJWHNwQ2prZjJUNTFNaTJXU0RtMlNialllOXpnZFRrci1RZE5mTWx2VmNWcEpCeno1QkVPRU1Oei1zeENTUjBFdE5mYjRFaXJhYjdsbjE3VUZqbDJGZW5CdkZJNmc4ak9h?oc=5",
-      "source": "ProPakistani",
+      "source": "propakistani.pk",
       "publishedAt": "2026-08-05T09:41:43.000Z",
       "summary": "",
       "categories": [
@@ -958,7 +956,7 @@
     {
       "title": "Homes in Australia are now cheaper – why can’t the government sell this good news story? | Saul Eslake",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSFhiSmJSRVpwR2JGNWFQTnZqOHdtZzItb0lwYWxuT0xaZmNzSngzeURkakRIbGFwbVNNLUFlX1Yzdkt4YkwtU3NadU9BTEdxUWdWNVU4MEVQaUNzc2llLUN0aGp5a0dzR0IydGdJOFFrZjJaODIzZTJoT2g0SlpFMDh5bFl2ckNGdHpxZVRMa0ZISVpHZ0o0ZG5MUlBXUnhkMnJlVllmOVpReEU1dV9sMjV3anl3Y2x0Wmx2VHZYWUtnd3MxRjlnRU1Faw?oc=5",
-      "source": "theguardian.com",
+      "source": "The Guardian",
       "publishedAt": "2026-08-05T05:21:00.000Z",
       "summary": "",
       "categories": [],
@@ -1230,9 +1228,22 @@
       "spicy": false
     },
     {
+      "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
+      "source": "Fragomen",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Minimum Salary Changes Announced",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
-      "source": "fragomen.com",
+      "source": "Fragomen",
       "publishedAt": "2026-07-21T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1406,7 +1417,7 @@
     {
       "title": "Do Australians really want more affordable housing?",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUFHZVNTS2o5c1hYemFGeG5VQXlVY1BEZ0gyWG1RYzBucmFZSi1GU0NVaGw4VFQ2cVRNY1p2QldIR25sSWFfYkFaV0lWdHMxa09OaXVYaEZKTS1nRzZrSTI3UzVxQjl1YXpGMnlpRUxTSEJBWjZ4WG9vYV80ZkJJTmNpT25ja2NF?oc=5",
-      "source": "propertyupdate.com.au",
+      "source": "Property Update",
       "publishedAt": "2026-07-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1468,19 +1479,6 @@
       "title": "1 July Changes: Australian visas and migration",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVZ2ME9od0h5aTRzLTFqTlJNWWVVTXBwOUZJd3ZQc2czWGhYb0FpUzJtdE8tVnFCNXZkZ3hMSTRFajFLa2tUai1CWHZIZ295X1VPZXVHVlgwNVFleWVYNjZPRU9hUU90cFlxSjBxVEFkV1ZjcFZkdzNteVkwOFFUZFBqaHhNSDRUdGRycFFUakFiOEctWkE?oc=5",
       "source": "LinkedIn",
-      "publishedAt": "2026-07-01T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Visa application charges and key immigration fees increase from 1 July 2026",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGVPWTFHcUNwbi0zOTZ3UTdIZEdLVTg3NUN6Z2ZaazBUZGRDSGYwcDUwNzRzc3oyWTRhQjNROEllcDBiSXlKTEk5T0NzMVA3YUcwSWdjaS1FZG02U1Q2TTNuZkdmZTBsMzJWaEZDTFV2amtIclBjcjFOcVp4cXVBWXc4cDVRV3JRMUFQUmlwX3IwRldZTnc0T0RzNEF5SGxOY2J5djhkV3UzeTA4Q0s3ek13?oc=5",
-      "source": "Absolute Immigration",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
