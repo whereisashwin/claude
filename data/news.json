@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T10:05:08.950Z",
+  "updatedAt": "2026-08-11T11:22:38.213Z",
   "count": 120,
   "relevantCount": 53,
   "spicyCount": 10,
@@ -30,9 +30,9 @@
   ],
   "sources": [
     "ABC News",
-    "AFR",
     "Absolute Immigration",
     "CommBank",
+    "Discovery Alert",
     "Expatica",
     "Fragomen",
     "Independent Australia",
@@ -45,20 +45,31 @@
     "PwC Australia",
     "Queensland Country Life",
     "SBS",
+    "SMH.com.au",
     "Shiksha",
     "Study International",
     "Sydney Morning Herald",
+    "TV Blackbox",
+    "The Australia Today",
     "The Australian",
     "The Guardian",
-    "The Indian Sun",
     "Western Australian Government",
     "abc.net.au",
-    "discoveryalert.com.au",
-    "smh.com.au",
-    "theaustraliatoday.com.au",
-    "tvblackbox.com.au"
+    "afr.com",
+    "theindiansun.com.au"
   ],
   "items": [
+    {
+      "title": "'Incredible disconnection': What Sussan Ley saw in the US shocked her",
+      "url": "https://www.abc.net.au/news/2026-08-11/sussan-ley-finds-herself-us-trip-amongst-downtrodden/107025488",
+      "source": "ABC News",
+      "publishedAt": "2026-08-11T10:06:55.000Z",
+      "summary": "Sussan Ley left Australia after being ousted as Coalition leader. Her trip to the US saw her find an enhanced pride in the success of Australian multiculturalism.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
     {
       "title": "Coalition divided over tougher gambling laws – with MPs warning Angus Taylor against overreach",
       "url": "https://www.theguardian.com/australia-news/2026/aug/11/coalition-divided-angus-taylor-gambling-laws-overreach",
@@ -115,7 +126,7 @@
       "spicy": false
     },
     {
-      "title": "Billionaire Andrew Forrest scores win against Meta in scam ads case",
+      "title": "US court rules against Meta in Andrew Forrest scam ads case",
       "url": "https://www.abc.net.au/news/2026-08-11/andrew-forrest-meta-scam-ads-case/107025146",
       "source": "ABC News",
       "publishedAt": "2026-08-11T08:09:01.000Z",
@@ -272,17 +283,6 @@
       "spicy": false
     },
     {
-      "title": "Calls for Alice Springs-style curfew in NT town rejected by police",
-      "url": "https://www.abc.net.au/news/2026-08-11/nt-police-reject-katherine-curfew-calls-over-crime-in-community/107023096",
-      "source": "ABC News",
-      "publishedAt": "2026-08-11T05:18:38.000Z",
-      "summary": "Northern Territory Police have surged resources into the crime-hit town of Katherine, as a federal Labor MP joins calls for a curfew to be triggered as a \"circuit breaker\".",
-      "categories": [],
-      "relevant": false,
-      "score": 8,
-      "spicy": false
-    },
-    {
       "title": "PM rejects claim he made 'foul-mouthed, classless comments about women'",
       "url": "https://www.smh.com.au/politics/federal/pm-rejects-claim-he-made-foul-mouthed-classless-comments-about-women-20260811-p60ndi.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -367,7 +367,7 @@
       "summary": "Mixing 1990s-era gameplay aesthetics with silly power-ups, Pro Jank Footy has fun with a national obsession.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -476,7 +476,7 @@
     {
       "title": "Westpac mortgage applications plunge 20pc after budget, rate hikes",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXJ0YjFhMFRiTFFtZGpmSEdUcmd2djhxX2EtQW10N0I2MF9vNktBX01WSWdRSkZlamVjVTZBemxSMmNvSFF6bXE4MUV5SC1UaXhnVWF6dEFjbm1OSFM4RzZjNi0zb1BBaXBOQml1ZS1UWkVwaFNkLWRBcElPS0JtbE43SWZsbXpGejRpOC1DQ1phREJSM2VnLVNVUVkzNDVGM0o0alVOQ1NEQ20xV0ZWSFRpV1FrbGpjWjAtUU9JaW9HVFk1?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-10T01:33:00.000Z",
       "summary": "",
       "categories": [
@@ -769,7 +769,7 @@
     {
       "title": "MCA Demands Skilled Migration Changes Be Suspended in 2026",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOU81emUxSnhLalhFc0hvaUR3X2NoT25DMk5MTUkwS0k5QzZOdHNSTlNKVnhTYXJMbkhONjlpSmdjcHktU0pTM3NPTFphNjR2NjFSUDVoUklSRzdLbGcwYTdGV3ozc3ZWM2VURUloZHlvXzl1V0pmR2pYLVoyQkxsTnQ1SnB5TGZZcGF3VnNPX2wtNmM?oc=5",
-      "source": "discoveryalert.com.au",
+      "source": "Discovery Alert",
       "publishedAt": "2026-08-07T04:54:43.000Z",
       "summary": "",
       "categories": [
@@ -830,7 +830,7 @@
     {
       "title": "Treasury’s $88k CGT error exposes tax ‘rush’ by Chalmers",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDhKMjc3aU9US1k0bVRPSnA4QWZtY1RZZW9ySDFZdHRoUWRNT3VhX09KTkNUZ0FSVXVlcHdXeWpyNEtZaTNXZllZZFJSOTA5cUlIXzdqWmdSaWx5VU45dTFqRVR2Ul9sUlhwaTlVbElld3FDT1FGOHhWLUxNN2tnOVdybENKZFdyaC1DSEhJakJPZGdRVmhoQ0p3Q05MSFFCUk9pZmhfbGNMVTg?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-06T08:37:00.000Z",
       "summary": "",
       "categories": [
@@ -843,7 +843,7 @@
     {
       "title": "Australia retains AAA as tax changes and spending cuts help bottom line",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbTlTMmFqRGZPU1lDTHFvZjJVUG83eWdzbzJ2ODhZSnFpQWxnOElrZ0VPZ0tHcklWaENyUGtIOENfajFVeWZ3Z08xSWEyVEk4eGwwU3N2OFVNdVpIRkdFcU03S0ZMWHY0bllYNE92Y0k5Q3I1X0VkSUlqM1JfNzhkeURjenFLclNKSFF3Tlo0TDVsb0k0dzBKVmR3NXRIT2o2ZTZsYUI5MFBpOGRibEJxa3FkYWhXTXZuM2tEVnk4WC00MkRLUVUxSEZRMzI?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-08-06T06:56:56.000Z",
       "summary": "",
       "categories": [
@@ -893,7 +893,7 @@
     {
       "title": "Coalition, One Nation accuse Labor of playing catch-up on immigration",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNzgwb1V4d0lwMk5xbkhwcTdpMTU0aXc2WVZTazAxQWJTUlBYeXc4NWo5RUtZZnZFZkE1czI0TjF5ZmRPY2hsYzQ3NF9kZmxneWoxVmpPalhaOTZXZFJWd3Y4d2M2UWFWR1dRblA0akYxenRpdVF4VjJRdVlpS01SNmsteWpFNS01aVNvRXR3b2VITXNvR2FGRGVTSmhEV3lpaE1n?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-05T07:36:00.000Z",
       "summary": "",
       "categories": [
@@ -989,7 +989,7 @@
     {
       "title": "Australia’s skilled visa shake-up puts onshore applicants first",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVERJT1U1NFZGdTUyVzVCUTg1STJpWlhYN3VzV1NOWnNOSmtYWVpGdWs0eWMxS2R6R2RqakpaVlJpN2dkSkRnbmdaY291UHcxaXZpam9XZWZFeWxUdGR3dnpQVkJEWnAzM0R0YzhybXVsaTd0cGVJN2paOVFqNzVSOVJZcnAwZ0FHMmZVLW40QS1UZlM4NzhEUG4xQ2FtRmdnT1ZvdEFqdndYLTF3M3pTWDRYWW8zUFVy?oc=5",
-      "source": "The Indian Sun",
+      "source": "theindiansun.com.au",
       "publishedAt": "2026-08-04T06:06:35.000Z",
       "summary": "",
       "categories": [
@@ -1002,7 +1002,7 @@
     {
       "title": "Labor’s stealth visa overhaul targets offshore skilled workers",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2VwMzZMY2FDbDVHLWthdDRkWFcxd2dVOUFXbVVQQWtRTUNFcXBWZUt3cFVWdE1EbVhIcVJhMVQ1LVB5NlBYZmdJVUdtLUxLVHZFVGduMnc4bUpBTlV2Z3dRaUpoM2ppVS1LaDZBLTVMTVlwU1ZyYWE5THlQQzljcV9rbEpWdXFrUnh4aVg4M1NCNzN0ajhUUlBtbUZZZmMxSVdBUVpoNDREaml0U3ROUjI0SQ?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-04T02:16:00.000Z",
       "summary": "",
       "categories": [
@@ -1029,7 +1029,7 @@
     {
       "title": "One bold, fiscal move would ease our economic anxiety. Does the PM have the nerve?",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcm5FeVJ3TlNWSHpwYTVoekRDd2g4ZVY4MVVjbV9RUF9RS2c0UjZncU43c1VFQ0FRdnYtVlBpbGRCc0QtVHhrd2M0Unc2T0kwdHZDeTBkdUdVMjFZbGQwdk1lUllscC1lTi1IMG43aWRDbmtMWnQ0QTVQbXBjZmVDQzNuQTRXOVRXa05uUFVUaHg2ckFDeW1oYldQdlhfb1pkdTdWS1RKVWRkS0QzMHduanpRUXY3R04xQU1hZW1neldwdGhJMllCX1lXTVplQ2lPTWxiTXByWQ?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-08-01T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1053,7 +1053,7 @@
     {
       "title": "Australia wanted cheaper homes. Now comes the hard part",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUU1mM0tkR1NzSm4zOXdtMVRZS01qQnRKZzlxYXN3RUJ1S0ZMd2ZUWFhYNk50SjZESm1Za2ZuQUx0aTdOcTJyUGZ3NXlCWTFiYUJYcWlRV0MwU2hWTmktYTJ4UEUtYXZ0WXFucmFwS2tmSUdZMzFkSDYwb2lGLU12Nm5jS2dsV0xRWmZlcnlvd2RoVkZyQWF4WlI2WmJWQi1GS0dYcEtuRzc?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1113,7 +1113,7 @@
     {
       "title": "One Nation wants COVID-level migration: what that means (in 8 charts)",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOURpS2xDU3lyVWpUWEtpNUdkU3ExbDY4OE9iRUhhQjItMC0yUVk5Wk1ZdVliS2t0X25xa2MtbVFqTnBiUEsyMUFxazhBNVE1emMxcXZ1QldBcWtwMXF3c3pfZ0phZ2dtN0JWeG5LNzV6VEZnUjVMdzR5V0RhQUdYOUx1TWJEVHRRMVZzelBlZ0duNENtNEpSYlBEREtGakI1ZjExaGFnVEpXWDJ5MnNMZ1JRVlAxd2g3?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-07-24T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1176,7 +1176,7 @@
     {
       "title": "Downsizer drought weighs on housing supply as Baby Boomers stay put",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWGtLREx5NmY2YVZqUWQ1bTUzcGR3Xy1PV2ROcW9XeFB0Ykx0c0RYMHZyUVFyTlk1R19YQTVrRG13RTVWUWQ5SmY0NWZWSnhaQ1ZxU3NSWU85SjRPd2ZmWlF6cXNQRDJ4YW5jYkt3ZVp4QXAtMjhDVjhIaWdlZUVxM1NxVDV6b3pDdVZ2VmVrajI2Z0xPeHR6Rm0zVWtFV0FNQ3Mwamg4VGxRSm41X21jNHpENVdDdVY4cDJ4TG9WNmdlX0ZDbVZ2RmttellBZw?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-07-20T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1189,7 +1189,7 @@
     {
       "title": "Labor tax changes imperil ‘optimistic’ state budgets",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNklnX29tX3N0eE1lanAzQjhlMXRBVzFVUTNZaGtpaC0zSjZabENjM2ZhY1NRN2R2U1luTnJuSXhwZDNtaF90RktJTWFCejFiUnFkMjhkN0dtX0IySDZRYnpMTk1ka0ZDVnJYTlZod05ROHVnblV0SDNqNk1mOGtIdWJEQUVXWm96WFBqVmZZT0xYR2puaDlQRmR2M1UxeG9JcjBxZEFMWnE3Zi1TckE?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-07-16T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1226,7 +1226,7 @@
     {
       "title": "Treasurer Jim Chalmers’ budget hinges on 41,200 public service job cuts",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlpoRm1kb1doTERNR21tb09HZ1lvV2RMcVE3bkRnelRrVjJBZ21WQktvUXlUbXktMUdIS1ZUS254VTl3aklqUFNiQTFNMy1JOVhpOVlGYWtfTjA3Ykd0Zm1qSXdnQXY3WjQ3d1FVVi1CT0gteTNzR2lxRFZlU0VTdS14ZTZjZzBKb1U5QmdxbGNscUdNeGN1ZnI0QmszT1NRMGI3SzN2RWREY0U?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-07-15T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1250,7 +1250,7 @@
     {
       "title": "Labor has broken the tax reform ice. Now it must keep going",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVExaMjVnc1BHMTVhMkppbTVualBfSjM1cFNrekxKWGlreHViY1JUWHAzbS14OC1ObGlkNmJxaG1VQ212YUZxa0JNOHBld1RhWGx3bGRPRzg1bmZOS3A2YS1HN21sRUJPLWZ0cl9LM3cyUVFabWpaQ0FESUFHS2tDRndvM1k5WE9QaUlCYVdzUzd1cWJXNUdEcnVhUG16YWxQdTJPMDdSdjRvQXNQUHc?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-07-14T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1263,7 +1263,7 @@
     {
       "title": "The tax bill for working Australians is in the mail – and it’s growing",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3RsaVY0a2FnbWdabVFWTTNOTjJ4XzFTMllMUXZRM1RlaHM0bHRNNzItdlphQlFWakk1UlNKZ2VZdXJ6aEZyeVhTa0lJRFZEZGh2N0NVdEtoR3hiRDRqMDNqRmZPM1hPdFkwM2U3Tk5ZYjQ1OFhGU05FMVNub1plbDE4OXRWTEltTGRCR3h3dXRhUTVMaVBZb1VvRHFUQ1hLdkVaY0NMTUhSYzcyenh5ZzVkN190ZllEZ2U4TURTeHdQZHI3cnQyMw?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-07-14T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1276,7 +1276,7 @@
     {
       "title": "Budget loses billions, nation in deeper debt: The cost of cutting migration",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYWp2ZFUtaW9nSlBPVENhbEstbHFSSktENDlRN2lfb21oSllfRjdWTWFCcTFPUDU1UXBud1VDUkhKUTRnTFhBeUJibzFyY1c2Q2J4bmUxZ3BJTzU1REI5QzhWc0JkRUdpeTJ0XzJHMkt5c1pqN1BnU2lhR0xCZEdCb21fWmJkZFpHM1ltdkNUbDV6SUptM1pNNlVsWWF1ck9ON3ZYNzlYcHlXZm9PQmQwOTVjMVZGcHN1cXcwZWVpLUEteXV5aDlsNEhFcnNmZjg?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-07-14T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1289,7 +1289,7 @@
     {
       "title": "FOUR CORNERS probes Australia’s housing affordability gap",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0NSYkFKY0I0bXFWOTlXZ3VUZGZhU2U3RnNWMEJaNkpManhTRG1tQ0FkR3QwNjVUcExlSnB6TkM5YTZ5b0YxTVZKTEpIOGV3cHJ0aGJtTzFMR1pOZzZSdGVtR0tVc1B4QWU4Zzdkc0tNelNTR2pzUkt4RGtRM2xLMWJrS3JORWd2ZUxsazh5UlNRU2NCbi15NW4zYms3N1Z0?oc=5",
-      "source": "tvblackbox.com.au",
+      "source": "TV Blackbox",
       "publishedAt": "2026-07-13T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1352,7 +1352,7 @@
     {
       "title": "PM and treasurer want to eat the pie themselves, not grow it for all",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkJDZWZGZWxEdkVaRXdCSF9ydjUyZnhpeDVRYTZTWGpVTk04ZUtzdzRWXzU3cVg2djdGRzJRM05wbGlCc2liczdsSE5FSEZjalJ6R3lTWjRYaVpkSGMtc2JfdjhEY1lkUEhHSW5pd0g2dmVIX3hxdEpZd3NmakpKeENxMEZfUFNsSzI0TnloUHc1YkFXUXZsTFJsb0FDVnhWRmNhdDlNSV9ZT2x6aG5fclBFaHNVLXdRZC1QMVFhbFdUVXRr?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-07-03T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1387,7 +1387,7 @@
     {
       "title": "House values fall – but homes are not getting more affordable",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX29XcHAxWHZETUlWTENzeGNLWEJsMkR5ZkdSQVVmaDRSNjdCSnFUcWVQNjhRSEhpV0NLYkEtcXU3d2FKeGRNbUhyVkRsQ0lIRURfbnN5eGc1N1lCLUFGMkxDU3pzVjgwdmhrdWhUQkZ2Z29jR1hhNm9ieEJYNkdPaHJmMUZkVzN1czBORGc3VzE5dG5jbDZXWnZMUWVURTNIMzJiSjhzcE1QbFVtNk5pYlVENWgxUnJHQ01mUA?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1453,7 +1453,7 @@
     {
       "title": "Outrageous 25-200% Australian visa fee hike hits international students, partners and skilled workers from 1 July",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORVllcjRUeTlhRjRCczh4SnJzOGxlb0hVZGFWQUFRS09raUhaMzNSVjc5MnZSZHc0LWF2NWpDTFdKaXhYVm56Zm95bkFGenNwRDFMZXJXNUo4R21TSGx0emIwM3FyazBtVHB2VEpoQkRXVmZDM2U0VUpnUkRtUG9WZnU3bjlpZFplazFSMXNQTFdlUENsZzlyVXZoZHZXcUF1Zzg2NjVDOTRkbldqT1pXTUpWX1N4NHhOSHpiYjlQQzY0ZTc0eVU5ZEc5al9jM1kwUENVX3MzS2tmNDQ3U2dMMVlNNA?oc=5",
-      "source": "theaustraliatoday.com.au",
+      "source": "The Australia Today",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
