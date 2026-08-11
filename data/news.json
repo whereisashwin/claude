@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-10T23:41:38.590Z",
+  "updatedAt": "2026-08-11T02:13:04.401Z",
   "count": 120,
-  "relevantCount": 60,
+  "relevantCount": 59,
   "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
@@ -35,16 +35,12 @@
     "Absolute Immigration",
     "Australian Property Update",
     "CommBank",
-    "Discovery Alert",
     "Erickson Immigration Group",
     "Expatica",
     "Fragomen",
-    "Independent Australia",
     "Khaleej Times",
-    "LinkedIn",
     "Mondaq",
     "Nomad Lawyer",
-    "ProPakistani",
     "Property Update",
     "PwC Australia",
     "Queensland Country Life",
@@ -55,40 +51,98 @@
     "TV Blackbox",
     "The Australian",
     "The Guardian",
+    "The Indian Sun",
     "Western Australian Government",
     "aapnews.aap.com.au",
-    "theindiansun.com.au"
+    "discoveryalert.com.au",
+    "independentaustralia.net",
+    "linkedin.com"
   ],
   "items": [
     {
-      "title": "Australia politics live: Coalition to work with Hanson on migration bill; Greens fear PM ‘under the thumb’ of gambling lobby",
+      "title": "Australia politics live: bird flu vaccine to begin rolling out to ‘priority species’; Victoria’s new premier pauses right to work from home bill",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-10T23:41:27.000Z",
-      "summary": "Labor looks to negotiate with the Coalition to get several pieces of legislation through parliament.",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
+      "publishedAt": "2026-08-11T02:11:47.000Z",
+      "summary": "H5 vaccine to be given to native birds in capacity as first step of bird flu countermeasures.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Victoria's work-from-home laws delayed until July 2027",
+      "url": "https://www.abc.net.au/news/2026-08-11/vic-work-from-home-delayed/107023236",
+      "source": "ABC News",
+      "publishedAt": "2026-08-11T01:59:05.000Z",
+      "summary": "Premier Ben Carroll has promised to reset his relationship with Victorian businesses, and says he is open to \"common-sense\" amendments to the proposed work-from-home legislation.",
+      "categories": [],
+      "relevant": false,
       "score": 4,
       "spicy": false
     },
     {
-      "title": "Calvary considers new Launceston hospital at aged care site",
-      "url": "https://www.abc.net.au/news/2026-08-11/calvary-considering-new-private-hospital-sandhill-launceston/107016434",
-      "source": "ABC News",
-      "publishedAt": "2026-08-10T23:30:04.000Z",
-      "summary": "A private hospital operator has confirmed it is considering a new hospital in Tasmania's north, two years after it cancelled plans for a $130 million development.",
+      "title": "Albo’s melons moment is no outrage. He’s more ‘daggy uncle’ than misogynist",
+      "url": "https://www.smh.com.au/politics/federal/albo-s-melons-moment-is-no-outrage-he-s-more-daggy-uncle-than-misogynist-20260811-p60n78.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-11T01:30:00.000Z",
+      "summary": "Lord knows I have wanted to punch my own face many times when Anthony Albanese is on telly. Zero charisma. But Melon-Gate is completely overblown.",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 4,
       "spicy": false
+    },
+    {
+      "title": "ASX rises ahead of RBA rate call as oil stocks rally; SGH, Life360 plunge",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-dip-on-rba-day-wall-street-drifts-oil-rises-on-hormuz-uncertainty-20260811-p60n4f.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-11T01:16:07.000Z",
+      "summary": "The Australian sharemarket edged higher as energy stocks rallied due the latest jump in oil prices, as investors awaited the Reserve Bank’s decision on interest rates.",
+      "categories": [],
+      "relevant": false,
+      "score": 8,
+      "spicy": false
+    },
+    {
+      "title": "Will the government get it right on gambling reform? | Fiona Katauskas",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/aug/11/will-the-government-get-it-right-on-gambling-reform",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-11T01:12:07.000Z",
+      "summary": "Anthony Albanese is weighing up the options See more of Fiona Katauskas’s cartoons here Continue reading...",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Australia to roll out bird flu vaccines for wildlife most at risk",
+      "url": "https://www.smh.com.au/politics/federal/australia-to-roll-out-bird-flu-vaccines-for-wildlife-most-at-risk-20260811-p60n8p.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-11T01:07:59.000Z",
+      "summary": "The Albanese government says the first H5N1 vaccines will be administered to native animals in captivity over the coming weeks.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Property prices could slump by almost 15 per cent, major bank warns",
+      "url": "https://www.smh.com.au/politics/federal/property-prices-could-slump-by-almost-15-per-cent-major-bank-warns-20260811-p60n7r.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-11T00:52:46.000Z",
+      "summary": "ANZ’s report, released on the morning of the RBA’s August interest rate decision, expects the biggest price hits to be in Sydney and Melbourne.",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 13,
+      "spicy": true
     },
     {
       "title": "Kerry Stokes’ Southern Cross Media in the red as revenue drops",
       "url": "https://www.smh.com.au/business/companies/kerry-stokes-southern-cross-media-in-the-red-as-revenue-drops-20260811-p60n5g.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-10T22:38:40.000Z",
+      "publishedAt": "2026-08-11T00:27:50.000Z",
       "summary": "The group, which owns the Seven Network, West Australian newspaper and Triple M network, said revenue dropped across television, newspapers and radio.",
       "categories": [],
       "relevant": false,
@@ -96,39 +150,39 @@
       "spicy": false
     },
     {
-      "title": "Live: No change to interest rates expected as RBA board meets",
+      "title": "Potholes force cars off Calder Freeway as Victorian road anger rises",
+      "url": "https://www.abc.net.au/news/2026-08-11/potholes-calder-freeway-roads-gisborne-road-damage-drivers/107022594",
+      "source": "ABC News",
+      "publishedAt": "2026-08-10T23:49:55.000Z",
+      "summary": "Maintenance crews are patching up potholes on the Calder Freeway between Gisborne and Sunbury after at least seven cars were damaged this morning.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "The absurdity of Aussie rules football inspires new comedy video game",
+      "url": "https://www.abc.net.au/news/2026-08-11/pro-jank-footy-arcade-aussie-rules-game/106941272",
+      "source": "ABC News",
+      "publishedAt": "2026-08-10T23:05:04.000Z",
+      "summary": "Mixing 1990s-era gameplay aesthetics with silly power-ups, Pro Jank Footy has fun with a national obsession.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Live: ASX opens higher as no changes expected to interest rates",
       "url": "https://www.abc.net.au/news/2026-08-11/reserve-bank-august-interest-rates-somp-asx-markets-blog/107021958",
       "source": "ABC News",
       "publishedAt": "2026-08-10T21:33:10.000Z",
-      "summary": "The Reserve Bank is expected to keep the cash rate steady at 4.35 per cent in August. The central bank will also release its updated economic forecasts, including the inflation, growth and unemployment outlooks.",
+      "summary": "The Aussie share market opens higher as the Reserve Bank is expected to keep the cash rate steady at 4.35 per cent in August. The central bank will also release its updated economic forecasts, including the inflation, growth and unemployment outlooks.",
       "categories": [
         "Cost of living"
       ],
       "relevant": true,
       "score": 11,
       "spicy": true
-    },
-    {
-      "title": "Live: PM's melon gaffe has been misinterpreted: Gallagher",
-      "url": "https://www.abc.net.au/news/2026-08-11/federal-politics-live-blog-august-11/107022468",
-      "source": "ABC News",
-      "publishedAt": "2026-08-10T21:09:49.000Z",
-      "summary": "Anthony Albanese is again facing calls to personally apologise to his Japanese counterpart over a gesture he made about two melons Sanae Takaichi gifted him, but a government frontbencher insists his remarks have been misrepresented.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "ASX set to dip on RBA day, Wall Street slips; Oil rises on Hormuz uncertainty",
-      "url": "https://www.smh.com.au/business/markets/asx-set-to-dip-on-rba-day-wall-street-drifts-oil-rises-on-hormuz-uncertainty-20260811-p60n4f.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-10T20:51:42.000Z",
-      "summary": "The US stock market edged down from its all-time high, while oil prices rose on uncertainty about when the Strait of Hormuz could reopen and get the global flow of crude going again.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
     },
     {
       "title": "Why SA is holding a royal commission into AI",
@@ -318,7 +372,7 @@
       "title": "Westpac mortgage applications plunge 20pc after budget, rate hikes",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXJ0YjFhMFRiTFFtZGpmSEdUcmd2djhxX2EtQW10N0I2MF9vNktBX01WSWdRSkZlamVjVTZBemxSMmNvSFF6bXE4MUV5SC1UaXhnVWF6dEFjbm1OSFM4RzZjNi0zb1BBaXBOQml1ZS1UWkVwaFNkLWRBcElPS0JtbE43SWZsbXpGejRpOC1DQ1phREJSM2VnLVNVUVkzNDVGM0o0alVOQ1NEQ20xV0ZWSFRpV1FrbGpjWjAtUU9JaW9HVFk1?oc=5",
       "source": "AFR",
-      "publishedAt": "2026-08-10T01:33:00.000Z",
+      "publishedAt": "2026-08-10T02:38:00.000Z",
       "summary": "",
       "categories": [
         "Housing"
@@ -442,6 +496,19 @@
       "spicy": false
     },
     {
+      "title": "Business hit again by fallout from Labor’s tax changes",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcDVxVk0wYlhIUWlnOGtNeHlSYWM1ODZ6ZmJ1bUZ6azllRmZaOF9DeWJyb3hMOUJLb0JrS25Jbk9PTXJDTkhzOVZfbkZOYldMLXkwUnV4MUJ1UHZfNVh2aGVyd2dMdUgtWDlXVHBiMmRZT0NrOERkRkVGOGd5ZE96QmktNVBYR24zR0wzSnFQNDZ4UVcwcjJOdjFrLUtpY1hrZGxqYndxTHg?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-09T12:30:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
       "title": "Labor open to ‘sensible amendments’ on gambling reforms, minister says – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/09/bird-flu-updates-politics-reactions-sarah-hanson-young-insiders-ntwnfb",
       "source": "The Guardian",
@@ -450,17 +517,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "We applied to be a Kmart holiday casual. An AI bot did the interview",
-      "url": "https://www.smh.com.au/business/workplace/we-applied-to-a-job-at-kmart-an-ai-bot-did-the-interview-20260805-p60lof.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-09T04:08:47.000Z",
-      "summary": "At least one in three of Australia’s biggest 100 listed companies use AI in their recruitment. Here’s what it looks like.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -543,17 +599,6 @@
       "spicy": false
     },
     {
-      "title": "One Nation takes the fight to Andrew Hastie",
-      "url": "https://www.smh.com.au/politics/federal/liberal-andrew-hastie-faces-mounting-pressure-from-one-nation-as-party-ramps-up-national-expansion-20260808-p60mkv.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-08T09:00:00.000Z",
-      "summary": "The Liberal leadership hopeful’s Western Australian seat of Canning is firmly in One Nation’s sights, as its Victorian leader flags conspiracy theories will not form part of the party’s campaign in the state.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Farmers guide to tax rules, timelines and what remains before Parliament",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUxCS2drNmtWLTBjMWtZRWgta3pnSklrQUN2eTRSeVBIZWpPWDU5dm15alVuUGMxQlRGZk9nZjZKNWVBaGRBTGZoZVJHYW9uNUhOQ0FmbTVNaGptR0lSVUkxWTNwU2ZDZzNNcXZvLThGZGR0VjExUnlRQnBZdmliaExfcFgycE1vMFQ3LUJIUzFLT0hGWGk4bVpCRWVXQkxsX2VWQXN0VElZR0RnWkJnc0hoaw?oc=5",
       "source": "Queensland Country Life",
@@ -575,28 +620,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Death threats, doxxing and deepfakes: How online abuse hampers women in politics",
-      "url": "https://www.smh.com.au/politics/federal/death-threats-doxxing-and-deepfakes-how-online-abuse-hampers-women-in-politics-20260804-p60lci.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-07T19:00:00.000Z",
-      "summary": "The rise of women in politics has been accompanied by a surge in vile online abuse. It could be putting women’s lives – and Australia’s democracy – at risk.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "The $60b deal that every state wants to get rid of – bar one",
-      "url": "https://www.smh.com.au/politics/federal/the-60b-deal-that-every-state-wants-to-get-rid-of-bar-one-20260806-p60lv6.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-07T19:00:00.000Z",
-      "summary": "It was supposed to cost $2.3 billion. But the Scott Morrison-era deal to placate Western Australia is on track to cost more than 20 times that figure.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -709,7 +732,7 @@
     {
       "title": "MCA Demands Skilled Migration Changes Be Suspended in 2026",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOU81emUxSnhLalhFc0hvaUR3X2NoT25DMk5MTUkwS0k5QzZOdHNSTlNKVnhTYXJMbkhONjlpSmdjcHktU0pTM3NPTFphNjR2NjFSUDVoUklSRzdLbGcwYTdGV3ozc3ZWM2VURUloZHlvXzl1V0pmR2pYLVoyQkxsTnQ1SnB5TGZZcGF3VnNPX2wtNmM?oc=5",
-      "source": "Discovery Alert",
+      "source": "discoveryalert.com.au",
       "publishedAt": "2026-08-07T04:54:43.000Z",
       "summary": "",
       "categories": [
@@ -775,19 +798,6 @@
       "relevant": false,
       "score": 6,
       "spicy": false
-    },
-    {
-      "title": "Australia’s $50,000 parent visa takes so long to process that applicants die waiting",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/07/australia-parent-visa-processing-applicants-die-waiting",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-06T15:00:05.000Z",
-      "summary": "Approvals can take decades – and more than 1,500 people died in a 21-month period as they waited, data shows",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": true
     },
     {
       "title": "‘Performative reductions’: Labor MPs and business groups urge Burke against sweeping immigration changes",
@@ -877,19 +887,6 @@
       "relevant": true,
       "score": 9,
       "spicy": true
-    },
-    {
-      "title": "Australia Changes Visa Processing Rules for Skilled Workers",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjFVTmZmQnI1Y2FnYzlVWFBnTVV1NVM1dmYxUWM1OVhreWRLRXNfalFfOE5yUjBoNG1uS240NkRtNm9qZW9ERWhiVXZPM2gyNElBcUhVQ3JPVUEtSmhrcUJvVW43dHlWSHJ3TWFXbjBfczN2ejJBZzhBYnhVc3hxb2JEd2ZaSnBtQmJWZFowcTBvdzFuQmtHZEVQZ9IBoAFBVV95cUxNWXBObW83YXdybExic19TM05VTmY0ZG9MX0RQcUdkTnBsaHdxTVl6X2ZkUVZTaUYweXNNX1lKU0VJWHNwQ2prZjJUNTFNaTJXU0RtMlNialllOXpnZFRrci1RZE5mTWx2VmNWcEpCeno1QkVPRU1Oei1zeENTUjBFdE5mYjRFaXJhYjdsbjE3VUZqbDJGZW5CdkZJNmc4ak9h?oc=5",
-      "source": "ProPakistani",
-      "publishedAt": "2026-08-05T09:41:43.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
     },
     {
       "title": "Coalition, One Nation accuse Labor of playing catch-up on immigration",
@@ -990,7 +987,7 @@
     {
       "title": "Australia’s skilled visa shake-up puts onshore applicants first",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVERJT1U1NFZGdTUyVzVCUTg1STJpWlhYN3VzV1NOWnNOSmtYWVpGdWs0eWMxS2R6R2RqakpaVlJpN2dkSkRnbmdaY291UHcxaXZpam9XZWZFeWxUdGR3dnpQVkJEWnAzM0R0YzhybXVsaTd0cGVJN2paOVFqNzVSOVJZcnAwZ0FHMmZVLW40QS1UZlM4NzhEUG4xQ2FtRmdnT1ZvdEFqdndYLTF3M3pTWDRYWW8zUFVy?oc=5",
-      "source": "theindiansun.com.au",
+      "source": "The Indian Sun",
       "publishedAt": "2026-08-04T06:06:35.000Z",
       "summary": "",
       "categories": [
@@ -1440,7 +1437,7 @@
     {
       "title": "1 July Changes: Australian visas and migration",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVZ2ME9od0h5aTRzLTFqTlJNWWVVTXBwOUZJd3ZQc2czWGhYb0FpUzJtdE8tVnFCNXZkZ3hMSTRFajFLa2tUai1CWHZIZ295X1VPZXVHVlgwNVFleWVYNjZPRU9hUU90cFlxSjBxVEFkV1ZjcFZkdzNteVkwOFFUZFBqaHhNSDRUdGRycFFUakFiOEctWkE?oc=5",
-      "source": "LinkedIn",
+      "source": "linkedin.com",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1479,7 +1476,7 @@
     {
       "title": "Good news! Housing is getting more and more affordable",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWMzVlFOMFdVUTlYVWNlQzRvTk1rVHlBTVdzNGxFc2pHbUpENno1U0d4V3kyT1F5QWlhR1B0elF5YXFpM201a0o3UmhtSmI4ZUFYUEpXb2Vjamtwc0hlNUJUMlQ2RkJObDhKOWZjRm1KcEpyc3l3bTlWMmdiNzRvUUV3X3k4OXlrNHZlVHpVOVdmb25VM05FWGNqU2doR2ZpcUJHU3FHWEFUWUk4WngtWmo0eXBSTWNVYXQ0?oc=5",
-      "source": "Independent Australia",
+      "source": "independentaustralia.net",
       "publishedAt": "2026-06-29T22:00:06.000Z",
       "summary": "",
       "categories": [
