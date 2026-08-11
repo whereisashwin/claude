@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-11T02:13:04.401Z",
+  "updatedAt": "2026-08-11T04:03:16.684Z",
   "count": 120,
-  "relevantCount": 59,
-  "spicyCount": 10,
+  "relevantCount": 61,
+  "spicyCount": 9,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,12 +33,16 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
+    "Australian Government Department of Health, Disability and Ageing",
     "Australian Property Update",
     "CommBank",
+    "Discovery Alert",
     "Erickson Immigration Group",
     "Expatica",
     "Fragomen",
+    "Independent Australia",
     "Khaleej Times",
+    "LinkedIn",
     "Mondaq",
     "Nomad Lawyer",
     "Property Update",
@@ -54,20 +58,55 @@
     "The Indian Sun",
     "Western Australian Government",
     "aapnews.aap.com.au",
-    "discoveryalert.com.au",
-    "independentaustralia.net",
-    "linkedin.com"
+    "theguardian.com"
   ],
   "items": [
     {
-      "title": "Australia politics live: bird flu vaccine to begin rolling out to ‘priority species’; Victoria’s new premier pauses right to work from home bill",
+      "title": "Australia news live: Taylor mounts parliamentary attack on Labor’s ‘wicked’ widow tax; RBA interest rates decision due today",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-11T02:11:47.000Z",
-      "summary": "H5 vaccine to be given to native birds in capacity as first step of bird flu countermeasures.",
+      "publishedAt": "2026-08-11T03:59:44.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Bird flu vaccine to be rolled out to vulnerable species in captivity",
+      "url": "https://www.abc.net.au/news/2026-08-11/federal-politics-agriculture-minister-bird-flu-vaccine-rollout/107023868",
+      "source": "ABC News",
+      "publishedAt": "2026-08-11T03:34:55.000Z",
+      "summary": "A vaccine will be rolled out to protect Australia's native species from the deadly H5N1 bird flu, with a focus on birds in captivity.",
       "categories": [],
       "relevant": false,
       "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Australia to give bird flu vaccines to native species most at risk",
+      "url": "https://www.smh.com.au/politics/federal/australia-to-roll-out-bird-flu-vaccines-for-wildlife-most-at-risk-20260811-p60n8p.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-11T03:33:45.000Z",
+      "summary": "The Albanese government says the first H5N1 vaccines will be administered to native animals in captivity over the coming weeks.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Children encountering extremism at 'disturbing' rate, inquiry told",
+      "url": "https://www.abc.net.au/news/2026-08-11/antisemitism-royal-commission-children-extremism-material-online/107023572",
+      "source": "ABC News",
+      "publishedAt": "2026-08-11T03:05:24.000Z",
+      "summary": "Children at an increasingly young age are engaging with violent extremist material at a \"disturbing\" rate, Australia's counter-terrorism coordinator says.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
       "spicy": false
     },
     {
@@ -82,7 +121,7 @@
       "spicy": false
     },
     {
-      "title": "Albo’s melons moment is no outrage. He’s more ‘daggy uncle’ than misogynist",
+      "title": "I’m hyper-alert to misogyny and sexism, but even this from the PM had me cackling",
       "url": "https://www.smh.com.au/politics/federal/albo-s-melons-moment-is-no-outrage-he-s-more-daggy-uncle-than-misogynist-20260811-p60n78.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-08-11T01:30:00.000Z",
@@ -115,17 +154,6 @@
       "spicy": false
     },
     {
-      "title": "Australia to roll out bird flu vaccines for wildlife most at risk",
-      "url": "https://www.smh.com.au/politics/federal/australia-to-roll-out-bird-flu-vaccines-for-wildlife-most-at-risk-20260811-p60n8p.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-11T01:07:59.000Z",
-      "summary": "The Albanese government says the first H5N1 vaccines will be administered to native animals in captivity over the coming weeks.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
       "title": "Property prices could slump by almost 15 per cent, major bank warns",
       "url": "https://www.smh.com.au/politics/federal/property-prices-could-slump-by-almost-15-per-cent-major-bank-warns-20260811-p60n7r.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -139,22 +167,11 @@
       "spicy": true
     },
     {
-      "title": "Kerry Stokes’ Southern Cross Media in the red as revenue drops",
+      "title": "Kerry Stokes’ Southern Cross Media denies sports deals driving losses",
       "url": "https://www.smh.com.au/business/companies/kerry-stokes-southern-cross-media-in-the-red-as-revenue-drops-20260811-p60n5g.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-08-11T00:27:50.000Z",
-      "summary": "The group, which owns the Seven Network, West Australian newspaper and Triple M network, said revenue dropped across television, newspapers and radio.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Potholes force cars off Calder Freeway as Victorian road anger rises",
-      "url": "https://www.abc.net.au/news/2026-08-11/potholes-calder-freeway-roads-gisborne-road-damage-drivers/107022594",
-      "source": "ABC News",
-      "publishedAt": "2026-08-10T23:49:55.000Z",
-      "summary": "Maintenance crews are patching up potholes on the Calder Freeway between Gisborne and Sunbury after at least seven cars were damaged this morning.",
+      "summary": "The group, which owns the Seven Network, The West Australian newspaper and Triple M network, says revenue dropped across television, newspapers and radio last year.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -172,30 +189,18 @@
       "spicy": false
     },
     {
-      "title": "Live: ASX opens higher as no changes expected to interest rates",
+      "title": "Live: RBA rates decision ahead, ANZ sees Sydney housing prices falling up to 14.5pc",
       "url": "https://www.abc.net.au/news/2026-08-11/reserve-bank-august-interest-rates-somp-asx-markets-blog/107021958",
       "source": "ABC News",
       "publishedAt": "2026-08-10T21:33:10.000Z",
-      "summary": "The Aussie share market opens higher as the Reserve Bank is expected to keep the cash rate steady at 4.35 per cent in August. The central bank will also release its updated economic forecasts, including the inflation, growth and unemployment outlooks.",
+      "summary": "The Reserve Bank is expected to keep the cash rate steady at 4.35 per cent in August. The central bank will also release its updated economic forecasts, including the inflation, growth and unemployment outlooks.",
       "categories": [
+        "Housing",
         "Cost of living"
       ],
       "relevant": true,
       "score": 11,
       "spicy": true
-    },
-    {
-      "title": "Why SA is holding a royal commission into AI",
-      "url": "https://www.abc.net.au/news/2026-08-11/why-is-south-australia-holding-royal-commission-into-ai/107018396",
-      "source": "ABC News",
-      "publishedAt": "2026-08-10T20:43:44.000Z",
-      "summary": "South Australia pioneered the global push to restrict children's access to social media. Could the state's royal commission into AI also lead to national policy?",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 4,
-      "spicy": false
     },
     {
       "title": "'Ah, sorry guys': Pilot's reaction after Antarctic mishap damages plane",
@@ -205,30 +210,6 @@
       "summary": "An accident that damaged an Australian-contracted aircraft in Antarctica has triggered new safety protocols on the icy continent, internal government documents show.",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Debut memoir reveals what it's really like to be a woman in her 30s today",
-      "url": "https://www.abc.net.au/news/2026-08-11/sheree-joseph-memoir-juicy-interview/107002892",
-      "source": "ABC News",
-      "publishedAt": "2026-08-10T19:04:26.000Z",
-      "summary": "Sheree Joseph always wanted to write the Great Australian Novel. Instead, her first book is a memoir about what happens when life doesn't live up to expectations.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Super experts explain ways to get your affairs in order",
-      "url": "https://www.abc.net.au/news/2026-08-11/superannuation-death-benefit-binding-non-binding-nomination-will/107016846",
-      "source": "ABC News",
-      "publishedAt": "2026-08-10T19:03:06.000Z",
-      "summary": "Millions of Australians could have no say in who inherits their superannuation. Here's how to check if you're one of them, and how to make sure your wishes are followed.",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
       "score": 4,
       "spicy": false
     },
@@ -253,19 +234,6 @@
       "relevant": false,
       "score": 4,
       "spicy": false
-    },
-    {
-      "title": "The RBA's big challenge: How to navigate a real estate downturn",
-      "url": "https://www.abc.net.au/news/2026-08-11/will-the-rba-blink-on-inflation-as-the-property-market-slows/107021878",
-      "source": "ABC News",
-      "publishedAt": "2026-08-10T18:48:35.000Z",
-      "summary": "Deflating a property bubble takes some skill, something that has escaped almost every government or central bank that has ever attempted it.",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": true
     },
     {
       "title": "Australian-first mass police AI pilot sparks concern",
@@ -372,7 +340,7 @@
       "title": "Westpac mortgage applications plunge 20pc after budget, rate hikes",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXJ0YjFhMFRiTFFtZGpmSEdUcmd2djhxX2EtQW10N0I2MF9vNktBX01WSWdRSkZlamVjVTZBemxSMmNvSFF6bXE4MUV5SC1UaXhnVWF6dEFjbm1OSFM4RzZjNi0zb1BBaXBOQml1ZS1UWkVwaFNkLWRBcElPS0JtbE43SWZsbXpGejRpOC1DQ1phREJSM2VnLVNVUVkzNDVGM0o0alVOQ1NEQ20xV0ZWSFRpV1FrbGpjWjAtUU9JaW9HVFk1?oc=5",
       "source": "AFR",
-      "publishedAt": "2026-08-10T02:38:00.000Z",
+      "publishedAt": "2026-08-10T01:33:00.000Z",
       "summary": "",
       "categories": [
         "Housing"
@@ -496,19 +464,6 @@
       "spicy": false
     },
     {
-      "title": "Business hit again by fallout from Labor’s tax changes",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcDVxVk0wYlhIUWlnOGtNeHlSYWM1ODZ6ZmJ1bUZ6azllRmZaOF9DeWJyb3hMOUJLb0JrS25Jbk9PTXJDTkhzOVZfbkZOYldMLXkwUnV4MUJ1UHZfNVh2aGVyd2dMdUgtWDlXVHBiMmRZT0NrOERkRkVGOGd5ZE96QmktNVBYR24zR0wzSnFQNDZ4UVcwcjJOdjFrLUtpY1hrZGxqYndxTHg?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-09T12:30:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Labor open to ‘sensible amendments’ on gambling reforms, minister says – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/09/bird-flu-updates-politics-reactions-sarah-hanson-young-insiders-ntwnfb",
       "source": "The Guardian",
@@ -547,17 +502,6 @@
       "source": "ABC News",
       "publishedAt": "2026-08-09T02:43:05.000Z",
       "summary": "The union representing workers at Australia's last manganese smelter says there are parties interested in taking over the site, days after the business was placed in liquidation.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Workers down tools for a second time at BHP's Port Hedland operations",
-      "url": "https://www.abc.net.au/news/2026-08-09/strikes-hit-bhp-port-hedland-operations-/107008046",
-      "source": "ABC News",
-      "publishedAt": "2026-08-09T00:51:34.000Z",
-      "summary": "Members of three unions have downed tools for 24 hours at BHP's Port Hedland operations, after a work stoppage by the Australian Workers Union a day earlier.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -732,7 +676,7 @@
     {
       "title": "MCA Demands Skilled Migration Changes Be Suspended in 2026",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOU81emUxSnhLalhFc0hvaUR3X2NoT25DMk5MTUkwS0k5QzZOdHNSTlNKVnhTYXJMbkhONjlpSmdjcHktU0pTM3NPTFphNjR2NjFSUDVoUklSRzdLbGcwYTdGV3ozc3ZWM2VURUloZHlvXzl1V0pmR2pYLVoyQkxsTnQ1SnB5TGZZcGF3VnNPX2wtNmM?oc=5",
-      "source": "discoveryalert.com.au",
+      "source": "Discovery Alert",
       "publishedAt": "2026-08-07T04:54:43.000Z",
       "summary": "",
       "categories": [
@@ -802,7 +746,7 @@
     {
       "title": "‘Performative reductions’: Labor MPs and business groups urge Burke against sweeping immigration changes",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSERoTS1HcUZtaVJaTU1vTHBFX1Z3dU5xZHRSdGxNMEpjb08zTkFVS1NtVlUzQnVyX0EzMjVIRmVwS1RaRGlNb1ZHbms3VTB6SjMyMk5GYzZ0Yl9XQjdWOUU5Z1oyREFPbG9PQ09qNkdVZnNLU1RuRnR4YjBhN1lWUktXaG45TWRkNFhaaWlSWlowMmRIX2VsODEyd01OM05pMktsWWlBUndqTGFIUGlsY3VGcW9HaGFNZDVtbENpOS1CU2U0ay1waFY2cTl0NnhDZWNhREVJVTFTZ2FIVmdLOEQ1TllMSVNCNW1kSA?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-08-06T09:09:00.000Z",
       "summary": "",
       "categories": [
@@ -904,7 +848,7 @@
     {
       "title": "Homes in Australia are now cheaper – why can’t the government sell this good news story? | Saul Eslake",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSFhiSmJSRVpwR2JGNWFQTnZqOHdtZzItb0lwYWxuT0xaZmNzSngzeURkakRIbGFwbVNNLUFlX1Yzdkt4YkwtU3NadU9BTEdxUWdWNVU4MEVQaUNzc2llLUN0aGp5a0dzR0IydGdJOFFrZjJaODIzZTJoT2g0SlpFMDh5bFl2ckNGdHpxZVRMa0ZISVpHZ0o0ZG5MUlBXUnhkMnJlVllmOVpReEU1dV9sMjV3anl3Y2x0Wmx2VHZYWUtnd3MxRjlnRU1Faw?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-08-05T05:21:00.000Z",
       "summary": "",
       "categories": [],
@@ -1437,7 +1381,7 @@
     {
       "title": "1 July Changes: Australian visas and migration",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVZ2ME9od0h5aTRzLTFqTlJNWWVVTXBwOUZJd3ZQc2czWGhYb0FpUzJtdE8tVnFCNXZkZ3hMSTRFajFLa2tUai1CWHZIZ295X1VPZXVHVlgwNVFleWVYNjZPRU9hUU90cFlxSjBxVEFkV1ZjcFZkdzNteVkwOFFUZFBqaHhNSDRUdGRycFFUakFiOEctWkE?oc=5",
-      "source": "linkedin.com",
+      "source": "LinkedIn",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1476,7 +1420,7 @@
     {
       "title": "Good news! Housing is getting more and more affordable",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWMzVlFOMFdVUTlYVWNlQzRvTk1rVHlBTVdzNGxFc2pHbUpENno1U0d4V3kyT1F5QWlhR1B0elF5YXFpM201a0o3UmhtSmI4ZUFYUEpXb2Vjamtwc0hlNUJUMlQ2RkJObDhKOWZjRm1KcEpyc3l3bTlWMmdiNzRvUUV3X3k4OXlrNHZlVHpVOVdmb25VM05FWGNqU2doR2ZpcUJHU3FHWEFUWUk4WngtWmo0eXBSTWNVYXQ0?oc=5",
-      "source": "independentaustralia.net",
+      "source": "Independent Australia",
       "publishedAt": "2026-06-29T22:00:06.000Z",
       "summary": "",
       "categories": [
@@ -1499,6 +1443,69 @@
       "relevant": true,
       "score": 5,
       "spicy": true
+    },
+    {
+      "title": "The Guardian view on royal tax secrecy: it survives King Charles’s latest disclosure | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/26/the-guardian-view-on-royal-tax-secrecy-it-survives-king-charless-latest-disclosure",
+      "source": "The Guardian",
+      "publishedAt": "2026-06-26T17:09:23.000Z",
+      "summary": "The monarch says how much he pays the Treasury but did not reveal the wealth behind it. Britain still lacks proper scrutiny of royal cash King Charles has become Britain’s first monarch in modern times to reveal how much tax he pays on his private income: £24.6m over the past two years . This is not",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "What Australia’s biggest tax overhaul in 25 years will mean for you",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXAzb3RVNWRoVHNEU05RTVJHMDcxc1RGdWlEaFNUYjhaTnRYYUk3WnA3b0pQbkQ5TF81Q0tsV3MyOE9YX2FvT1F5b2U4SVZQeWpUd21iOFc2M2o0YzlRVXlERnY2YlNsSjVHVFpkanBIZ1NHTHNxT2J5WVRzSm5MLVk1b3kyeWRwWG5YWGlxYnJURE5wRUUzaG5od2hFWjdMYWluODlid3FmcVo3eVYwNVVQdHduNVRSUktkUllDOElzZw?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "TV interview with Minister Butler, Sunrise – 26 June 2026",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObm5TUlRzZjN6Zng5VDhHT2JsLVBiQThSNUFYTWp2MkRtZ25RTGZHQWNpeDJuTGdLSUJwUW5PQV9KeXJaRXdPOTVsejJyaFBHOXJuTnVSOHp4aVN2Yl9lVWhsZGgtU0VDQ1Bla3J1TkQyQWJvU1lfZDJxcVdsLXVVSGozS0duSDVmdnZwWTlFYmM4ek9hRGxkelJTaTVzOU1NSF8tbm4xR2l3Zm0wRGdDLVlEb1pFOFlVdDE0?oc=5",
+      "source": "Australian Government Department of Health, Disability and Ageing",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "The most liveable, affordable suburbs in the property downturn",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGxrcXU3bGIwTEhMbDN0LVN1cXN2VzlzU04wSllFWjkzQWZLbndMY19ialYwNkFCeXdQcW1LbUtZM1l3em9DcjhOa3NUS3M0Qy1ZQnVkdjEzSkhaUjhPbzZhYlpIOHhaR0QtZ0d3aWVKb3M2TUJ2NjJwVERxcjI0VS1ROThpeWczaWw2WGdIZVB2akVOUExwR3pSdFJXUUpTSlhqMUdyLUpENUtHTnRNbU1UWWx5RjZxVWpv?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Hundreds of dollars extra a year for childcare after government agreed to raise fee caps",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMjNidkRQS3JOX3JRSGRMQkstSVJhTWdDckhSVmRuM2d6bVB4amw1Wm5EakVpb3BLMGdoQmgwRGJGYjBUTkw3ZW1iVVFmcFRhZ2pzRkx1VkdaNk44WERBLXd4d3p6Y1ZrSmVKSW0zbzN1bS1uc3BhQzBUelJ5elJnWERDYUlvdUt3amZNYWVyODc3UVVVcGFvNHgxbDJ0NVBxU1BOLWpSMmN4NUo1VkZNUFRBcUtlVHJfemUxSWx0X2ZtdE0zNmpSZjNXeml5bHBGcWYyQ3NYNVlUc05uZmhpN3dQRQ?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
     }
   ]
 }
