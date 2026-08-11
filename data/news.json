@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-11T21:24:03.751Z",
+  "updatedAt": "2026-08-11T22:20:05.668Z",
   "count": 120,
   "relevantCount": 51,
-  "spicyCount": 7,
+  "spicyCount": 9,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -34,7 +34,7 @@
     "AFR",
     "Discovery Alert",
     "Expatica",
-    "Fragomen",
+    "Michael West Media",
     "Mondaq",
     "Nomad Lawyer",
     "Property Update",
@@ -47,29 +47,76 @@
     "TV Blackbox",
     "The Australian",
     "The Guardian",
+    "The Indian Sun",
     "Tuko News",
     "Western Australian Government",
-    "linkedin.com",
-    "michaelwest.com.au",
+    "fragomen.com",
     "realestate.com.au",
-    "theindiansun.com.au"
+    "theguardian.com"
   ],
   "items": [
     {
-      "title": "Australia politics live: Coalition promises to simplify construction code to help speed up housing builds",
+      "title": "Australia politics live: Coalition to heavily cut net migration and shred 96% of house construction code; CBA posts bumper $11bn profit",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-11T21:22:45.000Z",
+      "publishedAt": "2026-08-11T22:18:06.000Z",
       "summary": "Policy comes as debate continues over causes of and solutions to housing issues.",
       "categories": [
+        "Visas & Migration",
         "Housing"
       ],
       "relevant": true,
+      "score": 11,
+      "spicy": true
+    },
+    {
+      "title": "CBA profits hit $11 billion, home loan applications slump",
+      "url": "https://www.smh.com.au/business/banking-and-finance/cba-profits-hit-11-billion-dividend-raised-20260811-p60nbn.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-11T21:59:56.000Z",
+      "summary": "Chief executive Matt Comyn said the Australian economy was resilient, helped by low unemployment and solid investment, though growth was slowing due to higher interest rates and inflation.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 9,
+      "spicy": true
+    },
+    {
+      "title": "Live: CBA reports $10.9b profit, home loan applications down 15pc since May",
+      "url": "https://www.abc.net.au/news/2026-08-12/asx-markets-business-live-news/107025982",
+      "source": "ABC News",
+      "publishedAt": "2026-08-11T21:47:28.000Z",
+      "summary": "The nation's second-largest company Commonwealth Bank has announced a $10.9 billion full-year profit. The Australian share market will start its day lower on fading optimism about the Strait of Hormuz reopening soon.",
+      "categories": [],
+      "relevant": false,
+      "score": 9,
+      "spicy": false
+    },
+    {
+      "title": "After 80 years of dairying, no-one wants this farm's milk.",
+      "url": "https://www.abc.net.au/news/rural/2026-08-12/dairy-farmer-loses-supply-contract/107023390",
+      "source": "ABC News",
+      "publishedAt": "2026-08-11T21:36:48.000Z",
+      "summary": "Despite Queensland importing half its milk, Jason Rozynski fears he will have to slaughter his 600 cows if a processor won't buy his milk.",
+      "categories": [],
+      "relevant": false,
       "score": 4,
       "spicy": false
     },
     {
-      "title": "Live: Coalition demands AFP look at leaked melon gaffe correspondence",
+      "title": "New partnership hopes DNA will help solve First Nations cold cases",
+      "url": "https://www.abc.net.au/news/2026-08-12/new-global-first-partnership-to-shed-light-on-missing-persons/106999426",
+      "source": "ABC News",
+      "publishedAt": "2026-08-11T21:33:28.000Z",
+      "summary": "Cutting edge forensic science could help shine new light on current First Nations cold cases across Australia.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Live: Coalition demands AFP look into leaked melon gaffe correspondence",
       "url": "https://www.abc.net.au/news/2026-08-12/federal-politics-live-blog-august-12/107026630",
       "source": "ABC News",
       "publishedAt": "2026-08-11T21:00:07.000Z",
@@ -80,22 +127,11 @@
       "spicy": false
     },
     {
-      "title": "Peaking inside the industrial kitchens cooking 80,000 meals for the troops",
+      "title": "Inside the industrial kitchens cooking 80,000 meals for air force personnel",
       "url": "https://www.abc.net.au/news/2026-08-12/exercise-pitch-black-darwin-mess-hall-cooks-keeping-troops-fed/107023014",
       "source": "ABC News",
       "publishedAt": "2026-08-11T20:54:56.000Z",
       "summary": "More than 80 chefs from around the world have cooked a staggering 80,000 meals in just three weeks, serving thousands of international military visitors to Darwin for Australia's largest aviation combat training activity — Exercise Pitch Black.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "The issue with South Australia's AI royal commission",
-      "url": "https://www.abc.net.au/news/2026-08-12/sa-ai-royal-commission-has-prompted-questions-from-critics/107024532",
-      "source": "ABC News",
-      "publishedAt": "2026-08-11T20:12:51.000Z",
-      "summary": "South Australia's royal commission into artificial intelligence is Premier Peter Malinauskas's latest foray into a national issue. There's no guarantee of success, writes state political reporter Thomas Kelsall.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -107,17 +143,6 @@
       "source": "ABC News",
       "publishedAt": "2026-08-11T19:53:47.000Z",
       "summary": "The number of female head coaches in Australian high performance sport has seen a massive increase over the past four years, but significant institutional and cultural barriers remain.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "VIP gambling perks targeted as Labor, Coalition edge toward deal",
-      "url": "https://www.abc.net.au/news/2026-08-12/labor-coalition-talks-on-proposed-gambling-restriction-laws/107026046",
-      "source": "ABC News",
-      "publishedAt": "2026-08-11T19:00:53.000Z",
-      "summary": "Labor and the Coalition have held a second round of \"constructive\" talks on the federal government's proposal to restrict gambling advertising, making a major party deal likely.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -148,17 +173,6 @@
       "spicy": false
     },
     {
-      "title": "Beloved 'Little Blue Boat' brought back from the brink by volunteers",
-      "url": "https://www.abc.net.au/news/2026-08-12/little-blue-boat-sea-breeze-restored-franklin-tasmania/107023366",
-      "source": "ABC News",
-      "publishedAt": "2026-08-11T18:44:30.000Z",
-      "summary": "For years, the 'Little Blue Boat' had a special place in the hearts of many in Hobart, until a storm nearly sank it for good. Now, after much hard work, this icon of southern Tasmania is ready for the water again.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "One census question artificially inflates Australia's home ownership rate",
       "url": "https://www.abc.net.au/news/2026-08-12/home-ownership-rate-lower-in-reality-australia-census/107009168",
       "source": "ABC News",
@@ -185,7 +199,7 @@
       "url": "https://www.theguardian.com/australia-news/commentisfree/2026/aug/12/malcolm-in-the-middle-what-can-labor-learn-from-turnbulls-doomed-attempt-to-govern-from-the-centre",
       "source": "The Guardian",
       "publishedAt": "2026-08-11T15:00:04.000Z",
-      "summary": "Ten years after my first Essential column for the Guardian, another centrist government is confronting a global bin fire in the face of a resurgence of populism",
+      "summary": "Ten years after my first Essential column for the Guardian, another centrist government is confronting a global bin fire in the face of a resurgence of populism I wrote my first column for Guardian Australia in August 2016, when the winds of chaos were sweeping the globe, the forces of division were",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -236,7 +250,18 @@
       "summary": "Sussan Ley left Australia after being ousted as Coalition leader. Her trip to the US saw her find an enhanced pride in the success of Australian multiculturalism.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "NSW and Queensland on verge of rating cut after hit to stamp duty",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHhRejBfS2Vwa1BpZHpFNWczMmpHSEt1QjNQQ3FmZzFRQkZJQ3E0eGJ1V2dPcFR0VE9aVjNZMHNaRmhJNE9PSDdheHNxMnpTQ3oySzBhU0tQRjRGWlFsX3NhdDY2ZDBsVk1Kby1UdjkzczFhVDZJdE01RldUN3dab3NIc1o2UktyNmc4QUhMalJIa1BHOFJONTJfMjNWVTMwME5sWVA3dEFDNW1uc05qTUwxTG56RTh0UFBvY0RSZw?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 5,
       "spicy": false
     },
     {
@@ -248,6 +273,17 @@
       "categories": [],
       "relevant": false,
       "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "The RBA's best guess is that it's done hiking interest rates",
+      "url": "https://www.abc.net.au/news/2026-08-11/rba-believes-it-is-done-hiking-interest-rates/107025716",
+      "source": "ABC News",
+      "publishedAt": "2026-08-11T08:42:58.000Z",
+      "summary": "If the Reserve Bank's economic forecasts are right, then the governor says it is done raising interest rates. But the risks of it being wrong are skewed towards another hike.",
+      "categories": [],
+      "relevant": false,
+      "score": 9,
       "spicy": false
     },
     {
@@ -623,17 +659,6 @@
       "spicy": false
     },
     {
-      "title": "Sydney Airport near miss 'could have been far more serious', ATSB boss says",
-      "url": "https://www.abc.net.au/news/2026-08-10/sydney-airport-near-miss-catherine-king-airservices-staff/107014408",
-      "source": "ABC News",
-      "publishedAt": "2026-08-09T21:56:33.000Z",
-      "summary": "Australian Transport Safety Bureau's Chief Commissioner Angus Mitchell says pilots who avoided a near miss at Sydney Airport on Sunday morning \"prevented what could have been far more serious\".",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Multicultural grants brawl: Coalition accuses Labor of funding ‘ghettoisation’",
       "url": "https://www.smh.com.au/politics/federal/multicultural-grants-brawl-coalition-accuses-labor-of-funding-ghettoisation-20260807-p60mfd.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -690,17 +715,6 @@
       ],
       "relevant": true,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "NSW and Queensland on verge of rating cut after hit to stamp duty",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHhRejBfS2Vwa1BpZHpFNWczMmpHSEt1QjNQQ3FmZzFRQkZJQ3E0eGJ1V2dPcFR0VE9aVjNZMHNaRmhJNE9PSDdheHNxMnpTQ3oySzBhU0tQRjRGWlFsX3NhdDY2ZDBsVk1Kby1UdjkzczFhVDZJdE01RldUN3dab3NIc1o2UktyNmc4QUhMalJIa1BHOFJONTJfMjNWVTMwME5sWVA3dEFDNW1uc05qTUwxTG56RTh0UFBvY0RSZw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-09T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
       "spicy": false
     },
     {
@@ -848,7 +862,7 @@
     {
       "title": "Tax changes get tick of approval from ratings agency",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWJ2c1pHVHdRVVhRRTNiOEloR2VVSGtFRFBUaGF2SDE1dHMwVkJEOHd0emdfaDFwd2J0TFVXQk91TnI3dkFpa3RHX0ZZSWx0X1JpcEtaRVJEVjRScUxXY3I1SVlSQUM0d2RqT3k4cnQ1WHJQck40SkZqRjZUWXFRc2thUnRtalU?oc=5",
-      "source": "michaelwest.com.au",
+      "source": "Michael West Media",
       "publishedAt": "2026-08-06T19:13:04.000Z",
       "summary": "",
       "categories": [
@@ -861,7 +875,7 @@
     {
       "title": "‘Performative reductions’: Labor MPs and business groups urge Burke against sweeping immigration changes",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSERoTS1HcUZtaVJaTU1vTHBFX1Z3dU5xZHRSdGxNMEpjb08zTkFVS1NtVlUzQnVyX0EzMjVIRmVwS1RaRGlNb1ZHbms3VTB6SjMyMk5GYzZ0Yl9XQjdWOUU5Z1oyREFPbG9PQ09qNkdVZnNLU1RuRnR4YjBhN1lWUktXaG45TWRkNFhaaWlSWlowMmRIX2VsODEyd01OM05pMktsWWlBUndqTGFIUGlsY3VGcW9HaGFNZDVtbENpOS1CU2U0ay1waFY2cTl0NnhDZWNhREVJVTFTZ2FIVmdLOEQ1TllMSVNCNW1kSA?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-08-06T09:09:00.000Z",
       "summary": "",
       "categories": [
@@ -950,7 +964,7 @@
     {
       "title": "Homes in Australia are now cheaper – why can’t the government sell this good news story? | Saul Eslake",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSFhiSmJSRVpwR2JGNWFQTnZqOHdtZzItb0lwYWxuT0xaZmNzSngzeURkakRIbGFwbVNNLUFlX1Yzdkt4YkwtU3NadU9BTEdxUWdWNVU4MEVQaUNzc2llLUN0aGp5a0dzR0IydGdJOFFrZjJaODIzZTJoT2g0SlpFMDh5bFl2ckNGdHpxZVRMa0ZISVpHZ0o0ZG5MUlBXUnhkMnJlVllmOVpReEU1dV9sMjV3anl3Y2x0Wmx2VHZYWUtnd3MxRjlnRU1Faw?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-08-05T05:21:00.000Z",
       "summary": "",
       "categories": [],
@@ -1033,7 +1047,7 @@
     {
       "title": "Australia’s skilled visa shake-up puts onshore applicants first",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVERJT1U1NFZGdTUyVzVCUTg1STJpWlhYN3VzV1NOWnNOSmtYWVpGdWs0eWMxS2R6R2RqakpaVlJpN2dkSkRnbmdaY291UHcxaXZpam9XZWZFeWxUdGR3dnpQVkJEWnAzM0R0YzhybXVsaTd0cGVJN2paOVFqNzVSOVJZcnAwZ0FHMmZVLW40QS1UZlM4NzhEUG4xQ2FtRmdnT1ZvdEFqdndYLTF3M3pTWDRYWW8zUFVy?oc=5",
-      "source": "theindiansun.com.au",
+      "source": "The Indian Sun",
       "publishedAt": "2026-08-04T06:06:35.000Z",
       "summary": "",
       "categories": [
@@ -1209,7 +1223,7 @@
     {
       "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
-      "source": "Fragomen",
+      "source": "fragomen.com",
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1222,7 +1236,7 @@
     {
       "title": "Minimum Salary Changes Announced",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
-      "source": "Fragomen",
+      "source": "fragomen.com",
       "publishedAt": "2026-07-21T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1462,19 +1476,6 @@
       "summary": "",
       "categories": [
         "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "1 July Changes: Australian visas and migration",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVZ2ME9od0h5aTRzLTFqTlJNWWVVTXBwOUZJd3ZQc2czWGhYb0FpUzJtdE8tVnFCNXZkZ3hMSTRFajFLa2tUai1CWHZIZ295X1VPZXVHVlgwNVFleWVYNjZPRU9hUU90cFlxSjBxVEFkV1ZjcFZkdzNteVkwOFFUZFBqaHhNSDRUdGRycFFUakFiOEctWkE?oc=5",
-      "source": "linkedin.com",
-      "publishedAt": "2026-07-01T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
       ],
       "relevant": true,
       "score": 0,
