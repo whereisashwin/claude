@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-12T00:08:32.470Z",
+  "updatedAt": "2026-08-12T03:06:21.346Z",
   "count": 120,
   "relevantCount": 50,
-  "spicyCount": 8,
+  "spicyCount": 9,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,15 +33,15 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Discovery Alert",
-    "Expatica",
     "Fragomen",
+    "MacroBusiness",
+    "Michael West Media",
     "Mondaq",
-    "Nomad Lawyer",
+    "News.com.au",
     "Property Update",
-    "PwC Australia",
     "Queensland Country Life",
     "SMH.com.au",
-    "Shiksha.com",
+    "Shiksha",
     "Study International",
     "Sydney Morning Herald",
     "TV Blackbox",
@@ -50,22 +50,113 @@
     "The Indian Sun",
     "Tuko News",
     "Western Australian Government",
-    "michaelwest.com.au",
+    "fundsforNGOs",
     "realestate.com.au"
   ],
   "items": [
     {
-      "title": "Australia politics live: Tim Wilson questions energy efficiency standards for housing, saying ‘some people call it putting a jumper on’",
+      "title": "Australia politics live: Acoss warns Coalition plan to strip home energy efficiency standards could lock in high power bills and ‘deepen inequality’",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-12T00:05:31.000Z",
-      "summary": "Coalition promises to drastically cut net overseas migration and housing construction code.",
+      "publishedAt": "2026-08-12T03:03:01.000Z",
+      "summary": "",
       "categories": [
-        "Visas & Migration",
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Emergency rescue deal secured for nation’s biggest aluminium smelter",
+      "url": "https://www.smh.com.au/business/the-economy/emergency-rescue-deal-secured-for-nation-s-biggest-aluminium-smelter-20260812-p60nn1.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-12T02:21:35.000Z",
+      "summary": "Australia’s biggest aluminium smelter is set to receive a major bailout package following long-running crisis talks with the federal and NSW governments.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Commonwealth water policy blamed for loss of 78 jobs at rice giant",
+      "url": "https://www.abc.net.au/news/2026-08-12/sunrice-riverina-job-cuts/107026752",
+      "source": "ABC News",
+      "publishedAt": "2026-08-12T02:02:55.000Z",
+      "summary": "After a month of consultation with staff and unions, SunRice has confirmed the loss of 78 jobs and changes to 92 positions in the Riverina, with the local council pointing the finger at water buybacks.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "When CBA chief expects first-home buyers to return",
+      "url": "https://www.smh.com.au/business/banking-and-finance/cba-profits-hit-11-billion-dividend-raised-20260811-p60nbn.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-12T01:53:01.000Z",
+      "summary": "Commonwealth Bank chief executive Matt Comyn reported a 15 per cent drop in mortgage lending since the budget but expects demand for property to pick up once interest rate cuts are looming.",
+      "categories": [
         "Housing"
       ],
       "relevant": true,
-      "score": 8,
+      "score": 13,
+      "spicy": true
+    },
+    {
+      "title": "Coalition backs Hanson on foreign fighters despite Howard’s plea to counter One Nation",
+      "url": "https://www.smh.com.au/politics/federal/coalition-backs-hanson-on-foreign-fighters-despite-howard-s-plea-to-counter-one-nation-20260812-p60nkt.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-12T01:25:08.000Z",
+      "summary": "The opposition wants an inquiry on One Nation’s ploy to keep terror-linked Australians out, despite not having the numbers to set one up and previously vowing to fight the party.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Pauline Hanson interviewed by far-right influencer who is now a One Nation member",
+      "url": "https://www.smh.com.au/politics/federal/pauline-hanson-interviewed-by-far-right-influencer-who-is-now-a-one-nation-member-20260807-p60mfi.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-12T01:24:37.000Z",
+      "summary": "The far-right influencer has mixed with neo-Nazis, and enjoys sponsorship from a bookstore selling Adolf Hitler texts. He is also now a One Nation member.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Commonwealth Bank home loan applications fall 15pc since May, profit up to $10.9b",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDdQRW5rSnhjeGdrMEFNeGJmZ1hwSm91OU1pNFg3U011ZlJIUUtiWFhNbjVUMUxhN2ZRY2pzVkRIRDZNeFFvZUt0LVF4WjIxRndsNFVicm04QkV2eE5LcERiWTdnaW85alZzTF92b29yRjBOQ2laZ3ppcTU1ZmptZzlBRUZ0bGl3cmhJRmdvNWdfdmp6MnBwVGRrVXg?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-12T01:16:55.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 9,
+      "spicy": false
+    },
+    {
+      "title": "CBA home loan applications plunge following federal budget",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2NiVXVPTUVhSmx6Vnl4dDd5eFhoN0J1WEtMU1h1RjB1aW9JZUdkekwzU2pVUTI2S05EOGFnaDBmNHJLWXc0TzVkWWt6MkFQSGxKSVkxVlVRODFudFlTejRNb2JWZzJGT1RwekZEbEtIMFRmU3dXYnJsQzJpczBhLUxsZFlSZ01Vdk52YUZxU3gxT2xDdVVuMi1iQkJiNmJTQnc?oc=5",
+      "source": "MacroBusiness",
+      "publishedAt": "2026-08-12T01:04:42.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 1,
+      "spicy": false
+    },
+    {
+      "title": "Commonwealth Bank home loan applications fall 15pc since May",
+      "url": "https://www.abc.net.au/news/2026-08-12/commonwealth-bank-profit-home-loan-applications/107026850",
+      "source": "ABC News",
+      "publishedAt": "2026-08-12T00:16:34.000Z",
+      "summary": "Australia's largest home lender, the Commonwealth Bank, has seen home loan applications tumble 15 per cent since May, after three interest rate hikes and the federal budget's tax changes.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 13,
       "spicy": true
     },
     {
@@ -91,17 +182,6 @@
       "spicy": false
     },
     {
-      "title": "Everything you need to know as Australia hosts Bangladesh in the Top End",
-      "url": "https://www.abc.net.au/news/2026-08-12/australia-vs-bangladesh-test-series-when-it-is-where-is-it/107017264",
-      "source": "ABC News",
-      "publishedAt": "2026-08-11T23:17:44.000Z",
-      "summary": "Winter cricket gets underway in the Top End this week as Australia welcomes Bangladesh to Darwin and Mackay for a two-Test series. Here's everything you need to know.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
       "title": "Male redback's bizarre death somersault during sex is in its genes",
       "url": "https://www.abc.net.au/news/science/2026-08-12/redback-spiders-backflip-katipo-sex/107022976",
       "source": "ABC News",
@@ -113,11 +193,24 @@
       "spicy": false
     },
     {
-      "title": "Live: CBA reports $10.9b profit, home loan applications down 15pc since May",
+      "title": "Apply for Affordable and Diverse Housing Fund (Australia)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ084enh3QkJFLUMtTzlfR2Jidl84VjBCQkpUOU9wTmtDeUtEZVdwZzJDYUlkM0RzU242LXJEQkt4dnJrQ2Nmd0liZEV4NEkyaTV1UzlpdlJXbl9JY1kybldORmhwaEJ1VVhJbk9DRk9KeG51NlNYQ0lSbVgyei1ZWU1QVmJWSXZzdGlFc3pOdEtSNTRrcXE5VHVSWnpRckXSAaQBQVVfeXFMUFBZTlVsTVFUR2lRcG1NbkxraEtJWmFjTVozNnJhNkI2eTllSDBqalc2bHpNcXI2LVQ3SmxBdFFSZ2xpN2ttcVozLWp2TTEyU2ppdTJSNUo2Tm5UYm9PdHVBZUhneVc2QkdhMFFkZUtfSV9NYkxCTHpjRjhoY1FQQUpvRU9CSzV3ajNmRExwWXpHSVN6SWNOZmloVkhRT08yYWdLbGw?oc=5",
+      "source": "fundsforNGOs",
+      "publishedAt": "2026-08-11T22:50:06.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 1,
+      "spicy": false
+    },
+    {
+      "title": "Live: ASX drops, CBA beats expectations with $10.9b profit",
       "url": "https://www.abc.net.au/news/2026-08-12/asx-markets-business-live-news/107025982",
       "source": "ABC News",
       "publishedAt": "2026-08-11T21:47:28.000Z",
-      "summary": "The nation's second-largest company Commonwealth Bank has announced a $10.9 billion full-year profit. The Australian share market will start its day lower on fading optimism about the Strait of Hormuz reopening soon.",
+      "summary": "The nation's second-largest company Commonwealth Bank has announced a $10.9 billion full-year profit. The Australian share market is trading lower on fading optimism about the Strait of Hormuz reopening soon.",
       "categories": [],
       "relevant": false,
       "score": 9,
@@ -157,17 +250,6 @@
       "spicy": false
     },
     {
-      "title": "More elite women coaches not enough to dispel 'misogynistic' behaviour",
-      "url": "https://www.abc.net.au/news/2026-08-12/women-coaches-increase-ais-report-barriers-remain/107026070",
-      "source": "ABC News",
-      "publishedAt": "2026-08-11T19:53:47.000Z",
-      "summary": "The number of female head coaches in Australian high performance sport has seen a massive increase over the past four years, but significant institutional and cultural barriers remain.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Australia’s voters are now split three ways, but not by party",
       "url": "https://www.smh.com.au/politics/federal/australia-s-voters-are-now-split-three-ways-but-not-by-party-20260811-p60nc2.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -192,22 +274,22 @@
       "spicy": false
     },
     {
-      "title": "One census question artificially inflates Australia's home ownership rate",
-      "url": "https://www.abc.net.au/news/2026-08-12/home-ownership-rate-lower-in-reality-australia-census/107009168",
+      "title": "Beloved 'Little Blue Boat' brought back from the brink by volunteers",
+      "url": "https://www.abc.net.au/news/2026-08-12/little-blue-boat-sea-breeze-restored-franklin-tasmania/107023366",
       "source": "ABC News",
-      "publishedAt": "2026-08-11T18:41:32.000Z",
-      "summary": "The single census question that inflates home ownership by more than a quarter.",
+      "publishedAt": "2026-08-11T18:44:30.000Z",
+      "summary": "For years, the 'Little Blue Boat' had a special place in the hearts of many in Hobart, until a storm nearly sank it for good. Now, after much hard work, this icon of southern Tasmania is back on the water again.",
       "categories": [],
       "relevant": false,
       "score": 4,
       "spicy": false
     },
     {
-      "title": "'There's a paradox': Aussie wildflowers’ complex relationship with fire",
-      "url": "https://www.abc.net.au/news/science/2026-08-12/australian-flowers-love-hate-relationship-with-fire-heating-up/106732114",
+      "title": "One census question artificially inflates Australia's home ownership rate",
+      "url": "https://www.abc.net.au/news/2026-08-12/home-ownership-rate-lower-in-reality-australia-census/107009168",
       "source": "ABC News",
-      "publishedAt": "2026-08-11T18:30:00.000Z",
-      "summary": "Many of Australia's floral species have evolved over millions of years alongside fire, but are bushfires becoming too frequent for some flowers to survive?",
+      "publishedAt": "2026-08-11T18:41:32.000Z",
+      "summary": "The single census question that inflates home ownership by more than a quarter.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -221,7 +303,7 @@
       "summary": "Ten years after my first Essential column for the Guardian, another centrist government is confronting a global bin fire in the face of a resurgence of populism I wrote my first column for Guardian Australia in August 2016, when the winds of chaos were sweeping the globe, the forces of division were",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -234,7 +316,7 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -247,7 +329,7 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -258,7 +340,7 @@
       "summary": "The federal opposition is demanding a police investigation into the apparent leaking of a diplomatic note sent by the Japanese government, after details of the note were published.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -267,6 +349,17 @@
       "source": "ABC News",
       "publishedAt": "2026-08-11T10:06:55.000Z",
       "summary": "Sussan Ley left Australia after being ousted as Coalition leader. Her trip to the US saw her find an enhanced pride in the success of Australian multiculturalism.",
+      "categories": [],
+      "relevant": false,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "NSW and Queensland on verge of rating cut after hit to stamp duty",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHhRejBfS2Vwa1BpZHpFNWczMmpHSEt1QjNQQ3FmZzFRQkZJQ3E0eGJ1V2dPcFR0VE9aVjNZMHNaRmhJNE9PSDdheHNxMnpTQ3oySzBhU0tQRjRGWlFsX3NhdDY2ZDBsVk1Kby1UdjkzczFhVDZJdE01RldUN3dab3NIc1o2UktyNmc4QUhMalJIa1BHOFJONTJfMjNWVTMwME5sWVA3dEFDNW1uc05qTUwxTG56RTh0UFBvY0RSZw?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "summary": "",
       "categories": [],
       "relevant": false,
       "score": 5,
@@ -507,17 +600,6 @@
       "spicy": false
     },
     {
-      "title": "Kerry Stokes’ Southern Cross Media denies sports deals driving losses",
-      "url": "https://www.smh.com.au/business/companies/kerry-stokes-southern-cross-media-in-the-red-as-revenue-drops-20260811-p60n5g.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-11T00:27:50.000Z",
-      "summary": "The group, which owns the Seven Network, The West Australian newspaper and Triple M network, says revenue dropped across television, newspapers and radio last year.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "RBA forecasts paint more upbeat picture as interest rates on hold — as it happened",
       "url": "https://www.abc.net.au/news/2026-08-11/reserve-bank-august-interest-rates-somp-asx-markets-blog/107021958",
       "source": "ABC News",
@@ -536,17 +618,6 @@
       "source": "ABC News",
       "publishedAt": "2026-08-10T19:50:28.000Z",
       "summary": "An accident that damaged an Australian-contracted aircraft in Antarctica has triggered new safety protocols on the icy continent, internal government documents show.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "‘Breaking point’: Insiders say Australia’s air traffic control system is still a ‘boys’ club’",
-      "url": "https://www.smh.com.au/business/companies/breaking-point-insiders-say-australia-s-air-traffic-control-system-is-still-a-boys-club-20260810-p60mzn.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-10T19:00:00.000Z",
-      "summary": "Former employees and insiders say there is a deeper reason for the delays and dysfunction at Australia’s airports.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -645,30 +716,6 @@
       "spicy": false
     },
     {
-      "title": "Gold hunters follow history books with 'distrust' of World Heritage",
-      "url": "https://www.abc.net.au/news/2026-08-10/goldfields-world-heritage-bid-gold-rush-prospectors-fears/106993404",
-      "source": "ABC News",
-      "publishedAt": "2026-08-09T22:01:18.000Z",
-      "summary": "Victorian prospectors say they fear further regulations could follow if the state's historic goldfields receive World Heritage status.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Multicultural grants brawl: Coalition accuses Labor of funding ‘ghettoisation’",
-      "url": "https://www.smh.com.au/politics/federal/multicultural-grants-brawl-coalition-accuses-labor-of-funding-ghettoisation-20260807-p60mfd.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-09T19:30:00.000Z",
-      "summary": "A clash over border controls and diversity is heating up as Anthony Albanese tries to balance support for migrant communities with demands to tighten the overseas intake.",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "As gambling reforms face pressure from all sides, will Labor hold ’em, fold ’em or walk away? | Josh Butler",
       "url": "https://www.theguardian.com/australia-news/2026/aug/10/as-gambling-reforms-face-pressure-from-all-sides-will-labor-hold-em-fold-em-or-walk-away",
       "source": "The Guardian",
@@ -715,17 +762,6 @@
       "spicy": false
     },
     {
-      "title": "NSW and Queensland on verge of rating cut after hit to stamp duty",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHhRejBfS2Vwa1BpZHpFNWczMmpHSEt1QjNQQ3FmZzFRQkZJQ3E0eGJ1V2dPcFR0VE9aVjNZMHNaRmhJNE9PSDdheHNxMnpTQ3oySzBhU0tQRjRGWlFsX3NhdDY2ZDBsVk1Kby1UdjkzczFhVDZJdE01RldUN3dab3NIc1o2UktyNmc4QUhMalJIa1BHOFJONTJfMjNWVTMwME5sWVA3dEFDNW1uc05qTUwxTG56RTh0UFBvY0RSZw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-09T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Labor open to ‘sensible amendments’ on gambling reforms, minister says – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/09/bird-flu-updates-politics-reactions-sarah-hanson-young-insiders-ntwnfb",
       "source": "The Guardian",
@@ -744,6 +780,19 @@
       "summary": "Sources say Albanese government willing to tighten rules on betting inducements but less likely to budge on TV and online advertisements",
       "categories": [],
       "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Huge Aussie housing claim obliterated",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNzV6RndPVnU4WlNzUHVkdm9Oc0YtUGdVNzRvMFo2NkU5NFExd0hPNGxHM3ZIS3pNTUNLbXpybGc0dW8zQ2lta2gzNERRSk5ZM1pQTmtNTlVxQTQzMmhaNnBQR3RIcU01UUQ3azFQbERTSDhRWHdVamRLaHAwT2RkMS1KSGxRUkpES2l6OWNSSFBieFdUMGdLT2pIVWcwUEVQSjUzUlpfT01Vb0Z5eWN0T193Q1kwMVlibnJYZTIwaE9LdkV0eGNkWkg4UTB1Xzg1THJ6amRVanRyckVkdm1UbWlOY2JBMDFEWjZpd2p4Q3fSAfYBQVVfeXFMTm43bjFxLUswYnAwYmZCUFk5cnY4cTl0VFNObG5JM3Nxc0cwb1lQTGk0dnlRckZlb3JfVTBnRGFRakZ4TjQ3WTI4U0tCbk1YdG81VnNWR3AwTkVRcTNENmM1QWppX0hnYTYzbE5hODNncnJqS3piZ0lHelNLdVAzX1RzQ3BVVGZiQzFnaGVURmdNYjlZeEpKamxHLW1wUTlIUTdtOFRTcW1haEx3YXNrSnJQckYzb1p2REI0bmFKZDZWdFlCNlZUbmZBNk1kckhVck5JS2ZCdHdsSlh2TWxlUUd3MnVCQ25fbzY0Ym9VRHVtVmF6dmtB?oc=5",
+      "source": "News.com.au",
+      "publishedAt": "2026-08-09T03:37:12.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
       "score": 3,
       "spicy": false
     },
@@ -859,7 +908,7 @@
     {
       "title": "Tax changes get tick of approval from ratings agency",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWJ2c1pHVHdRVVhRRTNiOEloR2VVSGtFRFBUaGF2SDE1dHMwVkJEOHd0emdfaDFwd2J0TFVXQk91TnI3dkFpa3RHX0ZZSWx0X1JpcEtaRVJEVjRScUxXY3I1SVlSQUM0d2RqT3k4cnQ1WHJQck40SkZqRjZUWXFRc2thUnRtalU?oc=5",
-      "source": "michaelwest.com.au",
+      "source": "Michael West Media",
       "publishedAt": "2026-08-06T19:13:04.000Z",
       "summary": "",
       "categories": [
@@ -1106,6 +1155,20 @@
       "spicy": false
     },
     {
+      "title": "Why the Federal Budget’s Tax Changes Could Freeze the Property Market – And Why I Think They Won’t Last",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVFQcXRfUHh1V0c1N3gwV3h1NGdjQUFSaXZibVIzeDZaMm9sTXF6SGhQa3ZlcDdSUUVHM3BiYmhyMHd4eXBuaEx0U2o1LVZRcmFpWmk4U2w0eDI4Yzk2MzZRRWt1a01VckhUSFktM29WZmhMbWh2clc0SjJUSEtGT3d6ang4cHpiMUQ0OFVCVk9uN3N6X1hZdVZjeHRoekJLbjVxcHoxbnhZU0lxMnZGNkd3UHdJS2NGWnk3S2p6Uy1HbmdUaUpoSmh3?oc=5",
+      "source": "Property Update",
+      "publishedAt": "2026-08-01T00:35:28.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
       "title": "Adani to pay no company tax despite $1bn revenue from Queensland coalmine",
       "url": "https://www.theguardian.com/business/2026/aug/01/adani-to-pay-no-company-tax-despite-1bn-revenue-from-queensland-coalmine",
       "source": "The Guardian",
@@ -1132,7 +1195,7 @@
     {
       "title": "Minimum PTE Score Required for Australia PR in 2026-27",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVpGYkFGTlpRb3FVZndGSmtJeUFaRWxFWi1ZNXh6dlZSTjN2WjB5aWdDYTR4aVo0Rmc1ZWJuVjQ2MTZha3JFa0xsNEhvNk5xX3lFeUFXeDJGcFhCZXpzUW9fNEg4Tm1WcjJwTWppS2JvZzNLSUYtcjM3TjNHdmxiYThZY2k3Zw?oc=5",
-      "source": "Shiksha.com",
+      "source": "Shiksha",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1239,6 +1302,17 @@
       "categories": [],
       "relevant": false,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Budget improves by billions, but petrol pain about to grow",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjMyN1R5OTJoeU1ySDRXRzRqbDlLYmNISktIRDV3UmFjQUM0Zkk4LVhzUVNvUWFRNktjdXBOVTd6V2tEdXpPcWt2UlJKYkNOYTlwRUFzcGwwWkVuZ0ZhZHBUdV8tZ2VxZU9XamU1QXpaM1ZrQWNhNllUSWVMT1AybHgycnZ3UzBtSk9JaDJ2WXZoZ3NQWm1oU2VLdXBhRVhLU0JxVTlsY1JjYnYwVjBWa094YjMyNGlXc3c?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-07-20T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 2,
       "spicy": false
     },
     {
@@ -1396,80 +1470,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHZ4eU9PU19oaWlrczBGeFQ3bzEyUzVfeWoyczRUazNRMW91QWlBbGhtSXo0bkNVTWRYdWVZWmF6UGRQM2xYNHRvaS1VY29VT2h0RmxrMkxCWkFsa21rWnFGc2wxckRsdWxzQmlxMVdGeVdxWUtIRl9Yak5IbTUtVFlva21yblZRaUlXWEYzT1ZocHdqN2lyZFJ0cElDX0wySk1WY21DUlM?oc=5",
       "source": "realestate.com.au",
       "publishedAt": "2026-07-08T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Do Australians really want more affordable housing?",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUFHZVNTS2o5c1hYemFGeG5VQXlVY1BEZ0gyWG1RYzBucmFZSi1GU0NVaGw4VFQ2cVRNY1p2QldIR25sSWFfYkFaV0lWdHMxa09OaXVYaEZKTS1nRzZrSTI3UzVxQjl1YXpGMnlpRUxTSEJBWjZ4WG9vYV80ZkJJTmNpT25ja2NF?oc=5",
-      "source": "Property Update",
-      "publishedAt": "2026-07-04T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Australia, US, Japan, Vietnam Visa Changes July 2026: New Fees, Income Thresholds, Health Checks Explained",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ29yaWMzTHhuR291bk9KTEkzSk1TRmZ0WUVUYl9jZHZwMGxoRWZYOUdqUTFsYVNmeXB2U1hlMGV0ZUwzMUwwbXFLWENBcGtxOG9NOEVROTk4TEdPNTNlemJXNkI3Z1RDaUFrOXIzMXlRRjVyUDZHWV9xc3FpYmppWWRmV3hmdzBtU1VFUEJ6RVVtOFV5eDVuenBRWTJDQko4SzJKLTljejkycE0?oc=5",
-      "source": "Nomad Lawyer",
-      "publishedAt": "2026-07-04T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "PM and treasurer want to eat the pie themselves, not grow it for all",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkJDZWZGZWxEdkVaRXdCSF9ydjUyZnhpeDVRYTZTWGpVTk04ZUtzdzRWXzU3cVg2djdGRzJRM05wbGlCc2liczdsSE5FSEZjalJ6R3lTWjRYaVpkSGMtc2JfdjhEY1lkUEhHSW5pd0g2dmVIX3hxdEpZd3NmakpKeENxMEZfUFNsSzI0TnloUHc1YkFXUXZsTFJsb0FDVnhWRmNhdDlNSV9ZT2x6aG5fclBFaHNVLXdRZC1QMVFhbFdUVXRr?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-03T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Au pair in the UK in 2026",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nZUVzNlhNckJiSjU3bUlEcUtWbXRJbk9NVFNpUmpJNnhXODdVUnF6YU5OQXRqUnhwSThRdzh2dmhKbGdEajVZTkFaNERBblp2a2NuLVBvLVZMTHZCaWlQRTl0d3E3b0E0NGZQU2ZCS1pEWVMwZUE?oc=5",
-      "source": "Expatica",
-      "publishedAt": "2026-07-01T11:34:50.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "July Monthly Tax Upate",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyZUJKNEItcWhZYnVyYVlHRC14N21uZkFTVkVGYzNLajJPMTkzekJCWDFuMnl2R3pPUFhWWmpDSVpja2MxZENUSDFPLWVhX2xuOElPUVRrMHk3UHY0TDhDbnI5S29kcWl6ZXdEWUxB?oc=5",
-      "source": "PwC Australia",
-      "publishedAt": "2026-07-01T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "House values fall – but homes are not getting more affordable",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX29XcHAxWHZETUlWTENzeGNLWEJsMkR5ZkdSQVVmaDRSNjdCSnFUcWVQNjhRSEhpV0NLYkEtcXU3d2FKeGRNbUhyVkRsQ0lIRURfbnN5eGc1N1lCLUFGMkxDU3pzVjgwdmhrdWhUQkZ2Z29jR1hhNm9ieEJYNkdPaHJmMUZkVzN1czBORGc3VzE5dG5jbDZXWnZMUWVURTNIMzJiSjhzcE1QbFVtNk5pYlVENWgxUnJHQ01mUA?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
         "Housing"
