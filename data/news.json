@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-12T17:33:54.983Z",
+  "updatedAt": "2026-08-12T19:11:31.571Z",
   "count": 120,
-  "relevantCount": 59,
-  "spicyCount": 11,
+  "relevantCount": 62,
+  "spicyCount": 13,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -30,31 +30,81 @@
   ],
   "sources": [
     "ABC News",
+    "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
+    "Absolute Immigration",
+    "Australian Property Update",
+    "Discovery Alert",
     "Expatica",
     "Fragomen",
+    "Khaleej Times",
+    "LinkedIn",
     "MacroBusiness",
-    "Michael West Media",
     "Mondaq",
     "Nomad Lawyer",
     "Property Update",
-    "PwC Australia",
+    "SBS",
     "Study International",
     "Sydney Morning Herald",
-    "TV Blackbox",
-    "The Australian",
+    "The Australia Today",
     "The Guardian",
     "The Indian Sun",
     "Western Australian Government",
     "William Buck Australia",
-    "abc.net.au",
-    "discoveryalert.com.au",
     "fundsforNGOs",
-    "linkedin.com",
+    "michaelwest.com.au",
+    "pwc.com.au",
     "realestate.com.au",
-    "smh.com.au"
+    "smh.com.au",
+    "theaustralian.com.au"
   ],
   "items": [
+    {
+      "title": "Angus Taylor plays a risky game in trying to capitalise on melon saga",
+      "url": "https://www.abc.net.au/news/2026-08-13/angus-taylor-sussan-ley-anthony-albanese-japan-bipartisanship/107027210",
+      "source": "ABC News",
+      "publishedAt": "2026-08-12T19:00:00.000Z",
+      "summary": "Behind the scenes, Angus Taylor and Anthony Albanese have been engaged in a rare level of cooperation this week but in public the opposition leader is using the melon saga to mount an all-out assault on the prime minister's character.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "How much is a job worth? At Tomago, it’s $2.5 million in taxpayer cash",
+      "url": "https://www.smh.com.au/business/markets/how-much-is-a-job-worth-at-tomago-it-s-2-5-million-in-taxpayer-cash-20260812-p60nt3.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-12T19:00:00.000Z",
+      "summary": "The Albanese government has scarcely met an ageing industrial facility that it doesn’t think deserves vast sums of federal support.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 9,
+      "spicy": true
+    },
+    {
+      "title": "Feeling miserable? You’re far from alone – and our index proves it",
+      "url": "https://www.smh.com.au/politics/federal/feeling-miserable-you-re-far-from-alone-and-our-index-proves-it-20260812-p60njc.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-12T19:00:00.000Z",
+      "summary": "The misery index was created in the late 1960s to assess which circumstances make people – and their countries – feel pretty rotten. It didn’t consider the Australia’s Reserve Bank, our maestro of misery.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Australia's 'number one' solar retailer facing multiple investigations",
+      "url": "https://www.abc.net.au/news/2026-08-13/solar-power-nation-complaints-cheaper-home-batteries-program/107006028",
+      "source": "ABC News",
+      "publishedAt": "2026-08-12T18:46:56.000Z",
+      "summary": "Solar Power Nation is spruiked by a number of current and former sports stars but the major retailer is facing investigations in multiple states as consumer complaints rise into the hundreds.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Isn’t it amazing what a policy that actually tackles the cause of outrageous house prices can do? | Grogonomics",
       "url": "https://www.theguardian.com/business/grogonomics/2026/aug/12/isnt-it-amazing-what-a-policy-that-actually-tackles-the-cause-of-outrageous-house-prices-can-do",
@@ -174,7 +224,7 @@
       "spicy": false
     },
     {
-      "title": "Eli Lilly boss calls out Australia on Mounjaro and Trump administration over kids vaccines",
+      "title": "Eli Lilly CEO says Australian not properly valuing Mounjaro",
       "url": "https://www.abc.net.au/news/2026-08-12/eli-lillyceo-still-looking-to-bring-mounjaro-to-australia/107030066",
       "source": "ABC News",
       "publishedAt": "2026-08-12T09:15:07.000Z",
@@ -184,17 +234,6 @@
       ],
       "relevant": true,
       "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "'He was there': Witness rejects claim by farmer accused of triple murder",
-      "url": "https://www.abc.net.au/news/2026-08-12/darryl-valroy-young-bogie-triple-murder-trial-day-three/107027148",
-      "source": "ABC News",
-      "publishedAt": "2026-08-12T08:35:23.000Z",
-      "summary": "A man who says he was shot by a Queensland cattle farmer in 2022 has rejected claims the shooting never happened.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -258,17 +297,6 @@
       "spicy": false
     },
     {
-      "title": "Former Hurricanes cricketer jailed for abusing 15yo girl",
-      "url": "https://www.abc.net.au/news/2026-08-12/ex-hurricanes-aaron-summers-sentence-child-sexual-abuse/107023320",
-      "source": "ABC News",
-      "publishedAt": "2026-08-12T07:38:45.000Z",
-      "summary": "Former professional cricketer Aaron Summers will spend 10 months in prison after being sentenced for sexually abusing a child in Tasmania. He has previously spent time in prison in the NT for online child abuse-related charges.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "New mortgage applications slumped 15% at CBA, but the numbers are worse for one group",
       "url": "https://www.smh.com.au/business/banking-and-finance/cba-profits-hit-11-billion-dividend-raised-20260811-p60nbn.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
@@ -278,7 +306,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 9,
+      "score": 8,
       "spicy": true
     },
     {
@@ -289,7 +317,7 @@
       "summary": "Dentists say the prevalence of adult tooth decay is alarming, as they slam the federal government's inaction on a national oral health plan.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -300,7 +328,7 @@
       "summary": "NSW Energy Minister Penny Sharpe says the rollout of renewable energy zones has been \"too slow\", with mistakes inevitable as part of efforts to speed up the process.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -313,7 +341,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -468,7 +496,7 @@
     {
       "title": "Commonwealth Bank home loan applications fall 15pc since May, profit up to $10.9b",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDdQRW5rSnhjeGdrMEFNeGJmZ1hwSm91OU1pNFg3U011ZlJIUUtiWFhNbjVUMUxhN2ZRY2pzVkRIRDZNeFFvZUt0LVF4WjIxRndsNFVicm04QkV2eE5LcERiWTdnaW85alZzTF92b29yRjBOQ2laZ3ppcTU1ZmptZzlBRUZ0bGl3cmhJRmdvNWdfdmp6MnBwVGRrVXg?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-12T00:16:34.000Z",
       "summary": "",
       "categories": [],
@@ -488,17 +516,6 @@
       "relevant": true,
       "score": 12,
       "spicy": true
-    },
-    {
-      "title": "Japan responds to Albanese's 'melon' gesture, playing down concerns",
-      "url": "https://www.abc.net.au/news/2026-08-12/melon-gesture-japanese-memo-afp-referral/106840234",
-      "source": "ABC News",
-      "publishedAt": "2026-08-12T00:15:42.000Z",
-      "summary": "Japan's government breaks its silence on Prime Minister Anthony Albanese's hand gestures while describing a gift of two melons from the Japanese prime minister, which its former ambassador claimed were a disrespectful joke about the nation's first female PM.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
     },
     {
       "title": "Melon-gate was a non-issue in Japan. How did it get elevated to a crisis in Australia? | Malcolm Farr",
@@ -557,17 +574,6 @@
       ],
       "relevant": true,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Beloved 'Little Blue Boat' brought back from the brink by volunteers",
-      "url": "https://www.abc.net.au/news/2026-08-12/little-blue-boat-sea-breeze-restored-franklin-tasmania/107023366",
-      "source": "ABC News",
-      "publishedAt": "2026-08-11T18:44:30.000Z",
-      "summary": "For years, the 'Little Blue Boat' had a special place in the hearts of many in Hobart, until a storm nearly sank it for good. Now, after much hard work, this icon of southern Tasmania is back on the water again.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -697,17 +703,6 @@
       "spicy": false
     },
     {
-      "title": "ASX gains as RBA keeps rates on hold; oil stocks rally, SGH, Life360 plunge",
-      "url": "https://www.smh.com.au/business/markets/asx-set-to-dip-on-rba-day-wall-street-drifts-oil-rises-on-hormuz-uncertainty-20260811-p60n4f.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-11T07:17:46.000Z",
-      "summary": "The Australian sharemarket finished higher as energy stocks rallied due the latest jump in oil prices, after the Reserve Bank kept interest rates unchanged.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
       "title": "Australia’s prime minister refuses to apologise to Japanese counterpart over melon gaffe",
       "url": "https://www.theguardian.com/australia-news/2026/aug/11/australia-pm-anthony-albanese-refuses-to-apologise-japan-sanae-takaichi-melon-gaffe",
       "source": "The Guardian",
@@ -743,17 +738,6 @@
       "spicy": false
     },
     {
-      "title": "Albanese, Taylor hammer out deals on gambling and tech, but ignore Howard’s last-ditch plea",
-      "url": "https://www.smh.com.au/politics/federal/albanese-steps-in-to-salvage-labor-s-big-tech-gambling-agenda-20260810-p60mui.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-11T05:47:01.000Z",
-      "summary": "“I don’t favour a nanny state approach. If people want to bet, they can bet… [but] the negative impact of gambling in working-class suburbs is very serious,” John Howard told this masthead.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Victoria had bipartisan support for a legal right to work from home. So why has Ben Carroll kicked it down the road?",
       "url": "https://www.theguardian.com/australia-news/2026/aug/11/victoria-work-from-home-laws-wfh-premier-ben-carroll",
       "source": "The Guardian",
@@ -785,19 +769,6 @@
       "relevant": false,
       "score": 5,
       "spicy": false
-    },
-    {
-      "title": "RBA forecasts paint more upbeat picture as interest rates on hold — as it happened",
-      "url": "https://www.abc.net.au/news/2026-08-11/reserve-bank-august-interest-rates-somp-asx-markets-blog/107021958",
-      "source": "ABC News",
-      "publishedAt": "2026-08-10T21:33:10.000Z",
-      "summary": "The Reserve Bank has kept the cash rate steady at 4.35 per cent in August as the central bank releases its updated economic forecasts, including the inflation, growth and unemployment outlooks.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 12,
-      "spicy": true
     },
     {
       "title": "Albanese gives ground on gambling inducements as Labor and Coalition inch towards deal",
@@ -857,19 +828,6 @@
       "spicy": false
     },
     {
-      "title": "Business hit again by fallout from Labor’s tax changes",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcDVxVk0wYlhIUWlnOGtNeHlSYWM1ODZ6ZmJ1bUZ6azllRmZaOF9DeWJyb3hMOUJLb0JrS25Jbk9PTXJDTkhzOVZfbkZOYldMLXkwUnV4MUJ1UHZfNVh2aGVyd2dMdUgtWDlXVHBiMmRZT0NrOERkRkVGOGd5ZE96QmktNVBYR24zR0wzSnFQNDZ4UVcwcjJOdjFrLUtpY1hrZGxqYndxTHg?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-09T12:30:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Nurses sleeping in campgrounds, shops shutting and two-hour school buses: what the closure of Victoria Pass means for the Blue Mountains",
       "url": "https://www.theguardian.com/australia-news/2026/aug/09/victoria-pass-road-closure-blue-mountains-great-western-highway-bridge-travel-times-roadworks-gridlock",
       "source": "The Guardian",
@@ -885,7 +843,7 @@
     {
       "title": "Visa overstayers to have work rights revoked if asylum claim rejected",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSl9CZHJqckNMQ1pMcEhsZGkzVEVFZE1Tb3FZS2dydENsT19tQkFHZkw2QjAyU2FqQjdVc3o0bVVQbWhaYm0tN1NzcWk4UHhncDMtbFhpTUNVVV9zdEN5eWdjMloxd0lkLWxCbnRoeGJUMll2QU9vQjBRQ01QbUlOaVpMUFdvN3BCQWc?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-07T06:51:46.000Z",
       "summary": "",
       "categories": [
@@ -898,7 +856,7 @@
     {
       "title": "MCA Demands Skilled Migration Changes Be Suspended in 2026",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOU81emUxSnhLalhFc0hvaUR3X2NoT25DMk5MTUkwS0k5QzZOdHNSTlNKVnhTYXJMbkhONjlpSmdjcHktU0pTM3NPTFphNjR2NjFSUDVoUklSRzdLbGcwYTdGV3ozc3ZWM2VURUloZHlvXzl1V0pmR2pYLVoyQkxsTnQ1SnB5TGZZcGF3VnNPX2wtNmM?oc=5",
-      "source": "discoveryalert.com.au",
+      "source": "Discovery Alert",
       "publishedAt": "2026-08-07T04:54:43.000Z",
       "summary": "",
       "categories": [
@@ -911,7 +869,7 @@
     {
       "title": "Country cafe mounting costly battle to retain beloved barista",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFJXNW5BMy1ZYlg4aGVXX1AzRmptSWYxOWpJZGgwTm1iR2EtWVd2WmhocnVOaVVUa1FYS1hZTFduTXctUHRRMkg4ek81OFVRV0JOa3lmbkFVRldBOGVZbUZEZmFPZkx1RWNmY0tyQURGbHdTLXhxVFprYWZvbGpJTThwTVgzbG1VUlRKVGpwYnJYUHBNbnVvZnpzdHY?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-06T22:05:22.000Z",
       "summary": "",
       "categories": [],
@@ -922,7 +880,7 @@
     {
       "title": "Tax changes get tick of approval from ratings agency",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWJ2c1pHVHdRVVhRRTNiOEloR2VVSGtFRFBUaGF2SDE1dHMwVkJEOHd0emdfaDFwd2J0TFVXQk91TnI3dkFpa3RHX0ZZSWx0X1JpcEtaRVJEVjRScUxXY3I1SVlSQUM0d2RqT3k4cnQ1WHJQck40SkZqRjZUWXFRc2thUnRtalU?oc=5",
-      "source": "Michael West Media",
+      "source": "michaelwest.com.au",
       "publishedAt": "2026-08-06T19:13:04.000Z",
       "summary": "",
       "categories": [
@@ -972,8 +930,8 @@
     {
       "title": "Pauline Hanson does 'not care' if immigration cuts impact businesses",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
-      "source": "abc.net.au",
-      "publishedAt": "2026-08-06T04:38:56.000Z",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-06T03:31:59.000Z",
       "summary": "",
       "categories": [
         "Visas & Migration"
@@ -1011,7 +969,7 @@
     {
       "title": "Warnings Labor's plan to delay family reunions could be 'human rights issue'",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHQyc2g0WmxBYUN2QTNldVNvOXZ0QV9ZZ2x3bTlRZmdYMVZ6THFGcEVnanVrblRaVnlOTjJmcGRkdHE5RjRtZXVyQnl5cVMwWGFXcXd0NXFuWFNVdEJ2ZTNYazFsa3ZEZ3FheEdCajhKaTl2VHEtVnFSYWpYX0ZKUnViQ1dOLXJvWjA0dmF6RUJtdmdiQ2VsRGE5MTY?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-05T05:16:28.000Z",
       "summary": "",
       "categories": [],
@@ -1022,7 +980,7 @@
     {
       "title": "Labor's quiet visa change prioritises onshore workers",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFc5bXZaUWh5eEhuT3gzdGl3SlowZzlZeW00X1d4TkxmR1lsZHlPMWVvQWw2WVV0bVEzcndoWlVYLTRMSVMwbWVyM1hYQXNfemFjSzZsU3ZPRTEzQlBJREx1d2RxU1hJMGdxTHhjLVRrVmtwYjl2SzhjT0xVT3l4ZDRsei1WZzVuYkg3ZXpBMEhkVE5HdFBPMDQxUktXcjJjanRaS0d5VXJwcUE?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-04T20:13:03.000Z",
       "summary": "",
       "categories": [
@@ -1035,12 +993,12 @@
     {
       "title": "Hey, Treasurer, we still need answers on your budget bomb",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQWRwOHVlSHZxcnhkSkltUWRCU2I2V195RGxObGJYakYyLUtDdDIyNU9hcDJrcTVhOHp4bUVmaURlNldVc2NlVGRGQ1ZYc2hGQkpVVkN6MUlSYWNFc0FfYWcxZ0N2cC1hbnE5X0o0Sllrbk51QWdVbi04Smwyb3ZVYzVCYzlTdW9hc3BYNDJqZ01nNVkyaTdpVzIxMC1KN3EyZm5jdmxqODc2YWprV3lGRGw4OF9DR0R2b1B6ajBkYmY2R1QwRXNZZXZzWHpIaTdRTzZqLW1lQnZucFdaX1M2SFFEWTVoQWpxeC1YZjlFdFJVd2pXbUJiNtIB_gFBVV95cUxNMkpyV1JCdXFjQ3NMSDhhQjM1czBVM3RYLUVLN2J6anNyU3UtNUtpc0Zyd2VOWDROLV9TTVlETzdTNGVsWXdNY0JLQXQtYUxBVnBWOGpiRzlURTd3bFhxNjM0bnFYRmd1azQ5QnN3QWQzelZBdjl0SWFpMHc0UG1zTGVCX3d4cVlxd0JHUHAxbzZNRU9DM052M0daM2lQUWNKTFJMbExGNmJuNno1RXN3TGtpUHFZVEkwU245R09YVFFMNDVOS2RoSEJKZ3MyckhpeFZURGpXd2ZZM3ctSmpleFBwRVU5LTFrb1ZmX3N4N2g5YUJHSk0wemxUMW1JQQ?oc=5",
-      "source": "The Australian",
+      "source": "theaustralian.com.au",
       "publishedAt": "2026-08-04T19:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 3,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1083,7 +1041,7 @@
     {
       "title": "Labor was poised to reveal massive migration cuts, then suddenly delayed",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHZmVWloM2JsLXNBZHhFamVlRHByZkowdnctRTY0SXAtTGRiYmhVUm5rOWhaeGUwMDBrZHI5MFlQbDliUXVqR0NHalpCTkt2ZFN3WG1WRVFhVHlMRDI1VHh0WFE4VjZwYTNxN1ExLW1qNVdOcHVhbzlwQ3JMVUFVZURacDZnbENwXzJMRC14VnQ4a05DMXBTSEdB?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1338,14 +1296,14 @@
     {
       "title": "Banks are the real problem of the housing crisis",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTUNsbWdDTTNNdDZQSkpmSHlpVjNONXNjb3ZoX0xVRzhUWXlTbWRtXzJ2eFAtZ203SWd5NDA2a3VCaVpQVkJ5QTZvcm9zRHo5VmdkZEk5NWczYm5uZl9pTnV3VzZMNzl5RmNDVWdzb0hieE9YTmc1LXhjd0hFdHYyaXVNU1FScUhUVzFNR0tZR0dtanp2V2YzR1BZaTRtNHVTazNsa210SVUtQ0hRcVVKZGlNWkQ0WjdkYlNueTlWcEJ3Y1RQWGxQd080ck1BN2hERGxHZkFma1YzLXZxMEtJT2JRQ1VvRVlfM1RBdlZzbzBJeTQ?oc=5",
-      "source": "The Australian",
+      "source": "theaustralian.com.au",
       "publishedAt": "2026-07-14T07:00:00.000Z",
       "summary": "",
       "categories": [
         "Housing"
       ],
       "relevant": true,
-      "score": 5,
+      "score": 2,
       "spicy": false
     },
     {
@@ -1362,22 +1320,9 @@
       "spicy": false
     },
     {
-      "title": "FOUR CORNERS probes Australia’s housing affordability gap",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0NSYkFKY0I0bXFWOTlXZ3VUZGZhU2U3RnNWMEJaNkpManhTRG1tQ0FkR3QwNjVUcExlSnB6TkM5YTZ5b0YxTVZKTEpIOGV3cHJ0aGJtTzFMR1pOZzZSdGVtR0tVc1B4QWU4Zzdkc0tNelNTR2pzUkt4RGtRM2xLMWJrS3JORWd2ZUxsazh5UlNRU2NCbi15NW4zYms3N1Z0?oc=5",
-      "source": "TV Blackbox",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Curbing well-off taxpayers' access to key programs could save billions",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGVwWTFMNkZJeWZqc3ozeU0tR0swWWVZYTRQM1JNbjQ2RkJLS2xoT21kV0hCNnBlbnpxdkVQRWFXS1pRcXJwYjI0bkFhejY4QkRQeHhacF9uOHRsRTlFdGZTbGQxazJrU0ZvNjdkVnQxWTFHOW1PdXVuRzk2WTZjQTFhVUFLaVhGdG44NkdsbEQ0WVoxdUtSa0NGUVQ2MkpiZDJtdg?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1462,7 +1407,7 @@
     {
       "title": "July Monthly Tax Upate",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyZUJKNEItcWhZYnVyYVlHRC14N21uZkFTVkVGYzNLajJPMTkzekJCWDFuMnl2R3pPUFhWWmpDSVpja2MxZENUSDFPLWVhX2xuOElPUVRrMHk3UHY0TDhDbnI5S29kcWl6ZXdEWUxB?oc=5",
-      "source": "PwC Australia",
+      "source": "pwc.com.au",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1488,7 +1433,7 @@
     {
       "title": "1 July Changes: Australian visas and migration",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVZ2ME9od0h5aTRzLTFqTlJNWWVVTXBwOUZJd3ZQc2czWGhYb0FpUzJtdE8tVnFCNXZkZ3hMSTRFajFLa2tUai1CWHZIZ295X1VPZXVHVlgwNVFleWVYNjZPRU9hUU90cFlxSjBxVEFkV1ZjcFZkdzNteVkwOFFUZFBqaHhNSDRUdGRycFFUakFiOEctWkE?oc=5",
-      "source": "linkedin.com",
+      "source": "LinkedIn",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1496,6 +1441,74 @@
       ],
       "relevant": true,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Visa application charges and key immigration fees increase from 1 July 2026",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGVPWTFHcUNwbi0zOTZ3UTdIZEdLVTg3NUN6Z2ZaazBUZGRDSGYwcDUwNzRzc3oyWTRhQjNROEllcDBiSXlKTEk5T0NzMVA3YUcwSWdjaS1FZG02U1Q2TTNuZkdmZTBsMzJWaEZDTFV2amtIclBjcjFOcVp4cXVBWXc4cDVRV3JRMUFQUmlwX3IwRldZTnc0T0RzNEF5SGxOY2J5djhkV3UzeTA4Q0s3ek13?oc=5",
+      "source": "Absolute Immigration",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "From student and TR visas to partner and PR: Australian visa fees hikes across most categories",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUUo1T0RjWDhTeTh0QjNHcjZRY0w3MXpkUURxb0FMV3VSVmY3UmdtQktOUXlsMDYzaGk5N2tVdGVNZUl5YWQ2dVRjdmdIWHkwTVFVdzdjQjFfLWVpbFh2VkFYMEpWbzNEWnN6Mm9nc2tlajlLaEVLVGx4TXlaZml3aUpnaThXQ3ZQMnJZZnRHZ0w0WkZPcTNFc2NvamhOeV9HUHc1SFZYR09JTmZwOU9odmI5aW9JN3lQMzlhWlZ6aEF2R1hIcHNZLUxnbjhmVDNJeXhn?oc=5",
+      "source": "SBS",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
+    },
+    {
+      "title": "Visa rule changes 2026: UAE eases entry; higher fees, tighter rules in US, Europe, Asia",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGFvN0J2RjZHdlNsOHRkMnNtaVhKZDBESVZFYW5IY2VuQ0JXLXNtd2pCR1ZEUU43SUNiMDZtSDRQZ2Q4X0tHMUJEVGhqSEhmNDZrZTJxRTF3UVNUWFdxVGpOUkhwT3FKdHUxaU43WVNTQW40V2stbWx2eDFmcWV2RjlEWnNHbFJkWTIwZEF2RFRhb2hjQzVvOEd30gGiAUFVX3lxTE5FUlRnT2ZIMWU5d2hjb08zS29YSDBjSnRPbzZQM3VqZTRPN0REN0Z2cm41N1FrOXdjNktWaGRKQ3NFM1cyRlhjRzVJcWFlMzdVNVI1NG56VDBIaFFncWhTMzk5dUsxUEgxU0s1SVRCX2E5ZGtUdEE4alR3cGxVdC1Sb0NQNzN3cU9rRkVBaUhRaUdYdWRNTm1sNkVoelhYSTh0dw?oc=5",
+      "source": "Khaleej Times",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Outrageous 25-200% Australian visa fee hike hits international students, partners and skilled workers from 1 July",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORVllcjRUeTlhRjRCczh4SnJzOGxlb0hVZGFWQUFRS09raUhaMzNSVjc5MnZSZHc0LWF2NWpDTFdKaXhYVm56Zm95bkFGenNwRDFMZXJXNUo4R21TSGx0emIwM3FyazBtVHB2VEpoQkRXVmZDM2U0VUpnUkRtUG9WZnU3bjlpZFplazFSMXNQTFdlUENsZzlyVXZoZHZXcUF1Zzg2NjVDOTRkbldqT1pXTUpWX1N4NHhOSHpiYjlQQzY0ZTc0eVU5ZEc5al9jM1kwUENVX3MzS2tmNDQ3U2dMMVlNNA?oc=5",
+      "source": "The Australia Today",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
+    },
+    {
+      "title": "Taxing investors did not make Melbourne housing more affordable",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVzN3aDB4MDFQMndPZ2pVeHpiR1pCTnpDc2t4WjFJb0JBMjM1eTRFOGhtQ0VRbGZSSEJDaHVzUDRJZVdGazBlbzkzMm9STnB6bkpkSHhfX3hvdF9zejVGVFNUcGNiUHhsaUxUa21CbGU1TzlMNWVSZlpmNlVrMVlFLUc4cnctWlZsbklGWHZ0SUx3MjlNSnp1RGtwMWlpNE1pdjA1Nl85NEJwWEk?oc=5",
+      "source": "Australian Property Update",
+      "publishedAt": "2026-06-30T08:23:56.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 2,
       "spicy": false
     }
   ]
