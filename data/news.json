@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-12T21:22:38.543Z",
+  "updatedAt": "2026-08-12T22:20:00.703Z",
   "count": 120,
-  "relevantCount": 61,
-  "spicyCount": 13,
+  "relevantCount": 59,
+  "spicyCount": 14,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -36,36 +36,57 @@
     "Discovery Alert",
     "Expatica",
     "Fragomen",
+    "Khaleej Times",
     "LinkedIn",
     "MacroBusiness",
-    "Mondaq",
+    "Michael West Media",
     "Nomad Lawyer",
     "Property Update",
-    "PwC Australia",
     "SBS",
     "SMH.com.au",
     "Study International",
     "Sydney Morning Herald",
+    "TV Blackbox",
     "The Australian",
     "The Guardian",
     "Western Australian Government",
     "William Buck Australia",
-    "fundsforngos.org",
-    "michaelwest.com.au",
+    "fundsforNGOs",
     "realestate.com.au",
-    "theguardian.com",
     "theindiansun.com.au"
   ],
   "items": [
     {
-      "title": "Australia politics live: tech giants face law to pay for news content; Australia joins call for Iran to end death penalty",
+      "title": "Australia politics live: Rio Tinto given $2.5bn bailout for Australia’s largest aluminium smelter; tech giants face law to pay for news content",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-12T21:20:09.000Z",
-      "summary": "News bargaining bill expected to pass parliament after Labor and Coalition agree on terms that will force tech companies to contribute to media outlets.",
+      "publishedAt": "2026-08-12T22:08:18.000Z",
+      "summary": "Tim Ayres says bailout means the facility will remain operational until 2039.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "How skiing at Tasmania's oldest known ski club looked different 100 years ago",
+      "url": "https://www.abc.net.au/news/2026-08-13/mount-field-ski-club-of-tasmania-100th-anniversary/107027226",
+      "source": "ABC News",
+      "publishedAt": "2026-08-12T21:19:19.000Z",
+      "summary": "The Ski Club of Tasmania is celebrating its 100th anniversary this year, with a treasure trove of memorabilia getting the respect it deserves.",
       "categories": [],
       "relevant": false,
       "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "'He's served his time': Calls to free David McBride as he becomes eligible for parole",
+      "url": "https://www.abc.net.au/news/2026-08-13/jailed-whistleblower-david-mcbride-eligible-for-parole/107029892",
+      "source": "ABC News",
+      "publishedAt": "2026-08-12T21:13:07.000Z",
+      "summary": "The decision to grant him parole rests with the Commonwealth.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
       "spicy": false
     },
     {
@@ -113,19 +134,6 @@
       "spicy": false
     },
     {
-      "title": "Binders can be ‘life-changing’ for trans people. But are they safe to exercise in?",
-      "url": "https://www.abc.net.au/news/2026-08-13/binders-exercise-gender-diverse-trans-research-safety-unknown/106990788",
-      "source": "ABC News",
-      "publishedAt": "2026-08-12T20:00:53.000Z",
-      "summary": "Binders are popular among trans and gender diverse people, but research is yet to show if they're safe to exercise in. The University of Western Australia has led the largest study so far in the search for answers, and the preliminary results are promising.",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Farage goes head-to-head with Count Binface in snap by-election",
       "url": "https://www.abc.net.au/news/2026-08-13/what-you-need-to-know-about-the-clacton-by-election/107016014",
       "source": "ABC News",
@@ -141,7 +149,7 @@
       "url": "https://www.abc.net.au/news/2026-08-13/angus-taylor-sussan-ley-anthony-albanese-japan-bipartisanship/107027210",
       "source": "ABC News",
       "publishedAt": "2026-08-12T19:00:00.000Z",
-      "summary": "Behind the scenes, Angus Taylor and Anthony Albanese have been engaged in a rare level of cooperation this week but in public the opposition leader is using the melon saga to mount an all-out assault on the prime minister's character.",
+      "summary": "Behind the scenes, Angus Taylor and Anthony Albanese have been engaged in a rare level of cooperation this week, but in public the opposition leader is using the melon saga to mount an all-out assault on the prime minister's character.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -209,19 +217,6 @@
       "spicy": false
     },
     {
-      "title": "Massive bailout for Australia’s largest aluminium smelter to be announced by PM and NSW premier",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/12/massive-bailout-for-australias-largest-aluminium-smelter-expected-to-be-announced-by-pm-and-nsw-premier",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-12T12:59:02.000Z",
-      "summary": "Rio Tinto said in December it may cease operations at the Tomago aluminium smelter at the end of its current electricity supply contract",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Australia’s biggest aluminium smelter gets $2.5bn bailout package from federal and NSW governments",
       "url": "https://www.theguardian.com/australia-news/2026/aug/12/massive-bailout-for-australias-largest-aluminium-smelter-expected-to-be-announced-by-pm-and-nsw-premier",
       "source": "The Guardian",
@@ -266,7 +261,7 @@
       "summary": "One Nation MP says failed WA candidate’s comments describing same-sex attraction as a mental illness are ‘highly offensive’",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -277,7 +272,7 @@
       "summary": "As Labor and the Coalition hash out a deal, a fresh sticking point has emerged over the government’s move to ban offshore lotteries, which is dividing Coalition MPs.",
       "categories": [],
       "relevant": false,
-      "score": 8,
+      "score": 7,
       "spicy": false
     },
     {
@@ -288,7 +283,7 @@
       "summary": "The former RBA governor and Macquarie chairman has been called before a parliamentary committee over a massive KPMG contract win.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -385,19 +380,6 @@
       "summary": "NSW Energy Minister Penny Sharpe says the rollout of renewable energy zones has been \"too slow\", with mistakes inevitable as part of efforts to speed up the process.",
       "categories": [],
       "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Chalmers optimistic house price forecast ‘mugged by reality’",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2lLVHNtczZFYzFNa1NCMkZOOVVRUTA4eThwU2ZpaWV3amtFMHZmWjBkVGdXRTZfNVNOQ0ZQM21SLUFVRzJjUlNrVllteEVJeXFmc2tIQ0V4dHQyT2E5V1dvdFgwNUdCcFBNOXNEblBVbWN2bGd2RUIwX2lIVmdRdUVJTXJjVG1fSmJnUW1SR21XdXZHcXk2bmJ3eUZ3VjRWVGIyd0F2d21Yck0yOWc?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-12T05:39:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
       "score": 3,
       "spicy": false
     },
@@ -505,6 +487,17 @@
       "spicy": false
     },
     {
+      "title": "Commonwealth Bank home loan applications fall 15pc since May, profit up to $10.9b",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDdQRW5rSnhjeGdrMEFNeGJmZ1hwSm91OU1pNFg3U011ZlJIUUtiWFhNbjVUMUxhN2ZRY2pzVkRIRDZNeFFvZUt0LVF4WjIxRndsNFVicm04QkV2eE5LcERiWTdnaW85alZzTF92b29yRjBOQ2laZ3ppcTU1ZmptZzlBRUZ0bGl3cmhJRmdvNWdfdmp6MnBwVGRrVXg?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-12T02:02:01.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 8,
+      "spicy": false
+    },
+    {
       "title": "Coalition backs Hanson on foreign fighters despite Howard’s plea to counter One Nation",
       "url": "https://www.smh.com.au/politics/federal/coalition-backs-hanson-on-foreign-fighters-despite-howard-s-plea-to-counter-one-nation-20260812-p60nkt.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -524,17 +517,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Commonwealth Bank home loan applications fall 15pc since May, profit up to $10.9b",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDdQRW5rSnhjeGdrMEFNeGJmZ1hwSm91OU1pNFg3U011ZlJIUUtiWFhNbjVUMUxhN2ZRY2pzVkRIRDZNeFFvZUt0LVF4WjIxRndsNFVicm04QkV2eE5LcERiWTdnaW85alZzTF92b29yRjBOQ2laZ3ppcTU1ZmptZzlBRUZ0bGl3cmhJRmdvNWdfdmp6MnBwVGRrVXg?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-12T00:16:34.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 8,
       "spicy": false
     },
     {
@@ -564,7 +546,7 @@
     {
       "title": "Apply for Affordable and Diverse Housing Fund (Australia)",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ084enh3QkJFLUMtTzlfR2Jidl84VjBCQkpUOU9wTmtDeUtEZVdwZzJDYUlkM0RzU242LXJEQkt4dnJrQ2Nmd0liZEV4NEkyaTV1UzlpdlJXbl9JY1kybldORmhwaEJ1VVhJbk9DRk9KeG51NlNYQ0lSbVgyei1ZWU1QVmJWSXZzdGlFc3pOdEtSNTRrcXE5VHVSWnpRckXSAaQBQVVfeXFMUFBZTlVsTVFUR2lRcG1NbkxraEtJWmFjTVozNnJhNkI2eTllSDBqalc2bHpNcXI2LVQ3SmxBdFFSZ2xpN2ttcVozLWp2TTEyU2ppdTJSNUo2Tm5UYm9PdHVBZUhneVc2QkdhMFFkZUtfSV9NYkxCTHpjRjhoY1FQQUpvRU9CSzV3ajNmRExwWXpHSVN6SWNOZmloVkhRT08yYWdLbGw?oc=5",
-      "source": "fundsforngos.org",
+      "source": "fundsforNGOs",
       "publishedAt": "2026-08-11T22:50:06.000Z",
       "summary": "",
       "categories": [
@@ -747,17 +729,6 @@
       "spicy": false
     },
     {
-      "title": "Albanese’s attempts to talk to everyone bear bitter fruit when he goes off script",
-      "url": "https://www.smh.com.au/politics/federal/albanese-s-attempts-to-talk-to-everyone-bears-bitter-fruit-when-he-goes-off-script-20260811-p60n7v.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-11T06:38:39.000Z",
-      "summary": "It might have been simpler to just own the mistake of hosting a bawdy podcast in The Lodge and move on, but that just isn’t Anthony Albanese’s style.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "CGT changes are coming. Should you sell, hold or rethink your strategy?",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzRlSmpqNVM0M3AxWHBXd3JEV1ZRMUtYTnlUam9vSU9aaXNvcFNmeHA4dUVnNnpSSmk1cGpYa3JvRFZnVF9vN2pQeEVzZnc1OXFSempQaGVXYWhpd0dMbXVYREwtRDVBUXdCS2VUZ3NNRTF0U1M5TUR0SkJtZ1VQUWZQajdsdGVrdlhNMXBKY2g3cjN3VWpBY1lpdEdvVDNTcDdTbmhQUXA0S0lNV1E?oc=5",
       "source": "William Buck Australia",
@@ -779,6 +750,17 @@
       "categories": [],
       "relevant": false,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Interest rates on hold but RBA governor keeps door open to hikes",
+      "url": "https://www.abc.net.au/news/2026-08-11/rba-interest-rates-august-2026/107023850",
+      "source": "ABC News",
+      "publishedAt": "2026-08-11T04:48:33.000Z",
+      "summary": "The Reserve Bank has kept interest rates on hold at its August meeting, after three rate hikes earlier this year.",
+      "categories": [],
+      "relevant": false,
+      "score": 9,
       "spicy": false
     },
     {
@@ -902,7 +884,7 @@
     {
       "title": "Tax changes get tick of approval from ratings agency",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWJ2c1pHVHdRVVhRRTNiOEloR2VVSGtFRFBUaGF2SDE1dHMwVkJEOHd0emdfaDFwd2J0TFVXQk91TnI3dkFpa3RHX0ZZSWx0X1JpcEtaRVJEVjRScUxXY3I1SVlSQUM0d2RqT3k4cnQ1WHJQck40SkZqRjZUWXFRc2thUnRtalU?oc=5",
-      "source": "michaelwest.com.au",
+      "source": "Michael West Media",
       "publishedAt": "2026-08-06T19:13:04.000Z",
       "summary": "",
       "categories": [
@@ -915,7 +897,7 @@
     {
       "title": "‘Performative reductions’: Labor MPs and business groups urge Burke against sweeping immigration changes",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSERoTS1HcUZtaVJaTU1vTHBFX1Z3dU5xZHRSdGxNMEpjb08zTkFVS1NtVlUzQnVyX0EzMjVIRmVwS1RaRGlNb1ZHbms3VTB6SjMyMk5GYzZ0Yl9XQjdWOUU5Z1oyREFPbG9PQ09qNkdVZnNLU1RuRnR4YjBhN1lWUktXaG45TWRkNFhaaWlSWlowMmRIX2VsODEyd01OM05pMktsWWlBUndqTGFIUGlsY3VGcW9HaGFNZDVtbENpOS1CU2U0ay1waFY2cTl0NnhDZWNhREVJVTFTZ2FIVmdLOEQ1TllMSVNCNW1kSA?oc=5",
-      "source": "theguardian.com",
+      "source": "The Guardian",
       "publishedAt": "2026-08-06T09:09:00.000Z",
       "summary": "",
       "categories": [
@@ -924,6 +906,19 @@
       "relevant": true,
       "score": 3,
       "spicy": false
+    },
+    {
+      "title": "Treasury’s $88k CGT error exposes tax ‘rush’ by Chalmers",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDhKMjc3aU9US1k0bVRPSnA4QWZtY1RZZW9ySDFZdHRoUWRNT3VhX09KTkNUZ0FSVXVlcHdXeWpyNEtZaTNXZllZZFJSOTA5cUlIXzdqWmdSaWx5VU45dTFqRVR2Ul9sUlhwaTlVbElld3FDT1FGOHhWLUxNN2tnOVdybENKZFdyaC1DSEhJakJPZGdRVmhoQ0p3Q05MSFFCUk9pZmhfbGNMVTg?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-06T08:37:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
     },
     {
       "title": "Australia retains AAA as tax changes and spending cuts help bottom line",
@@ -1303,19 +1298,6 @@
       "spicy": false
     },
     {
-      "title": "It Depends – What Are The Proposed Changes To The Taxation Of Discretionary Trusts In The 2026 Federal Budget? (Video)",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1QtS3VRSjJyR2NIazBLbHd1M29adENmREZDYWJXQ0ZVQllVMmwzeEk3c1ItbTFCOXZlMkltNm9ESXNMTzdTOVVjTWdMMjBOdWZvVUk3eVZyYkdRVExBN3JzLTN3SUN0OHhKMnZzbEE5bDFXcFRpVl9OdHYxVFpsYTRRWkk2RC0yTmNUdVJXcEFheENGYnBOM3Y2bXUycGRqNFNWcGVLYVd5bHNhRjI1bUNuLUdjRGIwLVBPZU1Hd0R4TVc1OXJQUFdvOWFPWUFzMklJbEhLT3J5ZUNkU01tWlBtNmpJWGQ3djNQcEFRbGt1b0pnSzJ1UlZfU04?oc=5",
-      "source": "Mondaq",
-      "publishedAt": "2026-07-15T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Labor has broken the tax reform ice. Now it must keep going",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVExaMjVnc1BHMTVhMkppbTVualBfSjM1cFNrekxKWGlreHViY1JUWHAzbS14OC1ObGlkNmJxaG1VQ212YUZxa0JNOHBld1RhWGx3bGRPRzg1bmZOS3A2YS1HN21sRUJPLWZ0cl9LM3cyUVFabWpaQ0FESUFHS2tDRndvM1k5WE9QaUlCYVdzUzd1cWJXNUdEcnVhUG16YWxQdTJPMDdSdjRvQXNQUHc?oc=5",
       "source": "AFR",
@@ -1352,6 +1334,19 @@
       ],
       "relevant": true,
       "score": 2,
+      "spicy": false
+    },
+    {
+      "title": "FOUR CORNERS probes Australia’s housing affordability gap",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0NSYkFKY0I0bXFWOTlXZ3VUZGZhU2U3RnNWMEJaNkpManhTRG1tQ0FkR3QwNjVUcExlSnB6TkM5YTZ5b0YxTVZKTEpIOGV3cHJ0aGJtTzFMR1pOZzZSdGVtR0tVc1B4QWU4Zzdkc0tNelNTR2pzUkt4RGtRM2xLMWJrS3JORWd2ZUxsazh5UlNRU2NCbi15NW4zYms3N1Z0?oc=5",
+      "source": "TV Blackbox",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1440,19 +1435,6 @@
       "spicy": false
     },
     {
-      "title": "July Monthly Tax Upate",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyZUJKNEItcWhZYnVyYVlHRC14N21uZkFTVkVGYzNLajJPMTkzekJCWDFuMnl2R3pPUFhWWmpDSVpja2MxZENUSDFPLWVhX2xuOElPUVRrMHk3UHY0TDhDbnI5S29kcWl6ZXdEWUxB?oc=5",
-      "source": "PwC Australia",
-      "publishedAt": "2026-07-01T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "House values fall – but homes are not getting more affordable",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX29XcHAxWHZETUlWTENzeGNLWEJsMkR5ZkdSQVVmaDRSNjdCSnFUcWVQNjhRSEhpV0NLYkEtcXU3d2FKeGRNbUhyVkRsQ0lIRURfbnN5eGc1N1lCLUFGMkxDU3pzVjgwdmhrdWhUQkZ2Z29jR1hhNm9ieEJYNkdPaHJmMUZkVzN1czBORGc3VzE5dG5jbDZXWnZMUWVURTNIMzJiSjhzcE1QbFVtNk5pYlVENWgxUnJHQ01mUA?oc=5",
       "source": "SMH.com.au",
@@ -1504,6 +1486,19 @@
       "relevant": true,
       "score": 7,
       "spicy": true
+    },
+    {
+      "title": "Visa rule changes 2026: UAE eases entry; higher fees, tighter rules in US, Europe, Asia",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGFvN0J2RjZHdlNsOHRkMnNtaVhKZDBESVZFYW5IY2VuQ0JXLXNtd2pCR1ZEUU43SUNiMDZtSDRQZ2Q4X0tHMUJEVGhqSEhmNDZrZTJxRTF3UVNUWFdxVGpOUkhwT3FKdHUxaU43WVNTQW40V2stbWx2eDFmcWV2RjlEWnNHbFJkWTIwZEF2RFRhb2hjQzVvOEd30gGiAUFVX3lxTE5FUlRnT2ZIMWU5d2hjb08zS29YSDBjSnRPbzZQM3VqZTRPN0REN0Z2cm41N1FrOXdjNktWaGRKQ3NFM1cyRlhjRzVJcWFlMzdVNVI1NG56VDBIaFFncWhTMzk5dUsxUEgxU0s1SVRCX2E5ZGtUdEE4alR3cGxVdC1Sb0NQNzN3cU9rRkVBaUhRaUdYdWRNTm1sNkVoelhYSTh0dw?oc=5",
+      "source": "Khaleej Times",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
     }
   ]
 }
