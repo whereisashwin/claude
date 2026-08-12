@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-12T06:54:46.249Z",
+  "updatedAt": "2026-08-12T08:24:02.378Z",
   "count": 120,
-  "relevantCount": 54,
-  "spicyCount": 9,
+  "relevantCount": 55,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -32,11 +32,11 @@
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
+    "Discovery Alert",
     "Fragomen",
     "MacroBusiness",
     "Michael West Media",
     "Mondaq",
-    "Nomad Lawyer",
     "Property Update",
     "Queensland Country Life",
     "SMH.com.au",
@@ -44,25 +44,152 @@
     "Sydney Morning Herald",
     "TV Blackbox",
     "The Guardian",
+    "The Indian Sun",
     "Tuko News",
     "Western Australian Government",
     "William Buck Australia",
-    "discoveryalert.com.au",
     "fundsforNGOs",
     "realestate.com.au",
-    "theaustralian.com.au",
-    "theindiansun.com.au"
+    "theaustralian.com.au"
   ],
   "items": [
     {
-      "title": "Australia politics live: Japan’s ambassador to Australia downplays Albanese’s melon comments; witness paid for Reformer’s trip to Fiji to avoid inquiry, Icac told",
+      "title": "Australia politics live: Joyce claims One Nation ‘one of the gayest parties’ in country; O’Neil calls Bragg speech a ‘crazed fever dream’ and ‘unhinged’",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-12T06:38:45.000Z",
+      "publishedAt": "2026-08-12T08:20:59.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Japanese ambassador to Australia downplays Albanese melon gaffe as Taylor claims PM has ‘stuffed up’",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/12/anthony-albanese-japanese-prime-minister-melon-gate-coalition",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-12T08:18:06.000Z",
+      "summary": "Coalition demands police investigate apparent leaking of diplomatic cable to newspaper but Labor calls it a ‘silly political stunt’",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Liberal frontbencher ruffles feathers in own party by calling for ‘economic revolution’",
+      "url": "https://www.smh.com.au/politics/federal/liberal-frontbencher-ruffles-feathers-in-own-party-by-calling-for-economic-revolution-20260812-p60nqk.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-12T08:05:13.000Z",
+      "summary": "A day after John Howard called for bold policies to counter One Nation, Andrew Bragg freelanced on economic policy and announced a new migration target that Angus Taylor did not repeat.",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australia on brink of record $10b defence export deal with UK",
+      "url": "https://www.smh.com.au/politics/federal/australia-on-brink-of-record-10b-defence-export-deal-with-uk-20260812-p60nsj.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-12T08:00:00.000Z",
+      "summary": "This masthead can reveal the contract to sell a Canberra-built radar system to the UK would be worth more than $10 billion.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Andrew Bragg stands by proposed migration limits – even as Liberal colleagues decline to back him in",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/12/andrew-bragg-stands-by-proposed-migration-limits-even-as-liberal-colleagues-decline-to-back-him-in",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-12T07:55:26.000Z",
+      "summary": "Angus Taylor and other Coalition members not supporting shadow housing minister’s target migration numbers, which would be the lowest figures since the mid-2000s",
+      "categories": [
+        "Visas & Migration",
+        "Housing"
+      ],
+      "relevant": true,
       "score": 6,
+      "spicy": true
+    },
+    {
+      "title": "Former SBS boss named KPMG chairman after humiliating week",
+      "url": "https://www.smh.com.au/business/companies/former-sbs-boss-named-kpmg-chairman-after-humiliating-week-20260812-p60nnq.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-12T07:55:04.000Z",
+      "summary": "Michael Ebeid has become the firm’s first independent chairman, but faces another stormy hearing in Canberra over the whistleblower scandal.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Japanese ambassador moves to quash melon drama, defend Albanese",
+      "url": "https://www.smh.com.au/politics/federal/japanese-ambassador-moves-to-quash-melon-drama-defend-albanese-20260812-p60nnx.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-12T07:50:11.000Z",
+      "summary": "As One Nation joined the Coalition demanding an apology for Japanese prime minister Sanae Takaichi, her ambassador issued a statement saying Japan took no offence.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Former Hurricanes cricketer jailed for abusing 15yo girl",
+      "url": "https://www.abc.net.au/news/2026-08-12/ex-hurricanes-aaron-summers-sentence-child-sexual-abuse/107023320",
+      "source": "ABC News",
+      "publishedAt": "2026-08-12T07:38:45.000Z",
+      "summary": "Former professional cricketer Aaron Summers will spend 10 months in prison after being sentenced for sexually abusing a child in Tasmania. He has previously spent time in prison in the NT for online child abuse-related charges.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Coroner says off-road racing needs stronger fire safety rules",
+      "url": "https://www.abc.net.au/news/2026-08-12/coroner-recommends-fire-safety-requirements-after-crash/107027500",
+      "source": "ABC News",
+      "publishedAt": "2026-08-12T07:26:32.000Z",
+      "summary": "A Victorian coroner is recommending stronger fire safety requirements for off-road racing events, after a fatal crash in 2022 that claimed the lives of two men.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "'Chakra balancing' massage was indecent assault, court rules",
+      "url": "https://www.abc.net.au/news/2026-08-12/senior-firefighter-avoids-prison-for-assaulting-massage-client/107029836",
+      "source": "ABC News",
+      "publishedAt": "2026-08-12T07:00:10.000Z",
+      "summary": "A former senior Tasmanian firefighter who indecently assaulted a woman while he was working as a massage therapist has avoided a prison sentence.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "New mortgage applications slumped 15% at CBA, but the numbers are worse for one group",
+      "url": "https://www.smh.com.au/business/banking-and-finance/cba-profits-hit-11-billion-dividend-raised-20260811-p60nbn.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-12T06:57:24.000Z",
+      "summary": "Australia’s largest bank has reported a sharp drop in applications from housing investors, as the housing slump puts the brakes on the $2.5 trillion mortgage market.",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 9,
+      "spicy": true
+    },
+    {
+      "title": "Australia experiencing rampant tooth decay as millions delay dentistry",
+      "url": "https://www.abc.net.au/news/2026-08-12/dentists-demand-progress-on-national-oral-health-plan/107028152",
+      "source": "ABC News",
+      "publishedAt": "2026-08-12T06:27:12.000Z",
+      "summary": "Dentists say the prevalence of adult tooth decay is alarming, as they slam the federal government's inaction on a national oral health plan.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
       "spicy": false
     },
     {
@@ -101,7 +228,7 @@
       "spicy": false
     },
     {
-      "title": "How a conspiracy theory embraced by Trump became part of mainstream Australian politics",
+      "title": "How a conspiracy theory embraced by Trump became mainstream in Australia",
       "url": "https://www.smh.com.au/politics/federal/how-a-conspiracy-theory-embraced-by-trump-became-part-of-mainstream-australian-politics-20260809-p60mri.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-08-12T05:10:55.000Z",
@@ -173,17 +300,6 @@
       "spicy": false
     },
     {
-      "title": "Only one man around to feel magnitude-4.7 earthquake in remote Australia",
-      "url": "https://www.abc.net.au/news/2026-08-12/earthquake-at-cocklebiddy-roadhouse/107027228",
-      "source": "ABC News",
-      "publishedAt": "2026-08-12T04:11:42.000Z",
-      "summary": "A worker at WA's Cocklebiddy Roadhouse is shaken awake by a magnitude-4.7 earthquake in the early hours of Wednesday.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Kumanjayi White family's lawyer alleges double standard over MP case",
       "url": "https://www.abc.net.au/news/2026-08-12/nt-kumanjayi-white-lawyer-commonwealth-dpp-gosling-comparison/107027018",
       "source": "ABC News",
@@ -195,18 +311,18 @@
       "spicy": false
     },
     {
-      "title": "One Nation candidate says gay people have a mental illness",
+      "title": "Failed One Nation candidate says gay people have a mental illness",
       "url": "https://www.abc.net.au/news/2026-08-12/parminder-singh-one-nation-parminder-singh/107027568",
       "source": "ABC News",
       "publishedAt": "2026-08-12T03:08:39.000Z",
-      "summary": "A One Nation candidate in WA describes gay people as having a mental illness in an offensive new video posted on social media.",
+      "summary": "A failed One Nation candidate in WA describes gay people as having a mental illness in an offensive new video posted on social media.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 6,
       "spicy": false
     },
     {
-      "title": "Furore over melons joke forces Japan into drama it wanted to avoid",
+      "title": "Melons aside, Albanese's answer to 'crap gift' question was a baffling misstep",
       "url": "https://www.abc.net.au/news/2026-08-12/albanese-melons-podcast-joke-lands-differently-in-japan/107027134",
       "source": "ABC News",
       "publishedAt": "2026-08-12T03:04:19.000Z",
@@ -239,17 +355,15 @@
       "spicy": false
     },
     {
-      "title": "When CBA chief expects first-home buyers to return",
-      "url": "https://www.smh.com.au/business/banking-and-finance/cba-profits-hit-11-billion-dividend-raised-20260811-p60nbn.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-12T01:53:01.000Z",
-      "summary": "Commonwealth Bank chief executive Matt Comyn reported a 15 per cent drop in mortgage lending since the budget but expects demand for property to pick up once interest rate cuts are looming.",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 13,
-      "spicy": true
+      "title": "Commonwealth Bank home loan applications fall 15pc since May, profit up to $10.9b",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDdQRW5rSnhjeGdrMEFNeGJmZ1hwSm91OU1pNFg3U011ZlJIUUtiWFhNbjVUMUxhN2ZRY2pzVkRIRDZNeFFvZUt0LVF4WjIxRndsNFVicm04QkV2eE5LcERiWTdnaW85alZzTF92b29yRjBOQ2laZ3ppcTU1ZmptZzlBRUZ0bGl3cmhJRmdvNWdfdmp6MnBwVGRrVXg?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-12T02:02:01.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 9,
+      "spicy": false
     },
     {
       "title": "Coalition backs Hanson on foreign fighters despite Howard’s plea to counter One Nation",
@@ -271,17 +385,6 @@
       "categories": [],
       "relevant": false,
       "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Commonwealth Bank home loan applications fall 15pc since May, profit up to $10.9b",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDdQRW5rSnhjeGdrMEFNeGJmZ1hwSm91OU1pNFg3U011ZlJIUUtiWFhNbjVUMUxhN2ZRY2pzVkRIRDZNeFFvZUt0LVF4WjIxRndsNFVicm04QkV2eE5LcERiWTdnaW85alZzTF92b29yRjBOQ2laZ3ppcTU1ZmptZzlBRUZ0bGl3cmhJRmdvNWdfdmp6MnBwVGRrVXg?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-12T00:16:34.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 9,
       "spicy": false
     },
     {
@@ -320,17 +423,6 @@
       "spicy": false
     },
     {
-      "title": "What happens if you forgot to do the census last night?",
-      "url": "https://www.abc.net.au/news/2026-08-12/census-2026-late-what-is-the-fine/107022988",
-      "source": "ABC News",
-      "publishedAt": "2026-08-11T23:11:19.000Z",
-      "summary": "The census is compulsory and you can be fined if you refuse to complete it. But the Australian Bureau of Statistics will give you a friendly reminder before taking legal action.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Apply for Affordable and Diverse Housing Fund (Australia)",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ084enh3QkJFLUMtTzlfR2Jidl84VjBCQkpUOU9wTmtDeUtEZVdwZzJDYUlkM0RzU242LXJEQkt4dnJrQ2Nmd0liZEV4NEkyaTV1UzlpdlJXbl9JY1kybldORmhwaEJ1VVhJbk9DRk9KeG51NlNYQ0lSbVgyei1ZWU1QVmJWSXZzdGlFc3pOdEtSNTRrcXE5VHVSWnpRckXSAaQBQVVfeXFMUFBZTlVsTVFUR2lRcG1NbkxraEtJWmFjTVozNnJhNkI2eTllSDBqalc2bHpNcXI2LVQ3SmxBdFFSZ2xpN2ttcVozLWp2TTEyU2ppdTJSNUo2Tm5UYm9PdHVBZUhneVc2QkdhMFFkZUtfSV9NYkxCTHpjRjhoY1FQQUpvRU9CSzV3ajNmRExwWXpHSVN6SWNOZmloVkhRT08yYWdLbGw?oc=5",
       "source": "fundsforNGOs",
@@ -341,17 +433,6 @@
       ],
       "relevant": true,
       "score": 1,
-      "spicy": false
-    },
-    {
-      "title": "Live: ASX drops, CBA beats expectations with $10.9b profit",
-      "url": "https://www.abc.net.au/news/2026-08-12/asx-markets-business-live-news/107025982",
-      "source": "ABC News",
-      "publishedAt": "2026-08-11T21:47:28.000Z",
-      "summary": "The nation's second-largest company Commonwealth Bank has announced a $10.9 billion full-year profit. The Australian share market is trading lower on fading optimism about the Strait of Hormuz reopening soon.",
-      "categories": [],
-      "relevant": false,
-      "score": 9,
       "spicy": false
     },
     {
@@ -366,17 +447,6 @@
       "spicy": false
     },
     {
-      "title": "Live: One Nation 'one of the gayest parties', Joyce says after candidate's comments",
-      "url": "https://www.abc.net.au/news/2026-08-12/federal-politics-live-blog-august-12/107026630",
-      "source": "ABC News",
-      "publishedAt": "2026-08-11T21:00:07.000Z",
-      "summary": "Barnaby Joyce distances himself from comments by a One Nation candidate that gay people have a mental illness.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Australia’s voters are now split three ways, but not by party",
       "url": "https://www.smh.com.au/politics/federal/australia-s-voters-are-now-split-three-ways-but-not-by-party-20260811-p60nc2.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -384,7 +454,7 @@
       "summary": "Voters are now aligning themselves with the bloc that reflects their economic experience.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -397,7 +467,7 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -549,17 +619,6 @@
       "spicy": false
     },
     {
-      "title": "Kuniko grabs NSW gold-silver project steering wheel",
-      "url": "https://www.smh.com.au/business/companies/kuniko-grabs-nsw-gold-silver-project-steering-wheel-20260811-p60nf4.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-11T06:56:20.000Z",
-      "summary": "Kuniko Limited has secured a controlling 51 per cent interest in its NSW Commonwealth project after completing its A$1.5 million exploration earn-in more than a year ahead of schedule.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
       "title": "Australia’s prime minister refuses to apologise to Japanese counterpart over melon gaffe",
       "url": "https://www.theguardian.com/australia-news/2026/aug/11/australia-pm-anthony-albanese-refuses-to-apologise-japan-sanae-takaichi-melon-gaffe",
       "source": "The Guardian",
@@ -568,17 +627,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "True North hits deep high-grade copper at Mt Oxide",
-      "url": "https://www.smh.com.au/business/companies/true-north-hits-deep-high-grade-copper-at-mt-oxide-20260811-p60nem.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-11T06:46:58.000Z",
-      "summary": "True North Copper has hit deep, wide copper at its Mt Oxide project in Queensland, with drilling extending mineralisation to 300m depth and returning a stellar 6m at 5.70% copper.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -701,17 +749,6 @@
       "source": "ABC News",
       "publishedAt": "2026-08-10T19:50:28.000Z",
       "summary": "An accident that damaged an Australian-contracted aircraft in Antarctica has triggered new safety protocols on the icy continent, internal government documents show.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "We’re used to airport queues and delays, but safety is not negotiable",
-      "url": "https://www.smh.com.au/politics/federal/we-re-used-to-airport-queues-and-delays-but-safety-is-not-negotiable-20260810-p60n1k.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-10T07:51:25.000Z",
-      "summary": "In a country as rich and technologically sophisticated as Australia, risk should not be part of the equation.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -858,30 +895,6 @@
       "spicy": false
     },
     {
-      "title": "David Brat bound for Australia as diplomat confirmed as next US ambassador",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/08/david-brat-bound-for-australia-as-diplomat-confirmed-as-next-us-ambassador",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-07T23:50:39.000Z",
-      "summary": "Former Republican state congressman, who once argued Christianity and capitalism should merge, confirmed by US Senate to fill long-vacant role",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Back to Back Barries: why Labor is split on migration",
-      "url": "https://www.theguardian.com/australia-news/audio/2026/aug/08/back-to-back-barries-why-labor-is-split-on-migration",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-07T15:00:25.000Z",
-      "summary": "Barrie Cassidy is back, and kicks off the episode by analysing the conflict in the Labor party over migration that led to the home affairs minister, Tony Burke, pulling out of his scheduled press club speech this week. Tony Barry delves into new Redbridge polling suggesting small gains for One Natio",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Visa overstayers to have work rights revoked if asylum claim rejected",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSl9CZHJqckNMQ1pMcEhsZGkzVEVFZE1Tb3FZS2dydENsT19tQkFHZkw2QjAyU2FqQjdVc3o0bVVQbWhaYm0tN1NzcWk4UHhncDMtbFhpTUNVVV9zdEN5eWdjMloxd0lkLWxCbnRoeGJUMll2QU9vQjBRQ01QbUlOaVpMUFdvN3BCQWc?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -897,7 +910,7 @@
     {
       "title": "MCA Demands Skilled Migration Changes Be Suspended in 2026",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOU81emUxSnhLalhFc0hvaUR3X2NoT25DMk5MTUkwS0k5QzZOdHNSTlNKVnhTYXJMbkhONjlpSmdjcHktU0pTM3NPTFphNjR2NjFSUDVoUklSRzdLbGcwYTdGV3ozc3ZWM2VURUloZHlvXzl1V0pmR2pYLVoyQkxsTnQ1SnB5TGZZcGF3VnNPX2wtNmM?oc=5",
-      "source": "discoveryalert.com.au",
+      "source": "Discovery Alert",
       "publishedAt": "2026-08-07T04:54:43.000Z",
       "summary": "",
       "categories": [
@@ -1108,7 +1121,7 @@
     {
       "title": "Australia’s skilled visa shake-up puts onshore applicants first",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVERJT1U1NFZGdTUyVzVCUTg1STJpWlhYN3VzV1NOWnNOSmtYWVpGdWs0eWMxS2R6R2RqakpaVlJpN2dkSkRnbmdaY291UHcxaXZpam9XZWZFeWxUdGR3dnpQVkJEWnAzM0R0YzhybXVsaTd0cGVJN2paOVFqNzVSOVJZcnAwZ0FHMmZVLW40QS1UZlM4NzhEUG4xQ2FtRmdnT1ZvdEFqdndYLTF3M3pTWDRYWW8zUFVy?oc=5",
-      "source": "theindiansun.com.au",
+      "source": "The Indian Sun",
       "publishedAt": "2026-08-04T06:06:35.000Z",
       "summary": "",
       "categories": [
@@ -1387,6 +1400,19 @@
       "spicy": false
     },
     {
+      "title": "Banks are the real problem of the housing crisis",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTUNsbWdDTTNNdDZQSkpmSHlpVjNONXNjb3ZoX0xVRzhUWXlTbWRtXzJ2eFAtZ203SWd5NDA2a3VCaVpQVkJ5QTZvcm9zRHo5VmdkZEk5NWczYm5uZl9pTnV3VzZMNzl5RmNDVWdzb0hieE9YTmc1LXhjd0hFdHYyaXVNU1FScUhUVzFNR0tZR0dtanp2V2YzR1BZaTRtNHVTazNsa210SVUtQ0hRcVVKZGlNWkQ0WjdkYlNueTlWcEJ3Y1RQWGxQd080ck1BN2hERGxHZkFma1YzLXZxMEtJT2JRQ1VvRVlfM1RBdlZzbzBJeTQ?oc=5",
+      "source": "theaustralian.com.au",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 2,
+      "spicy": false
+    },
+    {
       "title": "Budget loses billions, nation in deeper debt: The cost of cutting migration",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYWp2ZFUtaW9nSlBPVENhbEstbHFSSktENDlRN2lfb21oSllfRjdWTWFCcTFPUDU1UXBud1VDUkhKUTRnTFhBeUJibzFyY1c2Q2J4bmUxZ3BJTzU1REI5QzhWc0JkRUdpeTJ0XzJHMkt5c1pqN1BnU2lhR0xCZEdCb21fWmJkZFpHM1ltdkNUbDV6SUptM1pNNlVsWWF1ck9ON3ZYNzlYcHlXZm9PQmQwOTVjMVZGcHN1cXcwZWVpLUEteXV5aDlsNEhFcnNmZjg?oc=5",
       "source": "SMH.com.au",
@@ -1460,30 +1486,6 @@
       ],
       "relevant": true,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Australia, US, Japan, Vietnam Visa Changes July 2026: New Fees, Income Thresholds, Health Checks Explained",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ29yaWMzTHhuR291bk9KTEkzSk1TRmZ0WUVUYl9jZHZwMGxoRWZYOUdqUTFsYVNmeXB2U1hlMGV0ZUwzMUwwbXFLWENBcGtxOG9NOEVROTk4TEdPNTNlemJXNkI3Z1RDaUFrOXIzMXlRRjVyUDZHWV9xc3FpYmppWWRmV3hmdzBtU1VFUEJ6RVVtOFV5eDVuenBRWTJDQko4SzJKLTljejkycE0?oc=5",
-      "source": "Nomad Lawyer",
-      "publishedAt": "2026-07-04T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "PM and treasurer want to eat the pie themselves, not grow it for all",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkJDZWZGZWxEdkVaRXdCSF9ydjUyZnhpeDVRYTZTWGpVTk04ZUtzdzRWXzU3cVg2djdGRzJRM05wbGlCc2liczdsSE5FSEZjalJ6R3lTWjRYaVpkSGMtc2JfdjhEY1lkUEhHSW5pd0g2dmVIX3hxdEpZd3NmakpKeENxMEZfUFNsSzI0TnloUHc1YkFXUXZsTFJsb0FDVnhWRmNhdDlNSV9ZT2x6aG5fclBFaHNVLXdRZC1QMVFhbFdUVXRr?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-03T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     }
   ]
