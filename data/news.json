@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-13T17:33:38.899Z",
+  "updatedAt": "2026-08-13T19:12:11.589Z",
   "count": 120,
-  "relevantCount": 59,
-  "spicyCount": 14,
+  "relevantCount": 60,
+  "spicyCount": 17,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -35,27 +35,87 @@
     "Absolute Immigration",
     "Crown World Mobility",
     "Expatica",
-    "Fragomen",
     "LinkedIn",
     "MacroBusiness",
     "Michael West Media",
     "Mondaq",
-    "News.com.au",
+    "Nomad Lawyer",
     "Property Update",
     "PwC Australia",
     "SBS",
-    "SMH.com.au",
     "Study International",
     "Sydney Morning Herald",
     "The Australian",
     "The Guardian",
-    "The Indian Sun",
     "William Buck Australia",
+    "fragomen.com",
     "fundsforNGOs",
-    "nomadlawyer.org",
-    "realestate.com.au"
+    "realestate.com.au",
+    "smh.com.au"
   ],
   "items": [
+    {
+      "title": "Companies eye untapped gas in the 'Saudi Arabia of the Pacific'",
+      "url": "https://www.abc.net.au/news/2026-08-14/the-papua-lng-project-near-australia-pacific-saudi-arabia/107028200",
+      "source": "ABC News",
+      "publishedAt": "2026-08-13T19:03:17.000Z",
+      "summary": "Global oil and gas giants are rushing to green-light a massive LNG project on Australia's doorstep as war in the Middle East forces countries to look for alternative energy supplies.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Tomago’s $2.5 billion rescue reignites debate over taxpayer bailouts",
+      "url": "https://www.smh.com.au/business/the-economy/tomago-s-2-5-billion-rescue-reignites-debate-over-taxpayer-bailouts-20260813-p60o2i.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-13T19:00:00.000Z",
+      "summary": "The $2.5 billion taxpayer rescue of Australia’s largest aluminium smelter has raised questions over whether public funds are backing uncompetitive manufacturers.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 9,
+      "spicy": true
+    },
+    {
+      "title": "Anthony Albanese’s fatal flaw spooks Labor colleagues",
+      "url": "https://www.smh.com.au/politics/federal/anthony-albanese-s-fatal-flaw-spooks-labor-colleagues-20260812-p60nus.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-13T19:00:00.000Z",
+      "summary": "The PM’s stubborn streak and refusal to back down is a problem – for everyone.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australia's child support system is being weaponised, data shows",
+      "url": "https://www.abc.net.au/news/2026-08-14/child-support-system-financial-abuse-single-mothers/107026886",
+      "source": "ABC News",
+      "publishedAt": "2026-08-13T18:46:40.000Z",
+      "summary": "Year after year, the government slaps Leah with a family tax debt based on child support that her ex-partner has not paid.",
+      "categories": [
+        "Tax",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
+    },
+    {
+      "title": "Labor ponders deportation focus for visa overstayers in delayed migration overhaul",
+      "url": "https://www.smh.com.au/politics/federal/labor-ponders-deportation-focus-for-visa-overstayers-in-delayed-migration-overhaul-20260813-p60o2t.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-13T18:45:00.000Z",
+      "summary": "It could become more common for border officials to investigate tips about undocumented workers, but the government does not want to create an aggressive, Trump-style system.",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
     {
       "title": "Victorian Liberals want a weekly red bin collection. Is it a wheelie good idea or a load of rubbish?",
       "url": "https://www.theguardian.com/environment/2026/aug/14/victorian-liberals-want-a-weekly-red-bin-collection-is-it-a-wheelie-good-idea-or-a-load-of-rubbish",
@@ -213,7 +273,7 @@
       "summary": "Bulls N’ Bears follows a biotech breakthrough from the laboratory to the patient and examines how Australian companies are negotiating the hurdles along the way.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -227,7 +287,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 8,
+      "score": 7,
       "spicy": true
     },
     {
@@ -238,7 +298,7 @@
       "summary": "That a Swedish private equity firm is now cued up as a likely buyer for the NRL team marks a new era in the commercial coming-of-age for Australian sport.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -249,7 +309,7 @@
       "summary": "The government has quietly undertaken security upgrades at The Lodge and Kirribilli House which have kept Anthony Albanese out of his residences for weeks.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -355,17 +415,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Hanson rejects ex-One Nation candidate's claim homosexuality is a 'mental illness'",
-      "url": "https://www.abc.net.au/news/2026-08-13/pauline-hanson-rejects-parminder-singh-one-nation-homophobic-/107030036",
-      "source": "ABC News",
-      "publishedAt": "2026-08-13T01:20:17.000Z",
-      "summary": "One Nation leader Pauline Hanson distances herself from a failed Western Australian One Nation candidate's homophobic statements, saying they are not her views.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
       "spicy": false
     },
     {
@@ -572,17 +621,6 @@
       "spicy": false
     },
     {
-      "title": "Former RBA governor dragged into KPMG scandal",
-      "url": "https://www.smh.com.au/business/companies/former-sbs-boss-named-kpmg-chairman-after-humiliating-week-20260812-p60nnq.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-12T09:25:39.000Z",
-      "summary": "The former RBA governor and Macquarie chairman has been called before a parliamentary committee over a massive KPMG contract win.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Eli Lilly CEO still wants deal to bring Mounjaro to Australia under PBS",
       "url": "https://www.abc.net.au/news/2026-08-12/eli-lillyceo-still-looking-to-bring-mounjaro-to-australia/107030066",
       "source": "ABC News",
@@ -718,30 +756,6 @@
       "source": "ABC News",
       "publishedAt": "2026-08-12T04:43:18.000Z",
       "summary": "The prime minister and NSW premier are expected to announce a bailout for the country's largest aluminium smelter tomorrow.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "‘Socialist’ teachers encouraging students to protest One Nation: Joyce",
-      "url": "https://www.smh.com.au/politics/federal/socialist-teachers-encouraging-students-to-protest-one-nation-joyce-20260812-p60nk1.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-12T04:23:40.000Z",
-      "summary": "“Students say no to Hanson” protests will be held on Thursday, with organisers hoping for a national turnout of 10,000 young people.",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Coalition backs Hanson on foreign fighters despite Howard’s plea to counter One Nation",
-      "url": "https://www.smh.com.au/politics/federal/coalition-backs-hanson-on-foreign-fighters-despite-howard-s-plea-to-counter-one-nation-20260812-p60nkt.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-12T01:25:08.000Z",
-      "summary": "The opposition wants an inquiry on One Nation’s ploy to keep terror-linked Australians out, despite not having the numbers to set one up and previously vowing to fight the party.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -977,7 +991,7 @@
     {
       "title": "Australia retains AAA as tax changes and spending cuts help bottom line",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbTlTMmFqRGZPU1lDTHFvZjJVUG83eWdzbzJ2ODhZSnFpQWxnOElrZ0VPZ0tHcklWaENyUGtIOENfajFVeWZ3Z08xSWEyVEk4eGwwU3N2OFVNdVpIRkdFcU03S0ZMWHY0bllYNE92Y0k5Q3I1X0VkSUlqM1JfNzhkeURjenFLclNKSFF3Tlo0TDVsb0k0dzBKVmR3NXRIT2o2ZTZsYUI5MFBpOGRibEJxa3FkYWhXTXZuM2tEVnk4WC00MkRLUVUxSEZRMzI?oc=5",
-      "source": "SMH.com.au",
+      "source": "smh.com.au",
       "publishedAt": "2026-08-06T06:49:15.000Z",
       "summary": "",
       "categories": [
@@ -1088,19 +1102,6 @@
       "spicy": false
     },
     {
-      "title": "Australia’s skilled visa shake-up puts onshore applicants first",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVERJT1U1NFZGdTUyVzVCUTg1STJpWlhYN3VzV1NOWnNOSmtYWVpGdWs0eWMxS2R6R2RqakpaVlJpN2dkSkRnbmdaY291UHcxaXZpam9XZWZFeWxUdGR3dnpQVkJEWnAzM0R0YzhybXVsaTd0cGVJN2paOVFqNzVSOVJZcnAwZ0FHMmZVLW40QS1UZlM4NzhEUG4xQ2FtRmdnT1ZvdEFqdndYLTF3M3pTWDRYWW8zUFVy?oc=5",
-      "source": "The Indian Sun",
-      "publishedAt": "2026-08-04T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Warnings Labor's plan to delay family reunions could be 'human rights issue'",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHQyc2g0WmxBYUN2QTNldVNvOXZ0QV9ZZ2x3bTlRZmdYMVZ6THFGcEVnanVrblRaVnlOTjJmcGRkdHE5RjRtZXVyQnl5cVMwWGFXcXd0NXFuWFNVdEJ2ZTNYazFsa3ZEZ3FheEdCajhKaTl2VHEtVnFSYWpYX0ZKUnViQ1dOLXJvWjA0dmF6RUJtdmdiQ2VsRGE5MTY?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1127,7 +1128,7 @@
     {
       "title": "One bold, fiscal move would ease our economic anxiety. Does the PM have the nerve?",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcm5FeVJ3TlNWSHpwYTVoekRDd2g4ZVY4MVVjbV9RUF9RS2c0UjZncU43c1VFQ0FRdnYtVlBpbGRCc0QtVHhrd2M0Unc2T0kwdHZDeTBkdUdVMjFZbGQwdk1lUllscC1lTi1IMG43aWRDbmtMWnQ0QTVQbXBjZmVDQzNuQTRXOVRXa05uUFVUaHg2ckFDeW1oYldQdlhfb1pkdTdWS1RKVWRkS0QzMHduanpRUXY3R04xQU1hZW1neldwdGhJMllCX1lXTVplQ2lPTWxiTXByWQ?oc=5",
-      "source": "SMH.com.au",
+      "source": "smh.com.au",
       "publishedAt": "2026-08-01T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1215,7 +1216,7 @@
     {
       "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
-      "source": "Fragomen",
+      "source": "fragomen.com",
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1228,7 +1229,7 @@
     {
       "title": "Does One Nation’s migration policy actually add up?",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWJuc3NvdXJoUU1uOWRXbGdLQzBYa2I5YzJxOEtLN3N2cE52YXJQNGNwSmpJa3lGMFlPOU0xZERGb1ROcDdxYmxQS1ZFaDZkTjFYMnIyd2NXb2syVW9GVkV5ZzlPclVZTC1fSGVxRFdnZTdudEdKS2F5MnBvUUVkdllkM0VYSEZWT0VSTkNURmQwYjVYbE5BRmxhRG1paGEtdUtjbm9DS1R5a0dZSlpVZg?oc=5",
-      "source": "SMH.com.au",
+      "source": "smh.com.au",
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1241,7 +1242,7 @@
     {
       "title": "Minimum Salary Changes Announced",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
-      "source": "Fragomen",
+      "source": "fragomen.com",
       "publishedAt": "2026-07-21T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1252,7 +1253,7 @@
     {
       "title": "Budget improves by billions, but petrol pain about to grow",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjMyN1R5OTJoeU1ySDRXRzRqbDlLYmNISktIRDV3UmFjQUM0Zkk4LVhzUVNvUWFRNktjdXBOVTd6V2tEdXpPcWt2UlJKYkNOYTlwRUFzcGwwWkVuZ0ZhZHBUdV8tZ2VxZU9XamU1QXpaM1ZrQWNhNllUSWVMT1AybHgycnZ3UzBtSk9JaDJ2WXZoZ3NQWm1oU2VLdXBhRVhLU0JxVTlsY1JjYnYwVjBWa094YjMyNGlXc3c?oc=5",
-      "source": "SMH.com.au",
+      "source": "smh.com.au",
       "publishedAt": "2026-07-20T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1339,7 +1340,7 @@
     {
       "title": "Budget loses billions, nation in deeper debt: The cost of cutting migration",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYWp2ZFUtaW9nSlBPVENhbEstbHFSSktENDlRN2lfb21oSllfRjdWTWFCcTFPUDU1UXBud1VDUkhKUTRnTFhBeUJibzFyY1c2Q2J4bmUxZ3BJTzU1REI5QzhWc0JkRUdpeTJ0XzJHMkt5c1pqN1BnU2lhR0xCZEdCb21fWmJkZFpHM1ltdkNUbDV6SUptM1pNNlVsWWF1ck9ON3ZYNzlYcHlXZm9PQmQwOTVjMVZGcHN1cXcwZWVpLUEteXV5aDlsNEhFcnNmZjg?oc=5",
-      "source": "SMH.com.au",
+      "source": "smh.com.au",
       "publishedAt": "2026-07-14T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1402,7 +1403,7 @@
     {
       "title": "Australia, US, Japan, Vietnam Visa Changes July 2026: New Fees, Income Thresholds, Health Checks Explained",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ29yaWMzTHhuR291bk9KTEkzSk1TRmZ0WUVUYl9jZHZwMGxoRWZYOUdqUTFsYVNmeXB2U1hlMGV0ZUwzMUwwbXFLWENBcGtxOG9NOEVROTk4TEdPNTNlemJXNkI3Z1RDaUFrOXIzMXlRRjVyUDZHWV9xc3FpYmppWWRmV3hmdzBtU1VFUEJ6RVVtOFV5eDVuenBRWTJDQko4SzJKLTljejkycE0?oc=5",
-      "source": "nomadlawyer.org",
+      "source": "Nomad Lawyer",
       "publishedAt": "2026-07-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1421,19 +1422,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "‘Wild’: Shock as Aussie visa fees skyrocket",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNWVMOHIzbmNDdW9ZNV94SlpPSm9MbW1EUmlDVm1ibl92Q3V4d05rRTZ2bFRkeDdfa29ROU9DdDFhbENMYjJZWU5rdzlfclpMM0xaTS1YR3dBSEJlLWtDeHRUSldvQWY3NVl5bFlBYzFkMGpkbmxOblhZeTZLZDBwY3lFNEZOUWRBeFpsVzV0aTZySFY4X0ZDTEJQN3d6LXNOSENsV09oVWdGd0kwZzQ4MnJyX3YtN21aRFJIRGRKLVNYekRMaEpJZFNqZXJoekpxelJ2d3NqWGdBRHNkazhQMTd1cjVQNFpta21PdHMwd3htMWFxb3fSAfsBQVVfeXFMT2NzYmtRSmhDZHdRMThyTVZiMnhuSFQzVUEtcW93TWVtdU50ZmVqTHJzaTZMbVVGUnRTZ3NOTVd1clBNZ0F2c3U3bkZKZTJBZkNsSWI3N0dxakI1d1NkQll3ZkZ1bXFGYUFKQTRNbS1zMlRQTVd6VUsyQUVWSVpuLWRTLWIwZUFWRXB0YzdKdzMtRjI1SmUtTU5OR3RNaXdOUkY4RlhOV25IUlF0dzVuSVIwVzBBdnJPUWFpVm1xV3hmdHFnaW9UdnNXb3prSU1ZT0xBLVF5VEJ5NTZPT281aHl0Vi0yaXJjcFdGRFRMUnl5aXNZcUZ6TWM5LXM?oc=5",
-      "source": "News.com.au",
-      "publishedAt": "2026-07-03T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 5,
       "spicy": false
     },
     {
@@ -1463,7 +1451,7 @@
     {
       "title": "House values fall – but homes are not getting more affordable",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX29XcHAxWHZETUlWTENzeGNLWEJsMkR5ZkdSQVVmaDRSNjdCSnFUcWVQNjhRSEhpV0NLYkEtcXU3d2FKeGRNbUhyVkRsQ0lIRURfbnN5eGc1N1lCLUFGMkxDU3pzVjgwdmhrdWhUQkZ2Z29jR1hhNm9ieEJYNkdPaHJmMUZkVzN1czBORGc3VzE5dG5jbDZXWnZMUWVURTNIMzJiSjhzcE1QbFVtNk5pYlVENWgxUnJHQ01mUA?oc=5",
-      "source": "SMH.com.au",
+      "source": "smh.com.au",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1498,6 +1486,20 @@
       "relevant": true,
       "score": 0,
       "spicy": false
+    },
+    {
+      "title": "From student and TR visas to partner and PR: Australian visa fees hikes across most categories",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUUo1T0RjWDhTeTh0QjNHcjZRY0w3MXpkUURxb0FMV3VSVmY3UmdtQktOUXlsMDYzaGk5N2tVdGVNZUl5YWQ2dVRjdmdIWHkwTVFVdzdjQjFfLWVpbFh2VkFYMEpWbzNEWnN6Mm9nc2tlajlLaEVLVGx4TXlaZml3aUpnaThXQ3ZQMnJZZnRHZ0w0WkZPcTNFc2NvamhOeV9HUHc1SFZYR09JTmZwOU9odmI5aW9JN3lQMzlhWlZ6aEF2R1hIcHNZLUxnbjhmVDNJeXhn?oc=5",
+      "source": "SBS",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
     }
   ]
 }
