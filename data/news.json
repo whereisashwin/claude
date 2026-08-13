@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-13T14:00:22.466Z",
+  "updatedAt": "2026-08-13T15:09:48.031Z",
   "count": 120,
-  "relevantCount": 60,
+  "relevantCount": 61,
   "spicyCount": 15,
   "spiceThreshold": 5,
   "categories": [
@@ -30,15 +30,17 @@
   ],
   "sources": [
     "ABC News",
+    "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
+    "Absolute Immigration",
     "Crown World Mobility",
     "Expatica",
     "Fragomen",
     "LinkedIn",
     "MacroBusiness",
+    "Michael West Media",
     "Mondaq",
     "News.com.au",
-    "Nomad Lawyer",
     "Property Update",
     "PwC Australia",
     "SBS",
@@ -49,12 +51,46 @@
     "The Guardian",
     "The Indian Sun",
     "William Buck Australia",
-    "abc.net.au",
     "fundsforNGOs",
-    "michaelwest.com.au",
+    "nomadlawyer.org",
     "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Victorian Liberals want a weekly red bin collection. Is it a wheelie good idea or a load of rubbish?",
+      "url": "https://www.theguardian.com/environment/2026/aug/14/victorian-liberals-want-a-weekly-red-bin-collection-is-it-a-wheelie-good-idea-or-a-load-of-rubbish",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-13T15:00:05.000Z",
+      "summary": "Fortnightly household waste collections are increasingly considered best practice – but the leader of the opposition argues they’re ‘disgusting’",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "One Nation staffer accused of posing as leftwing content creator in ‘undercover’ videos",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/14/one-nation-staffer-accused-of-posing-as-leftwing-content-creator-in-undercover-videos-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-13T15:00:04.000Z",
+      "summary": "Exclusive: The videos, filmed at anti-One Nation rallies, were posted to party’s social pages and appear to be endorsed by Pauline Hanson",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "I protested against Pauline Hanson 28 years ago – now my teenager is doing the same thing | Philippa Chandler",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/14/pauline-hanson-student-protests-mother-daughter-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-13T15:00:04.000Z",
+      "summary": "In 1998, when I was in year 11, my friends and I wagged school to protest the One Nation leader. Now my daughter has joined the school walkout",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "‘Melancholic fantasy’: Wong escalates Labor rhetoric against Hanson, condemning ‘monoculture’ comment",
       "url": "https://www.theguardian.com/australia-news/2026/aug/13/penny-wong-labor-rhetoric-pauline-hanson-monoculture-ntwnfb",
@@ -274,7 +310,7 @@
       "summary": "AI-generated illustrations published in Australian newspapers have raised fears about the future of the cartooning industry, which one artist says is \"shrinking dramatically\".",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -285,7 +321,7 @@
       "summary": "This masthead can reveal the contract to sell a Canberra-built radar system to the UK would be worth more than $10 billion.",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 6,
       "spicy": false
     },
     {
@@ -296,7 +332,7 @@
       "summary": "Dineth Fernando has only been in Australia for seven months and has already brought home a world youth title for his country.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -679,17 +715,6 @@
       "spicy": false
     },
     {
-      "title": "RBA sees torrid times ahead for homebuilders",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1hmVVhIVmhzZ19vQzgxZ1FhdHFCQm8yUmhhVHpwbTl1LXA0OXEzeTJUUml4VDk2QWdFRU9oa3RrTU4wcVhRVDZKWGpRT0RHcEg0U2M4XzAyYzRJN3BkZU9kU3lUQkI3WEFEVFYxNHctRXplTU1lVUtHUHAzX2I3NWRlbUltR2pHSEp2YUx6SQ?oc=5",
-      "source": "MacroBusiness",
-      "publishedAt": "2026-08-12T04:01:10.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Coalition backs Hanson on foreign fighters despite Howard’s plea to counter One Nation",
       "url": "https://www.smh.com.au/politics/federal/coalition-backs-hanson-on-foreign-fighters-despite-howard-s-plea-to-counter-one-nation-20260812-p60nkt.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -703,7 +728,7 @@
     {
       "title": "Commonwealth Bank home loan applications fall 15pc since May, profit up to $10.9b",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDdQRW5rSnhjeGdrMEFNeGJmZ1hwSm91OU1pNFg3U011ZlJIUUtiWFhNbjVUMUxhN2ZRY2pzVkRIRDZNeFFvZUt0LVF4WjIxRndsNFVicm04QkV2eE5LcERiWTdnaW85alZzTF92b29yRjBOQ2laZ3ppcTU1ZmptZzlBRUZ0bGl3cmhJRmdvNWdfdmp6MnBwVGRrVXg?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-12T00:16:34.000Z",
       "summary": "",
       "categories": [],
@@ -771,35 +796,11 @@
       "spicy": false
     },
     {
-      "title": "Coalition to back Hanson’s migration policy despite pledging to fight One Nation",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/12/coalition-to-back-one-nation-policy-barring-overseas-australians-with-terrorist-links-from-returning-home",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-11T15:00:02.000Z",
-      "summary": "Angus Taylor and Matt Canavan to support bill barring overseas Australians with terrorist links from returning home",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "NSW and Queensland on verge of rating cut after hit to stamp duty",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHhRejBfS2Vwa1BpZHpFNWczMmpHSEt1QjNQQ3FmZzFRQkZJQ3E0eGJ1V2dPcFR0VE9aVjNZMHNaRmhJNE9PSDdheHNxMnpTQ3oySzBhU0tQRjRGWlFsX3NhdDY2ZDBsVk1Kby1UdjkzczFhVDZJdE01RldUN3dab3NIc1o2UktyNmc4QUhMalJIa1BHOFJONTJfMjNWVTMwME5sWVA3dEFDNW1uc05qTUwxTG56RTh0UFBvY0RSZw?oc=5",
       "source": "AFR",
       "publishedAt": "2026-08-11T10:00:00.000Z",
       "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Coalition divided over tougher gambling laws – with MPs warning Angus Taylor against overreach",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/11/coalition-divided-angus-taylor-gambling-laws-overreach",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-11T08:55:59.000Z",
-      "summary": "Some Liberal and National MPs warn against overregulation in party-room discussion, while others argue for more stringent rules",
       "categories": [],
       "relevant": false,
       "score": 5,
@@ -814,17 +815,6 @@
       "categories": [],
       "relevant": false,
       "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Bullock warns more hikes possible after RBA holds cash rate at 4.35% – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-11T07:56:48.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 10,
       "spicy": false
     },
     {
@@ -902,7 +892,7 @@
     {
       "title": "Visa overstayers to have work rights revoked if asylum claim rejected",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSl9CZHJqckNMQ1pMcEhsZGkzVEVFZE1Tb3FZS2dydENsT19tQkFHZkw2QjAyU2FqQjdVc3o0bVVQbWhaYm0tN1NzcWk4UHhncDMtbFhpTUNVVV9zdEN5eWdjMloxd0lkLWxCbnRoeGJUMll2QU9vQjBRQ01QbUlOaVpMUFdvN3BCQWc?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-07T06:51:46.000Z",
       "summary": "",
       "categories": [
@@ -915,7 +905,7 @@
     {
       "title": "Country cafe mounting costly battle to retain beloved barista",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFJXNW5BMy1ZYlg4aGVXX1AzRmptSWYxOWpJZGgwTm1iR2EtWVd2WmhocnVOaVVUa1FYS1hZTFduTXctUHRRMkg4ek81OFVRV0JOa3lmbkFVRldBOGVZbUZEZmFPZkx1RWNmY0tyQURGbHdTLXhxVFprYWZvbGpJTThwTVgzbG1VUlRKVGpwYnJYUHBNbnVvZnpzdHY?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-06T22:05:22.000Z",
       "summary": "",
       "categories": [],
@@ -926,7 +916,7 @@
     {
       "title": "Tax changes get tick of approval from ratings agency",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWJ2c1pHVHdRVVhRRTNiOEloR2VVSGtFRFBUaGF2SDE1dHMwVkJEOHd0emdfaDFwd2J0TFVXQk91TnI3dkFpa3RHX0ZZSWx0X1JpcEtaRVJEVjRScUxXY3I1SVlSQUM0d2RqT3k4cnQ1WHJQck40SkZqRjZUWXFRc2thUnRtalU?oc=5",
-      "source": "michaelwest.com.au",
+      "source": "Michael West Media",
       "publishedAt": "2026-08-06T19:13:04.000Z",
       "summary": "",
       "categories": [
@@ -1004,7 +994,7 @@
     {
       "title": "Pauline Hanson does 'not care' if immigration cuts impact businesses",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-05T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1052,7 +1042,7 @@
     {
       "title": "Labor's quiet visa change prioritises onshore workers",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFc5bXZaUWh5eEhuT3gzdGl3SlowZzlZeW00X1d4TkxmR1lsZHlPMWVvQWw2WVV0bVEzcndoWlVYLTRMSVMwbWVyM1hYQXNfemFjSzZsU3ZPRTEzQlBJREx1d2RxU1hJMGdxTHhjLVRrVmtwYjl2SzhjT0xVT3l4ZDRsei1WZzVuYkg3ZXpBMEhkVE5HdFBPMDQxUktXcjJjanRaS0d5VXJwcUE?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1091,7 +1081,7 @@
     {
       "title": "Warnings Labor's plan to delay family reunions could be 'human rights issue'",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHQyc2g0WmxBYUN2QTNldVNvOXZ0QV9ZZ2x3bTlRZmdYMVZ6THFGcEVnanVrblRaVnlOTjJmcGRkdHE5RjRtZXVyQnl5cVMwWGFXcXd0NXFuWFNVdEJ2ZTNYazFsa3ZEZ3FheEdCajhKaTl2VHEtVnFSYWpYX0ZKUnViQ1dOLXJvWjA0dmF6RUJtdmdiQ2VsRGE5MTY?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1102,7 +1092,7 @@
     {
       "title": "Labor was poised to reveal massive migration cuts, then suddenly delayed",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHZmVWloM2JsLXNBZHhFamVlRHByZkowdnctRTY0SXAtTGRiYmhVUm5rOWhaeGUwMDBrZHI5MFlQbDliUXVqR0NHalpCTkt2ZFN3WG1WRVFhVHlMRDI1VHh0WFE4VjZwYTNxN1ExLW1qNVdOcHVhbzlwQ3JMVUFVZURacDZnbENwXzJMRC14VnQ4a05DMXBTSEdB?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1367,7 +1357,7 @@
     {
       "title": "Curbing well-off taxpayers' access to key programs could save billions",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGVwWTFMNkZJeWZqc3ozeU0tR0swWWVZYTRQM1JNbjQ2RkJLS2xoT21kV0hCNnBlbnpxdkVQRWFXS1pRcXJwYjI0bkFhejY4QkRQeHhacF9uOHRsRTlFdGZTbGQxazJrU0ZvNjdkVnQxWTFHOW1PdXVuRzk2WTZjQTFhVUFLaVhGdG44NkdsbEQ0WVoxdUtSa0NGUVQ2MkpiZDJtdg?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1417,7 +1407,7 @@
     {
       "title": "Australia, US, Japan, Vietnam Visa Changes July 2026: New Fees, Income Thresholds, Health Checks Explained",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ29yaWMzTHhuR291bk9KTEkzSk1TRmZ0WUVUYl9jZHZwMGxoRWZYOUdqUTFsYVNmeXB2U1hlMGV0ZUwzMUwwbXFLWENBcGtxOG9NOEVROTk4TEdPNTNlemJXNkI3Z1RDaUFrOXIzMXlRRjVyUDZHWV9xc3FpYmppWWRmV3hmdzBtU1VFUEJ6RVVtOFV5eDVuenBRWTJDQko4SzJKLTljejkycE0?oc=5",
-      "source": "Nomad Lawyer",
+      "source": "nomadlawyer.org",
       "publishedAt": "2026-07-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1492,6 +1482,19 @@
       "title": "1 July Changes: Australian visas and migration",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVZ2ME9od0h5aTRzLTFqTlJNWWVVTXBwOUZJd3ZQc2czWGhYb0FpUzJtdE8tVnFCNXZkZ3hMSTRFajFLa2tUai1CWHZIZ295X1VPZXVHVlgwNVFleWVYNjZPRU9hUU90cFlxSjBxVEFkV1ZjcFZkdzNteVkwOFFUZFBqaHhNSDRUdGRycFFUakFiOEctWkE?oc=5",
       "source": "LinkedIn",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Visa application charges and key immigration fees increase from 1 July 2026",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGVPWTFHcUNwbi0zOTZ3UTdIZEdLVTg3NUN6Z2ZaazBUZGRDSGYwcDUwNzRzc3oyWTRhQjNROEllcDBiSXlKTEk5T0NzMVA3YUcwSWdjaS1FZG02U1Q2TTNuZkdmZTBsMzJWaEZDTFV2amtIclBjcjFOcVp4cXVBWXc4cDVRV3JRMUFQUmlwX3IwRldZTnc0T0RzNEF5SGxOY2J5djhkV3UzeTA4Q0s3ek13?oc=5",
+      "source": "Absolute Immigration",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
