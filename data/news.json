@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-13T20:05:48.272Z",
+  "updatedAt": "2026-08-13T21:24:01.519Z",
   "count": 120,
-  "relevantCount": 63,
-  "spicyCount": 16,
+  "relevantCount": 62,
+  "spicyCount": 17,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -31,17 +31,15 @@
   "sources": [
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
-    "AFR",
     "Absolute Immigration",
     "Australian Property Update",
     "Crown World Mobility",
+    "Expatica",
     "Fragomen",
-    "Independent Australia",
     "Khaleej Times",
     "LinkedIn",
     "MacroBusiness",
     "Michael West Media",
-    "Nomad Lawyer",
     "Property Update",
     "PwC Australia",
     "SBS",
@@ -52,12 +50,93 @@
     "The Australian",
     "The Guardian",
     "William Buck Australia",
-    "expatica.com",
+    "afr.com",
     "fundsforNGOs",
     "news.com.au",
+    "nomadlawyer.org",
     "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Australia news live: Albanese and Trump speak overnight; KPMG apologises to whistleblower ahead of inquiry",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-13T21:23:15.000Z",
+      "summary": "The prime minister is expected to say more about the call on Friday morning.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australia news live: KPMG apologises to whistleblower as firm fronts inquiry over ethical failures",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-13T21:10:53.000Z",
+      "summary": "Parliamentary committee continues investigation into KPMG audit leaks.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Live: Albanese and US President Donald Trump speak in overnight phone call",
+      "url": "https://www.abc.net.au/news/2026-08-14/federal-politics-live-blog-albanese-trump-call/107036180",
+      "source": "ABC News",
+      "publishedAt": "2026-08-13T21:08:14.000Z",
+      "summary": "Anthony Albanese has spoken with US President Donald Trump in a phone call overnight.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Deadly bird flu detection creates fear for tourist drawcard",
+      "url": "https://www.abc.net.au/news/2026-08-14/bird-flu-detection-creates-fear-for-bird-filled-tourist-drawcard/107024950",
+      "source": "ABC News",
+      "publishedAt": "2026-08-13T21:07:59.000Z",
+      "summary": "A seaside town on the NSW South Coast braces for the potential impact of bird flu on its upcoming tourist season after an infected dead bird was discovered last Saturday.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Baby girl born in driveway of Queensland police station",
+      "url": "https://www.abc.net.au/news/2026-08-14/qld-baby-born-in-car-in-driveway-of-police-station/107036140",
+      "source": "ABC News",
+      "publishedAt": "2026-08-13T20:43:54.000Z",
+      "summary": "Officers were returning to the police station when they were flagged down by a man parked in the driveway.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Property lobby calls for stamp duty change for first home buyers",
+      "url": "https://www.abc.net.au/news/2026-08-14/call-to-waive-stamp-duty-for-first-home-buyers-established-homes/107013130",
+      "source": "ABC News",
+      "publishedAt": "2026-08-13T20:24:31.000Z",
+      "summary": "First home buyers in three Australian jurisdictions are being slugged tens of thousands of dollars in taxes when buying established homes, as a property industry lobby says now is the time for concessions.",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 10,
+      "spicy": true
+    },
+    {
+      "title": "Committee to examine Rushy Lagoon sale as farmers seethe over 'betrayal'",
+      "url": "https://www.abc.net.au/news/2026-08-14/parliamentary-committee-to-probe-rushy-lagoon-sale/107014090",
+      "source": "ABC News",
+      "publishedAt": "2026-08-13T20:08:00.000Z",
+      "summary": "A parliamentary inquiry, proposed by the Tasmanian government, will examine aspects of the sale of the state's largest farm to a UK investment firm that has plans for a large pine plantation on the site.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "One of Australia's longest-serving editors dies aged 96",
       "url": "https://www.abc.net.au/news/2026-08-14/robin-letts-editor-of-buloke-times-dies-aged-96/106943368",
@@ -171,7 +250,7 @@
       "url": "https://www.theguardian.com/commentisfree/2026/aug/14/pauline-hanson-student-protests-mother-daughter-ntwnfb",
       "source": "The Guardian",
       "publishedAt": "2026-08-13T15:00:04.000Z",
-      "summary": "In 1998, when I was in year 11, my friends and I wagged school to protest the One Nation leader. Now my daughter has joined the school walkout",
+      "summary": "In 1998, when I was in year 11, my friends and I wagged school to protest against the One Nation leader. Now my daughter has joined the school walkout",
       "categories": [
         "Family & Education"
       ],
@@ -180,7 +259,7 @@
       "spicy": false
     },
     {
-      "title": "Is Australia’s Buy Now Pay Later boom at an end?",
+      "title": "Is Australia’s buy now, pay later boom at an end?",
       "url": "https://www.theguardian.com/business/2026/aug/14/is-australias-buy-now-pay-later-boom-at-an-end",
       "source": "The Guardian",
       "publishedAt": "2026-08-13T15:00:03.000Z",
@@ -239,23 +318,12 @@
     {
       "title": "Weight-loss subsidies threaten $10b drain on federal budget",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVJLUkE3bzh0S2dRNW5KN1lhbC01N0htTUo4VktzZUxqRGtxSTB1b3ZiU0lsWWRQRGJOYUdqMHU4c2ZISkxsWk5Bbm5MZ2F1ajZrTnU4d0dvVEtzaEc4WUdmT2hQQVV5ajY1YUdiQk1Fc0FCR0VwY3RVX2dMdW9nZkhvVzhtUmJETjBsYjFWcFViRWlYRUM4WS1NMHRLZ0VuMlk5bmEwem1lUU00dDU0THQzaEJoM0lOQi1XSzlLVFZYdFBhRkxz?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-13T09:51:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
       "score": 7,
-      "spicy": false
-    },
-    {
-      "title": "Quick hits: A 'peanut' jibe, a Starc record and a brain explosion",
-      "url": "https://www.abc.net.au/news/2026-08-13/australia-vs-bangladesh-quick-hits-day-one/107029612",
-      "source": "ABC News",
-      "publishedAt": "2026-08-13T08:23:18.000Z",
-      "summary": "Steve Smith called a Bangladesh bowler a \"peanut\" for making an appeal, but he could probably have labelled a couple of his batting colleagues as such on a dire batting display for Australia. Here are the quick hits from day one of the first Test between Australia and Bangladesh.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -266,7 +334,7 @@
       "summary": "Labor’s political opponents have united behind the Coalition to order Anthony Albanese to hand over official documents regarding “melon” comments the prime minister made in a crude podcast interview about a gift from the Japanese prime minister.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -419,6 +487,19 @@
       "categories": [],
       "relevant": false,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Public servant wages drown state budgets in debt",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPckZxY2YxZGw4c2k4OU1HVERfQmxXUG9GRXJjZzNEaW1fNDNXbHVCWHRuTHFLYTFFR0F1ZHF1NmthUUZuMENadnhKc2tmUWpLUlNKYVdNZHBHOWJjZjZJTV80aVVnbElQVHFxVVVnZW9nZXJlNC1WeXYzU2JfdXJhWkxTRGNKdExKZ2lMRHF5RjZnTTNh?oc=5",
+      "source": "MacroBusiness",
+      "publishedAt": "2026-08-13T01:05:21.000Z",
+      "summary": "",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     },
     {
@@ -650,37 +731,15 @@
       "spicy": false
     },
     {
-      "title": "Energy minister admits to mistakes during lagging renewables rollout",
-      "url": "https://www.abc.net.au/news/2026-08-12/nsw-energy-minister-renewable-rollout-speed-mistakes/107023414",
-      "source": "ABC News",
-      "publishedAt": "2026-08-12T05:56:27.000Z",
-      "summary": "NSW Energy Minister Penny Sharpe says the rollout of renewable energy zones has been \"too slow\", with mistakes inevitable as part of efforts to speed up the process.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Chalmers optimistic house price forecast ‘mugged by reality’",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2lLVHNtczZFYzFNa1NCMkZOOVVRUTA4eThwU2ZpaWV3amtFMHZmWjBkVGdXRTZfNVNOQ0ZQM21SLUFVRzJjUlNrVllteEVJeXFmc2tIQ0V4dHQyT2E5V1dvdFgwNUdCcFBNOXNEblBVbWN2bGd2RUIwX2lIVmdRdUVJTXJjVG1fSmJnUW1SR21XdXZHcXk2bmJ3eUZ3VjRWVGIyd0F2d21Yck0yOWc?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-12T05:39:00.000Z",
       "summary": "",
       "categories": [
         "Housing"
       ],
       "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Western Power staff stood down after backing manager in rape trial",
-      "url": "https://www.abc.net.au/news/2026-08-12/western-power-staff-gave-rapist-manager-character-references/107027618",
-      "source": "ABC News",
-      "publishedAt": "2026-08-12T05:30:00.000Z",
-      "summary": "Western Australia's energy minister lashes out at Western Power employees who provided references for a senior manager who was jailed for raping a female colleague on a work trip.",
-      "categories": [],
-      "relevant": false,
       "score": 3,
       "spicy": false
     },
@@ -720,17 +779,6 @@
       "spicy": false
     },
     {
-      "title": "Australia's largest aluminium smelter expected to get emergency bailout",
-      "url": "https://www.abc.net.au/news/2026-08-12/tomago-aluminium-smelter-bailout-announcement-expected/107014046",
-      "source": "ABC News",
-      "publishedAt": "2026-08-12T04:43:18.000Z",
-      "summary": "The prime minister and NSW premier are expected to announce a bailout for the country's largest aluminium smelter tomorrow.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Commonwealth Bank home loan applications fall 15pc since May, profit up to $10.9b",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDdQRW5rSnhjeGdrMEFNeGJmZ1hwSm91OU1pNFg3U011ZlJIUUtiWFhNbjVUMUxhN2ZRY2pzVkRIRDZNeFFvZUt0LVF4WjIxRndsNFVicm04QkV2eE5LcERiWTdnaW85alZzTF92b29yRjBOQ2laZ3ppcTU1ZmptZzlBRUZ0bGl3cmhJRmdvNWdfdmp6MnBwVGRrVXg?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -766,20 +814,9 @@
       "spicy": false
     },
     {
-      "title": "Malcolm in the middle: what can Labor learn from Turnbull’s doomed attempt to govern from the centre? | Peter Lewis",
-      "url": "https://www.theguardian.com/australia-news/commentisfree/2026/aug/12/malcolm-in-the-middle-what-can-labor-learn-from-turnbulls-doomed-attempt-to-govern-from-the-centre",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-11T15:00:04.000Z",
-      "summary": "Ten years after my first Essential column for the Guardian, another centrist government is confronting a global bin fire in the face of a resurgence of populism I wrote my first column for Guardian Australia in August 2016, when the winds of chaos were sweeping the globe, the forces of division were",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "NSW and Queensland on verge of rating cut after hit to stamp duty",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHhRejBfS2Vwa1BpZHpFNWczMmpHSEt1QjNQQ3FmZzFRQkZJQ3E0eGJ1V2dPcFR0VE9aVjNZMHNaRmhJNE9PSDdheHNxMnpTQ3oySzBhU0tQRjRGWlFsX3NhdDY2ZDBsVk1Kby1UdjkzczFhVDZJdE01RldUN3dab3NIc1o2UktyNmc4QUhMalJIa1BHOFJONTJfMjNWVTMwME5sWVA3dEFDNW1uc05qTUwxTG56RTh0UFBvY0RSZw?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-11T10:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -825,7 +862,7 @@
     {
       "title": "Westpac mortgage applications plunge 20pc after budget, rate hikes",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXJ0YjFhMFRiTFFtZGpmSEdUcmd2djhxX2EtQW10N0I2MF9vNktBX01WSWdRSkZlamVjVTZBemxSMmNvSFF6bXE4MUV5SC1UaXhnVWF6dEFjbm1OSFM4RzZjNi0zb1BBaXBOQml1ZS1UWkVwaFNkLWRBcElPS0JtbE43SWZsbXpGejRpOC1DQ1phREJSM2VnLVNVUVkzNDVGM0o0alVOQ1NEQ20xV0ZWSFRpV1FrbGpjWjAtUU9JaW9HVFk1?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-10T01:33:00.000Z",
       "summary": "",
       "categories": [
@@ -849,7 +886,7 @@
     {
       "title": "Business pleads with states to waive fees caused by trust crackdown",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT1d2Y0FBY0c2REprcV9BQVpuLUN5MmFoeGsyalBCQnppSEdTUVRaS0ZJbHVpRmlkRTFsajRKWWxrYTlKTDBjZHMxWUtzeS1ULXNwQnZoZEx2MUZQN3RNTFlMN1h6ZFBiVklsVWVOYklsQ0NpRnhLRXBvR2tKZmlGM09oRFlvZGpSMDctbHBid25fWTFHaEozaWNZa3FMbUdqVzFxQy1QeFpGQ1VCRGJFWGYzcHc2c29ua2o0RA?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-09T12:30:00.000Z",
       "summary": "",
       "categories": [],
@@ -962,7 +999,7 @@
     {
       "title": "Coalition, One Nation accuse Labor of playing catch-up on immigration",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNzgwb1V4d0lwMk5xbkhwcTdpMTU0aXc2WVZTazAxQWJTUlBYeXc4NWo5RUtZZnZFZkE1czI0TjF5ZmRPY2hsYzQ3NF9kZmxneWoxVmpPalhaOTZXZFJWd3Y4d2M2UWFWR1dRblA0akYxenRpdVF4VjJRdVlpS01SNmsteWpFNS01aVNvRXR3b2VITXNvR2FGRGVTSmhEV3lpaE1n?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-05T07:36:00.000Z",
       "summary": "",
       "categories": [
@@ -1008,19 +1045,6 @@
       "spicy": false
     },
     {
-      "title": "Trump wants ‘fair treatment’ in fight over Labor’s levy on tech giants to pay for news, US trade group warns",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/04/australia-news-bargaining-incentive-us-trade-trump-albanese",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-04T07:06:24.000Z",
-      "summary": "National Foreign Trade Council ‘disappointed’ at move to expand News Bargaining Incentive but Australian experts say government is not going far enough",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Labor's quiet visa change prioritises onshore workers",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFc5bXZaUWh5eEhuT3gzdGl3SlowZzlZeW00X1d4TkxmR1lsZHlPMWVvQWw2WVV0bVEzcndoWlVYLTRMSVMwbWVyM1hYQXNfemFjSzZsU3ZPRTEzQlBJREx1d2RxU1hJMGdxTHhjLVRrVmtwYjl2SzhjT0xVT3l4ZDRsei1WZzVuYkg3ZXpBMEhkVE5HdFBPMDQxUktXcjJjanRaS0d5VXJwcUE?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1036,7 +1060,7 @@
     {
       "title": "Labor’s stealth visa overhaul targets offshore skilled workers",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2VwMzZMY2FDbDVHLWthdDRkWFcxd2dVOUFXbVVQQWtRTUNFcXBWZUt3cFVWdE1EbVhIcVJhMVQ1LVB5NlBYZmdJVUdtLUxLVHZFVGduMnc4bUpBTlV2Z3dRaUpoM2ppVS1LaDZBLTVMTVlwU1ZyYWE5THlQQzljcV9rbEpWdXFrUnh4aVg4M1NCNzN0ajhUUlBtbUZZZmMxSVdBUVpoNDREaml0U3ROUjI0SQ?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1111,7 +1135,7 @@
     {
       "title": "Australia wanted cheaper homes. Now comes the hard part",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUU1mM0tkR1NzSm4zOXdtMVRZS01qQnRKZzlxYXN3RUJ1S0ZMd2ZUWFhYNk50SjZESm1Za2ZuQUx0aTdOcTJyUGZ3NXlCWTFiYUJYcWlRV0MwU2hWTmktYTJ4UEUtYXZ0WXFucmFwS2tmSUdZMzFkSDYwb2lGLU12Nm5jS2dsV0xRWmZlcnlvd2RoVkZyQWF4WlI2WmJWQi1GS0dYcEtuRzc?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-07-28T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1122,7 +1146,7 @@
     {
       "title": "One Nation wants COVID-level migration: what that means (in 8 charts)",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOURpS2xDU3lyVWpUWEtpNUdkU3ExbDY4OE9iRUhhQjItMC0yUVk5Wk1ZdVliS2t0X25xa2MtbVFqTnBiUEsyMUFxazhBNVE1emMxcXZ1QldBcWtwMXF3c3pfZ0phZ2dtN0JWeG5LNzV6VEZnUjVMdzR5V0RhQUdYOUx1TWJEVHRRMVZzelBlZ0duNENtNEpSYlBEREtGakI1ZjExaGFnVEpXWDJ5MnNMZ1JRVlAxd2g3?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-07-24T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1209,7 +1233,7 @@
     {
       "title": "Downsizer drought weighs on housing supply as Baby Boomers stay put",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWGtLREx5NmY2YVZqUWQ1bTUzcGR3Xy1PV2ROcW9XeFB0Ykx0c0RYMHZyUVFyTlk1R19YQTVrRG13RTVWUWQ5SmY0NWZWSnhaQ1ZxU3NSWU85SjRPd2ZmWlF6cXNQRDJ4YW5jYkt3ZVp4QXAtMjhDVjhIaWdlZUVxM1NxVDV6b3pDdVZ2VmVrajI2Z0xPeHR6Rm0zVWtFV0FNQ3Mwamg4VGxRSm41X21jNHpENVdDdVY4cDJ4TG9WNmdlX0ZDbVZ2RmttellBZw?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-07-20T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1235,7 +1259,7 @@
     {
       "title": "Treasurer Jim Chalmers’ budget hinges on 41,200 public service job cuts",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlpoRm1kb1doTERNR21tb09HZ1lvV2RMcVE3bkRnelRrVjJBZ21WQktvUXlUbXktMUdIS1ZUS254VTl3aklqUFNiQTFNMy1JOVhpOVlGYWtfTjA3Ykd0Zm1qSXdnQXY3WjQ3d1FVVi1CT0gteTNzR2lxRFZlU0VTdS14ZTZjZzBKb1U5QmdxbGNscUdNeGN1ZnI0QmszT1NRMGI3SzN2RWREY0U?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-07-15T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1246,7 +1270,7 @@
     {
       "title": "Labor has broken the tax reform ice. Now it must keep going",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVExaMjVnc1BHMTVhMkppbTVualBfSjM1cFNrekxKWGlreHViY1JUWHAzbS14OC1ObGlkNmJxaG1VQ212YUZxa0JNOHBld1RhWGx3bGRPRzg1bmZOS3A2YS1HN21sRUJPLWZ0cl9LM3cyUVFabWpaQ0FESUFHS2tDRndvM1k5WE9QaUlCYVdzUzd1cWJXNUdEcnVhUG16YWxQdTJPMDdSdjRvQXNQUHc?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-07-14T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1335,7 +1359,7 @@
     {
       "title": "Australia, US, Japan, Vietnam Visa Changes July 2026: New Fees, Income Thresholds, Health Checks Explained",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ29yaWMzTHhuR291bk9KTEkzSk1TRmZ0WUVUYl9jZHZwMGxoRWZYOUdqUTFsYVNmeXB2U1hlMGV0ZUwzMUwwbXFLWENBcGtxOG9NOEVROTk4TEdPNTNlemJXNkI3Z1RDaUFrOXIzMXlRRjVyUDZHWV9xc3FpYmppWWRmV3hmdzBtU1VFUEJ6RVVtOFV5eDVuenBRWTJDQko4SzJKLTljejkycE0?oc=5",
-      "source": "Nomad Lawyer",
+      "source": "nomadlawyer.org",
       "publishedAt": "2026-07-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1348,7 +1372,7 @@
     {
       "title": "PM and treasurer want to eat the pie themselves, not grow it for all",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkJDZWZGZWxEdkVaRXdCSF9ydjUyZnhpeDVRYTZTWGpVTk04ZUtzdzRWXzU3cVg2djdGRzJRM05wbGlCc2liczdsSE5FSEZjalJ6R3lTWjRYaVpkSGMtc2JfdjhEY1lkUEhHSW5pd0g2dmVIX3hxdEpZd3NmakpKeENxMEZfUFNsSzI0TnloUHc1YkFXUXZsTFJsb0FDVnhWRmNhdDlNSV9ZT2x6aG5fclBFaHNVLXdRZC1QMVFhbFdUVXRr?oc=5",
-      "source": "AFR",
+      "source": "afr.com",
       "publishedAt": "2026-07-03T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1372,7 +1396,7 @@
     {
       "title": "Au pair in the UK in 2026",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nZUVzNlhNckJiSjU3bUlEcUtWbXRJbk9NVFNpUmpJNnhXODdVUnF6YU5OQXRqUnhwSThRdzh2dmhKbGdEajVZTkFaNERBblp2a2NuLVBvLVZMTHZCaWlQRTl0d3E3b0E0NGZQU2ZCS1pEWVMwZUE?oc=5",
-      "source": "expatica.com",
+      "source": "Expatica",
       "publishedAt": "2026-07-01T11:34:50.000Z",
       "summary": "",
       "categories": [],
@@ -1485,32 +1509,6 @@
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Good news! Housing is getting more and more affordable",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWMzVlFOMFdVUTlYVWNlQzRvTk1rVHlBTVdzNGxFc2pHbUpENno1U0d4V3kyT1F5QWlhR1B0elF5YXFpM201a0o3UmhtSmI4ZUFYUEpXb2Vjamtwc0hlNUJUMlQ2RkJObDhKOWZjRm1KcEpyc3l3bTlWMmdiNzRvUUV3X3k4OXlrNHZlVHpVOVdmb25VM05FWGNqU2doR2ZpcUJHU3FHWEFUWUk4WngtWmo0eXBSTWNVYXQ0?oc=5",
-      "source": "Independent Australia",
-      "publishedAt": "2026-06-29T22:00:06.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Skilled visa invites reveal Australia's workforce priorities",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPekxxbkF1LXg1ZGdLYllWV3A0NUNCcjBISVo4NExRVHVYS2tZNzJ4UlQxWmd4LWtKX0ZqaXV1U1ZCeW4tSmNQMzA3NnZLbnVKMENDUkdYWkM4bVZpR2ZubHJkTTRTbTdZbDF6Nk03aDMyZmdvRjZaQmZnSlBkUVRMMTZmbVg2LVVkSWJGNU05WkdmMG5jZkk5ZVpWZnE3NndBR3VfTkR1NUZnTjRoQnZTZGRGTkFVZDZpbU9CTVQtekptUQ?oc=5",
-      "source": "Independent Australia",
-      "publishedAt": "2026-06-29T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     }
   ]
