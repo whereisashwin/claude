@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-13T11:22:23.964Z",
+  "updatedAt": "2026-08-13T12:25:35.043Z",
   "count": 120,
-  "relevantCount": 59,
+  "relevantCount": 60,
   "spicyCount": 15,
   "spiceThreshold": 5,
   "categories": [
@@ -34,8 +34,8 @@
     "AFR",
     "Discovery Alert",
     "Expatica",
+    "LinkedIn",
     "MacroBusiness",
-    "Michael West Media",
     "Mondaq",
     "Nomad Lawyer",
     "PwC Australia",
@@ -50,6 +50,7 @@
     "crownworldmobility.com",
     "fragomen.com",
     "fundsforNGOs",
+    "michaelwest.com.au",
     "propertyupdate.com.au",
     "realestate.com.au"
   ],
@@ -205,17 +206,6 @@
       "spicy": false
     },
     {
-      "title": "'All women feel it': Four killed in alleged violence in less than two months in Qld",
-      "url": "https://www.abc.net.au/news/2026-08-13/domestic-violence-women-killed-in-queensland/107031726",
-      "source": "ABC News",
-      "publishedAt": "2026-08-13T05:28:23.000Z",
-      "summary": "Four women have been killed in alleged violent incidents in Queensland in less than two months, a statistic that advocates say should unite the community in grief.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Proteomics secures Australian patent for endometriosis test",
       "url": "https://www.smh.com.au/business/companies/proteomics-secures-australian-patent-for-endometriosis-test-20260813-p60o4d.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
@@ -354,7 +344,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": true
     },
     {
@@ -949,7 +939,7 @@
     {
       "title": "Tax changes get tick of approval from ratings agency",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWJ2c1pHVHdRVVhRRTNiOEloR2VVSGtFRFBUaGF2SDE1dHMwVkJEOHd0emdfaDFwd2J0TFVXQk91TnI3dkFpa3RHX0ZZSWx0X1JpcEtaRVJEVjRScUxXY3I1SVlSQUM0d2RqT3k4cnQ1WHJQck40SkZqRjZUWXFRc2thUnRtalU?oc=5",
-      "source": "Michael West Media",
+      "source": "michaelwest.com.au",
       "publishedAt": "2026-08-06T19:13:04.000Z",
       "summary": "",
       "categories": [
@@ -999,19 +989,6 @@
       "spicy": false
     },
     {
-      "title": "Pauline Hanson does 'not care' if immigration cuts impact businesses",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-06T03:31:59.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "The RBA says rate rises don’t really increase living costs. But the data is clear – they very much do | Greg Jericho",
       "url": "https://www.theguardian.com/business/grogonomics/2026/aug/06/the-rba-says-rate-rises-dont-really-increase-living-costs-but-the-data-is-clear-they-very-much-do",
       "source": "The Guardian",
@@ -1035,6 +1012,19 @@
       ],
       "relevant": true,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Pauline Hanson does 'not care' if immigration cuts impact businesses",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 5,
       "spicy": false
     },
     {
@@ -1493,6 +1483,19 @@
       "summary": "",
       "categories": [
         "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "1 July Changes: Australian visas and migration",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVZ2ME9od0h5aTRzLTFqTlJNWWVVTXBwOUZJd3ZQc2czWGhYb0FpUzJtdE8tVnFCNXZkZ3hMSTRFajFLa2tUai1CWHZIZ295X1VPZXVHVlgwNVFleWVYNjZPRU9hUU90cFlxSjBxVEFkV1ZjcFZkdzNteVkwOFFUZFBqaHhNSDRUdGRycFFUakFiOEctWkE?oc=5",
+      "source": "LinkedIn",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
       ],
       "relevant": true,
       "score": 0,
