@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T12:25:35.043Z",
+  "updatedAt": "2026-08-13T14:00:22.466Z",
   "count": 120,
   "relevantCount": 60,
   "spicyCount": 15,
@@ -30,14 +30,16 @@
   ],
   "sources": [
     "ABC News",
-    "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
-    "Discovery Alert",
+    "Crown World Mobility",
     "Expatica",
+    "Fragomen",
     "LinkedIn",
     "MacroBusiness",
     "Mondaq",
+    "News.com.au",
     "Nomad Lawyer",
+    "Property Update",
     "PwC Australia",
     "SBS",
     "SMH.com.au",
@@ -47,11 +49,9 @@
     "The Guardian",
     "The Indian Sun",
     "William Buck Australia",
-    "crownworldmobility.com",
-    "fragomen.com",
+    "abc.net.au",
     "fundsforNGOs",
     "michaelwest.com.au",
-    "propertyupdate.com.au",
     "realestate.com.au"
   ],
   "items": [
@@ -67,14 +67,14 @@
       "spicy": false
     },
     {
-      "title": "Foreign minister to warn 'monoculturalism' a threat to national security",
+      "title": "Foreign minister to link diversity to national security",
       "url": "https://www.abc.net.au/news/2026-08-13/penny-wong-speech-on-monocultralism/107034366",
       "source": "ABC News",
       "publishedAt": "2026-08-13T11:00:06.000Z",
       "summary": "Foreign Minister Penny Wong will use a high-profile speech on Friday to declare that the rise of populism threatens Australia's national security, saying the \"melancholic fantasy of monoculture\" risks making Australia \"lonely in a dangerous world\".",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 4,
       "spicy": false
     },
     {
@@ -307,7 +307,7 @@
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -318,7 +318,7 @@
       "summary": "One Nation leader Pauline Hanson distances herself from a failed Western Australian One Nation candidate's homophobic statements, saying they are not her views.",
       "categories": [],
       "relevant": false,
-      "score": 8,
+      "score": 7,
       "spicy": false
     },
     {
@@ -329,7 +329,7 @@
       "summary": "A review of nine online trading companies finds several are encouraging Australians to jump on \"complex\" deals, putting them at risk of major losses.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -703,7 +703,7 @@
     {
       "title": "Commonwealth Bank home loan applications fall 15pc since May, profit up to $10.9b",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDdQRW5rSnhjeGdrMEFNeGJmZ1hwSm91OU1pNFg3U011ZlJIUUtiWFhNbjVUMUxhN2ZRY2pzVkRIRDZNeFFvZUt0LVF4WjIxRndsNFVicm04QkV2eE5LcERiWTdnaW85alZzTF92b29yRjBOQ2laZ3ppcTU1ZmptZzlBRUZ0bGl3cmhJRmdvNWdfdmp6MnBwVGRrVXg?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-12T00:16:34.000Z",
       "summary": "",
       "categories": [],
@@ -902,7 +902,7 @@
     {
       "title": "Visa overstayers to have work rights revoked if asylum claim rejected",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSl9CZHJqckNMQ1pMcEhsZGkzVEVFZE1Tb3FZS2dydENsT19tQkFHZkw2QjAyU2FqQjdVc3o0bVVQbWhaYm0tN1NzcWk4UHhncDMtbFhpTUNVVV9zdEN5eWdjMloxd0lkLWxCbnRoeGJUMll2QU9vQjBRQ01QbUlOaVpMUFdvN3BCQWc?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-07T06:51:46.000Z",
       "summary": "",
       "categories": [
@@ -913,22 +913,9 @@
       "spicy": false
     },
     {
-      "title": "MCA Demands Skilled Migration Changes Be Suspended in 2026",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOU81emUxSnhLalhFc0hvaUR3X2NoT25DMk5MTUkwS0k5QzZOdHNSTlNKVnhTYXJMbkhONjlpSmdjcHktU0pTM3NPTFphNjR2NjFSUDVoUklSRzdLbGcwYTdGV3ozc3ZWM2VURUloZHlvXzl1V0pmR2pYLVoyQkxsTnQ1SnB5TGZZcGF3VnNPX2wtNmM?oc=5",
-      "source": "Discovery Alert",
-      "publishedAt": "2026-08-07T04:54:43.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Country cafe mounting costly battle to retain beloved barista",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFJXNW5BMy1ZYlg4aGVXX1AzRmptSWYxOWpJZGgwTm1iR2EtWVd2WmhocnVOaVVUa1FYS1hZTFduTXctUHRRMkg4ek81OFVRV0JOa3lmbkFVRldBOGVZbUZEZmFPZkx1RWNmY0tyQURGbHdTLXhxVFprYWZvbGpJTThwTVgzbG1VUlRKVGpwYnJYUHBNbnVvZnpzdHY?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-06T22:05:22.000Z",
       "summary": "",
       "categories": [],
@@ -965,7 +952,7 @@
     {
       "title": "Immigration weekly update: August 6, 2026",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEVQM09vMXB2anhrS1RJQVAyOEFTd0I3RWNZWGI1QThwcXd1RlZzbXk2NEFUbk1zQ3QzMzM3Wlk4RVQ5aG5aMEtWOTltOVNtamFpVlZoOG9rTnYxUDJranRyLXFEM0xpb0hPVkFUZjcxSGV6NXNIZ0hpbGhHbm5WR01PeHdxc2Z3SjI3dw?oc=5",
-      "source": "crownworldmobility.com",
+      "source": "Crown World Mobility",
       "publishedAt": "2026-08-06T08:34:20.000Z",
       "summary": "",
       "categories": [
@@ -1017,7 +1004,7 @@
     {
       "title": "Pauline Hanson does 'not care' if immigration cuts impact businesses",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-05T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1065,7 +1052,7 @@
     {
       "title": "Labor's quiet visa change prioritises onshore workers",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFc5bXZaUWh5eEhuT3gzdGl3SlowZzlZeW00X1d4TkxmR1lsZHlPMWVvQWw2WVV0bVEzcndoWlVYLTRMSVMwbWVyM1hYQXNfemFjSzZsU3ZPRTEzQlBJREx1d2RxU1hJMGdxTHhjLVRrVmtwYjl2SzhjT0xVT3l4ZDRsei1WZzVuYkg3ZXpBMEhkVE5HdFBPMDQxUktXcjJjanRaS0d5VXJwcUE?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1104,7 +1091,7 @@
     {
       "title": "Warnings Labor's plan to delay family reunions could be 'human rights issue'",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHQyc2g0WmxBYUN2QTNldVNvOXZ0QV9ZZ2x3bTlRZmdYMVZ6THFGcEVnanVrblRaVnlOTjJmcGRkdHE5RjRtZXVyQnl5cVMwWGFXcXd0NXFuWFNVdEJ2ZTNYazFsa3ZEZ3FheEdCajhKaTl2VHEtVnFSYWpYX0ZKUnViQ1dOLXJvWjA0dmF6RUJtdmdiQ2VsRGE5MTY?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1115,7 +1102,7 @@
     {
       "title": "Labor was poised to reveal massive migration cuts, then suddenly delayed",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHZmVWloM2JsLXNBZHhFamVlRHByZkowdnctRTY0SXAtTGRiYmhVUm5rOWhaeGUwMDBrZHI5MFlQbDliUXVqR0NHalpCTkt2ZFN3WG1WRVFhVHlMRDI1VHh0WFE4VjZwYTNxN1ExLW1qNVdOcHVhbzlwQ3JMVUFVZURacDZnbENwXzJMRC14VnQ4a05DMXBTSEdB?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1153,7 +1140,7 @@
     {
       "title": "Why the Federal Budget’s Tax Changes Could Freeze the Property Market – And Why I Think They Won’t Last",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVFQcXRfUHh1V0c1N3gwV3h1NGdjQUFSaXZibVIzeDZaMm9sTXF6SGhQa3ZlcDdSUUVHM3BiYmhyMHd4eXBuaEx0U2o1LVZRcmFpWmk4U2w0eDI4Yzk2MzZRRWt1a01VckhUSFktM29WZmhMbWh2clc0SjJUSEtGT3d6ang4cHpiMUQ0OFVCVk9uN3N6X1hZdVZjeHRoekJLbjVxcHoxbnhZU0lxMnZGNkd3UHdJS2NGWnk3S2p6Uy1HbmdUaUpoSmh3?oc=5",
-      "source": "propertyupdate.com.au",
+      "source": "Property Update",
       "publishedAt": "2026-08-01T00:35:28.000Z",
       "summary": "",
       "categories": [
@@ -1230,7 +1217,7 @@
     {
       "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
-      "source": "fragomen.com",
+      "source": "Fragomen",
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1256,7 +1243,7 @@
     {
       "title": "Minimum Salary Changes Announced",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
-      "source": "fragomen.com",
+      "source": "Fragomen",
       "publishedAt": "2026-07-21T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1380,7 +1367,7 @@
     {
       "title": "Curbing well-off taxpayers' access to key programs could save billions",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGVwWTFMNkZJeWZqc3ozeU0tR0swWWVZYTRQM1JNbjQ2RkJLS2xoT21kV0hCNnBlbnpxdkVQRWFXS1pRcXJwYjI0bkFhejY4QkRQeHhacF9uOHRsRTlFdGZTbGQxazJrU0ZvNjdkVnQxWTFHOW1PdXVuRzk2WTZjQTFhVUFLaVhGdG44NkdsbEQ0WVoxdUtSa0NGUVQ2MkpiZDJtdg?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1417,7 +1404,7 @@
     {
       "title": "Do Australians really want more affordable housing?",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUFHZVNTS2o5c1hYemFGeG5VQXlVY1BEZ0gyWG1RYzBucmFZSi1GU0NVaGw4VFQ2cVRNY1p2QldIR25sSWFfYkFaV0lWdHMxa09OaXVYaEZKTS1nRzZrSTI3UzVxQjl1YXpGMnlpRUxTSEJBWjZ4WG9vYV80ZkJJTmNpT25ja2NF?oc=5",
-      "source": "propertyupdate.com.au",
+      "source": "Property Update",
       "publishedAt": "2026-07-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1449,6 +1436,19 @@
       "categories": [],
       "relevant": false,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "‘Wild’: Shock as Aussie visa fees skyrocket",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNWVMOHIzbmNDdW9ZNV94SlpPSm9MbW1EUmlDVm1ibl92Q3V4d05rRTZ2bFRkeDdfa29ROU9DdDFhbENMYjJZWU5rdzlfclpMM0xaTS1YR3dBSEJlLWtDeHRUSldvQWY3NVl5bFlBYzFkMGpkbmxOblhZeTZLZDBwY3lFNEZOUWRBeFpsVzV0aTZySFY4X0ZDTEJQN3d6LXNOSENsV09oVWdGd0kwZzQ4MnJyX3YtN21aRFJIRGRKLVNYekRMaEpJZFNqZXJoekpxelJ2d3NqWGdBRHNkazhQMTd1cjVQNFpta21PdHMwd3htMWFxb3fSAfsBQVVfeXFMT2NzYmtRSmhDZHdRMThyTVZiMnhuSFQzVUEtcW93TWVtdU50ZmVqTHJzaTZMbVVGUnRTZ3NOTVd1clBNZ0F2c3U3bkZKZTJBZkNsSWI3N0dxakI1d1NkQll3ZkZ1bXFGYUFKQTRNbS1zMlRQTVd6VUsyQUVWSVpuLWRTLWIwZUFWRXB0YzdKdzMtRjI1SmUtTU5OR3RNaXdOUkY4RlhOV25IUlF0dzVuSVIwVzBBdnJPUWFpVm1xV3hmdHFnaW9UdnNXb3prSU1ZT0xBLVF5VEJ5NTZPT281aHl0Vi0yaXJjcFdGRFRMUnl5aXNZcUZ6TWM5LXM?oc=5",
+      "source": "News.com.au",
+      "publishedAt": "2026-07-03T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 5,
       "spicy": false
     },
     {
