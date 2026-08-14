@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-14T22:30:39.536Z",
+  "updatedAt": "2026-08-14T23:28:05.380Z",
   "count": 120,
-  "relevantCount": 65,
-  "spicyCount": 15,
+  "relevantCount": 66,
+  "spicyCount": 16,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,9 +33,9 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
-    "Australian Government Department of Health, Disability and Ageing",
-    "Crown World Mobility",
     "Expatica",
+    "Fragomen",
+    "Khaleej Times",
     "LinkedIn",
     "MacroBusiness",
     "Michael West Media",
@@ -46,20 +46,41 @@
     "SBS",
     "SMH.com.au",
     "Shiksha.com",
-    "Study International",
     "Sydney Morning Herald",
     "The Australia Today",
     "The Australian",
     "The Guardian",
     "William Buck Australia",
     "ashurstperkinscoie.com",
-    "fragomen.com",
+    "crownworldmobility.com",
     "fundsforNGOs",
-    "khaleejtimes.com",
     "news24.com.au",
-    "realestate.com.au"
+    "realestate.com.au",
+    "studyinternational.com"
   ],
   "items": [
+    {
+      "title": "Breaking: Magnitude-7.8 earthquake strikes off coast of Indonesia",
+      "url": "https://www.abc.net.au/news/2026-08-15/earthquake-strikes-off-coast-of-indonesia/107041680",
+      "source": "ABC News",
+      "publishedAt": "2026-08-14T23:07:19.000Z",
+      "summary": "A magnitude-7.8 earthquake strikes off the coast of Indonesia in the Flores region, triggering an early tsunami warning by the country's geophysics agency but posing no current threat to Australia.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Azada wanted to be her country's 'best doctor', but then the Taliban took over",
+      "url": "https://www.abc.net.au/news/2026-08-15/afghan-women-girls-human-rights-five-years-taliban-rule/106940996",
+      "source": "ABC News",
+      "publishedAt": "2026-08-14T22:19:20.000Z",
+      "summary": "Five years ago today, Afghanistan fell back into the grips of the Taliban's extremist regime. An online friendship with a rural Australian has been one lifeline for Afghan medical doctor and secret teacher Azada.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Community remembers those lost in one of Australia's worst mining disasters",
       "url": "https://www.abc.net.au/news/2026-08-15/creswick-australasian-no2-gold-mine-mining-disaster-memorial/107024576",
@@ -96,7 +117,7 @@
       "spicy": false
     },
     {
-      "title": "Child in wheelchair excluded from care centre over space limitations",
+      "title": "Tommy was excluded from his early learning centre, 'effective immediately'",
       "url": "https://www.abc.net.au/news/2026-08-15/4yo-tommy-excluded-from-early-learning-centre-re-disability/107037334",
       "source": "ABC News",
       "publishedAt": "2026-08-14T20:59:59.000Z",
@@ -164,17 +185,6 @@
       "spicy": false
     },
     {
-      "title": "What went wrong for the Suns this year and how 2027 can be much better",
-      "url": "https://www.abc.net.au/news/2026-08-15/afl-what-went-wrong-for-the-suns-in-2026/107037598",
-      "source": "ABC News",
-      "publishedAt": "2026-08-14T18:44:06.000Z",
-      "summary": "Gold Coast went from a maiden finals win last year to sliding down the AFL ladder, but a drought-breaking win in wintry Canberra offered signs of a brighter outlook for 2027.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "'It will come back with a vengeance': Why the fight against HIV is not over",
       "url": "https://www.abc.net.au/news/2026-08-15/hiv-fight-in-australia-not-over-as-new-challenges-emerge/107016504",
       "source": "ABC News",
@@ -219,6 +229,19 @@
       "relevant": false,
       "score": 4,
       "spicy": false
+    },
+    {
+      "title": "Pocock and crossbenchers call Labor’s NDIS overhaul ‘too far, too fast’ in scathing Senate inquiry report",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/14/pocock-and-crossbenchers-call-labors-ndis-overhaul-too-far-too-fast-in-scathing-senate-inquiry-report",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-14T08:04:02.000Z",
+      "summary": "Greens say Labor’s reform set to ‘rip life-changing supports away from disabled people instead of raising additional revenue through taxing gas exports’ Cross-benchers have slammed the Albanese government’s proposed overhaul of the NDIS as going “too far, too fast” as the changes to curb the growth ",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
     },
     {
       "title": "‘They’re over top’: Albanese signals about-face on gambling promotions",
@@ -708,17 +731,6 @@
       "spicy": true
     },
     {
-      "title": "Coalition plan to scrap energy rules for new houses condemned as ‘cost-of-living timebomb’",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/coalition-housing-energy-standards-national-construction-code-new-homes",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-12T15:00:32.000Z",
-      "summary": "Proposal to cut building costs by scrapping the construction code would increase bills for the poorest households, critics say",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
       "title": "Australia’s biggest aluminium smelter gets $2.5bn bailout package from federal and NSW governments",
       "url": "https://www.theguardian.com/australia-news/2026/aug/12/massive-bailout-for-australias-largest-aluminium-smelter-expected-to-be-announced-by-pm-and-nsw-premier",
       "source": "The Guardian",
@@ -937,7 +949,7 @@
     {
       "title": "Immigration weekly update: August 6, 2026",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEVQM09vMXB2anhrS1RJQVAyOEFTd0I3RWNZWGI1QThwcXd1RlZzbXk2NEFUbk1zQ3QzMzM3Wlk4RVQ5aG5aMEtWOTltOVNtamFpVlZoOG9rTnYxUDJranRyLXFEM0xpb0hPVkFUZjcxSGV6NXNIZ0hpbGhHbm5WR01PeHdxc2Z3SjI3dw?oc=5",
-      "source": "Crown World Mobility",
+      "source": "crownworldmobility.com",
       "publishedAt": "2026-08-06T08:34:20.000Z",
       "summary": "",
       "categories": [
@@ -1140,7 +1152,7 @@
     {
       "title": "14 countries with dependant visas that let you bring your spouse and family",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqLWtXc0JNbVlkTlM4ZGVvTmo3NndGSk1ZOVhDWVliM1dQUlBMN0k2VTc0OFc0Ql9UVlFSbXdHakZtOEd0bW4xR2lzVTNqS281LUo5N0dWSVFXaHJQMHZLWmlISTl6VFprd1YtSVJWTFhkNGZKajJpd2FoZDNJSFk?oc=5",
-      "source": "Study International",
+      "source": "studyinternational.com",
       "publishedAt": "2026-07-23T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1166,7 +1178,7 @@
     {
       "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
-      "source": "fragomen.com",
+      "source": "Fragomen",
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1192,7 +1204,7 @@
     {
       "title": "Minimum Salary Changes Announced",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
-      "source": "fragomen.com",
+      "source": "Fragomen",
       "publishedAt": "2026-07-21T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1482,7 +1494,7 @@
     {
       "title": "Visa rule changes 2026: UAE eases entry; higher fees, tighter rules in US, Europe, Asia",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGFvN0J2RjZHdlNsOHRkMnNtaVhKZDBESVZFYW5IY2VuQ0JXLXNtd2pCR1ZEUU43SUNiMDZtSDRQZ2Q4X0tHMUJEVGhqSEhmNDZrZTJxRTF3UVNUWFdxVGpOUkhwT3FKdHUxaU43WVNTQW40V2stbWx2eDFmcWV2RjlEWnNHbFJkWTIwZEF2RFRhb2hjQzVvOEd30gGiAUFVX3lxTE5FUlRnT2ZIMWU5d2hjb08zS29YSDBjSnRPbzZQM3VqZTRPN0REN0Z2cm41N1FrOXdjNktWaGRKQ3NFM1cyRlhjRzVJcWFlMzdVNVI1NG56VDBIaFFncWhTMzk5dUsxUEgxU0s1SVRCX2E5ZGtUdEE4alR3cGxVdC1Sb0NQNzN3cU9rRkVBaUhRaUdYdWRNTm1sNkVoelhYSTh0dw?oc=5",
-      "source": "khaleejtimes.com",
+      "source": "Khaleej Times",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1505,17 +1517,6 @@
       "relevant": true,
       "score": 7,
       "spicy": true
-    },
-    {
-      "title": "Minister Butler doorstop, Parliament House – 1 July 2026",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaUJoRjVzUDg2WmJnSFJFeXlfX2tIMmFMcXRuRDVfRnVjRnlPa1kzOEdmaVlIZHF0alYxT2NQanlzQjVOZGhlUjVzYkg1dG55Y2dCTS1KVFRVRE9IVUJleTRycjFXOGhJZHhWbTd0TzVsQXEwV0dxVW1TQWxEMnRyS0ctc1g2MklhMTdaQzV3ZUk4RU0tQnppa1RFd1pFclBNTVdHbDFoMFNFb1RDdHh1R0dUMGY4N1NySlE?oc=5",
-      "source": "Australian Government Department of Health, Disability and Ageing",
-      "publishedAt": "2026-07-01T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
     }
   ]
 }
