@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-14T21:34:36.378Z",
+  "updatedAt": "2026-08-14T22:30:39.536Z",
   "count": 120,
-  "relevantCount": 64,
+  "relevantCount": 65,
   "spicyCount": 15,
   "spiceThreshold": 5,
   "categories": [
@@ -32,10 +32,11 @@
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
+    "Absolute Immigration",
+    "Australian Government Department of Health, Disability and Ageing",
     "Crown World Mobility",
     "Expatica",
-    "Fragomen",
-    "Khaleej Times",
+    "LinkedIn",
     "MacroBusiness",
     "Michael West Media",
     "News.com.au",
@@ -51,14 +52,38 @@
     "The Australian",
     "The Guardian",
     "William Buck Australia",
-    "absoluteimmigration.com",
     "ashurstperkinscoie.com",
+    "fragomen.com",
     "fundsforNGOs",
-    "linkedin.com",
+    "khaleejtimes.com",
     "news24.com.au",
     "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Community remembers those lost in one of Australia's worst mining disasters",
+      "url": "https://www.abc.net.au/news/2026-08-15/creswick-australasian-no2-gold-mine-mining-disaster-memorial/107024576",
+      "source": "ABC News",
+      "publishedAt": "2026-08-14T21:56:17.000Z",
+      "summary": "A new memorial installed near an abandoned mine in central Victoria remembers the 22 men who died in one of Australia's worst mining disasters.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "'They're going to take our GST' sets alarm bells ringing in the west",
+      "url": "https://www.abc.net.au/news/2026-08-15/wa-productivity-commission-gst-report-analysis/107040266",
+      "source": "ABC News",
+      "publishedAt": "2026-08-14T21:28:35.000Z",
+      "summary": "Premier Roger Cook said \"east coast clowns\" attacked Western Australia's federal GST deal. It set alarm bells ringing in WA government offices, literally, as state political reporter Keane Bourke witnessed.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Should Australia copy New Zealand's 83-page building code?",
       "url": "https://www.abc.net.au/news/2026-08-15/andrew-bragg-building-code-modern-methods-of-construction/107028282",
@@ -71,22 +96,11 @@
       "spicy": false
     },
     {
-      "title": "Excluded from early learning, kids like Tommy 'falling through the gaps'",
+      "title": "Child in wheelchair excluded from care centre over space limitations",
       "url": "https://www.abc.net.au/news/2026-08-15/4yo-tommy-excluded-from-early-learning-centre-re-disability/107037334",
       "source": "ABC News",
       "publishedAt": "2026-08-14T20:59:59.000Z",
       "summary": "The NSW government is being asked to intervene to help a four-year-old boy who was excluded from his early learning centre on the south coast due to his disability-related needs.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Nationals 'fighting' to win Bendigo as Jacinta Allan exits politics",
-      "url": "https://www.abc.net.au/news/2026-08-15/nationals-bid-for-bendigo-after-jacinta-allan-quits-politics/107038444",
-      "source": "ABC News",
-      "publishedAt": "2026-08-14T19:30:00.000Z",
-      "summary": "Nationals members say they are \"fighting very hard\" to win Bendigo as former Victorian premier Jacinta Allan leaves politics.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -425,17 +439,6 @@
       "spicy": false
     },
     {
-      "title": "Companies eye untapped gas in the 'Saudi Arabia of the Pacific'",
-      "url": "https://www.abc.net.au/news/2026-08-14/the-papua-lng-project-near-australia-pacific-saudi-arabia/107028200",
-      "source": "ABC News",
-      "publishedAt": "2026-08-13T19:03:17.000Z",
-      "summary": "Global oil and gas giants are rushing to green-light a massive LNG project on Australia's doorstep as war in the Middle East forces countries to look for alternative energy supplies.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Tomago’s $2.5 billion rescue reignites debate over taxpayer bailouts",
       "url": "https://www.smh.com.au/business/the-economy/tomago-s-2-5-billion-rescue-reignites-debate-over-taxpayer-bailouts-20260813-p60o2i.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
@@ -553,17 +556,6 @@
       ],
       "relevant": true,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Third Sydney Airport take-off incident investigated by safety body",
-      "url": "https://www.abc.net.au/news/2026-08-13/third-sydney-airport-runway-take-off-incident-investigated/107035400",
-      "source": "ABC News",
-      "publishedAt": "2026-08-13T09:52:51.000Z",
-      "summary": "Safety authorities are investigating a third runway incident at Sydney Airport, involving a Qantas flight crossing the path of a Virgin Australia aircraft.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -895,7 +887,7 @@
     {
       "title": "Immigration New Zealand clarifies Skilled Migrant Category 2026 changes",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1gxN2dtT1NMUjhWeTBLaWRqeUZ0VTY4NVJTc3M5UTU0cG5GdkU0cmV2enRpdFFtSmtIbnhhb3NUNnQ0WTF2V25xZU53WnZ5TzllZERxdU1pRlczVS16SW5ITE0yM2poclM1M1FTMENoSlpLeFFra01tUDI3VDlySDhZVkxCdmJ3UlpGOVlDaVhWWl9IcVFUYlZpT2pZYkpwZlpzV2N5Zm1Qdkxyc3lzcFlB?oc=5",
-      "source": "absoluteimmigration.com",
+      "source": "Absolute Immigration",
       "publishedAt": "2026-08-07T10:27:04.000Z",
       "summary": "",
       "categories": [
@@ -995,7 +987,7 @@
       "spicy": true
     },
     {
-      "title": "Pauline Hanson does 'not care' if immigration cuts impact businesses",
+      "title": "One Nation leader Pauline Hanson says she does not care if immigration cuts impact businesses",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-05T07:00:00.000Z",
@@ -1174,7 +1166,7 @@
     {
       "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
-      "source": "Fragomen",
+      "source": "fragomen.com",
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1200,7 +1192,7 @@
     {
       "title": "Minimum Salary Changes Announced",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
-      "source": "Fragomen",
+      "source": "fragomen.com",
       "publishedAt": "2026-07-21T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1450,7 +1442,7 @@
     {
       "title": "1 July Changes: Australian visas and migration",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVZ2ME9od0h5aTRzLTFqTlJNWWVVTXBwOUZJd3ZQc2czWGhYb0FpUzJtdE8tVnFCNXZkZ3hMSTRFajFLa2tUai1CWHZIZ295X1VPZXVHVlgwNVFleWVYNjZPRU9hUU90cFlxSjBxVEFkV1ZjcFZkdzNteVkwOFFUZFBqaHhNSDRUdGRycFFUakFiOEctWkE?oc=5",
-      "source": "linkedin.com",
+      "source": "LinkedIn",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1463,7 +1455,7 @@
     {
       "title": "Visa application charges and key immigration fees increase from 1 July 2026",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGVPWTFHcUNwbi0zOTZ3UTdIZEdLVTg3NUN6Z2ZaazBUZGRDSGYwcDUwNzRzc3oyWTRhQjNROEllcDBiSXlKTEk5T0NzMVA3YUcwSWdjaS1FZG02U1Q2TTNuZkdmZTBsMzJWaEZDTFV2amtIclBjcjFOcVp4cXVBWXc4cDVRV3JRMUFQUmlwX3IwRldZTnc0T0RzNEF5SGxOY2J5djhkV3UzeTA4Q0s3ek13?oc=5",
-      "source": "absoluteimmigration.com",
+      "source": "Absolute Immigration",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1490,7 +1482,7 @@
     {
       "title": "Visa rule changes 2026: UAE eases entry; higher fees, tighter rules in US, Europe, Asia",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGFvN0J2RjZHdlNsOHRkMnNtaVhKZDBESVZFYW5IY2VuQ0JXLXNtd2pCR1ZEUU43SUNiMDZtSDRQZ2Q4X0tHMUJEVGhqSEhmNDZrZTJxRTF3UVNUWFdxVGpOUkhwT3FKdHUxaU43WVNTQW40V2stbWx2eDFmcWV2RjlEWnNHbFJkWTIwZEF2RFRhb2hjQzVvOEd30gGiAUFVX3lxTE5FUlRnT2ZIMWU5d2hjb08zS29YSDBjSnRPbzZQM3VqZTRPN0REN0Z2cm41N1FrOXdjNktWaGRKQ3NFM1cyRlhjRzVJcWFlMzdVNVI1NG56VDBIaFFncWhTMzk5dUsxUEgxU0s1SVRCX2E5ZGtUdEE4alR3cGxVdC1Sb0NQNzN3cU9rRkVBaUhRaUdYdWRNTm1sNkVoelhYSTh0dw?oc=5",
-      "source": "Khaleej Times",
+      "source": "khaleejtimes.com",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1513,6 +1505,17 @@
       "relevant": true,
       "score": 7,
       "spicy": true
+    },
+    {
+      "title": "Minister Butler doorstop, Parliament House – 1 July 2026",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaUJoRjVzUDg2WmJnSFJFeXlfX2tIMmFMcXRuRDVfRnVjRnlPa1kzOEdmaVlIZHF0alYxT2NQanlzQjVOZGhlUjVzYkg1dG55Y2dCTS1KVFRVRE9IVUJleTRycjFXOGhJZHhWbTd0TzVsQXEwV0dxVW1TQWxEMnRyS0ctc1g2MklhMTdaQzV3ZUk4RU0tQnppa1RFd1pFclBNTVdHbDFoMFNFb1RDdHh1R0dUMGY4N1NySlE?oc=5",
+      "source": "Australian Government Department of Health, Disability and Ageing",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
     }
   ]
 }
