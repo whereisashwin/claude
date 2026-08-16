@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-16T13:36:38.126Z",
+  "updatedAt": "2026-08-16T14:29:55.579Z",
   "count": 120,
-  "relevantCount": 62,
+  "relevantCount": 64,
   "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
@@ -30,32 +30,43 @@
   ],
   "sources": [
     "ABC News",
+    "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
+    "Absolute Immigration",
     "Crown World Mobility",
-    "Expatica",
-    "Fragomen",
+    "LinkedIn",
     "Michael West Media",
-    "Migrant Times",
     "Nomad Lawyer",
+    "Property Council Australia",
     "Property Update",
-    "PwC Australia",
-    "SBS",
     "SMH.com.au",
-    "Shiksha.com",
+    "Shiksha",
     "Study International",
     "Sydney Morning Herald",
     "The Australian",
     "The Guardian",
     "William Buck Australia",
-    "abc.net.au",
-    "absoluteimmigration.com",
     "ashurstperkinscoie.com",
-    "fundsforngos.org",
+    "expatica.com",
+    "fragomen.com",
+    "fundsforNGOs",
+    "migrantimes.com",
     "news24.com.au",
-    "propertycouncil.com.au",
-    "realestate.com.au"
+    "realestate.com.au",
+    "sbs.com.au"
   ],
   "items": [
+    {
+      "title": "Study warns of measles risk with 1.7 million Australians vulnerable",
+      "url": "https://www.abc.net.au/news/2026-08-17/measles-outbreak-risk-australians-not-protected/107031752",
+      "source": "ABC News",
+      "publishedAt": "2026-08-16T14:04:01.000Z",
+      "summary": "A new study finds that an estimated 1.7 million people are susceptible to measles, with experts warning it could lead to more outbreaks.",
+      "categories": [],
+      "relevant": false,
+      "score": 9,
+      "spicy": false
+    },
     {
       "title": "Labor marked down on migration as delayed visa shake-up approaches",
       "url": "https://www.smh.com.au/politics/federal/labor-marked-down-on-migration-as-delayed-visa-shake-up-approaches-20260816-p60oq7.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
@@ -80,17 +91,6 @@
       ],
       "relevant": true,
       "score": 1,
-      "spicy": false
-    },
-    {
-      "title": "Live: Sam Neill wins posthumous award as Sam Pang takes Gold Logie",
-      "url": "https://www.abc.net.au/news/2026-08-16/logies-live-blog-2026-award-winners-gold-logie/107033608",
-      "source": "ABC News",
-      "publishedAt": "2026-08-16T07:27:50.000Z",
-      "summary": "The 2026 Logies are underway, with the stars of Australian TV gathering for a night of celebration.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
       "spicy": false
     },
     {
@@ -189,7 +189,7 @@
       "summary": "There are thousands of amateur-built planes registered to fly in Australia. Central Queensland's Len Neale is one such \"aviation nut\" who flies his homemade aircraft.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -200,7 +200,7 @@
       "summary": "There are thousands of amateur-built planes registered to fly in Australia. Central Queensland's Len Neale is one such \"aviation nut\" who flies his homemade aircraft.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -209,17 +209,6 @@
       "source": "ABC News",
       "publishedAt": "2026-08-16T01:56:08.000Z",
       "summary": "The NDIS minister will not say if the government will delay participants' exit from the scheme if foundational supports are not ready, but has insisted the government will not leave people in freefall.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Hands On Studio turns 30 as artist hopes Gillard portrait hangs in parliament",
-      "url": "https://www.abc.net.au/news/2026-08-16/hands-on-studio-celebrates-30-years-julia-gillard-portrait/107041876",
-      "source": "ABC News",
-      "publishedAt": "2026-08-16T01:16:57.000Z",
-      "summary": "Artist Stephen Corsini has been attending Canberra's Hands On Studio for 30 years. He hopes his portrait of Australia's first female prime minister will one day hang in Parliament House.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -735,7 +724,7 @@
     {
       "title": "Low-income Australians should accept substandard homes, Liberal frontbencher says",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUdRM2t4RVE2R1RKZmVaZzR5R1VSVG9xN0ROQ2hvekxLN0N6c2VTbUF5MlFrMVlJaTdFQkxTYjgxYlRQbGMyVmNwclVKUDdwNG9Zd05rcWRycGNTN0dNcGk5TmZUT2Q3ckZxM1lVR0pCcGJfa0tmZVhMVXhta1d3UmtUdXNLNTdhMlRVRlJWd1NfRzA4MGhMN2lpVUVUV3VtbGtpbA?oc=5",
-      "source": "SBS",
+      "source": "sbs.com.au",
       "publishedAt": "2026-08-13T01:44:25.000Z",
       "summary": "",
       "categories": [],
@@ -783,17 +772,6 @@
       "spicy": true
     },
     {
-      "title": "CBA profit accelerates despite plunging investor loans",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWWhIR2kzM2ZlSGo0RzQ0UGZzQlZVbkN1ekpESVlpQ2ZBc0d6YjBoSE1HMVpoOFRRSFI3cUJNRlppYWxzeGdnYmJ3Q3lTMnZrLXFRUy14eHU3eW9HTWZyRFBuMFN0b3ZTWklhQjZjS1lTUlB5RHE5VFN5MGd4NGNqQ3B6N0s0dXlRMDhDOVk2V0JQekFm?oc=5",
-      "source": "realestate.com.au",
-      "publishedAt": "2026-08-12T06:33:09.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Chalmers optimistic house price forecast ‘mugged by reality’",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2lLVHNtczZFYzFNa1NCMkZOOVVRUTA4eThwU2ZpaWV3amtFMHZmWjBkVGdXRTZfNVNOQ0ZQM21SLUFVRzJjUlNrVllteEVJeXFmc2tIQ0V4dHQyT2E5V1dvdFgwNUdCcFBNOXNEblBVbWN2bGd2RUIwX2lIVmdRdUVJTXJjVG1fSmJnUW1SR21XdXZHcXk2bmJ3eUZ3VjRWVGIyd0F2d21Yck0yOWc?oc=5",
       "source": "AFR",
@@ -809,7 +787,7 @@
     {
       "title": "Commonwealth Bank home loan applications fall 15pc since May, profit up to $10.9b",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDdQRW5rSnhjeGdrMEFNeGJmZ1hwSm91OU1pNFg3U011ZlJIUUtiWFhNbjVUMUxhN2ZRY2pzVkRIRDZNeFFvZUt0LVF4WjIxRndsNFVicm04QkV2eE5LcERiWTdnaW85alZzTF92b29yRjBOQ2laZ3ppcTU1ZmptZzlBRUZ0bGl3cmhJRmdvNWdfdmp6MnBwVGRrVXg?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-12T00:16:34.000Z",
       "summary": "",
       "categories": [],
@@ -820,7 +798,7 @@
     {
       "title": "Apply for Affordable and Diverse Housing Fund (Australia)",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ084enh3QkJFLUMtTzlfR2Jidl84VjBCQkpUOU9wTmtDeUtEZVdwZzJDYUlkM0RzU242LXJEQkt4dnJrQ2Nmd0liZEV4NEkyaTV1UzlpdlJXbl9JY1kybldORmhwaEJ1VVhJbk9DRk9KeG51NlNYQ0lSbVgyei1ZWU1QVmJWSXZzdGlFc3pOdEtSNTRrcXE5VHVSWnpRckXSAaQBQVVfeXFMUFBZTlVsTVFUR2lRcG1NbkxraEtJWmFjTVozNnJhNkI2eTllSDBqalc2bHpNcXI2LVQ3SmxBdFFSZ2xpN2ttcVozLWp2TTEyU2ppdTJSNUo2Tm5UYm9PdHVBZUhneVc2QkdhMFFkZUtfSV9NYkxCTHpjRjhoY1FQQUpvRU9CSzV3ajNmRExwWXpHSVN6SWNOZmloVkhRT08yYWdLbGw?oc=5",
-      "source": "fundsforngos.org",
+      "source": "fundsforNGOs",
       "publishedAt": "2026-08-11T22:50:06.000Z",
       "summary": "",
       "categories": [
@@ -855,7 +833,7 @@
     {
       "title": "Minimum PTE Score Required for Australia PR in 2026-27",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVpGYkFGTlpRb3FVZndGSmtJeUFaRWxFWi1ZNXh6dlZSTjN2WjB5aWdDYTR4aVo0Rmc1ZWJuVjQ2MTZha3JFa0xsNEhvNk5xX3lFeUFXeDJGcFhCZXpzUW9fNEg4Tm1WcjJwTWppS2JvZzNLSUYtcjM3TjNHdmxiYThZY2k3Zw?oc=5",
-      "source": "Shiksha.com",
+      "source": "Shiksha",
       "publishedAt": "2026-08-11T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -914,7 +892,7 @@
     {
       "title": "Australia Weighs Visa Changes to Reduce Net Overseas Migration",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGN2WlhkSWhrUVBVTFdfVGh1YXBjX3I5aUVxdTg4ME5meUw2UXB3N2gwRDlTaEpPS2dGaEoya2VPMFcwVndFZE5PMTB4LWpVdWVwU2xiaXl4Yy1zYnZwQXJpazJFb0NPSnRlWWxsX2ZwMDRGQzFhRFdDV3JVaVBUREpUeVo3UXoxNnJFenZ5LW5FekhCclRCWWF0TDhxWGhmZDdzeXV6dnktbndDUk5KNVVZUUs?oc=5",
-      "source": "Migrant Times",
+      "source": "migrantimes.com",
       "publishedAt": "2026-08-09T12:02:56.000Z",
       "summary": "",
       "categories": [
@@ -927,7 +905,7 @@
     {
       "title": "2026-27 NSW Budget Analysis",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WbUdUWGc4MVdFTDNCUkJpb1IwNlVNRk1ZTks3TjF0dE1FNlYwWnAzZUwyMlY0VkRrYXQwcEpWZGVuQm9hMzZJSGRNaWV0T3RZQlBDVEYxTmh4Mm43SjVEYk9jV1p0OHlXcDdmOFFheDBDNVVJcWNPYnhGYnlTRU0?oc=5",
-      "source": "propertycouncil.com.au",
+      "source": "Property Council Australia",
       "publishedAt": "2026-08-09T10:15:30.000Z",
       "summary": "",
       "categories": [],
@@ -951,7 +929,7 @@
     {
       "title": "Immigration New Zealand clarifies Skilled Migrant Category 2026 changes",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1gxN2dtT1NMUjhWeTBLaWRqeUZ0VTY4NVJTc3M5UTU0cG5GdkU0cmV2enRpdFFtSmtIbnhhb3NUNnQ0WTF2V25xZU53WnZ5TzllZERxdU1pRlczVS16SW5ITE0yM2poclM1M1FTMENoSlpLeFFra01tUDI3VDlySDhZVkxCdmJ3UlpGOVlDaVhWWl9IcVFUYlZpT2pZYkpwZlpzV2N5Zm1Qdkxyc3lzcFlB?oc=5",
-      "source": "absoluteimmigration.com",
+      "source": "Absolute Immigration",
       "publishedAt": "2026-08-07T10:27:04.000Z",
       "summary": "",
       "categories": [
@@ -990,7 +968,7 @@
     {
       "title": "Visa overstayers to have work rights revoked if asylum claim rejected",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSl9CZHJqckNMQ1pMcEhsZGkzVEVFZE1Tb3FZS2dydENsT19tQkFHZkw2QjAyU2FqQjdVc3o0bVVQbWhaYm0tN1NzcWk4UHhncDMtbFhpTUNVVV9zdEN5eWdjMloxd0lkLWxCbnRoeGJUMll2QU9vQjBRQ01QbUlOaVpMUFdvN3BCQWc?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1029,12 +1007,25 @@
     {
       "title": "Country cafe mounting costly battle to retain beloved barista",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFJXNW5BMy1ZYlg4aGVXX1AzRmptSWYxOWpJZGgwTm1iR2EtWVd2WmhocnVOaVVUa1FYS1hZTFduTXctUHRRMkg4ek81OFVRV0JOa3lmbkFVRldBOGVZbUZEZmFPZkx1RWNmY0tyQURGbHdTLXhxVFprYWZvbGpJTThwTVgzbG1VUlRKVGpwYnJYUHBNbnVvZnpzdHY?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Australia's new skilled visa processing priorities: Onshore applicants, defence, law enforcement",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXIyXzJXeGlwUncyN1JwSVBtajhJNURMTkZjdW1nYUJCNUhsVWhOU29RdF9LRzl2eHZac3o0cXgyTGE3NnN6U3lpb3hmS0U1ZXhFalJuN0Z1NDQzb1ZvQlN0UHZaZ19GRFVJc1ZVZExJWkFTdlItT0MtV1RPZ0otZFBWSHZIMzJXSWxRLW85dnlvbmxwRUZNMzlMeDFqQk1fMXc?oc=5",
+      "source": "LinkedIn",
+      "publishedAt": "2026-08-06T00:30:02.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1053,7 +1044,7 @@
     {
       "title": "Pauline Hanson does 'not care' if immigration cuts impact businesses",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-05T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1105,7 +1096,7 @@
     {
       "title": "Warnings Labor's plan to delay family reunions could be 'human rights issue'",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHQyc2g0WmxBYUN2QTNldVNvOXZ0QV9ZZ2x3bTlRZmdYMVZ6THFGcEVnanVrblRaVnlOTjJmcGRkdHE5RjRtZXVyQnl5cVMwWGFXcXd0NXFuWFNVdEJ2ZTNYazFsa3ZEZ3FheEdCajhKaTl2VHEtVnFSYWpYX0ZKUnViQ1dOLXJvWjA0dmF6RUJtdmdiQ2VsRGE5MTY?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1116,7 +1107,7 @@
     {
       "title": "Labor was poised to reveal massive migration cuts, then suddenly delayed",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHZmVWloM2JsLXNBZHhFamVlRHByZkowdnctRTY0SXAtTGRiYmhVUm5rOWhaeGUwMDBrZHI5MFlQbDliUXVqR0NHalpCTkt2ZFN3WG1WRVFhVHlMRDI1VHh0WFE4VjZwYTNxN1ExLW1qNVdOcHVhbzlwQ3JMVUFVZURacDZnbENwXzJMRC14VnQ4a05DMXBTSEdB?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1217,7 +1208,7 @@
     {
       "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
-      "source": "Fragomen",
+      "source": "fragomen.com",
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1243,7 +1234,7 @@
     {
       "title": "Minimum Salary Changes Announced",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
-      "source": "Fragomen",
+      "source": "fragomen.com",
       "publishedAt": "2026-07-21T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1369,7 +1360,7 @@
     {
       "title": "Curbing well-off taxpayers' access to key programs could save billions",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGVwWTFMNkZJeWZqc3ozeU0tR0swWWVZYTRQM1JNbjQ2RkJLS2xoT21kV0hCNnBlbnpxdkVQRWFXS1pRcXJwYjI0bkFhejY4QkRQeHhacF9uOHRsRTlFdGZTbGQxazJrU0ZvNjdkVnQxWTFHOW1PdXVuRzk2WTZjQTFhVUFLaVhGdG44NkdsbEQ0WVoxdUtSa0NGUVQ2MkpiZDJtdg?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1469,7 +1460,7 @@
     {
       "title": "Au pair in the UK in 2026",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nZUVzNlhNckJiSjU3bUlEcUtWbXRJbk9NVFNpUmpJNnhXODdVUnF6YU5OQXRqUnhwSThRdzh2dmhKbGdEajVZTkFaNERBblp2a2NuLVBvLVZMTHZCaWlQRTl0d3E3b0E0NGZQU2ZCS1pEWVMwZUE?oc=5",
-      "source": "Expatica",
+      "source": "expatica.com",
       "publishedAt": "2026-07-01T11:34:50.000Z",
       "summary": "",
       "categories": [],
@@ -1489,13 +1480,26 @@
       "spicy": false
     },
     {
-      "title": "July Monthly Tax Upate",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyZUJKNEItcWhZYnVyYVlHRC14N21uZkFTVkVGYzNLajJPMTkzekJCWDFuMnl2R3pPUFhWWmpDSVpja2MxZENUSDFPLWVhX2xuOElPUVRrMHk3UHY0TDhDbnI5S29kcWl6ZXdEWUxB?oc=5",
-      "source": "PwC Australia",
+      "title": "House values fall – but homes are not getting more affordable",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX29XcHAxWHZETUlWTENzeGNLWEJsMkR5ZkdSQVVmaDRSNjdCSnFUcWVQNjhRSEhpV0NLYkEtcXU3d2FKeGRNbUhyVkRsQ0lIRURfbnN5eGc1N1lCLUFGMkxDU3pzVjgwdmhrdWhUQkZ2Z29jR1hhNm9ieEJYNkdPaHJmMUZkVzN1czBORGc3VzE5dG5jbDZXWnZMUWVURTNIMzJiSjhzcE1QbFVtNk5pYlVENWgxUnJHQ01mUA?oc=5",
+      "source": "SMH.com.au",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "summary": "",
       "categories": [
-        "Tax"
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "1 July Changes: Australian visas and migration",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVZ2ME9od0h5aTRzLTFqTlJNWWVVTXBwOUZJd3ZQc2czWGhYb0FpUzJtdE8tVnFCNXZkZ3hMSTRFajFLa2tUai1CWHZIZ295X1VPZXVHVlgwNVFleWVYNjZPRU9hUU90cFlxSjBxVEFkV1ZjcFZkdzNteVkwOFFUZFBqaHhNSDRUdGRycFFUakFiOEctWkE?oc=5",
+      "source": "LinkedIn",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
       ],
       "relevant": true,
       "score": 0,
