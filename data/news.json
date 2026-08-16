@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-16T19:25:58.097Z",
+  "updatedAt": "2026-08-16T19:47:27.639Z",
   "count": 120,
-  "relevantCount": 60,
-  "spicyCount": 11,
+  "relevantCount": 61,
+  "spicyCount": 12,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -34,9 +34,9 @@
     "AFR",
     "Absolute Immigration",
     "Crown World Mobility",
-    "Expatica",
     "Fragomen",
     "LinkedIn",
+    "Michael West Media",
     "Migrant Times",
     "Nomad Lawyer",
     "Property Council Australia",
@@ -50,11 +50,43 @@
     "The Guardian",
     "ashurstperkinscoie.com",
     "fundsforNGOs",
-    "michaelwest.com.au",
     "news24.com.au",
     "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Former ASIO agent says Australians 'deserve to know' what led to Bondi attack",
+      "url": "https://www.abc.net.au/news/2026-08-17/former-asio-agent-statement-to-attend-royal-commission/107044130",
+      "source": "ABC News",
+      "publishedAt": "2026-08-16T19:30:49.000Z",
+      "summary": "The former agent, known as Marcus, is seeking to return to Australia to give evidence to the Bondi royal commission in person.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Record number of fraudsters booted from NDIS as Labor negotiates path for cuts",
+      "url": "https://www.smh.com.au/politics/federal/record-number-of-fraudsters-booted-from-ndis-as-labor-negotiates-path-for-cuts-20260816-p60ors.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-16T19:26:43.000Z",
+      "summary": "One supplier was alleged to have fraudulently claimed around $4 million in public funds.",
+      "categories": [],
+      "relevant": false,
+      "score": 9,
+      "spicy": false
+    },
+    {
+      "title": "'Brokeback' Barnaby knows One Nation needs the pink vote",
+      "url": "https://www.abc.net.au/news/2026-08-17/one-nation-pink-vote-gay-barnaby-joyce-pauline-hanson-voter-base/107043302",
+      "source": "ABC News",
+      "publishedAt": "2026-08-16T19:03:06.000Z",
+      "summary": "If One Nation genuinely wants to replace the Liberals and Nationals as the dominant force on the right, it needs a broader voter base. That is where the gay vote comes in.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "AI deepfake scams are impersonating Australia's most public faces",
       "url": "https://www.abc.net.au/news/2026-08-17/asic-ai-powered-impersonation-scams-warning-alan-kohler/107038256",
@@ -99,6 +131,19 @@
       ],
       "relevant": true,
       "score": 7,
+      "spicy": true
+    },
+    {
+      "title": "Big business fears 'war for talent' as politicians clash over immigration",
+      "url": "https://www.abc.net.au/news/2026-08-17/mining-business-immigrant-worker-skilled-visa-economy/107043674",
+      "source": "ABC News",
+      "publishedAt": "2026-08-16T18:54:16.000Z",
+      "summary": "Business and mining leaders are warning it is critical for Australia to remain a destination of choice for skilled migrants, resisting a push from across the political spectrum to cut the immigration intake.",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 8,
       "spicy": true
     },
     {
@@ -216,17 +261,6 @@
       ],
       "relevant": true,
       "score": 1,
-      "spicy": false
-    },
-    {
-      "title": "Death in Tasmanian prison after reports man 'unresponsive' in cell",
-      "url": "https://www.abc.net.au/news/2026-08-16/tasmania-man-dies-custody-hobart-reception-prison-police/107043768",
-      "source": "ABC News",
-      "publishedAt": "2026-08-16T07:23:44.000Z",
-      "summary": "Police are investigating the death of a man who was found unresponsive in his cell by prison staff.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -842,17 +876,6 @@
       "spicy": false
     },
     {
-      "title": "NSW and Queensland on verge of rating cut after hit to stamp duty",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHhRejBfS2Vwa1BpZHpFNWczMmpHSEt1QjNQQ3FmZzFRQkZJQ3E0eGJ1V2dPcFR0VE9aVjNZMHNaRmhJNE9PSDdheHNxMnpTQ3oySzBhU0tQRjRGWlFsX3NhdDY2ZDBsVk1Kby1UdjkzczFhVDZJdE01RldUN3dab3NIc1o2UktyNmc4QUhMalJIa1BHOFJONTJfMjNWVTMwME5sWVA3dEFDNW1uc05qTUwxTG56RTh0UFBvY0RSZw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-11T10:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Delivery drivers to be paid minimum $31.30 an hour across Australia in ‘world-leading’ decision",
       "url": "https://www.theguardian.com/business/2026/aug/11/delivery-drivers-to-be-paid-minimum-3130-an-hour-across-australia-in-world-leading-decision",
       "source": "The Guardian",
@@ -962,7 +985,7 @@
     {
       "title": "Tax changes get tick of approval from ratings agency",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWJ2c1pHVHdRVVhRRTNiOEloR2VVSGtFRFBUaGF2SDE1dHMwVkJEOHd0emdfaDFwd2J0TFVXQk91TnI3dkFpa3RHX0ZZSWx0X1JpcEtaRVJEVjRScUxXY3I1SVlSQUM0d2RqT3k4cnQ1WHJQck40SkZqRjZUWXFRc2thUnRtalU?oc=5",
-      "source": "michaelwest.com.au",
+      "source": "Michael West Media",
       "publishedAt": "2026-08-06T19:13:04.000Z",
       "summary": "",
       "categories": [
@@ -1475,28 +1498,6 @@
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "PM and treasurer want to eat the pie themselves, not grow it for all",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkJDZWZGZWxEdkVaRXdCSF9ydjUyZnhpeDVRYTZTWGpVTk04ZUtzdzRWXzU3cVg2djdGRzJRM05wbGlCc2liczdsSE5FSEZjalJ6R3lTWjRYaVpkSGMtc2JfdjhEY1lkUEhHSW5pd0g2dmVIX3hxdEpZd3NmakpKeENxMEZfUFNsSzI0TnloUHc1YkFXUXZsTFJsb0FDVnhWRmNhdDlNSV9ZT2x6aG5fclBFaHNVLXdRZC1QMVFhbFdUVXRr?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-03T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Au pair in the UK in 2026",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nZUVzNlhNckJiSjU3bUlEcUtWbXRJbk9NVFNpUmpJNnhXODdVUnF6YU5OQXRqUnhwSThRdzh2dmhKbGdEajVZTkFaNERBblp2a2NuLVBvLVZMTHZCaWlQRTl0d3E3b0E0NGZQU2ZCS1pEWVMwZUE?oc=5",
-      "source": "Expatica",
-      "publishedAt": "2026-07-01T11:34:50.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
       "spicy": false
     }
   ]
