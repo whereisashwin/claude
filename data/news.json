@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-17T11:32:16.233Z",
+  "updatedAt": "2026-08-17T12:57:01.474Z",
   "count": 120,
-  "relevantCount": 54,
+  "relevantCount": 58,
   "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
@@ -33,6 +33,7 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
+    "Australian Property Update",
     "Crown World Mobility",
     "Fragomen",
     "Inside Retail Australia",
@@ -46,16 +47,30 @@
     "Shiksha",
     "Study International",
     "Sydney Morning Herald",
+    "TV Blackbox",
     "The Australian",
-    "The Business Times",
     "The Conversation",
     "The Guardian",
     "The Weekly Times",
+    "ashurstperkinscoie.com",
     "fundsforNGOs",
     "news24.com.au",
     "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Labor and Coalition reach deal on gambling reforms",
+      "url": "https://www.abc.net.au/news/2026-08-17/labor-gets-coalition-support-for-gambling-laws-after-amendments/107047766",
+      "source": "ABC News",
+      "publishedAt": "2026-08-17T11:36:21.000Z",
+      "summary": "Labor and the Coalition have agreed to establish a single register allowing Australians to opt out of wagering ads across online platforms as part of a tentative deal to pass gambling reforms.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
     {
       "title": "Taylor demands Albanese repeal ‘cruel tax’ in return for NDIS bill support",
       "url": "https://www.theguardian.com/australia-news/2026/aug/17/angus-taylor-links-support-for-ndis-reform-to-removal-of-widow-tax-loophole",
@@ -108,17 +123,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-08-17T07:48:33.000Z",
       "summary": "This blog is now closed Labor pledges opt-out register for online gambling ads akin to Do Not Call register for spam calls",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Anger in the bush as NSW gun buyback scheme labelled 'like stealing'",
-      "url": "https://www.abc.net.au/news/2026-08-17/gun-buyback-anger-from-nsw-farmers-sporting-shooters-gun-shops/107045316",
-      "source": "ABC News",
-      "publishedAt": "2026-08-17T07:43:29.000Z",
-      "summary": "Farmers, sporting shooters and gun sellers are all reacting angrily to the NSW government's buyback scheme, with some saying the compensation being offered is \"like stealing\".",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -355,19 +359,6 @@
       "spicy": true
     },
     {
-      "title": "National Australia Bank's Q3 cash earnings rise as lower impairments offset slower home lending",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTWszUFVFLXBWRTh0SG9jLXBVUVY1OVhrVEJlME5pVW45VzBwcm5lcTM1akxPWW1OekxVUDNwNm1GRzVOU0pMcHA0SUQ5MjFlRVI4YnBId1BtTk5GNzBwb0lYQ1FOYUZPVWpCMlBuOXI0bWRXZGtyS0NURHFsSnZhU2ktUFkyUWxtbV9uZFJJZUx3NTlHa2RabjFqQXdnVFN2TnVJM0hfM281b01qTmdFTExGc3V1dEVsSVhRcFBkLXpxR0V0Z3FjSGpZby1YdDBsQnBmYWZwaWZfeXdFandjS3FKckFGdG9qb3RtWE1EVQ?oc=5",
-      "source": "The Business Times",
-      "publishedAt": "2026-08-17T00:17:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Resolve poll suggests more voters support Labor’s federal budget changes than oppose them",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamF4elB3Ql9IUUNBNUlWZm4wMVRTWEE2SFBuU1NkbXhxU21QVjFmSnVzMjk3ZG5BeWxMZy0yQkZiVE5ab05EOWU1cHR6NjlyTTFpWkFSTG5kNHZyY3VGNFVGQXM2MllkdnNtUnRCMUMzTE5sLVhVZkdZUUhzeG1ialBqcHhDbXlXQnpUS2xiVy14QWlabW5LTTJzcVpuVlE1UFdOMzN5ajVZcUpiVlNCRHpjWERWRm01aEwyU0lHVWs?oc=5",
       "source": "The Conversation",
@@ -375,7 +366,7 @@
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -388,7 +379,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -470,20 +461,6 @@
       ],
       "relevant": true,
       "score": 6,
-      "spicy": true
-    },
-    {
-      "title": "The 30-year policy collision behind Australia's housing crunch",
-      "url": "https://www.abc.net.au/news/2026-08-17/housing-affordability-migration-construction-building-regulation/107040504",
-      "source": "ABC News",
-      "publishedAt": "2026-08-16T18:45:00.000Z",
-      "summary": "How two sets of policies, housing and migration, compounded on each other over 30 years and created the housing affordability crisis we have today.",
-      "categories": [
-        "Visas & Migration",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 5,
       "spicy": true
     },
     {
@@ -758,17 +735,6 @@
       "spicy": false
     },
     {
-      "title": "Labor-led committee warns of human rights risks in NDIS reform",
-      "url": "https://www.smh.com.au/politics/federal/labor-led-committee-warns-of-human-rights-risks-in-ndis-reform-20260814-p60ohb.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-15T07:08:40.000Z",
-      "summary": "The Labor-led committee broke with government senators involved in a separate inquiry which steamrolled pleas of the disability community to recommend the NDIS reforms pass.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
       "title": "Shoppers' payments declined due to 'global' Mastercard outage",
       "url": "https://www.abc.net.au/news/2026-08-15/mastercard-outage/107042220",
       "source": "ABC News",
@@ -826,17 +792,6 @@
       "relevant": true,
       "score": 5,
       "spicy": true
-    },
-    {
-      "title": "Albanese made a terrible mistake. But for Taylor, it’s worse",
-      "url": "https://www.smh.com.au/politics/federal/albanese-made-a-terrible-mistake-but-for-taylor-it-s-worse-20260814-p60oij.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-14T19:00:00.000Z",
-      "summary": "The opposition leader has only a short period to prove himself. This week showed that both sides are wasting time.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
     },
     {
       "title": "Across the world authoritarians want to tell us what a ‘good life’ looks like. Here’s how liberals must respond | Alexandre Lefebvre",
@@ -968,17 +923,6 @@
       "relevant": true,
       "score": 6,
       "spicy": true
-    },
-    {
-      "title": "CBA profit accelerates despite plunging investor loans",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWWhIR2kzM2ZlSGo0RzQ0UGZzQlZVbkN1ekpESVlpQ2ZBc0d6YjBoSE1HMVpoOFRRSFI3cUJNRlppYWxzeGdnYmJ3Q3lTMnZrLXFRUy14eHU3eW9HTWZyRFBuMFN0b3ZTWklhQjZjS1lTUlB5RHE5VFN5MGd4NGNqQ3B6N0s0dXlRMDhDOVk2V0JQekFm?oc=5",
-      "source": "realestate.com.au",
-      "publishedAt": "2026-08-12T06:33:09.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
     },
     {
       "title": "Chalmers optimistic house price forecast ‘mugged by reality’",
@@ -1350,19 +1294,6 @@
       "spicy": false
     },
     {
-      "title": "Why are Sydney house prices falling in some areas, but rising in others?",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZEJFRGhsYlpmQ0Uxd1F0dXl3bzB5SkFoeVU2OTdXSUZMekd1UTVsMmdBZEsxMnQ1QWMyWXlEdk9xeXZRcFo2Rkw5Slh0cmM4SjBnd1QtREZSVktEVlhiTDNkR1UxUHVHZ0JadktWWjJUYkZZRVV5bUxhWE12R2xIQW5uY3FRLTNkT08tMlNZNlBELWFpcmw2NWx6cGEzT1VIcmlRaFlGemt2eldn?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-07-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "14 countries with dependant visas that let you bring your spouse and family",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqLWtXc0JNbVlkTlM4ZGVvTmo3NndGSk1ZOVhDWVliM1dQUlBMN0k2VTc0OFc0Ql9UVlFSbXdHakZtOEd0bW4xR2lzVTNqS281LUo5N0dWSVFXaHJQMHZLWmlISTl6VFprd1YtSVJWTFhkNGZKajJpd2FoZDNJSFk?oc=5",
       "source": "Study International",
@@ -1402,19 +1333,6 @@
       "spicy": false
     },
     {
-      "title": "Does One Nation’s migration policy actually add up?",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWJuc3NvdXJoUU1uOWRXbGdLQzBYa2I5YzJxOEtLN3N2cE52YXJQNGNwSmpJa3lGMFlPOU0xZERGb1ROcDdxYmxQS1ZFaDZkTjFYMnIyd2NXb2syVW9GVkV5ZzlPclVZTC1fSGVxRFdnZTdudEdKS2F5MnBvUUVkdllkM0VYSEZWT0VSTkNURmQwYjVYbE5BRmxhRG1paGEtdUtjbm9DS1R5a0dZSlpVZg?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Minimum Salary Changes Announced",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
       "source": "Fragomen",
@@ -1436,6 +1354,19 @@
       ],
       "relevant": true,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Victoria's housing affordability edge under threat, industry warns",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcEZ1ZWY0ZWE4Y1NhZ0l0bGYtSndpVFlDWWppQXBzT0NHNDNXRG5kQzV1eVdYTlNwUTRQMnd0VDJZeGZoNTVqQzZuSzZoazlSUk9PRXVWMUpHUGZQR0RWR1BJMXpuWFpuak5sWkZ4ekwwMHJUQTU5d3VoLVo1ZER0WndRNzR0Uzk2ZEJOZ1pGUDl2ZXJrRWpnbmpRRlFQQS13UDhkSWlwSW1iVXlJ?oc=5",
+      "source": "Australian Property Update",
+      "publishedAt": "2026-07-16T07:31:48.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 2,
       "spicy": false
     },
     {
@@ -1486,6 +1417,84 @@
       ],
       "relevant": true,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Labor has broken the tax reform ice. Now it must keep going",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVExaMjVnc1BHMTVhMkppbTVualBfSjM1cFNrekxKWGlreHViY1JUWHAzbS14OC1ObGlkNmJxaG1VQ212YUZxa0JNOHBld1RhWGx3bGRPRzg1bmZOS3A2YS1HN21sRUJPLWZ0cl9LM3cyUVFabWpaQ0FESUFHS2tDRndvM1k5WE9QaUlCYVdzUzd1cWJXNUdEcnVhUG16YWxQdTJPMDdSdjRvQXNQUHc?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
+    },
+    {
+      "title": "Banks are the real problem of the housing crisis",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTUNsbWdDTTNNdDZQSkpmSHlpVjNONXNjb3ZoX0xVRzhUWXlTbWRtXzJ2eFAtZ203SWd5NDA2a3VCaVpQVkJ5QTZvcm9zRHo5VmdkZEk5NWczYm5uZl9pTnV3VzZMNzl5RmNDVWdzb0hieE9YTmc1LXhjd0hFdHYyaXVNU1FScUhUVzFNR0tZR0dtanp2V2YzR1BZaTRtNHVTazNsa210SVUtQ0hRcVVKZGlNWkQ0WjdkYlNueTlWcEJ3Y1RQWGxQd080ck1BN2hERGxHZkFma1YzLXZxMEtJT2JRQ1VvRVlfM1RBdlZzbzBJeTQ?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "Budget loses billions, nation in deeper debt: The cost of cutting migration",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYWp2ZFUtaW9nSlBPVENhbEstbHFSSktENDlRN2lfb21oSllfRjdWTWFCcTFPUDU1UXBud1VDUkhKUTRnTFhBeUJibzFyY1c2Q2J4bmUxZ3BJTzU1REI5QzhWc0JkRUdpeTJ0XzJHMkt5c1pqN1BnU2lhR0xCZEdCb21fWmJkZFpHM1ltdkNUbDV6SUptM1pNNlVsWWF1ck9ON3ZYNzlYcHlXZm9PQmQwOTVjMVZGcHN1cXcwZWVpLUEteXV5aDlsNEhFcnNmZjg?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 2,
+      "spicy": false
+    },
+    {
+      "title": "FOUR CORNERS probes Australia’s housing affordability gap",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0NSYkFKY0I0bXFWOTlXZ3VUZGZhU2U3RnNWMEJaNkpManhTRG1tQ0FkR3QwNjVUcExlSnB6TkM5YTZ5b0YxTVZKTEpIOGV3cHJ0aGJtTzFMR1pOZzZSdGVtR0tVc1B4QWU4Zzdkc0tNelNTR2pzUkt4RGtRM2xLMWJrS3JORWd2ZUxsazh5UlNRU2NCbi15NW4zYms3N1Z0?oc=5",
+      "source": "TV Blackbox",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Australian Federal Budget 2026-2027 – Key Tax Measures",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGJ4MF9Rb0lBcHo0XzhyOXp0bUxHQ1BSTHpkc1RqZTlqSGlGZHY2bnZmVmZDMi1rcU5HWkw4eEhLLUFrTnJua3ZYdV9zWU9IcTM0bHdYbS0zTEk4b0pHVXZoZ010cE1pdjZjdDNfT3RORFpTdDFzTllVVTNnVzA4SFlORVd2aHV2cUFiVDlvZW5xVS1Xd3Zqc0R2d0cxUTBB?oc=5",
+      "source": "ashurstperkinscoie.com",
+      "publishedAt": "2026-07-10T14:26:24.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Curbing well-off taxpayers' access to key programs could save billions",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGVwWTFMNkZJeWZqc3ozeU0tR0swWWVZYTRQM1JNbjQ2RkJLS2xoT21kV0hCNnBlbnpxdkVQRWFXS1pRcXJwYjI0bkFhejY4QkRQeHhacF9uOHRsRTlFdGZTbGQxazJrU0ZvNjdkVnQxWTFHOW1PdXVuRzk2WTZjQTFhVUFLaVhGdG44NkdsbEQ0WVoxdUtSa0NGUVQ2MkpiZDJtdg?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-07-10T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 3,
       "spicy": false
     }
   ]
