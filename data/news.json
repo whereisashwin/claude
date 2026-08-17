@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-17T20:33:54.516Z",
+  "updatedAt": "2026-08-17T21:31:59.763Z",
   "count": 120,
   "relevantCount": 61,
-  "spicyCount": 10,
+  "spicyCount": 9,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -36,7 +36,6 @@
     "Australian Property Update",
     "Crown World Mobility",
     "Inside Retail Australia",
-    "LinkedIn",
     "Michael West Media",
     "Migrant Times",
     "Property Council Australia",
@@ -55,6 +54,7 @@
     "World Socialist Web Site",
     "fragomen.com",
     "fundsforNGOs",
+    "linkedin.com",
     "news24.com.au",
     "realestate.com.au"
   ],
@@ -63,11 +63,35 @@
       "title": "Australia politics live: Greens say Labor and Coalition deal on gambling ad laws a ‘smokescreen’",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-17T20:33:37.000Z",
+      "publishedAt": "2026-08-17T21:26:45.000Z",
       "summary": "Greens spokeswoman Sarah Hanson-Young says opt-out system doesn’t acknowledge ‘how the internet actually works.",
       "categories": [],
       "relevant": false,
       "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Labour hire company and four farms face more than $3 million in fines",
+      "url": "https://www.abc.net.au/news/2026-08-18/farmers-face-landmark-labour-hire-court-case/107045240",
+      "source": "ABC News",
+      "publishedAt": "2026-08-17T21:04:56.000Z",
+      "summary": "A major labour hire legal case is set to begin in the Victorian Supreme Court and could see those accused face fines totalling more than $3 million.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Live: Taylor issues ultimatum to PM over NDIS and widows' tax",
+      "url": "https://www.abc.net.au/news/2026-08-18/federal-politics-live-blog-august-18/107048590",
+      "source": "ABC News",
+      "publishedAt": "2026-08-17T20:57:02.000Z",
+      "summary": "Angus Taylor has issued an ultimatum to the prime minister, declaring the opposition's support for the National Disability Insurance Scheme hinges on the government scrapping the so-called widows' tax.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 6,
       "spicy": false
     },
     {
@@ -82,7 +106,7 @@
       "spicy": false
     },
     {
-      "title": "Marketplace warning as woman loses $10K in stolen-car purchase",
+      "title": "Marketplace warning as woman loses $10k in stolen-car purchase",
       "url": "https://www.abc.net.au/news/2026-08-18/facebook-marketplace-car-scam-stolen-car-leanne-roney-tas/106972894",
       "source": "ABC News",
       "publishedAt": "2026-08-17T19:40:51.000Z",
@@ -106,7 +130,7 @@
       "spicy": false
     },
     {
-      "title": "Josh Burns on the personal cost of being Jewish in parliament",
+      "title": "Josh Burns on his relationship with fellow MP Georgie Purcell",
       "url": "https://www.abc.net.au/news/2026-08-18/josh-burns-didnt-set-out-to-be-the-jewish-guy-in-parliament/107037772",
       "source": "ABC News",
       "publishedAt": "2026-08-17T19:00:00.000Z",
@@ -130,11 +154,11 @@
       "spicy": true
     },
     {
-      "title": "Options are slim for new Australia Test cricket batters",
+      "title": "Options slim for new Australia Test cricket batters",
       "url": "https://www.abc.net.au/news/2026-08-18/australia-cricket-batsmen-options-thin/107046784",
       "source": "ABC News",
       "publishedAt": "2026-08-17T18:55:37.000Z",
-      "summary": "Twin failures by Australia batters Marnus Labuschagne and Jake Weatherald have many pundits calling for them to be dropped for the second Test against Bangladesh. But who are the possible replacements?",
+      "summary": "Twin failures by Australia batters, Marnus Labuschagne and Jake Weatherald have many pundits calling for them to be dropped for the second Test against Bangladesh. But who are the possible replacements?",
       "categories": [],
       "relevant": false,
       "score": 8,
@@ -233,7 +257,7 @@
       "summary": "The new measure falls short of calls for gambling ads to move to an opt-in model, or for an outright ban",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -244,7 +268,7 @@
       "summary": "Managing director Rebecca Costello will leave the publication in September without a new role lined up.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -897,19 +921,6 @@
       "spicy": false
     },
     {
-      "title": "Australia’s biggest aluminium smelter gets $2.5bn bailout package from federal and NSW governments",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/12/massive-bailout-for-australias-largest-aluminium-smelter-expected-to-be-announced-by-pm-and-nsw-premier",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-12T12:59:02.000Z",
-      "summary": "Rio Tinto said in December it may cease operations at the Tomago aluminium smelter at the end of its current electricity supply contract",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": true
-    },
-    {
       "title": "Cheap Victorian and Tasmanian suburbs brace for home price boom",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWi1ITGtvX0hRaTJvTF9vU1BWTWJWNktZa2RHbG1KbWx4ZDVTTlJTVmZ1WkZlOVdONG1UVkpjaGV5ZkRXNzc4VmxoSFAtcW1nbVFWSUtyeHZCeFlOTG4ySUsyZG1NOEpsajZMTzJlTy1KM1Y2b3lsOUlZNVFLQmd4eEsxOURTdkNjRnZlSjNKZFMzSU8ySmVtNEdfS0dTUG5h?oc=5",
       "source": "realestate.com.au",
@@ -1119,7 +1130,7 @@
     {
       "title": "Australia's new skilled visa processing priorities: Onshore applicants, defence, law enforcement",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXIyXzJXeGlwUncyN1JwSVBtajhJNURMTkZjdW1nYUJCNUhsVWhOU29RdF9LRzl2eHZac3o0cXgyTGE3NnN6U3lpb3hmS0U1ZXhFalJuN0Z1NDQzb1ZvQlN0UHZaZ19GRFVJc1ZVZExJWkFTdlItT0MtV1RPZ0otZFBWSHZIMzJXSWxRLW85dnlvbmxwRUZNMzlMeDFqQk1fMXc?oc=5",
-      "source": "LinkedIn",
+      "source": "linkedin.com",
       "publishedAt": "2026-08-06T00:30:02.000Z",
       "summary": "",
       "categories": [
@@ -1378,17 +1389,6 @@
       "categories": [],
       "relevant": false,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Budget improves by billions, but petrol pain about to grow",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjMyN1R5OTJoeU1ySDRXRzRqbDlLYmNISktIRDV3UmFjQUM0Zkk4LVhzUVNvUWFRNktjdXBOVTd6V2tEdXpPcWt2UlJKYkNOYTlwRUFzcGwwWkVuZ0ZhZHBUdV8tZ2VxZU9XamU1QXpaM1ZrQWNhNllUSWVMT1AybHgycnZ3UzBtSk9JaDJ2WXZoZ3NQWm1oU2VLdXBhRVhLU0JxVTlsY1JjYnYwVjBWa094YjMyNGlXc3c?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-07-20T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 2,
       "spicy": false
     },
     {
