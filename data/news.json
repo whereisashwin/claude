@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-17T01:45:33.371Z",
+  "updatedAt": "2026-08-17T03:06:56.723Z",
   "count": 120,
-  "relevantCount": 60,
-  "spicyCount": 15,
+  "relevantCount": 62,
+  "spicyCount": 16,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -32,6 +32,7 @@
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
+    "Absolute Immigration",
     "Crown World Mobility",
     "Fragomen",
     "LinkedIn",
@@ -39,7 +40,6 @@
     "Migrant Times",
     "Property Council Australia",
     "Property Update",
-    "SBS",
     "SMH.com.au",
     "Shiksha.com",
     "Study International",
@@ -48,19 +48,76 @@
     "The Business Times",
     "The Conversation",
     "The Guardian",
-    "absoluteimmigration.com",
     "ashurstperkinscoie.com",
     "fundsforNGOs",
     "news24.com.au",
-    "realestate.com.au"
+    "realestate.com.au",
+    "sbs.com.au"
   ],
   "items": [
     {
-      "title": "Australia politics live: Hume denies Chalmers’ claim Coalition would ‘end super as we know it’; Victorian teachers accept pay offer",
+      "title": "Australia politics live: Hill says using super to buy a home gets ‘gold medal for stupidest policy’ after Hanson reignites debate",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-17T01:44:37.000Z",
-      "summary": "Vote to accept state government’s latest pay offer ends year-long negotiations.",
+      "publishedAt": "2026-08-17T02:58:05.000Z",
+      "summary": "Pauline Hanson said on Sunday that Australians should be able to access superannuation early to cope with cost-of-living pressures.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-17T02:58:05.000Z",
+      "summary": "Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Kaiser Reef eyes golden clean-up from historic Victorian mine waste",
+      "url": "https://www.smh.com.au/business/companies/kaiser-reef-eyes-golden-clean-up-from-historic-victorian-mine-waste-20260817-p60p1e.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-17T02:53:18.000Z",
+      "summary": "Kaiser Reef Ltd has defined 3100 ounces of gold in Victorian tailings and is now drilling for more at its Maldon project, backed by a healthy $37.2 million cash and bullion position.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Jordon Steele-John calls NDIS cuts 'out of line with Australian values' – video",
+      "url": "https://www.theguardian.com/australia-news/video/2026/aug/17/jordon-steele-john-calls-ndis-cuts-out-of-line-with-australian-values-video",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-17T02:52:21.000Z",
+      "summary": "The Greens senator makes an impassioned plea for the government and Coalition not to go ahead with the legislation and says the cuts are 'unnecessary'. Jordon Steele-John accuses the government of preferring to back the gas exporters instead of the disability community Pocock and crossbenchers call ",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Hundreds of pelicans found dead in outback NSW",
+      "url": "https://www.abc.net.au/news/2026-08-17/dead-pelicans-menindee-lakes-h5n1-bird-flu-negative-test/107027670",
+      "source": "ABC News",
+      "publishedAt": "2026-08-17T01:59:56.000Z",
+      "summary": "Bird flu is ruled out as the cause of the deaths of hundreds of pelicans discovered by an ecologist at the Menindee Lakes.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Bigger, heavier electric trucks driving the streets at all hours – the plan to revolutionise our roads",
+      "url": "https://www.smh.com.au/politics/federal/bigger-heavier-electric-trucks-driving-the-streets-at-all-hours-the-plan-to-revolutionise-our-roads-20260815-p60onw.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-17T01:46:11.000Z",
+      "summary": "Trucks carry almost every good that Australian businesses and consumers buy. But there’s been no improvement to how they operate – until now.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -128,6 +185,19 @@
       "spicy": false
     },
     {
+      "title": "Nervous first-home buyers terrified of negative equity",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQLTFxZU1SWDRSU1FDOVZYMGdGQTc0WVpHLWdTQlVvOVp0Z0FZaDhETTlnUXhobHRMYzc0M3hMZXJLRmdqc29JWWUtdnd2blFvM1hRREpMRjc1Y3pGU04waHVEWml3RG01YzA0NFltN3hod3hydHc0dDQ5MXV2b2M3Tnh1b0tYNXNvcXAzcEpRLWhqb2hGSEtJU244THJ5NkEzbkxaa1ZxR0JYdUw1c2hSekxwc2FQcDZkWWFfYTBDUW81NjNRZ2kzaFhYalI5VDZScElHbFIzZE1UYTZQX053SlFBeEFfLXlMQmY4S0U3OE85Qy1aZGs3SXlqUGMxcGRYcWFjSG11TTkzNlhLM0NQcWpn0gGXAkFVX3lxTE8zWmZ0WXFBaWhIeWhVQ0xFTXR1N2J4RDVROEVkLWp6YnJ0X1EtQldMdDAzeHhtMWpGeUQtOWdZRFlYTG1XdWVmbDdjd0hNeXRYdEdXWU85TnVVbkJOLVBrY0ltcVJJZlAxSld2M1k2YU5OaDNIaXNMakw4aW9lSk9pcFl3TkNVVmR4NnRqaFl5S0lBUjVUbFEwQjl1LVRZMnlBY3VnWE5QTnEyRkM2T09nYzBOa0lHMnd6ZWo5Sk9mZTRfbXFlQ2JaZDczdWZkcVRnWUxYdnpUSGtaT3hpcXlmenFlanBWN25jNmJnMkdxR3RUdjd1d3VQS2s4dHhQcS1iYllsMFFCUU5xejcwY3ZwUmMweXVvTQ?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-08-16T23:18:50.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
       "title": "Broken zips, sleeve sewn shut: Union raises SA firefighter safety concerns",
       "url": "https://www.abc.net.au/news/2026-08-17/union-raises-sa-firefighter-safety-concerns/107027622",
       "source": "ABC News",
@@ -136,17 +206,6 @@
       "categories": [],
       "relevant": false,
       "score": 8,
-      "spicy": false
-    },
-    {
-      "title": "After constant chopping and changing, Green goes 'back to what worked'",
-      "url": "https://www.abc.net.au/news/2026-08-17/cameron-green-extended-run-after-bangladesh-test-century/107044844",
-      "source": "ABC News",
-      "publishedAt": "2026-08-16T21:37:27.000Z",
-      "summary": "Captain Pat Cummins says Cameron Green will get an \"extended run\" in one position in Australia's line-up after scoring his first Test century on home soil.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -175,17 +234,6 @@
       "spicy": false
     },
     {
-      "title": "Aussie star Lani Pallister ends American GOAT's 16-year win streak",
-      "url": "https://www.abc.net.au/news/2026-08-17/lani-pallister-beats-katie-ledecky-in-800m-at-pan-pacs/107044782",
-      "source": "ABC News",
-      "publishedAt": "2026-08-16T20:49:33.000Z",
-      "summary": "Lani Pallister becomes the first swimmer to beat American Katie Ledecky over 800m at a senior international swim meet as Australia wraps up a glittering Pan Pacific Swimming Championships.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Record number of fraudsters booted from NDIS as Labor negotiates path for cuts",
       "url": "https://www.smh.com.au/politics/federal/record-number-of-fraudsters-booted-from-ndis-as-labor-negotiates-path-for-cuts-20260816-p60ors.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -206,6 +254,19 @@
       "relevant": false,
       "score": 4,
       "spicy": false
+    },
+    {
+      "title": "Ex-Treasury boss warns on budget woes, migration cuts",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQckltb2VTZ0h2bzNxSnNPd1RMVjNjY01PS1pMYTRMWjJHM1RNLTJra1gyckJhUEZOQkxDQ2sydWpiWm1Hb3R4UThaRnBwemc3MVVpWTdEVllfSnhWSlF1YzFMVnFjU0tSV2FRM3E2NGJqQ1o2WV9waUR1MHItSkdIbTNaNzVtdW9QSFpsbDU2NkZKZVdOcVRRdC1MZEkzNkU5cU5TOU5n?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-16T19:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 8,
+      "spicy": true
     },
     {
       "title": "The fake Alan Kohler interview that shows a type of scam that’s on the rise",
@@ -243,7 +304,7 @@
       "spicy": true
     },
     {
-      "title": "Business and mining leaders resist push to slash migration intake",
+      "title": "40,000 skilled migrants needed to fill jobs on mine sites",
       "url": "https://www.abc.net.au/news/2026-08-17/mining-business-immigrant-worker-skilled-visa-economy/107043674",
       "source": "ABC News",
       "publishedAt": "2026-08-16T18:54:16.000Z",
@@ -252,7 +313,7 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 10,
+      "score": 8,
       "spicy": true
     },
     {
@@ -268,17 +329,6 @@
       "relevant": true,
       "score": 6,
       "spicy": true
-    },
-    {
-      "title": "Muslim countries condemn Israeli rejection of Gaza plan",
-      "url": "https://www.abc.net.au/news/2026-08-17/israel-gaza-peace-plan-muslim-countries/107044600",
-      "source": "ABC News",
-      "publishedAt": "2026-08-16T18:44:58.000Z",
-      "summary": "Eight major players, including Australia's northerly neighbour Indonesia, say Israel's stance against Donald Trump's plan threatens to \"jeopardise its implementation\".",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
     },
     {
       "title": "Labor senator seeks postpartum inquiry after 'excruciating' experience",
@@ -321,7 +371,7 @@
       "summary": "With gambling, the news bargaining incentive and NDIS reform all set to pass, the PM needs to get the focus off fruit and on to policy",
       "categories": [],
       "relevant": false,
-      "score": 8,
+      "score": 7,
       "spicy": false
     },
     {
@@ -738,17 +788,6 @@
       "spicy": true
     },
     {
-      "title": "The petition Albanese didn’t talk about after ‘warm’ phone call with Trump",
-      "url": "https://www.smh.com.au/politics/federal/trump-weighs-tariff-exemption-for-australia-after-warm-phone-call-20260814-p60o9g.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-14T06:46:52.000Z",
-      "summary": "Australia’s plan to force US tech giants to pay for local news is expected to complicate the PM’s attempt to get out of Trump’s latest round of tariffs.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Morrison-era GST deal with WA a multi-billion dollar mistake that should be reversed, Productivity Commission finds",
       "url": "https://www.theguardian.com/australia-news/2026/aug/14/morrison-era-gst-deal-western-australia-23bn-mistake-productivity-commission",
       "source": "The Guardian",
@@ -760,28 +799,6 @@
       "relevant": true,
       "score": 6,
       "spicy": true
-    },
-    {
-      "title": "Kuniko drilling flags NSW resource growth",
-      "url": "https://www.smh.com.au/business/companies/kuniko-drilling-flags-nsw-resource-growth-20260814-p60oel.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-14T03:05:06.000Z",
-      "summary": "Kuniko’s drilling has extended its Silica Hill silver-gold system in NSW by 100m. The new holes hit visible sulphides up-dip and down-dip of a previous bonanza hit, flagging potential for resource growth.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Australia has been galvanised by ‘melon-gate’. So what is the luxury fruit at the centre of the PM’s controversy?",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/14/australia-albanese-melon-gate-japan-controversy-explained",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-14T00:58:48.000Z",
-      "summary": "Shizuoka Crown melons are part of an important cultural gifting practice in Japan, where they are hand-patted by growers to achieve an even shape and texture The melons at the centre of a national imbroglio involving the Australian prime minister have the sweetness of a watermelon, the snap of a hon",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
     },
     {
       "title": "Weight-loss subsidies threaten $10b drain on federal budget",
@@ -845,7 +862,7 @@
     {
       "title": "Low-income Australians should accept substandard homes, Liberal frontbencher says",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUdRM2t4RVE2R1RKZmVaZzR5R1VSVG9xN0ROQ2hvekxLN0N6c2VTbUF5MlFrMVlJaTdFQkxTYjgxYlRQbGMyVmNwclVKUDdwNG9Zd05rcWRycGNTN0dNcGk5TmZUT2Q3ckZxM1lVR0pCcGJfa0tmZVhMVXhta1d3UmtUdXNLNTdhMlRVRlJWd1NfRzA4MGhMN2lpVUVUV3VtbGtpbA?oc=5",
-      "source": "SBS",
+      "source": "sbs.com.au",
       "publishedAt": "2026-08-13T01:44:25.000Z",
       "summary": "",
       "categories": [],
@@ -1024,7 +1041,7 @@
     {
       "title": "Immigration New Zealand clarifies Skilled Migrant Category 2026 changes",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1gxN2dtT1NMUjhWeTBLaWRqeUZ0VTY4NVJTc3M5UTU0cG5GdkU0cmV2enRpdFFtSmtIbnhhb3NUNnQ0WTF2V25xZU53WnZ5TzllZERxdU1pRlczVS16SW5ITE0yM2poclM1M1FTMENoSlpLeFFra01tUDI3VDlySDhZVkxCdmJ3UlpGOVlDaVhWWl9IcVFUYlZpT2pZYkpwZlpzV2N5Zm1Qdkxyc3lzcFlB?oc=5",
-      "source": "absoluteimmigration.com",
+      "source": "Absolute Immigration",
       "publishedAt": "2026-08-07T10:27:04.000Z",
       "summary": "",
       "categories": [
@@ -1485,19 +1502,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "The basic miscalculation in the 2026 Budget that has plunged the housing market into chaos",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNblgtd2tOdU5LSmNpaUVXd2R2MVBNLXpJVVdscnBLZFJVVVYyMUtEV3EwaE5CcjR4Z0VpLXVwLXROUVpQbTMzUFN2elo3NjBKeG04RmFRRWQzSlFrZG1nYWZZWDl1U2tEYjVvUFFxdmxuYVNzb19JUlMwNkN6TUlWY1p0MWg4N2lfb19TakV1NEFLMVBvdnBidG9MMEFDQW1PUTVxcWdsczZIMnRfV2NyMXZRT292NHlRTXp6VGFlRXlDM1F6ck9La2w1cEhBS0ZIQmR0ZmtzR3h0b0VJejNkWkVZWXJiMmFfM2U5MVh5RVNxcG5XNWk0VjBrdThjTTEySl9LTGJLREd0Mnd6QWMzYWlsNmVqZjhoUjNfN3l2ZlVzWnJXN1pYVkJYcHZBamVxRHZCWmRB0gG7AkFVX3lxTE0xUHVaUGtwSDAxVGlsYTdCblc1Q25xT1VHUVgwX1BzV0dTaDVGTlpZbXEzYV9UcS1kTUhQZTFCVFhGNW9meDRtMVZUdEVCbDRaemNRSVIyenFBU25QYUxxZWJ4UzBTRWRyamhIeExERFBDYVVJQ2VpOWMwdUNDZlBIeFlnSW9LZ1U1eDZSWHQxdUt3Y3VxWEpxX0p4ZWJ0dWl5Z2FwS29fZ2NFVFVoVjZxd2NsWGxOZU8yX2VJRm5wSkc4ZWlCb011VUNlSHVjbFNpM0NzSWZTWFU1SUhnMFdodW10UmhjX21SVUNSSXNRbE13eDBoTUJzd3AzWDZBclB3b0NMN0JhcjJTVlZtSml0NzlxRnNKSkMtR0o3SkhSNWF0Q19qdVpqY25ET0JVN1NQOU9JQ3VGLU1Zcw?oc=5",
-      "source": "news24.com.au",
-      "publishedAt": "2026-07-08T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     }
   ]
