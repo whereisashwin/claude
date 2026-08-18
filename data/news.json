@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-18T19:32:44.383Z",
+  "updatedAt": "2026-08-18T20:31:33.211Z",
   "count": 120,
   "relevantCount": 58,
-  "spicyCount": 8,
+  "spicyCount": 7,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -31,6 +31,7 @@
   "sources": [
     "9Now",
     "ABC News",
+    "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
     "Australian Property Update",
@@ -50,16 +51,40 @@
     "Study International",
     "Sydney Morning Herald",
     "The Australian",
+    "The Conversation",
     "The Guardian",
     "The Nightly",
     "The Weekly Times",
     "World Socialist Web Site",
-    "abc.net.au",
+    "fundsforNGOs",
     "news24.com.au",
-    "realestate.com.au",
-    "theconversation.com"
+    "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Queensland social housing waitlist drops to 44,000 with 'work to do'",
+      "url": "https://www.abc.net.au/news/2026-08-19/queensland-social-housing-register-waitlist/107050360",
+      "source": "ABC News",
+      "publishedAt": "2026-08-18T19:52:55.000Z",
+      "summary": "The latest figures for July showed 44,294 people on the waitlist, a drop from the 48,539 recorded in October 2024 when the LNP came to office.",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Thai police reveal cause of death of teen allegedly murdered by Australian man",
+      "url": "https://www.abc.net.au/news/2026-08-19/thai-police-release-autopsy-details/107047308",
+      "source": "ABC News",
+      "publishedAt": "2026-08-18T19:52:53.000Z",
+      "summary": "Thai police have told the ABC they have collected \"100 per cent of the evidence\" and will conclude their investigation this week.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
     {
       "title": "New mum returns to international 'murderball' with blunt new perspective",
       "url": "https://www.abc.net.au/news/2026-08-19/new-mum-ella-sabljak-australia-wheelchair-rugby-world-champs/107046698",
@@ -94,7 +119,7 @@
       "spicy": false
     },
     {
-      "title": "Temporary visa rules leave Iranian refugee 'trapped in nightmare'",
+      "title": "'I don't have any future': The mental toll of living on temporary visas",
       "url": "https://www.abc.net.au/news/2026-08-19/australian-immigration-laws-temportary-visas-refugee-limbo/106998224",
       "source": "ABC News",
       "publishedAt": "2026-08-18T19:04:01.000Z",
@@ -177,17 +202,6 @@
       "spicy": false
     },
     {
-      "title": "Ministers tread carefully as Trump scales back US drills in South Korea",
-      "url": "https://www.abc.net.au/news/2026-08-18/defence-ministers-tread-carefully-as-trump-scales-back-drills/107050936",
-      "source": "ABC News",
-      "publishedAt": "2026-08-18T09:06:03.000Z",
-      "summary": "Australia and Japan's defence ministers sit down in Canberra to discuss the rapidly expanding defence ties between the two countries.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Queensland Rail reaches deal with train controllers",
       "url": "https://www.abc.net.au/news/2026-08-18/queensland-rail-reaches-deal-with-train-controllers/107051822",
       "source": "ABC News",
@@ -206,7 +220,7 @@
       "summary": "Liberal MP Andrew Wallace crossed the floor for the first time, as last-minute amendments on online ads and promotions secured Coalition support in the house.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -217,7 +231,7 @@
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -228,7 +242,7 @@
       "summary": "Queensland's CFMEU inquiry has heard three Melbourne men linked to the Comancheros bikie gang flew to Brisbane before one allegedly threatened a construction worker at a major government project.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -241,7 +255,7 @@
         "Family & Education"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -628,12 +642,12 @@
     {
       "title": "Resolve poll suggests more voters support Labor’s federal budget changes than oppose them",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamF4elB3Ql9IUUNBNUlWZm4wMVRTWEE2SFBuU1NkbXhxU21QVjFmSnVzMjk3ZG5BeWxMZy0yQkZiVE5ab05EOWU1cHR6NjlyTTFpWkFSTG5kNHZyY3VGNFVGQXM2MllkdnNtUnRCMUMzTE5sLVhVZkdZUUhzeG1ialBqcHhDbXlXQnpUS2xiVy14QWlabW5LTTJzcVpuVlE1UFdOMzN5ajVZcUpiVlNCRHpjWERWRm01aEwyU0lHVWs?oc=5",
-      "source": "theconversation.com",
+      "source": "The Conversation",
       "publishedAt": "2026-08-16T23:38:33.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 0,
+      "score": 3,
       "spicy": false
     },
     {
@@ -709,7 +723,7 @@
     {
       "title": "40,000 skilled migrants needed to fill jobs on mine sites",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb3JEcTRPcms1dXNDTXRCZnRiZWZsRXRNVklIam9QTWhsZWdCQmhJazRCeEczc2NtN3BDbnRpNHl1YmZLZUtxSkIzc1p3SUFaUV9CdVdyNjcxd3dTZGNrWDN3c3NRSlk1T3paTS1QWHZDVzc1STFnSHdmWXdQUm1xbi1Vb29BUUl1R2tWMncwMlQxdXFWUE5NSWU1UmVBRFJTRklBRw?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-16T18:54:16.000Z",
       "summary": "",
       "categories": [
@@ -901,6 +915,19 @@
       "spicy": false
     },
     {
+      "title": "Apply for Affordable and Diverse Housing Fund (Australia)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ084enh3QkJFLUMtTzlfR2Jidl84VjBCQkpUOU9wTmtDeUtEZVdwZzJDYUlkM0RzU242LXJEQkt4dnJrQ2Nmd0liZEV4NEkyaTV1UzlpdlJXbl9JY1kybldORmhwaEJ1VVhJbk9DRk9KeG51NlNYQ0lSbVgyei1ZWU1QVmJWSXZzdGlFc3pOdEtSNTRrcXE5VHVSWnpRckXSAaQBQVVfeXFMUFBZTlVsTVFUR2lRcG1NbkxraEtJWmFjTVozNnJhNkI2eTllSDBqalc2bHpNcXI2LVQ3SmxBdFFSZ2xpN2ttcVozLWp2TTEyU2ppdTJSNUo2Tm5UYm9PdHVBZUhneVc2QkdhMFFkZUtfSV9NYkxCTHpjRjhoY1FQQUpvRU9CSzV3ajNmRExwWXpHSVN6SWNOZmloVkhRT08yYWdLbGw?oc=5",
+      "source": "fundsforNGOs",
+      "publishedAt": "2026-08-11T22:50:06.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Minimum PTE Score Required for Australia PR in 2026-27",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVpGYkFGTlpRb3FVZndGSmtJeUFaRWxFWi1ZNXh6dlZSTjN2WjB5aWdDYTR4aVo0Rmc1ZWJuVjQ2MTZha3JFa0xsNEhvNk5xX3lFeUFXeDJGcFhCZXpzUW9fNEg4Tm1WcjJwTWppS2JvZzNLSUYtcjM3TjNHdmxiYThZY2k3Zw?oc=5",
       "source": "Shiksha",
@@ -1038,7 +1065,7 @@
     {
       "title": "Visa overstayers to have work rights revoked if asylum claim rejected",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSl9CZHJqckNMQ1pMcEhsZGkzVEVFZE1Tb3FZS2dydENsT19tQkFHZkw2QjAyU2FqQjdVc3o0bVVQbWhaYm0tN1NzcWk4UHhncDMtbFhpTUNVVV9zdEN5eWdjMloxd0lkLWxCbnRoeGJUMll2QU9vQjBRQ01QbUlOaVpMUFdvN3BCQWc?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1051,7 +1078,7 @@
     {
       "title": "Country cafe mounting costly battle to retain beloved barista",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFJXNW5BMy1ZYlg4aGVXX1AzRmptSWYxOWpJZGgwTm1iR2EtWVd2WmhocnVOaVVUa1FYS1hZTFduTXctUHRRMkg4ek81OFVRV0JOa3lmbkFVRldBOGVZbUZEZmFPZkx1RWNmY0tyQURGbHdTLXhxVFprYWZvbGpJTThwTVgzbG1VUlRKVGpwYnJYUHBNbnVvZnpzdHY?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1099,7 +1126,7 @@
     {
       "title": "One Nation leader Pauline Hanson says she does not care if immigration cuts impact businesses",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-05T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1151,7 +1178,7 @@
     {
       "title": "Warnings Labor's plan to delay family reunions could be 'human rights issue'",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHQyc2g0WmxBYUN2QTNldVNvOXZ0QV9ZZ2x3bTlRZmdYMVZ6THFGcEVnanVrblRaVnlOTjJmcGRkdHE5RjRtZXVyQnl5cVMwWGFXcXd0NXFuWFNVdEJ2ZTNYazFsa3ZEZ3FheEdCajhKaTl2VHEtVnFSYWpYX0ZKUnViQ1dOLXJvWjA0dmF6RUJtdmdiQ2VsRGE5MTY?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1162,7 +1189,7 @@
     {
       "title": "Labor was poised to reveal massive migration cuts, then suddenly delayed",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHZmVWloM2JsLXNBZHhFamVlRHByZkowdnctRTY0SXAtTGRiYmhVUm5rOWhaeGUwMDBrZHI5MFlQbDliUXVqR0NHalpCTkt2ZFN3WG1WRVFhVHlMRDI1VHh0WFE4VjZwYTNxN1ExLW1qNVdOcHVhbzlwQ3JMVUFVZURacDZnbENwXzJMRC14VnQ4a05DMXBTSEdB?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1274,7 +1301,7 @@
     {
       "title": "Why are Sydney house prices falling in some areas, but rising in others?",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZEJFRGhsYlpmQ0Uxd1F0dXl3bzB5SkFoeVU2OTdXSUZMekd1UTVsMmdBZEsxMnQ1QWMyWXlEdk9xeXZRcFo2Rkw5Slh0cmM4SjBnd1QtREZSVktEVlhiTDNkR1UxUHVHZ0JadktWWjJUYkZZRVV5bUxhWE12R2xIQW5uY3FRLTNkT08tMlNZNlBELWFpcmw2NWx6cGEzT1VIcmlRaFlGemt2eldn?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-07-23T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1471,32 +1498,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Labor has broken the tax reform ice. Now it must keep going",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVExaMjVnc1BHMTVhMkppbTVualBfSjM1cFNrekxKWGlreHViY1JUWHAzbS14OC1ObGlkNmJxaG1VQ212YUZxa0JNOHBld1RhWGx3bGRPRzg1bmZOS3A2YS1HN21sRUJPLWZ0cl9LM3cyUVFabWpaQ0FESUFHS2tDRndvM1k5WE9QaUlCYVdzUzd1cWJXNUdEcnVhUG16YWxQdTJPMDdSdjRvQXNQUHc?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 7,
-      "spicy": true
-    },
-    {
-      "title": "Banks are the real problem of the housing crisis",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTUNsbWdDTTNNdDZQSkpmSHlpVjNONXNjb3ZoX0xVRzhUWXlTbWRtXzJ2eFAtZ203SWd5NDA2a3VCaVpQVkJ5QTZvcm9zRHo5VmdkZEk5NWczYm5uZl9pTnV3VzZMNzl5RmNDVWdzb0hieE9YTmc1LXhjd0hFdHYyaXVNU1FScUhUVzFNR0tZR0dtanp2V2YzR1BZaTRtNHVTazNsa210SVUtQ0hRcVVKZGlNWkQ0WjdkYlNueTlWcEJ3Y1RQWGxQd080ck1BN2hERGxHZkFma1YzLXZxMEtJT2JRQ1VvRVlfM1RBdlZzbzBJeTQ?oc=5",
-      "source": "The Australian",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 5,
       "spicy": false
     }
   ]
