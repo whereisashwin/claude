@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-18T01:40:40.564Z",
+  "updatedAt": "2026-08-18T03:02:09.661Z",
   "count": 120,
-  "relevantCount": 61,
-  "spicyCount": 12,
+  "relevantCount": 65,
+  "spicyCount": 14,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -29,6 +29,7 @@
     "Australia cost of living relief budget"
   ],
   "sources": [
+    "9Now",
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
@@ -37,6 +38,7 @@
     "Crown World Mobility",
     "Fragomen",
     "Inside Retail Australia",
+    "KLSE Screener",
     "LinkedIn",
     "Michael West Media",
     "Migrant Times",
@@ -51,18 +53,31 @@
     "The Guardian",
     "The Nightly",
     "The Weekly Times",
+    "World Socialist Web Site",
     "fundsforNGOs",
     "news24.com.au",
     "propertyupdate.com.au",
-    "realestate.com.au",
-    "wsws.org"
+    "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Coalition says antisemitism royal commission should be extended to demand answers from PM, Wong, others",
+      "url": "https://www.smh.com.au/politics/federal/coalition-says-antisemitism-royal-commission-should-be-extended-to-demand-answers-from-pm-wong-others-20260818-p60pci.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-18T02:56:34.000Z",
+      "summary": "Liberal MP Julian Leeser also said the royal commission had been unable to do its job without questioning the prime minister and key leaders in the arts, university and culture sectors.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Australia politics live: Labor and Coalition finalise deals on gambling reform and closing ‘widow tax’ negative gearing loophole",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-18T01:39:31.000Z",
+      "publishedAt": "2026-08-18T02:53:36.000Z",
       "summary": "Government MPs agree to more than a dozen amendments made with the Coalition.",
       "categories": [
         "Tax"
@@ -70,6 +85,43 @@
       "relevant": true,
       "score": 8,
       "spicy": true
+    },
+    {
+      "title": "National Australia Bank cuts housing credit forecasts",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1l2RXBkZFkyMF9RdE9mZVlEY3hqczdNYnR4MUlxUUJLaF9LQVR3QTVfTV9QdVdsQmZuNmQ0Mklhc0p5eVhqQS01QkF0SHJzNnpoY1pKOV9jQVFmYjRzVVpCdi1wX25ZZFBIZkZ1SC1rQTUtT2h1REtJcE54c0ZKVHlYcTZmQzdsNlFNWXFuY1NXX2x0czltaU9kLWo2aHg4emw1Z3ZR?oc=5",
+      "source": "KLSE Screener",
+      "publishedAt": "2026-08-18T02:27:28.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": true
+    },
+    {
+      "title": "‘They’ll lie again’: Barnaby Joyce hits back in superannuation fight with Labor",
+      "url": "https://www.smh.com.au/politics/federal/they-ll-lie-again-barnaby-joyce-takes-superannuation-fight-to-labor-20260818-p60p87.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-18T01:58:43.000Z",
+      "summary": "One Nation has not backed down after Labor accused it and the Coalition of attacking the compulsory superannuation system.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Geologist flags huge Victorian gold potential for Aureka",
+      "url": "https://www.smh.com.au/business/companies/geologist-flags-huge-victorian-gold-potential-for-aureka-20260818-p60pc6.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-18T01:52:33.000Z",
+      "summary": "Aureka has flagged a huge gold exploration target of up to 545,000 ounces at its Irvine project, next door to the giant Stawell mine in Victoria, on top of its existing 398,000oz resource.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
     },
     {
       "title": "One Nation flip-flops on migration policy, announces tobacco excise cut",
@@ -98,22 +150,24 @@
       "spicy": false
     },
     {
+      "title": "Labor prepared to fast-track fix to negative gearing 'widow tax'",
+      "url": "https://www.abc.net.au/news/2026-08-18/labor-fast-track-widow-tax-negative-gearing/107048894",
+      "source": "ABC News",
+      "publishedAt": "2026-08-18T00:07:51.000Z",
+      "summary": "Treasurer Jim Chalmers says the government is prepared to fast-track a fix to the unintended \"widow tax\" created by its changes to negative gearing if it will win the Coalition's support to save $37 billion in NDIS spending.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 9,
+      "spicy": true
+    },
+    {
       "title": "Rugby league State of Origin headed to New Zealand for first time",
       "url": "https://www.abc.net.au/news/2026-08-18/rugby-league-state-of-origin-headed-to-new-zealand/107048994",
       "source": "ABC News",
       "publishedAt": "2026-08-17T23:32:48.000Z",
       "summary": "Australian rugby league's showpiece event will head across the Tasman for the first time, with the men's State of Origin confirmed for Auckland next year.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Maroons' search for new Origin coach suffers double setback",
-      "url": "https://www.abc.net.au/news/2026-08-18/cameron-smith-kevin-walters-qld-maroons-coach-search/107048868",
-      "source": "ABC News",
-      "publishedAt": "2026-08-17T23:11:31.000Z",
-      "summary": "Billy Slater's old pair of assistants in Matt Ballin and Ben Te'o loom as the two leading candidates to take over as Queensland coach, after Cameron Smith and Kevin Walters rule themselves out of the race.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -133,46 +187,11 @@
       "spicy": true
     },
     {
-      "title": "WA judges told to stop giving reduced sentences due to prison overcrowding",
-      "url": "https://www.abc.net.au/news/2026-08-18/wa-judges-told-no-discounted-sentences-due-to-prison-conditions/107047460",
-      "source": "ABC News",
-      "publishedAt": "2026-08-17T21:41:39.000Z",
-      "summary": "The practice of giving criminals lighter sentences because of poor conditions in Western Australia's jails should stop in most cases, the state's Court of Appeal rules.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Labour hire company and four farms face more than $3 million in fines",
-      "url": "https://www.abc.net.au/news/2026-08-18/farmers-face-landmark-labour-hire-court-case/107045240",
-      "source": "ABC News",
-      "publishedAt": "2026-08-17T21:04:56.000Z",
-      "summary": "A major labour hire legal case is set to begin in the Victorian Supreme Court and could see those accused face fines totalling more than $3 million.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
-      "title": "Live: 'Widow tax' fix expected to be fast-tracked after Taylor ultimatum",
+      "title": "Live: Labor signs off on gambling reform deal with Coalition",
       "url": "https://www.abc.net.au/news/2026-08-18/federal-politics-live-blog-august-18/107048590",
       "source": "ABC News",
       "publishedAt": "2026-08-17T20:57:02.000Z",
-      "summary": "A fix to the so-called widow tax is expected to be fast-tracked after Treasurer Jim Chalmers signalled he was open to addressing it sooner rather than later.",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Bird flu crisis will reach stage where 'all we can do is euthanase', vets warn",
-      "url": "https://www.abc.net.au/news/2026-08-18/bird-flu-vet-euthanasia-mental-health/107023130",
-      "source": "ABC News",
-      "publishedAt": "2026-08-17T20:08:00.000Z",
-      "summary": "Since the arrival of H5 bird flu in Australia, some vets say treating wild birds has never been more crucial, but without help to keep up with demand, they fear they will be left with no choice but to euthanase animals they otherwise could have saved.",
+      "summary": "The Labor caucus has given the green light to a deal with the Coalition on gambling advertising.",
       "categories": [],
       "relevant": false,
       "score": 6,
@@ -225,19 +244,6 @@
       "spicy": false
     },
     {
-      "title": "Pauline Hanson shifts to pro-WA position on GST",
-      "url": "https://www.abc.net.au/news/2026-08-18/pauline-hanson-changes-position-on-wa-and-gst/107047490",
-      "source": "ABC News",
-      "publishedAt": "2026-08-17T18:39:56.000Z",
-      "summary": "Three years after calling out WA's \"huge benefit\" from the GST carve-up, the One Nation leader shifts her position.",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Think you know Australian plants? Try this quiz",
       "url": "https://www.abc.net.au/news/science/2026-08-18/amazing-flowers-quiz/106759588",
       "source": "ABC News",
@@ -256,19 +262,6 @@
       "summary": "Spending on aged pension will be stable for decades to come, experts argue, despite claims by Bragg and Hanson",
       "categories": [],
       "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Labor and Coalition close in on deal on gambling reforms",
-      "url": "https://www.abc.net.au/news/2026-08-17/labor-gets-coalition-support-for-gambling-laws-after-amendments/107047766",
-      "source": "ABC News",
-      "publishedAt": "2026-08-17T11:36:21.000Z",
-      "summary": "Labor and the Coalition agree to establish a single register that would allow Australians to opt out of wagering ads across online platforms, as part of a tentative deal to pass gambling reforms.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
       "score": 5,
       "spicy": false
     },
@@ -763,30 +756,6 @@
       "spicy": false
     },
     {
-      "title": "Beach holiday loophole? Spike in British seeking asylum in Australia",
-      "url": "https://www.smh.com.au/politics/federal/beach-holiday-loophole-spike-in-british-seeking-asylum-in-australia-20260811-p60na1.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-15T19:00:00.000Z",
-      "summary": "It is a sign that refugee visas continue to be abused, as Home Affairs Minister Tony Burke mulls other means for deterring and deporting visa overstayers.",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "I went for a run and nearly died: What having anaphylaxis taught me about life",
-      "url": "https://www.smh.com.au/politics/federal/i-went-for-a-run-and-nearly-died-what-having-anaphylaxis-taught-me-about-life-20260814-p60ocp.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-15T19:00:00.000Z",
-      "summary": "One in three Australians now have an allergy. Finally, the government has taken notice.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Fuel security or electrification? We've crunched the numbers",
       "url": "https://www.abc.net.au/news/2026-08-16/how-much-might-it-cost-to-electrify-road-freight/106956614",
       "source": "ABC News",
@@ -1168,6 +1137,19 @@
       "spicy": false
     },
     {
+      "title": "Watch 9News Latest Stories - Season 2026 - Changes to skilled worker visas",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMlVhdGlVSXdSZmFnTWl2Zm9SVFNONkJIRlJxQlhCTkRFaTN6Z2RLcnJ2U1VyeVFoS0ZBRWFfaDhBXzNPbS1ZTk54V1cyMXluNW5TM2daa0pjdUhWM0hWcG5wdXFRYmRLV1lSS0NBVVFwZ3RsS0UwUlZiWXNiZmU0VTF2cE85Y054aEFNOQ?oc=5",
+      "source": "9Now",
+      "publishedAt": "2026-08-05T02:27:04.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Labor's quiet visa change prioritises onshore workers",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFc5bXZaUWh5eEhuT3gzdGl3SlowZzlZeW00X1d4TkxmR1lsZHlPMWVvQWw2WVV0bVEzcndoWlVYLTRMSVMwbWVyM1hYQXNfemFjSzZsU3ZPRTEzQlBJREx1d2RxU1hJMGdxTHhjLVRrVmtwYjl2SzhjT0xVT3l4ZDRsei1WZzVuYkg3ZXpBMEhkVE5HdFBPMDQxUktXcjJjanRaS0d5VXJwcUE?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1280,7 +1262,7 @@
     {
       "title": "Australia: Labor’s $10 billion housing scheme delivers under 1,500 homes in 2 years",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4bnV2Z1dIbGYyaWY5czhIeWhTZEJvSEdlOGpERUdQOGkwanlQWE5Qb0FZeXVQT2NrMnkzclQtektsdkx1Wlhia3hBZ2dxemstUGRfOG1qbGVpZHlYeERmWjd3R0FQYmJM?oc=5",
-      "source": "wsws.org",
+      "source": "World Socialist Web Site",
       "publishedAt": "2026-07-27T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1356,6 +1338,19 @@
       "spicy": false
     },
     {
+      "title": "Does One Nation’s migration policy actually add up?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWJuc3NvdXJoUU1uOWRXbGdLQzBYa2I5YzJxOEtLN3N2cE52YXJQNGNwSmpJa3lGMFlPOU0xZERGb1ROcDdxYmxQS1ZFaDZkTjFYMnIyd2NXb2syVW9GVkV5ZzlPclVZTC1fSGVxRFdnZTdudEdKS2F5MnBvUUVkdllkM0VYSEZWT0VSTkNURmQwYjVYbE5BRmxhRG1paGEtdUtjbm9DS1R5a0dZSlpVZg?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Minimum Salary Changes Announced",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
       "source": "Fragomen",
@@ -1364,17 +1359,6 @@
       "categories": [],
       "relevant": false,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Budget improves by billions, but petrol pain about to grow",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjMyN1R5OTJoeU1ySDRXRzRqbDlLYmNISktIRDV3UmFjQUM0Zkk4LVhzUVNvUWFRNktjdXBOVTd6V2tEdXpPcWt2UlJKYkNOYTlwRUFzcGwwWkVuZ0ZhZHBUdV8tZ2VxZU9XamU1QXpaM1ZrQWNhNllUSWVMT1AybHgycnZ3UzBtSk9JaDJ2WXZoZ3NQWm1oU2VLdXBhRVhLU0JxVTlsY1JjYnYwVjBWa094YjMyNGlXc3c?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-07-20T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 2,
       "spicy": false
     },
     {
@@ -1401,6 +1385,19 @@
       ],
       "relevant": true,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Why Jim Chalmers can’t be trusted with future tax cuts vow",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdkVydzFEZlFKR2VydWhpLVk1SjIzM1c0V2tKdWFnQjdNUHVaaFZYSU5tVk13ZXBsRDNBOTZwdUYyUnJ5dEE0Y3BhbDdvSU90UVNXcGNFNXZ0bVlxRVlxS1lORm84YmluT3BwLXVIYnVQakx4dElzOFRrQ3hoLVBVM1pVRTZxcnQ5Qjd3bUo1X0hmaXFEdEZqd0FpeloyMDNvbTNxZFktRWNGU0xKWHpEdFRHVjlvUFo5NEtnRlppUkZrWERseFNiM1ByTmktM2dMVlNxdkhGY1ZLUlpCUTlr?oc=5",
+      "source": "The Nightly",
+      "publishedAt": "2026-07-16T07:05:49.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
       "spicy": false
     },
     {
@@ -1454,19 +1451,6 @@
       "spicy": false
     },
     {
-      "title": "Why Jim Chalmers can’t be trusted with future tax cuts vow",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdkVydzFEZlFKR2VydWhpLVk1SjIzM1c0V2tKdWFnQjdNUHVaaFZYSU5tVk13ZXBsRDNBOTZwdUYyUnJ5dEE0Y3BhbDdvSU90UVNXcGNFNXZ0bVlxRVlxS1lORm84YmluT3BwLXVIYnVQakx4dElzOFRrQ3hoLVBVM1pVRTZxcnQ5Qjd3bUo1X0hmaXFEdEZqd0FpeloyMDNvbTNxZFktRWNGU0xKWHpEdFRHVjlvUFo5NEtnRlppUkZrWERseFNiM1ByTmktM2dMVlNxdkhGY1ZLUlpCUTlr?oc=5",
-      "source": "The Nightly",
-      "publishedAt": "2026-07-15T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Chalmers’ budget surplus rests on ‘unrealistic’ assumptions: PBO",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeV90VVlZSTJhUlJKZUNSdnlaSlh2bW15bWw5WndtN0lpV0dlMTB4N3V2TzVCUVBMQ1hVLVNaUGhtR0VTY1pqRG1heGlPczBvUno5aGhXczRpVlZKak5UbVlTbGduSGdfVks1WU0xQVg0X3RlUGhQeldYallIcl9ZQnFGaTBvV0RfMVctMzhJVDQ0ZS1xd0ZKXzFJWHZXUHdwbUd4TWhhbEtIbUZFc01Fbw?oc=5",
       "source": "AFR",
@@ -1501,6 +1485,32 @@
       ],
       "relevant": true,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Banks are the real problem of the housing crisis",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTUNsbWdDTTNNdDZQSkpmSHlpVjNONXNjb3ZoX0xVRzhUWXlTbWRtXzJ2eFAtZ203SWd5NDA2a3VCaVpQVkJ5QTZvcm9zRHo5VmdkZEk5NWczYm5uZl9pTnV3VzZMNzl5RmNDVWdzb0hieE9YTmc1LXhjd0hFdHYyaXVNU1FScUhUVzFNR0tZR0dtanp2V2YzR1BZaTRtNHVTazNsa210SVUtQ0hRcVVKZGlNWkQ0WjdkYlNueTlWcEJ3Y1RQWGxQd080ck1BN2hERGxHZkFma1YzLXZxMEtJT2JRQ1VvRVlfM1RBdlZzbzBJeTQ?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "Budget loses billions, nation in deeper debt: The cost of cutting migration",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYWp2ZFUtaW9nSlBPVENhbEstbHFSSktENDlRN2lfb21oSllfRjdWTWFCcTFPUDU1UXBud1VDUkhKUTRnTFhBeUJibzFyY1c2Q2J4bmUxZ3BJTzU1REI5QzhWc0JkRUdpeTJ0XzJHMkt5c1pqN1BnU2lhR0xCZEdCb21fWmJkZFpHM1ltdkNUbDV6SUptM1pNNlVsWWF1ck9ON3ZYNzlYcHlXZm9PQmQwOTVjMVZGcHN1cXcwZWVpLUEteXV5aDlsNEhFcnNmZjg?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 2,
       "spicy": false
     }
   ]
