@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-18T04:09:44.755Z",
+  "updatedAt": "2026-08-18T05:03:54.574Z",
   "count": 120,
-  "relevantCount": 63,
-  "spicyCount": 13,
+  "relevantCount": 61,
+  "spicyCount": 12,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -29,7 +29,9 @@
     "Australia cost of living relief budget"
   ],
   "sources": [
+    "9Now",
     "ABC News",
+    "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
     "Australian Property Update",
@@ -46,14 +48,12 @@
     "SMH.com.au",
     "Study International",
     "Sydney Morning Herald",
-    "TV Blackbox",
     "The Australian",
     "The Conversation",
     "The Guardian",
     "The Nightly",
     "The Weekly Times",
     "World Socialist Web Site",
-    "abc.net.au",
     "fundsforNGOs",
     "news24.com.au",
     "realestate.com.au",
@@ -61,11 +61,57 @@
   ],
   "items": [
     {
-      "title": "Australia politics live: Coalition MPs cross floor in protest against gambling bill; Greens leader says Labor ‘should hang their heads in shame’",
+      "title": "Australia politics live: Coalition MPs cross floor in protest against gambling bill; Liberals target Labor on housing crisis in question time",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-18T03:59:41.000Z",
+      "publishedAt": "2026-08-18T04:54:18.000Z",
       "summary": "Government MPs agree to more than a dozen amendments made with the Coalition.",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Critica plots underground future for Tasmanian tungsten giant",
+      "url": "https://www.smh.com.au/business/companies/critica-plots-underground-future-for-tasmanian-tungsten-giant-20260818-p60pfd.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-18T04:45:49.000Z",
+      "summary": "Critica Limited is redesigning its giant Mt Lindsay tin-tungsten project in Tasmania around a smarter underground concept as prices for the strategic metals are running hot.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "'Enormous concern' Qld police breaking the law escaping workplace punishment",
+      "url": "https://www.abc.net.au/news/2026-08-18/qld-corruption-watchdog-concerns-police-officers/107050476",
+      "source": "ABC News",
+      "publishedAt": "2026-08-18T04:25:45.000Z",
+      "summary": "Queensland corruption watchdog says it is of \"enormous concern\" police officers who are found guilty of a crime but do not have a conviction recorded cannot be disciplined.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Labor’s gambling ‘AdStop’ regime fails to quell fresh anger of critics",
+      "url": "https://www.smh.com.au/politics/federal/labor-s-gambling-adstop-regime-fails-to-quell-fresh-anger-of-critics-20260818-p60p8o.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-18T04:22:50.000Z",
+      "summary": "A Liberal MP said he would cross the floor for the first time in his 10-year parliamentary career as the government’s gambling laws were introduced into parliament.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Wet winter sees River Murray roar with unexpected flows and life",
+      "url": "https://www.abc.net.au/news/2026-08-18/rainfall-unexpected-water-south-australia-river-murray-flows/107045254",
+      "source": "ABC News",
+      "publishedAt": "2026-08-18T04:16:28.000Z",
+      "summary": "Wet winter conditions across southern Australia have brought increased flows into South Australia's River Murray.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -448,17 +494,6 @@
       "spicy": false
     },
     {
-      "title": "Kaiser Reef eyes golden clean-up from historic Victorian mine waste",
-      "url": "https://www.smh.com.au/business/companies/kaiser-reef-eyes-golden-clean-up-from-historic-victorian-mine-waste-20260817-p60p1e.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-17T02:53:18.000Z",
-      "summary": "Kaiser Reef Ltd has defined 3100 ounces of gold in Victorian tailings and is now drilling for more at its Maldon project, backed by a healthy $37.2 million cash and bullion position.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
       "title": "Jordon Steele-John calls NDIS cuts 'out of line with Australian values' – video",
       "url": "https://www.theguardian.com/australia-news/video/2026/aug/17/jordon-steele-john-calls-ndis-cuts-out-of-line-with-australian-values-video",
       "source": "The Guardian",
@@ -586,6 +621,19 @@
       "relevant": true,
       "score": 6,
       "spicy": true
+    },
+    {
+      "title": "40,000 skilled migrants needed to fill jobs on mine sites",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb3JEcTRPcms1dXNDTXRCZnRiZWZsRXRNVklIam9QTWhsZWdCQmhJazRCeEczc2NtN3BDbnRpNHl1YmZLZUtxSkIzc1p3SUFaUV9CdVdyNjcxd3dTZGNrWDN3c3NRSlk1T3paTS1QWHZDVzc1STFnSHdmWXdQUm1xbi1Vb29BUUl1R2tWMncwMlQxdXFWUE5NSWU1UmVBRFJTRklBRw?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-16T18:54:16.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
     },
     {
       "title": "Rooftop solar waste is growing. Some experts say $10 fee per panel could help",
@@ -765,19 +813,6 @@
       "spicy": false
     },
     {
-      "title": "Air is coming out of the housing bubble. Is now the time for first home buyers?",
-      "url": "https://www.smh.com.au/politics/federal/air-is-coming-out-of-the-housing-bubble-is-now-the-time-for-first-home-buyers-20260813-p60nxm.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-15T19:30:00.000Z",
-      "summary": "The housing market in Australia has been a parlour game for the past 30 years, and one that the May budget is now upending.",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Coalition split on Andrew Bragg speech as South Australian senator Andrew McLachlan urges colleagues to ‘follow his lead’",
       "url": "https://www.theguardian.com/australia-news/2026/aug/15/coalition-split-on-andrew-bragg-speech-as-south-australian-senator-andrew-mclachlan-urges-colleagues-to-follow-his-lead",
       "source": "The Guardian",
@@ -835,19 +870,6 @@
       "relevant": false,
       "score": 3,
       "spicy": false
-    },
-    {
-      "title": "Australia’s largest aluminium smelter to run on renewables by 2033 after Rio Tinto strikes $2.5bn taxpayer bailout deal",
-      "url": "https://www.theguardian.com/business/2026/aug/13/rio-tinto-australia-tomago-aluminium-2bn-bailout-deal-renewable-energy",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-13T05:00:25.000Z",
-      "summary": "Rio Tinto makes power supply deal with federal and NSW government to cut emissions and decarbonise, preventing potential closure",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 8,
-      "spicy": true
     },
     {
       "title": "Low-income Australians should accept substandard homes, Liberal frontbencher says",
@@ -1061,7 +1083,7 @@
     {
       "title": "Visa overstayers to have work rights revoked if asylum claim rejected",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSl9CZHJqckNMQ1pMcEhsZGkzVEVFZE1Tb3FZS2dydENsT19tQkFHZkw2QjAyU2FqQjdVc3o0bVVQbWhaYm0tN1NzcWk4UHhncDMtbFhpTUNVVV9zdEN5eWdjMloxd0lkLWxCbnRoeGJUMll2QU9vQjBRQ01QbUlOaVpMUFdvN3BCQWc?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1074,7 +1096,7 @@
     {
       "title": "Country cafe mounting costly battle to retain beloved barista",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFJXNW5BMy1ZYlg4aGVXX1AzRmptSWYxOWpJZGgwTm1iR2EtWVd2WmhocnVOaVVUa1FYS1hZTFduTXctUHRRMkg4ek81OFVRV0JOa3lmbkFVRldBOGVZbUZEZmFPZkx1RWNmY0tyQURGbHdTLXhxVFprYWZvbGpJTThwTVgzbG1VUlRKVGpwYnJYUHBNbnVvZnpzdHY?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1111,7 +1133,7 @@
     {
       "title": "One Nation leader Pauline Hanson says she does not care if immigration cuts impact businesses",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-05T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1135,16 +1157,16 @@
       "spicy": false
     },
     {
-      "title": "Labor's quiet visa change prioritises onshore workers",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFc5bXZaUWh5eEhuT3gzdGl3SlowZzlZeW00X1d4TkxmR1lsZHlPMWVvQWw2WVV0bVEzcndoWlVYLTRMSVMwbWVyM1hYQXNfemFjSzZsU3ZPRTEzQlBJREx1d2RxU1hJMGdxTHhjLVRrVmtwYjl2SzhjT0xVT3l4ZDRsei1WZzVuYkg3ZXpBMEhkVE5HdFBPMDQxUktXcjJjanRaS0d5VXJwcUE?oc=5",
-      "source": "abc.net.au",
-      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "title": "Watch 9News Latest Stories - Season 2026 - Changes to skilled worker visas",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMlVhdGlVSXdSZmFnTWl2Zm9SVFNONkJIRlJxQlhCTkRFaTN6Z2RLcnJ2U1VyeVFoS0ZBRWFfaDhBXzNPbS1ZTk54V1cyMXluNW5TM2daa0pjdUhWM0hWcG5wdXFRYmRLV1lSS0NBVVFwZ3RsS0UwUlZiWXNiZmU0VTF2cE85Y054aEFNOQ?oc=5",
+      "source": "9Now",
+      "publishedAt": "2026-08-05T02:27:04.000Z",
       "summary": "",
       "categories": [
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 3,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1161,9 +1183,22 @@
       "spicy": false
     },
     {
+      "title": "Labor's quiet visa change prioritises onshore workers",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFc5bXZaUWh5eEhuT3gzdGl3SlowZzlZeW00X1d4TkxmR1lsZHlPMWVvQWw2WVV0bVEzcndoWlVYLTRMSVMwbWVyM1hYQXNfemFjSzZsU3ZPRTEzQlBJREx1d2RxU1hJMGdxTHhjLVRrVmtwYjl2SzhjT0xVT3l4ZDRsei1WZzVuYkg3ZXpBMEhkVE5HdFBPMDQxUktXcjJjanRaS0d5VXJwcUE?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
       "title": "Warnings Labor's plan to delay family reunions could be 'human rights issue'",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHQyc2g0WmxBYUN2QTNldVNvOXZ0QV9ZZ2x3bTlRZmdYMVZ6THFGcEVnanVrblRaVnlOTjJmcGRkdHE5RjRtZXVyQnl5cVMwWGFXcXd0NXFuWFNVdEJ2ZTNYazFsa3ZEZ3FheEdCajhKaTl2VHEtVnFSYWpYX0ZKUnViQ1dOLXJvWjA0dmF6RUJtdmdiQ2VsRGE5MTY?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1174,7 +1209,7 @@
     {
       "title": "Labor was poised to reveal massive migration cuts, then suddenly delayed",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHZmVWloM2JsLXNBZHhFamVlRHByZkowdnctRTY0SXAtTGRiYmhVUm5rOWhaeGUwMDBrZHI5MFlQbDliUXVqR0NHalpCTkt2ZFN3WG1WRVFhVHlMRDI1VHh0WFE4VjZwYTNxN1ExLW1qNVdOcHVhbzlwQ3JMVUFVZURacDZnbENwXzJMRC14VnQ4a05DMXBTSEdB?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1273,7 +1308,7 @@
     {
       "title": "Why are Sydney house prices falling in some areas, but rising in others?",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZEJFRGhsYlpmQ0Uxd1F0dXl3bzB5SkFoeVU2OTdXSUZMekd1UTVsMmdBZEsxMnQ1QWMyWXlEdk9xeXZRcFo2Rkw5Slh0cmM4SjBnd1QtREZSVktEVlhiTDNkR1UxUHVHZ0JadktWWjJUYkZZRVV5bUxhWE12R2xIQW5uY3FRLTNkT08tMlNZNlBELWFpcmw2NWx6cGEzT1VIcmlRaFlGemt2eldn?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-07-23T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1468,45 +1503,6 @@
       ],
       "relevant": true,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Budget loses billions, nation in deeper debt: The cost of cutting migration",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYWp2ZFUtaW9nSlBPVENhbEstbHFSSktENDlRN2lfb21oSllfRjdWTWFCcTFPUDU1UXBud1VDUkhKUTRnTFhBeUJibzFyY1c2Q2J4bmUxZ3BJTzU1REI5QzhWc0JkRUdpeTJ0XzJHMkt5c1pqN1BnU2lhR0xCZEdCb21fWmJkZFpHM1ltdkNUbDV6SUptM1pNNlVsWWF1ck9ON3ZYNzlYcHlXZm9PQmQwOTVjMVZGcHN1cXcwZWVpLUEteXV5aDlsNEhFcnNmZjg?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Property developers are benefiting from Australia's housing crisis",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnFSaTJza1VOaHl5SVNrR3dSUXdnRERoQTBSSDVCaHpTNUd2bEJDMlJsdXAzZVhYMWpJYTQ4QkdPd3VCdUkydlFtcjJ6UVVCWGV0eHN5R21aQTNFV1ZoQnh1UHBLMTFXNFZvUUxXYTlNNk9mdkI5ZmgwUG95NEJ6OV9xUUVLRWN4LTBKcWFWa1JWREVyWWtQSkRVV2ZnNWg2UlpTTEcwMjU0cllGYURidE1n?oc=5",
-      "source": "abc.net.au",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "FOUR CORNERS probes Australia’s housing affordability gap",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0NSYkFKY0I0bXFWOTlXZ3VUZGZhU2U3RnNWMEJaNkpManhTRG1tQ0FkR3QwNjVUcExlSnB6TkM5YTZ5b0YxTVZKTEpIOGV3cHJ0aGJtTzFMR1pOZzZSdGVtR0tVc1B4QWU4Zzdkc0tNelNTR2pzUkt4RGtRM2xLMWJrS3JORWd2ZUxsazh5UlNRU2NCbi15NW4zYms3N1Z0?oc=5",
-      "source": "TV Blackbox",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     }
   ]
