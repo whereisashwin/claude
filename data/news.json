@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-18T09:40:08.297Z",
+  "updatedAt": "2026-08-18T10:36:17.200Z",
   "count": 120,
-  "relevantCount": 58,
+  "relevantCount": 56,
   "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
@@ -35,7 +35,6 @@
     "AFR",
     "Absolute Immigration",
     "Australian Property Update",
-    "Crown World Mobility",
     "Fragomen",
     "Inside Retail Australia",
     "KLSE Screener",
@@ -47,7 +46,7 @@
     "RSM Global",
     "SBS",
     "SMH.com.au",
-    "Shiksha",
+    "Shiksha.com",
     "Study International",
     "Sydney Morning Herald",
     "The Australian",
@@ -56,11 +55,23 @@
     "The Nightly",
     "The Weekly Times",
     "World Socialist Web Site",
+    "crownworldmobility.com",
     "fundsforNGOs",
     "news24.com.au",
     "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Breaking: Sydney Swans say players 'in serious breach' of club standards",
+      "url": "https://www.abc.net.au/news/2026-08-18/sydney-swans-players-in-serious-breach-of-club-standards/107051708",
+      "source": "ABC News",
+      "publishedAt": "2026-08-18T10:18:43.000Z",
+      "summary": "The Sydney Swans say the players linked to a Victoria Police investigation of an alleged sexual assault \"are in serious breach of expected club behaviour and standards\".",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Labor, Coalition agree gambling can police itself. Good luck with that",
       "url": "https://www.smh.com.au/politics/federal/labor-coalition-agree-gambling-can-police-itself-good-luck-with-that-20260818-p60pfj.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
@@ -137,6 +148,17 @@
         "Family & Education"
       ],
       "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Lawyer for rapist Ralph Carr urges court to halt case",
+      "url": "https://www.abc.net.au/news/2026-08-18/ralph-carr-rape-presentence-hearing-stay-application/107051638",
+      "source": "ABC News",
+      "publishedAt": "2026-08-18T07:31:20.000Z",
+      "summary": "The disgraced celebrity agent's lawyer applied for a stay of proceedings, likening Ralph Carr's case to that of the last man to be hanged in Australia.",
+      "categories": [],
+      "relevant": false,
       "score": 4,
       "spicy": false
     },
@@ -248,7 +270,7 @@
       "url": "https://www.abc.net.au/news/2026-08-18/shane-hryhorec-disability-advocate-removed-from-virgin-flight/107049174",
       "source": "ABC News",
       "publishedAt": "2026-08-18T03:34:21.000Z",
-      "summary": "Virgin Australia says it is reviewing an incident where a wheelchair user was removed from a flight after his battery-powered motor could not be stored in overhead lockers on board.",
+      "summary": "Virgin Australia says it is reviewing an incident where a wheelchair user was removed from a flight after his battery-powered motor could not be stored in overhead lockers on board, saying the device had been \"incorrectly assessed\" as a lithium battery rather than a mobility aid.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -323,7 +345,7 @@
       "summary": "The Australian share market fell short of snapping its five-day losing streak on Tuesday, despite companies posting bumper earnings results for the last financial year.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -930,7 +952,7 @@
     {
       "title": "Minimum PTE Score Required for Australia PR in 2026-27",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVpGYkFGTlpRb3FVZndGSmtJeUFaRWxFWi1ZNXh6dlZSTjN2WjB5aWdDYTR4aVo0Rmc1ZWJuVjQ2MTZha3JFa0xsNEhvNk5xX3lFeUFXeDJGcFhCZXpzUW9fNEg4Tm1WcjJwTWppS2JvZzNLSUYtcjM3TjNHdmxiYThZY2k3Zw?oc=5",
-      "source": "Shiksha",
+      "source": "Shiksha.com",
       "publishedAt": "2026-08-11T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1052,7 +1074,7 @@
     {
       "title": "Immigration weekly update: August 6, 2026",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEVQM09vMXB2anhrS1RJQVAyOEFTd0I3RWNZWGI1QThwcXd1RlZzbXk2NEFUbk1zQ3QzMzM3Wlk4RVQ5aG5aMEtWOTltOVNtamFpVlZoOG9rTnYxUDJranRyLXFEM0xpb0hPVkFUZjcxSGV6NXNIZ0hpbGhHbm5WR01PeHdxc2Z3SjI3dw?oc=5",
-      "source": "Crown World Mobility",
+      "source": "crownworldmobility.com",
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1173,19 +1195,6 @@
       ],
       "relevant": true,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Labor's quiet visa change prioritises onshore workers",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFc5bXZaUWh5eEhuT3gzdGl3SlowZzlZeW00X1d4TkxmR1lsZHlPMWVvQWw2WVV0bVEzcndoWlVYLTRMSVMwbWVyM1hYQXNfemFjSzZsU3ZPRTEzQlBJREx1d2RxU1hJMGdxTHhjLVRrVmtwYjl2SzhjT0xVT3l4ZDRsei1WZzVuYkg3ZXpBMEhkVE5HdFBPMDQxUktXcjJjanRaS0d5VXJwcUE?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-04T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
       "spicy": false
     },
     {
@@ -1486,19 +1495,6 @@
       "relevant": true,
       "score": 7,
       "spicy": true
-    },
-    {
-      "title": "Banks are the real problem of the housing crisis",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTUNsbWdDTTNNdDZQSkpmSHlpVjNONXNjb3ZoX0xVRzhUWXlTbWRtXzJ2eFAtZ203SWd5NDA2a3VCaVpQVkJ5QTZvcm9zRHo5VmdkZEk5NWczYm5uZl9pTnV3VzZMNzl5RmNDVWdzb0hieE9YTmc1LXhjd0hFdHYyaXVNU1FScUhUVzFNR0tZR0dtanp2V2YzR1BZaTRtNHVTazNsa210SVUtQ0hRcVVKZGlNWkQ0WjdkYlNueTlWcEJ3Y1RQWGxQd080ck1BN2hERGxHZkFma1YzLXZxMEtJT2JRQ1VvRVlfM1RBdlZzbzBJeTQ?oc=5",
-      "source": "The Australian",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
     }
   ]
 }
