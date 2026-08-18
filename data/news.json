@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-18T21:30:36.130Z",
+  "updatedAt": "2026-08-18T22:30:55.311Z",
   "count": 120,
   "relevantCount": 58,
-  "spicyCount": 7,
+  "spicyCount": 8,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -29,7 +29,7 @@
     "Australia cost of living relief budget"
   ],
   "sources": [
-    "9now.com.au",
+    "9Now",
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
@@ -37,11 +37,11 @@
     "Australian Property Update",
     "Crown World Mobility",
     "Erickson Immigration Group",
+    "Ethos Migration Lawyers",
     "Fragomen",
     "Inside Retail Australia",
     "LinkedIn",
     "Michael West Media",
-    "Migrant Times",
     "Property Council Australia",
     "Property Update",
     "RSM Global",
@@ -53,22 +53,35 @@
     "The Australian",
     "The Conversation",
     "The Guardian",
-    "The Nightly",
     "The Weekly Times",
     "World Socialist Web Site",
     "fundsforNGOs",
     "news24.com.au",
-    "realestate.com.au"
+    "realestate.com.au",
+    "thenightly.com.au"
   ],
   "items": [
     {
-      "title": "Australia politics live: NDIS reforms to pass parliament today after 63 amendments get Coalition on side",
+      "title": "Australia politics live: Hastie says fight for his seat against One Nation is already ‘dirty and nasty’; NDIS reforms to pass parliament today",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-18T21:24:22.000Z",
+      "publishedAt": "2026-08-18T22:24:34.000Z",
       "summary": "Bill passed Senate on Wednesday evening and is due back in lower house today.",
       "categories": [],
       "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Live: ASX to fall ahead of inflation data",
+      "url": "https://www.abc.net.au/news/2026-08-19/asx-markets-business-live-news/107051926",
+      "source": "ABC News",
+      "publishedAt": "2026-08-18T21:41:29.000Z",
+      "summary": "The Australian share market is likely to fall in morning trade, following another weak session on Wall Street as several governments' borrowing costs surge to their highest level in decades on concerns about ballooning debt and rampant spending.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
       "score": 6,
       "spicy": false
     },
@@ -84,15 +97,24 @@
       "spicy": false
     },
     {
-      "title": "Queensland social housing waitlist drops to 44,000 with 'work to do'",
-      "url": "https://www.abc.net.au/news/2026-08-19/queensland-social-housing-register-waitlist/107050360",
+      "title": "More women being diagnosed with POTS but rural patients face extra toll",
+      "url": "https://www.abc.net.au/news/2026-08-19/pots-women-diagnosis-rural-regional-patients-healthcare-sa/107016870",
       "source": "ABC News",
-      "publishedAt": "2026-08-18T19:52:55.000Z",
-      "summary": "The latest figures for July showed 44,294 people on the waitlist, a drop from the 48,539 recorded in October 2024 when the LNP came to office.",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
+      "publishedAt": "2026-08-18T21:00:46.000Z",
+      "summary": "Being diagnosed with postural orthostatic tachycardia syndrome in regional Australia means treatment is far away and local understanding of the condition is minimal.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Fears mass bird deaths in south-west Victoria linked to bird flu",
+      "url": "https://www.abc.net.au/news/2026-08-19/fears-mass-bird-deaths-in-southwest-victoria-linked-to-bird-flu/107049616",
+      "source": "ABC News",
+      "publishedAt": "2026-08-18T20:59:15.000Z",
+      "summary": "People in the south-west Victorian town of Portland fear a deadly bird flu is to blame for hundreds of bird deaths this week, as carcasses begin to pile up.",
+      "categories": [],
+      "relevant": false,
       "score": 4,
       "spicy": false
     },
@@ -211,6 +233,20 @@
       "relevant": false,
       "score": 6,
       "spicy": false
+    },
+    {
+      "title": "Labor tax changes will hurt the poorest renters, major developer says",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTm1aZEU1ZWJUMjV6aU1aYzB1SnJhRkh0Y01NUVBHcVozQnZGcFhnX0k3N2duUVFhSTRzeHpJU2MtM3VNZVhHN2NjSG5IRDZGcENNTzR5MDZhRFZRbEVJMFZZekd1SWVvWHlqTm83OVRMVW5hazFEcTdHOXFuckVWemFkeTluYXpUaFhDWnJXSEVaTjdqdTlnaXNSZDhES1R3R21aR1VkVkgxb3dFeFN4SXhRY3RBVHVYbHJYSFBfYWxpQWM?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-18T10:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": true
     },
     {
       "title": "Labor, Coalition agree gambling can police itself. Good luck with that",
@@ -515,7 +551,7 @@
     {
       "title": "Former Labor adviser, bureaucrat slams Chalmers over Budget",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbklBT2dGdHV6OFNlZ3NiOFAwZXZkMEFJYmI5NWxBUkZ3bndOTGszODdjSDFpcE83SE5FNGlxRUhLSGVKRGdCYUxRcTR2dEpkdU5MZ19makNxYUJuaFM0Zms4ZS1NZXliWmlZaDhPUEVxSWFlQjlOX0dadWJONkZKVHRPaG9rZ1pSSWVHUDd0aG9EOXBKUWhMbXZiZWtfY0JGQ01HMGR0cEZoaWx0RndQR1dac2F3UHloZHdZNG9SMUVyRm5wRVBNbWQzckNjV2Zpd0hPQ3Bub0I?oc=5",
-      "source": "The Nightly",
+      "source": "thenightly.com.au",
       "publishedAt": "2026-08-17T07:49:57.000Z",
       "summary": "",
       "categories": [],
@@ -961,19 +997,6 @@
       "spicy": false
     },
     {
-      "title": "Australia Weighs Visa Changes to Reduce Net Overseas Migration",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGN2WlhkSWhrUVBVTFdfVGh1YXBjX3I5aUVxdTg4ME5meUw2UXB3N2gwRDlTaEpPS2dGaEoya2VPMFcwVndFZE5PMTB4LWpVdWVwU2xiaXl4Yy1zYnZwQXJpazJFb0NPSnRlWWxsX2ZwMDRGQzFhRFdDV3JVaVBUREpUeVo3UXoxNnJFenZ5LW5FekhCclRCWWF0TDhxWGhmZDdzeXV6dnktbndDUk5KNVVZUUs?oc=5",
-      "source": "Migrant Times",
-      "publishedAt": "2026-08-09T12:02:56.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "2026-27 NSW Budget Analysis",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WbUdUWGc4MVdFTDNCUkJpb1IwNlVNRk1ZTks3TjF0dE1FNlYwWnAzZUwyMlY0VkRrYXQwcEpWZGVuQm9hMzZJSGRNaWV0T3RZQlBDVEYxTmh4Mm43SjVEYk9jV1p0OHlXcDdmOFFheDBDNVVJcWNPYnhGYnlTRU0?oc=5",
       "source": "Property Council Australia",
@@ -1008,17 +1031,6 @@
       ],
       "relevant": true,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Country cafe mounting costly battle to retain beloved barista",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFJXNW5BMy1ZYlg4aGVXX1AzRmptSWYxOWpJZGgwTm1iR2EtWVd2WmhocnVOaVVUa1FYS1hZTFduTXctUHRRMkg4ek81OFVRV0JOa3lmbkFVRldBOGVZbUZEZmFPZkx1RWNmY0tyQURGbHdTLXhxVFprYWZvbGpJTThwTVgzbG1VUlRKVGpwYnJYUHBNbnVvZnpzdHY?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-07T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -1087,6 +1099,17 @@
       "spicy": false
     },
     {
+      "title": "Country cafe mounting costly battle to retain beloved barista",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFJXNW5BMy1ZYlg4aGVXX1AzRmptSWYxOWpJZGgwTm1iR2EtWVd2WmhocnVOaVVUa1FYS1hZTFduTXctUHRRMkg4ek81OFVRV0JOa3lmbkFVRldBOGVZbUZEZmFPZkx1RWNmY0tyQURGbHdTLXhxVFprYWZvbGpJTThwTVgzbG1VUlRKVGpwYnJYUHBNbnVvZnpzdHY?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-06T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
       "title": "Australia's new skilled visa processing priorities: Onshore applicants, defence, law enforcement",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXIyXzJXeGlwUncyN1JwSVBtajhJNURMTkZjdW1nYUJCNUhsVWhOU29RdF9LRzl2eHZac3o0cXgyTGE3NnN6U3lpb3hmS0U1ZXhFalJuN0Z1NDQzb1ZvQlN0UHZaZ19GRFVJc1ZVZExJWkFTdlItT0MtV1RPZ0otZFBWSHZIMzJXSWxRLW85dnlvbmxwRUZNMzlMeDFqQk1fMXc?oc=5",
       "source": "LinkedIn",
@@ -1152,7 +1175,7 @@
     {
       "title": "Watch 9News Latest Stories - Season 2026 - Changes to skilled worker visas",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMlVhdGlVSXdSZmFnTWl2Zm9SVFNONkJIRlJxQlhCTkRFaTN6Z2RLcnJ2U1VyeVFoS0ZBRWFfaDhBXzNPbS1ZTk54V1cyMXluNW5TM2daa0pjdUhWM0hWcG5wdXFRYmRLV1lSS0NBVVFwZ3RsS0UwUlZiWXNiZmU0VTF2cE85Y054aEFNOQ?oc=5",
-      "source": "9now.com.au",
+      "source": "9Now",
       "publishedAt": "2026-08-05T02:27:04.000Z",
       "summary": "",
       "categories": [
@@ -1173,6 +1196,19 @@
       ],
       "relevant": true,
       "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "Labor's quiet visa change prioritises onshore workers",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFc5bXZaUWh5eEhuT3gzdGl3SlowZzlZeW00X1d4TkxmR1lsZHlPMWVvQWw2WVV0bVEzcndoWlVYLTRMSVMwbWVyM1hYQXNfemFjSzZsU3ZPRTEzQlBJREx1d2RxU1hJMGdxTHhjLVRrVmtwYjl2SzhjT0xVT3l4ZDRsei1WZzVuYkg3ZXpBMEhkVE5HdFBPMDQxUktXcjJjanRaS0d5VXJwcUE?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 3,
       "spicy": false
     },
     {
@@ -1243,6 +1279,19 @@
       "summary": "",
       "categories": [],
       "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Introduction of new skilled visa processing priorities under Ministerial Direction 119",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1yM1A5d28zQk1vRElTT3ZGb3NXVzlhRFd6NUpxYWd2WkdjVXFrV2ZqTzRlNjU2V2czMV8yZ3Q5MVFiNWFrNWV6R0JOdlItdXpmUU9OTDBFYzdCTUV2bXNSYmFkOG9FSFFSOVJ2c1U5czQ0UGJ3Mnh3bUM3MEdmaWc5bjlxTGVfcWlDM0hiSmNQb18tZDdBTGl3UHNEanRRQ3dkdV81MU9RMTVEdDBHdk9Zc1dyUkE?oc=5",
+      "source": "Ethos Migration Lawyers",
+      "publishedAt": "2026-07-30T02:08:02.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
       "score": 0,
       "spicy": false
     },
@@ -1338,19 +1387,6 @@
       "spicy": true
     },
     {
-      "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
-      "source": "Fragomen",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Does One Nation’s migration policy actually add up?",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWJuc3NvdXJoUU1uOWRXbGdLQzBYa2I5YzJxOEtLN3N2cE52YXJQNGNwSmpJa3lGMFlPOU0xZERGb1ROcDdxYmxQS1ZFaDZkTjFYMnIyd2NXb2syVW9GVkV5ZzlPclVZTC1fSGVxRFdnZTdudEdKS2F5MnBvUUVkdllkM0VYSEZWT0VSTkNURmQwYjVYbE5BRmxhRG1paGEtdUtjbm9DS1R5a0dZSlpVZg?oc=5",
       "source": "SMH.com.au",
@@ -1429,7 +1465,7 @@
     {
       "title": "Why Jim Chalmers can’t be trusted with future tax cuts vow",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdkVydzFEZlFKR2VydWhpLVk1SjIzM1c0V2tKdWFnQjdNUHVaaFZYSU5tVk13ZXBsRDNBOTZwdUYyUnJ5dEE0Y3BhbDdvSU90UVNXcGNFNXZ0bVlxRVlxS1lORm84YmluT3BwLXVIYnVQakx4dElzOFRrQ3hoLVBVM1pVRTZxcnQ5Qjd3bUo1X0hmaXFEdEZqd0FpeloyMDNvbTNxZFktRWNGU0xKWHpEdFRHVjlvUFo5NEtnRlppUkZrWERseFNiM1ByTmktM2dMVlNxdkhGY1ZLUlpCUTlr?oc=5",
-      "source": "The Nightly",
+      "source": "thenightly.com.au",
       "publishedAt": "2026-07-16T07:05:49.000Z",
       "summary": "",
       "categories": [
@@ -1463,41 +1499,6 @@
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Anthony Albanese’s AI vision scores high on vibes but the devil will be in the detail. And there is one glaring omission … | David Pocock",
-      "url": "https://www.theguardian.com/australia-news/commentisfree/2026/jul/16/anthony-albanese-ai-vision-artificial-intelligence-omission",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-16T00:05:38.000Z",
-      "summary": "When the PM talks about new laws applying to the ‘next generation of large-scale datacentres’ what does he mean? Albanese’s AI blueprint sparks calls for datacentre moratorium until new regulations in place Expectations were high as the prime minister took the stage at the University of Sydney on We",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Treasurer Jim Chalmers’ budget hinges on 41,200 public service job cuts",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlpoRm1kb1doTERNR21tb09HZ1lvV2RMcVE3bkRnelRrVjJBZ21WQktvUXlUbXktMUdIS1ZUS254VTl3aklqUFNiQTFNMy1JOVhpOVlGYWtfTjA3Ykd0Zm1qSXdnQXY3WjQ3d1FVVi1CT0gteTNzR2lxRFZlU0VTdS14ZTZjZzBKb1U5QmdxbGNscUdNeGN1ZnI0QmszT1NRMGI3SzN2RWREY0U?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-15T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Chalmers’ budget surplus rests on ‘unrealistic’ assumptions: PBO",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeV90VVlZSTJhUlJKZUNSdnlaSlh2bW15bWw5WndtN0lpV0dlMTB4N3V2TzVCUVBMQ1hVLVNaUGhtR0VTY1pqRG1heGlPczBvUno5aGhXczRpVlZKak5UbVlTbGduSGdfVks1WU0xQVg0X3RlUGhQeldYallIcl9ZQnFGaTBvV0RfMVctMzhJVDQ0ZS1xd0ZKXzFJWHZXUHdwbUd4TWhhbEtIbUZFc01Fbw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     }
   ]
