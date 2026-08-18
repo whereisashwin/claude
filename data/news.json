@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-18T05:03:54.574Z",
+  "updatedAt": "2026-08-18T05:56:52.412Z",
   "count": 120,
-  "relevantCount": 61,
-  "spicyCount": 12,
+  "relevantCount": 62,
+  "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -29,7 +29,6 @@
     "Australia cost of living relief budget"
   ],
   "sources": [
-    "9Now",
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
@@ -43,7 +42,7 @@
     "Michael West Media",
     "Migrant Times",
     "Property Council Australia",
-    "Property Update",
+    "RSM Global",
     "SBS",
     "SMH.com.au",
     "Study International",
@@ -56,21 +55,46 @@
     "World Socialist Web Site",
     "fundsforNGOs",
     "news24.com.au",
+    "propertyupdate.com.au",
     "realestate.com.au",
     "shiksha.com"
   ],
   "items": [
     {
+      "title": "Changing fortunes: is Biotech giant CSL’s $10 billion write-down a comeback story?",
+      "url": "https://www.smh.com.au/business/companies/changing-fortunes-is-biotech-giant-csl-s-10-billion-write-down-a-comeback-story-20260818-p60pcd.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-18T05:51:19.000Z",
+      "summary": "Make no mistake: the home-grown biotechnology company, which for decades allowed Australia serious boasting rights, is still a long way from redemption.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
       "title": "Australia politics live: Coalition MPs cross floor in protest against gambling bill; Liberals target Labor on housing crisis in question time",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-18T04:54:18.000Z",
+      "publishedAt": "2026-08-18T05:37:24.000Z",
       "summary": "Government MPs agree to more than a dozen amendments made with the Coalition.",
       "categories": [
         "Housing"
       ],
       "relevant": true,
       "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Former support worker gives evidence during inquest into death of boy sleeping in skip bin",
+      "url": "https://www.abc.net.au/news/2026-08-18/inquest-into-death-of-boy-in-industrial-skip-bin-continues/107050540",
+      "source": "ABC News",
+      "publishedAt": "2026-08-18T05:21:49.000Z",
+      "summary": "The former manager of an Aboriginal support service has told an inquest into the death of a 13-year-old boy that she felt police and child protection authorities were \"beating her up\" over not doing a good job of managing children in the regional South Australian city. WARNING: Aboriginal and Torres",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 6,
       "spicy": false
     },
     {
@@ -128,17 +152,6 @@
       ],
       "relevant": true,
       "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Weatherald dropped from Test squad after stunning loss to Bangladesh",
-      "url": "https://www.abc.net.au/news/2026-08-18/jake-weatherald-dropped-matt-renshaw-in-australia-test-squad/107050212",
-      "source": "ABC News",
-      "publishedAt": "2026-08-18T03:43:59.000Z",
-      "summary": "Opening batter Jake Weatherald has been dropped from Australia's Test squad after the side's historic loss to Bangladesh in Darwin.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -253,19 +266,6 @@
       "spicy": true
     },
     {
-      "title": "Hanson vows to slash cigarette prices by nearly $30 a pack",
-      "url": "https://www.abc.net.au/news/2026-08-18/hanson-one-nation-cut-tobacco-cigarette-tax/107048678",
-      "source": "ABC News",
-      "publishedAt": "2026-08-17T23:08:18.000Z",
-      "summary": "One Nation says high taxes on tobacco have pushed Australians into the black market, and the only way to undo that is by cutting the price of cigarettes in half.",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 11,
-      "spicy": true
-    },
-    {
       "title": "Live: Two Coalition MPs cross the floor to vote against gambling ad reform",
       "url": "https://www.abc.net.au/news/2026-08-18/federal-politics-live-blog-august-18/107048590",
       "source": "ABC News",
@@ -310,17 +310,6 @@
       "relevant": true,
       "score": 10,
       "spicy": true
-    },
-    {
-      "title": "Think you know Australian plants? Try this quiz",
-      "url": "https://www.abc.net.au/news/science/2026-08-18/amazing-flowers-quiz/106759588",
-      "source": "ABC News",
-      "publishedAt": "2026-08-17T18:30:00.000Z",
-      "summary": "Just like our fauna, Australia's wildflowers are wildly unique and fascinating. Test your knowledge of our native beauties in this quiz.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
     },
     {
       "title": "Rightwing critics argue we might as well scrap super. Here’s why that could spell disaster for Australia’s finances",
@@ -839,6 +828,19 @@
       "spicy": true
     },
     {
+      "title": "Federal Budget 2026–27: the tax reform Australia needs | RSM",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWhWUXBvOXUwV2JIcmlDbDF6RjVoYkYtVXhwWDBhYUVIZzFCUXc2LU9JNVNPSVppQkUwZ2E3bTRyUXpmQnk3blJ5RkIwenlJZnpXYU9ZT25OVllCRWdPYWlSLVA1Ml91MVpRRDd0eEwxcmoxSkROc0tCdU1yMl9Ra0o2SGl3WnVGeTFlUFhJNUZ2WjZxbjhMbXBBYw?oc=5",
+      "source": "RSM Global",
+      "publishedAt": "2026-08-14T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 2,
+      "spicy": false
+    },
+    {
       "title": "Weight-loss subsidies threaten $10b drain on federal budget",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVJLUkE3bzh0S2dRNW5KN1lhbC01N0htTUo4VktzZUxqRGtxSTB1b3ZiU0lsWWRQRGJOYUdqMHU4c2ZISkxsWk5Bbm5MZ2F1ajZrTnU4d0dvVEtzaEc4WUdmT2hQQVV5ajY1YUdiQk1Fc0FCR0VwY3RVX2dMdW9nZkhvVzhtUmJETjBsYjFWcFViRWlYRUM4WS1NMHRLZ0VuMlk5bmEwem1lUU00dDU0THQzaEJoM0lOQi1XSzlLVFZYdFBhRkxz?oc=5",
       "source": "AFR",
@@ -1131,6 +1133,17 @@
       "spicy": true
     },
     {
+      "title": "Warnings Labor's plan to delay family reunions could be 'human rights issue'",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHQyc2g0WmxBYUN2QTNldVNvOXZ0QV9ZZ2x3bTlRZmdYMVZ6THFGcEVnanVrblRaVnlOTjJmcGRkdHE5RjRtZXVyQnl5cVMwWGFXcXd0NXFuWFNVdEJ2ZTNYazFsa3ZEZ3FheEdCajhKaTl2VHEtVnFSYWpYX0ZKUnViQ1dOLXJvWjA0dmF6RUJtdmdiQ2VsRGE5MTY?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 5,
+      "spicy": false
+    },
+    {
       "title": "One Nation leader Pauline Hanson says she does not care if immigration cuts impact businesses",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1154,19 +1167,6 @@
       ],
       "relevant": true,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Watch 9News Latest Stories - Season 2026 - Changes to skilled worker visas",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMlVhdGlVSXdSZmFnTWl2Zm9SVFNONkJIRlJxQlhCTkRFaTN6Z2RLcnJ2U1VyeVFoS0ZBRWFfaDhBXzNPbS1ZTk54V1cyMXluNW5TM2daa0pjdUhWM0hWcG5wdXFRYmRLV1lSS0NBVVFwZ3RsS0UwUlZiWXNiZmU0VTF2cE85Y054aEFNOQ?oc=5",
-      "source": "9Now",
-      "publishedAt": "2026-08-05T02:27:04.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     },
     {
@@ -1196,17 +1196,6 @@
       "spicy": false
     },
     {
-      "title": "Warnings Labor's plan to delay family reunions could be 'human rights issue'",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHQyc2g0WmxBYUN2QTNldVNvOXZ0QV9ZZ2x3bTlRZmdYMVZ6THFGcEVnanVrblRaVnlOTjJmcGRkdHE5RjRtZXVyQnl5cVMwWGFXcXd0NXFuWFNVdEJ2ZTNYazFsa3ZEZ3FheEdCajhKaTl2VHEtVnFSYWpYX0ZKUnViQ1dOLXJvWjA0dmF6RUJtdmdiQ2VsRGE5MTY?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-04T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Labor was poised to reveal massive migration cuts, then suddenly delayed",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHZmVWloM2JsLXNBZHhFamVlRHByZkowdnctRTY0SXAtTGRiYmhVUm5rOWhaeGUwMDBrZHI5MFlQbDliUXVqR0NHalpCTkt2ZFN3WG1WRVFhVHlMRDI1VHh0WFE4VjZwYTNxN1ExLW1qNVdOcHVhbzlwQ3JMVUFVZURacDZnbENwXzJMRC14VnQ4a05DMXBTSEdB?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1233,7 +1222,7 @@
     {
       "title": "Why the Federal Budget’s Tax Changes Could Freeze the Property Market – And Why I Think They Won’t Last",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVFQcXRfUHh1V0c1N3gwV3h1NGdjQUFSaXZibVIzeDZaMm9sTXF6SGhQa3ZlcDdSUUVHM3BiYmhyMHd4eXBuaEx0U2o1LVZRcmFpWmk4U2w0eDI4Yzk2MzZRRWt1a01VckhUSFktM29WZmhMbWh2clc0SjJUSEtGT3d6ang4cHpiMUQ0OFVCVk9uN3N6X1hZdVZjeHRoekJLbjVxcHoxbnhZU0lxMnZGNkd3UHdJS2NGWnk3S2p6Uy1HbmdUaUpoSmh3?oc=5",
-      "source": "Property Update",
+      "source": "propertyupdate.com.au",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1348,6 +1337,19 @@
       "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
       "source": "Fragomen",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Does One Nation’s migration policy actually add up?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWJuc3NvdXJoUU1uOWRXbGdLQzBYa2I5YzJxOEtLN3N2cE52YXJQNGNwSmpJa3lGMFlPOU0xZERGb1ROcDdxYmxQS1ZFaDZkTjFYMnIyd2NXb2syVW9GVkV5ZzlPclVZTC1fSGVxRFdnZTdudEdKS2F5MnBvUUVkdllkM0VYSEZWT0VSTkNURmQwYjVYbE5BRmxhRG1paGEtdUtjbm9DS1R5a0dZSlpVZg?oc=5",
+      "source": "SMH.com.au",
       "publishedAt": "2026-07-22T07:00:00.000Z",
       "summary": "",
       "categories": [
