@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-18T13:51:27.928Z",
+  "updatedAt": "2026-08-18T14:40:31.657Z",
   "count": 120,
-  "relevantCount": 56,
-  "spicyCount": 10,
+  "relevantCount": 59,
+  "spicyCount": 9,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,13 +33,14 @@
     "ABC News",
     "AFR",
     "Absolute Immigration",
+    "Australian Property Update",
     "Crown World Mobility",
+    "Ethos Migration Lawyers",
     "Fragomen",
     "Inside Retail Australia",
     "KLSE Screener",
     "LinkedIn",
     "Michael West Media",
-    "Migrant Times",
     "Property Council Australia",
     "Property Update",
     "RSM Global",
@@ -53,7 +54,7 @@
     "The Weekly Times",
     "World Socialist Web Site",
     "abc.net.au",
-    "australianpropertyupdate.com.au",
+    "eiglaw.com",
     "fundsforNGOs",
     "news24.com.au",
     "realestate.com.au",
@@ -297,8 +298,8 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 5,
-      "spicy": true
+      "score": 4,
+      "spicy": false
     },
     {
       "title": "‘They’ll lie again’: Barnaby Joyce hits back in superannuation fight with Labor",
@@ -310,7 +311,7 @@
         "Tax"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -321,7 +322,7 @@
       "summary": "Aureka has flagged a huge gold exploration target of up to 545,000 ounces at its Irvine project, next door to the giant Stawell mine in Victoria, on top of its existing 398,000oz resource.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -686,17 +687,6 @@
       "spicy": false
     },
     {
-      "title": "Rooftop solar waste is growing. Some experts say $10 fee per panel could help",
-      "url": "https://www.abc.net.au/news/2026-08-17/solar-panel-waste-growing-recycling-fee-proposed/107023182",
-      "source": "ABC News",
-      "publishedAt": "2026-08-16T18:40:22.000Z",
-      "summary": "Solar panel waste is projected to reach about 90,000 tonnes a year by 2030. One of Australia's leading science organisations says a $10 fee per panel could help solve the problem.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
       "title": "As melon-gate raged, Albanese quietly cut deals in parliament. The PM should make some noise this week | Josh Butler",
       "url": "https://www.theguardian.com/australia-news/2026/aug/17/as-melon-gate-raged-albanese-quietly-cut-deals-in-parliament-the-pm-should-make-some-noise-this-week",
       "source": "The Guardian",
@@ -843,17 +833,6 @@
       "spicy": false
     },
     {
-      "title": "Weight-loss subsidies threaten $10b drain on federal budget",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVJLUkE3bzh0S2dRNW5KN1lhbC01N0htTUo4VktzZUxqRGtxSTB1b3ZiU0lsWWRQRGJOYUdqMHU4c2ZISkxsWk5Bbm5MZ2F1ajZrTnU4d0dvVEtzaEc4WUdmT2hQQVV5ajY1YUdiQk1Fc0FCR0VwY3RVX2dMdW9nZkhvVzhtUmJETjBsYjFWcFViRWlYRUM4WS1NMHRLZ0VuMlk5bmEwem1lUU00dDU0THQzaEJoM0lOQi1XSzlLVFZYdFBhRkxz?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-13T22:56:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
       "title": "Is Australia’s buy now, pay later boom at an end?",
       "url": "https://www.theguardian.com/business/2026/aug/14/is-australias-buy-now-pay-later-boom-at-an-end",
       "source": "The Guardian",
@@ -969,19 +948,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Australia Weighs Visa Changes to Reduce Net Overseas Migration",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGN2WlhkSWhrUVBVTFdfVGh1YXBjX3I5aUVxdTg4ME5meUw2UXB3N2gwRDlTaEpPS2dGaEoya2VPMFcwVndFZE5PMTB4LWpVdWVwU2xiaXl4Yy1zYnZwQXJpazJFb0NPSnRlWWxsX2ZwMDRGQzFhRFdDV3JVaVBUREpUeVo3UXoxNnJFenZ5LW5FekhCclRCWWF0TDhxWGhmZDdzeXV6dnktbndDUk5KNVVZUUs?oc=5",
-      "source": "Migrant Times",
-      "publishedAt": "2026-08-09T12:02:56.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     },
     {
@@ -1258,6 +1224,19 @@
       "spicy": false
     },
     {
+      "title": "Introduction of new skilled visa processing priorities under Ministerial Direction 119",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1yM1A5d28zQk1vRElTT3ZGb3NXVzlhRFd6NUpxYWd2WkdjVXFrV2ZqTzRlNjU2V2czMV8yZ3Q5MVFiNWFrNWV6R0JOdlItdXpmUU9OTDBFYzdCTUV2bXNSYmFkOG9FSFFSOVJ2c1U5czQ0UGJ3Mnh3bUM3MEdmaWc5bjlxTGVfcWlDM0hiSmNQb18tZDdBTGl3UHNEanRRQ3dkdV81MU9RMTVEdDBHdk9Zc1dyUkE?oc=5",
+      "source": "Ethos Migration Lawyers",
+      "publishedAt": "2026-07-30T02:08:02.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "The likelihood of the RBA raising interest rates has fallen. Have we finally come to our senses? | Greg Jericho",
       "url": "https://www.theguardian.com/business/grogonomics/2026/jul/30/likelihood-of-rba-raising-interest-rates-fallen-inflation",
       "source": "The Guardian",
@@ -1268,6 +1247,19 @@
       ],
       "relevant": true,
       "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "Australia Prioritizes Onshore Skilled Visa Applicants Under New Processing Directions",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzNlYkozZ3c2amZfMXJZZFptUzlwaWN6WE1MZExQa0NBTXhMV2RuVzBOdC10VGEyM2ZJUGRmTWQ5aUd5VHkzT0pUX1dROUhacmtvSzlyd2d5UlBibnBVaVFTN1lRSWVZMVN0MEdON2dTUWFkZGRUZDlvQkpZQWhXdllzclJzTll5LTN5bnE4NThSbE0ycWxqV1lHY2wzbWhndHRMY3l4SXA?oc=5",
+      "source": "eiglaw.com",
+      "publishedAt": "2026-07-29T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1373,17 +1365,6 @@
       "spicy": false
     },
     {
-      "title": "Budget improves by billions, but petrol pain about to grow",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjMyN1R5OTJoeU1ySDRXRzRqbDlLYmNISktIRDV3UmFjQUM0Zkk4LVhzUVNvUWFRNktjdXBOVTd6V2tEdXpPcWt2UlJKYkNOYTlwRUFzcGwwWkVuZ0ZhZHBUdV8tZ2VxZU9XamU1QXpaM1ZrQWNhNllUSWVMT1AybHgycnZ3UzBtSk9JaDJ2WXZoZ3NQWm1oU2VLdXBhRVhLU0JxVTlsY1JjYnYwVjBWa094YjMyNGlXc3c?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-07-20T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 2,
-      "spicy": false
-    },
-    {
       "title": "Downsizer drought weighs on housing supply as Baby Boomers stay put",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWGtLREx5NmY2YVZqUWQ1bTUzcGR3Xy1PV2ROcW9XeFB0Ykx0c0RYMHZyUVFyTlk1R19YQTVrRG13RTVWUWQ5SmY0NWZWSnhaQ1ZxU3NSWU85SjRPd2ZmWlF6cXNQRDJ4YW5jYkt3ZVp4QXAtMjhDVjhIaWdlZUVxM1NxVDV6b3pDdVZ2VmVrajI2Z0xPeHR6Rm0zVWtFV0FNQ3Mwamg4VGxRSm41X21jNHpENVdDdVY4cDJ4TG9WNmdlX0ZDbVZ2RmttellBZw?oc=5",
       "source": "AFR",
@@ -1438,7 +1419,7 @@
     {
       "title": "Victoria's housing affordability edge under threat, industry warns",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcEZ1ZWY0ZWE4Y1NhZ0l0bGYtSndpVFlDWWppQXBzT0NHNDNXRG5kQzV1eVdYTlNwUTRQMnd0VDJZeGZoNTVqQzZuSzZoazlSUk9PRXVWMUpHUGZQR0RWR1BJMXpuWFpuak5sWkZ4ekwwMHJUQTU5d3VoLVo1ZER0WndRNzR0Uzk2ZEJOZ1pGUDl2ZXJrRWpnbmpRRlFQQS13UDhkSWlwSW1iVXlJ?oc=5",
-      "source": "australianpropertyupdate.com.au",
+      "source": "Australian Property Update",
       "publishedAt": "2026-07-16T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1495,6 +1476,32 @@
       "relevant": true,
       "score": 7,
       "spicy": true
+    },
+    {
+      "title": "Banks are the real problem of the housing crisis",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTUNsbWdDTTNNdDZQSkpmSHlpVjNONXNjb3ZoX0xVRzhUWXlTbWRtXzJ2eFAtZ203SWd5NDA2a3VCaVpQVkJ5QTZvcm9zRHo5VmdkZEk5NWczYm5uZl9pTnV3VzZMNzl5RmNDVWdzb0hieE9YTmc1LXhjd0hFdHYyaXVNU1FScUhUVzFNR0tZR0dtanp2V2YzR1BZaTRtNHVTazNsa210SVUtQ0hRcVVKZGlNWkQ0WjdkYlNueTlWcEJ3Y1RQWGxQd080ck1BN2hERGxHZkFma1YzLXZxMEtJT2JRQ1VvRVlfM1RBdlZzbzBJeTQ?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "Budget loses billions, nation in deeper debt: The cost of cutting migration",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYWp2ZFUtaW9nSlBPVENhbEstbHFSSktENDlRN2lfb21oSllfRjdWTWFCcTFPUDU1UXBud1VDUkhKUTRnTFhBeUJibzFyY1c2Q2J4bmUxZ3BJTzU1REI5QzhWc0JkRUdpeTJ0XzJHMkt5c1pqN1BnU2lhR0xCZEdCb21fWmJkZFpHM1ltdkNUbDV6SUptM1pNNlVsWWF1ck9ON3ZYNzlYcHlXZm9PQmQwOTVjMVZGcHN1cXcwZWVpLUEteXV5aDlsNEhFcnNmZjg?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 2,
+      "spicy": false
     }
   ]
 }
