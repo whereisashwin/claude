@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-19T05:04:08.046Z",
+  "updatedAt": "2026-08-19T05:57:59.648Z",
   "count": 120,
-  "relevantCount": 55,
-  "spicyCount": 10,
+  "relevantCount": 54,
+  "spicyCount": 9,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -31,15 +31,15 @@
   "sources": [
     "9Now",
     "ABC News",
-    "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
     "Crown World Mobility",
     "Erickson Immigration Group",
     "Ethos Migration Lawyers",
     "Fragomen",
-    "Inside Retail Australia",
     "LinkedIn",
+    "Michael West Media",
+    "NT News",
     "Property Council Australia",
     "Property Update",
     "RSM Global",
@@ -55,21 +55,55 @@
     "The Weekly Times",
     "World Socialist Web Site",
     "Yahoo News Australia",
-    "michaelwest.com.au",
+    "abc.net.au",
     "news24.com.au",
-    "ntnews.com.au",
     "realestate.com.au"
   ],
   "items": [
     {
-      "title": "Australia politics live: Coalition accuses Labor of treating veterans ‘with contempt’; Victorian Liberals pledge to ‘throw open doors to gas’",
+      "title": "Australia politics live: Coalition accuses Labor of treating veterans ‘with contempt’; national debt doubles to $30k per person",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-19T04:53:00.000Z",
+      "publishedAt": "2026-08-19T05:50:55.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Labor floats ‘Thriving Teens’ scheme as laws pass to remove 240,000 from NDIS",
+      "url": "https://www.smh.com.au/politics/federal/labor-floats-thriving-teens-scheme-as-laws-pass-to-remove-240-000-from-ndis-20260818-p60pgl.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-19T05:27:10.000Z",
+      "summary": "Health Minister Mark Butler said new systems for older children and adults would be running by January 2028, despite the tight turnaround time.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
       "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Coalition vows to scrap VNI West transmission project in Victoria",
+      "url": "https://www.abc.net.au/news/2026-08-19/victorian-coalition-promises-to-scrap-vni-west-transmission-line/107053638",
+      "source": "ABC News",
+      "publishedAt": "2026-08-19T05:25:01.000Z",
+      "summary": "The Victorian Liberal and National parties will scrap the controversial VNI West transmission project if the Coalition wins the state election in November.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Search for missing hiker to enter second week as ADF called in",
+      "url": "https://www.abc.net.au/news/2026-08-19/lily-hooper-missing-bushwalker-nattai-national-park-search/107053472",
+      "source": "ABC News",
+      "publishedAt": "2026-08-19T04:56:25.000Z",
+      "summary": "Close to 100 members of the Australian Defence Force are now part of the search for Lily Hooper, who has been missing for seven days in Nattai National Park.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
       "spicy": false
     },
     {
@@ -119,6 +153,28 @@
       "spicy": false
     },
     {
+      "title": "Days of downpour threaten outback music festival as gates remain closed",
+      "url": "https://www.abc.net.au/news/2026-08-19/mundi-mundi-bash-music-festival-heavy-rain-nsw/107053550",
+      "source": "ABC News",
+      "publishedAt": "2026-08-19T03:15:32.000Z",
+      "summary": "Festival goers, many of whom have made the long drive to outback NSW for the Mundi Mundi Bash, are facing a nervous wait to see if it will still go ahead after days of rain.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "See how far your home buying budget really goes in every suburb across the country",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkhFUE5jczBIbDd3eDZLTkJlNXhzVE1GTXVuUW4tYlNETDZLQllweVZCN1p5cGxiNF9nUXRodTg3VTNtdThjWHJVa2F1UFZ1c3p1R1BwZnlLZ013SEExTV80N0Z3R09DZFgzMnBvTkJNODdnY3NtZkJWUzI5b01CMzRSLWFwU0s4a25NaHFLNnNkUElxRzM4Ni16THRoZkQtVDVlR1NRdmZyNHV4TmM2YzZXRFJRakFBX3c?oc=5",
+      "source": "realestate.com.au",
+      "publishedAt": "2026-08-19T02:42:22.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 1,
+      "spicy": false
+    },
+    {
       "title": "SpaceX recovers rocket that splashed down off Christmas Island",
       "url": "https://www.abc.net.au/news/2026-08-19/spacex-recovers-rocket-off-christmas-island/107053820",
       "source": "ABC News",
@@ -156,24 +212,13 @@
     {
       "title": "Recent rent spikes blamed on Federal budget",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORTVQREl3b2JtX2RuSHZUeUJXakdpcVZOM2s5ZlNjOWg1TXBxNUt3YWwyOUFiNU5CSjAydVRRLXRpMzRyNFdXUUdQQmNkNjBENWItclRSMm0tMWpxVTh6NFR2RkNLRWloVlFxenVBdWtjd0ppNmlTYWRSUV9UcDJzNkJmS0FiRjAzb2wzZVNMNGlFOUFUQVNHeHotUE9TWGlfVC1DMTVORQ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-19T02:00:00.000Z",
       "summary": "",
       "categories": [
         "Housing"
       ],
       "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Man charged with Commonwealth offences over alleged Islamophobic incident",
-      "url": "https://www.abc.net.au/news/2026-08-19/darwin-man-charged-islamaphobic-incident-commonwealth-offence/107053802",
-      "source": "ABC News",
-      "publishedAt": "2026-08-19T01:52:27.000Z",
-      "summary": "NT police charge a 53-year-old with Commonwealth offences after he allegedly threatened a man, his pregnant wife and their young child.",
-      "categories": [],
-      "relevant": false,
       "score": 4,
       "spicy": false
     },
@@ -309,19 +354,6 @@
       "summary": "With communities around the world grappling with the spread of AI data centres, the Tasmanian Greens have set up an inquiry to examine \"what, if any, economic benefit\" they will bring to the state.",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Labor floats ‘Thriving Teens’ scheme as laws pass to remove 240,000 from NDIS",
-      "url": "https://www.smh.com.au/politics/federal/labor-floats-thriving-teens-scheme-as-laws-pass-to-remove-240-000-from-ndis-20260818-p60pgl.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-18T19:00:00.000Z",
-      "summary": "Health Minister Mark Butler said new systems for older children and adults would be running by January 2028, despite the tight turnaround time.",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
       "score": 4,
       "spicy": false
     },
@@ -663,17 +695,6 @@
       "spicy": false
     },
     {
-      "title": "Guardian Australia chief announces abrupt departure",
-      "url": "https://www.smh.com.au/business/companies/guardian-australia-chief-announces-abrupt-departure-20260817-p60p5i.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-17T08:52:04.000Z",
-      "summary": "Managing director Rebecca Costello will leave the publication in September without a new role lined up.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Former Labor adviser, bureaucrat slams Chalmers over Budget",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbklBT2dGdHV6OFNlZ3NiOFAwZXZkMEFJYmI5NWxBUkZ3bndOTGszODdjSDFpcE83SE5FNGlxRUhLSGVKRGdCYUxRcTR2dEpkdU5MZ19makNxYUJuaFM0Zms4ZS1NZXliWmlZaDhPUEVxSWFlQjlOX0dadWJONkZKVHRPaG9rZ1pSSWVHUDd0aG9EOXBKUWhMbXZiZWtfY0JGQ01HMGR0cEZoaWx0RndQR1dac2F3UHloZHdZNG9SMUVyRm5wRVBNbWQzckNjV2Zpd0hPQ3Bub0I?oc=5",
       "source": "The Nightly",
@@ -693,17 +714,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Inside the Australian Budget aberration testing JB Hi-Fi’s record run",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWtRQjF4eFY2ZGVjNEh0dnJ6cFk5bWRoOHB6U2FYQzVrZGlYMlppOUdCNTRSdGw0WG9LS0JnaENpWGpodVVzam1kZms5VzNlSld6YV9WazRSRXp3TlhQQXRnNGFUeXF6MUR3bzNxNWRaN08xSzJUVjIxQlhrdjR4akZLVThnb0ZTR1laenRvZnFSbzhpcW0wNWNtUHlZaER2R0Z6Nng5V1JncUkxa0tv?oc=5",
-      "source": "Inside Retail Australia",
-      "publishedAt": "2026-08-17T07:20:57.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
       "spicy": false
     },
     {
@@ -827,15 +837,15 @@
     {
       "title": "Federal tax reforms: Builders warn small businesses are at risk",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeGhCWHVXejM1YzFCa0FPVEt3VHQ3ZV9peHFBVWplczA5NUU2WG9KU2d2Q2xGWjJCVE8wRlBHV2FpbW1QLW9jWXBtRWplYkRVNlktZ0VXcGJXY1JTVkVtOGJCbmlVMU1DVnBmTlFZUDQzWS1yOXgyMzdmYlBncDZqdkNTRHhUUkRwZFZYOHFxUS1VZ3FXdDFaSlpfYmVFZE84bzc2emhMZTI2eHk0ckZTVlI1TmJvY2kxUHkyOXVTa1hkbFlYM3h6RGxxSFZyWE15Q1llaXdkUlA1SGZzTnh5STRUSVVCNmh6dGhOdVdqeEVFUGo4Q25LdzNVb0V5N1gybDBPZzlBNmg?oc=5",
-      "source": "ntnews.com.au",
+      "source": "NT News",
       "publishedAt": "2026-08-16T23:18:00.000Z",
       "summary": "",
       "categories": [
         "Tax"
       ],
       "relevant": true,
-      "score": 7,
-      "spicy": true
+      "score": 4,
+      "spicy": false
     },
     {
       "title": "Broken zips, sleeve sewn shut: Union raises SA firefighter safety concerns",
@@ -864,7 +874,7 @@
     {
       "title": "40,000 skilled migrants needed to fill jobs on mine sites",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb3JEcTRPcms1dXNDTXRCZnRiZWZsRXRNVklIam9QTWhsZWdCQmhJazRCeEczc2NtN3BDbnRpNHl1YmZLZUtxSkIzc1p3SUFaUV9CdVdyNjcxd3dTZGNrWDN3c3NRSlk1T3paTS1QWHZDVzc1STFnSHdmWXdQUm1xbi1Vb29BUUl1R2tWMncwMlQxdXFWUE5NSWU1UmVBRFJTRklBRw?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-16T18:54:16.000Z",
       "summary": "",
       "categories": [
@@ -1021,19 +1031,6 @@
       "spicy": false
     },
     {
-      "title": "Chalmers optimistic house price forecast ‘mugged by reality’",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2lLVHNtczZFYzFNa1NCMkZOOVVRUTA4eThwU2ZpaWV3amtFMHZmWjBkVGdXRTZfNVNOQ0ZQM21SLUFVRzJjUlNrVllteEVJeXFmc2tIQ0V4dHQyT2E5V1dvdFgwNUdCcFBNOXNEblBVbWN2bGd2RUIwX2lIVmdRdUVJTXJjVG1fSmJnUW1SR21XdXZHcXk2bmJ3eUZ3VjRWVGIyd0F2d21Yck0yOWc?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-12T05:39:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Minimum PTE Score Required for Australia PR in 2026-27",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVpGYkFGTlpRb3FVZndGSmtJeUFaRWxFWi1ZNXh6dlZSTjN2WjB5aWdDYTR4aVo0Rmc1ZWJuVjQ2MTZha3JFa0xsNEhvNk5xX3lFeUFXeDJGcFhCZXpzUW9fNEg4Tm1WcjJwTWppS2JvZzNLSUYtcjM3TjNHdmxiYThZY2k3Zw?oc=5",
       "source": "Shiksha.com",
@@ -1106,7 +1103,7 @@
     {
       "title": "Tax changes get tick of approval from ratings agency",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWJ2c1pHVHdRVVhRRTNiOEloR2VVSGtFRFBUaGF2SDE1dHMwVkJEOHd0emdfaDFwd2J0TFVXQk91TnI3dkFpa3RHX0ZZSWx0X1JpcEtaRVJEVjRScUxXY3I1SVlSQUM0d2RqT3k4cnQ1WHJQck40SkZqRjZUWXFRc2thUnRtalU?oc=5",
-      "source": "michaelwest.com.au",
+      "source": "Michael West Media",
       "publishedAt": "2026-08-06T19:13:04.000Z",
       "summary": "",
       "categories": [
@@ -1158,7 +1155,7 @@
     {
       "title": "Visa overstayers to have work rights revoked if asylum claim rejected",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSl9CZHJqckNMQ1pMcEhsZGkzVEVFZE1Tb3FZS2dydENsT19tQkFHZkw2QjAyU2FqQjdVc3o0bVVQbWhaYm0tN1NzcWk4UHhncDMtbFhpTUNVVV9zdEN5eWdjMloxd0lkLWxCbnRoeGJUMll2QU9vQjBRQ01QbUlOaVpMUFdvN3BCQWc?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1171,7 +1168,7 @@
     {
       "title": "Country cafe mounting costly battle to retain beloved barista",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFJXNW5BMy1ZYlg4aGVXX1AzRmptSWYxOWpJZGgwTm1iR2EtWVd2WmhocnVOaVVUa1FYS1hZTFduTXctUHRRMkg4ek81OFVRV0JOa3lmbkFVRldBOGVZbUZEZmFPZkx1RWNmY0tyQURGbHdTLXhxVFprYWZvbGpJTThwTVgzbG1VUlRKVGpwYnJYUHBNbnVvZnpzdHY?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1219,7 +1216,7 @@
     {
       "title": "Pauline Hanson does 'not care' if immigration cuts impact businesses",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-05T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1284,7 +1281,7 @@
     {
       "title": "Warnings Labor's plan to delay family reunions could be 'human rights issue'",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHQyc2g0WmxBYUN2QTNldVNvOXZ0QV9ZZ2x3bTlRZmdYMVZ6THFGcEVnanVrblRaVnlOTjJmcGRkdHE5RjRtZXVyQnl5cVMwWGFXcXd0NXFuWFNVdEJ2ZTNYazFsa3ZEZ3FheEdCajhKaTl2VHEtVnFSYWpYX0ZKUnViQ1dOLXJvWjA0dmF6RUJtdmdiQ2VsRGE5MTY?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1295,7 +1292,7 @@
     {
       "title": "Labor was poised to reveal massive migration cuts, then suddenly delayed",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHZmVWloM2JsLXNBZHhFamVlRHByZkowdnctRTY0SXAtTGRiYmhVUm5rOWhaeGUwMDBrZHI5MFlQbDliUXVqR0NHalpCTkt2ZFN3WG1WRVFhVHlMRDI1VHh0WFE4VjZwYTNxN1ExLW1qNVdOcHVhbzlwQ3JMVUFVZURacDZnbENwXzJMRC14VnQ4a05DMXBTSEdB?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1433,6 +1430,19 @@
       "spicy": true
     },
     {
+      "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
+      "source": "Fragomen",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Does One Nation’s migration policy actually add up?",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWJuc3NvdXJoUU1uOWRXbGdLQzBYa2I5YzJxOEtLN3N2cE52YXJQNGNwSmpJa3lGMFlPOU0xZERGb1ROcDdxYmxQS1ZFaDZkTjFYMnIyd2NXb2syVW9GVkV5ZzlPclVZTC1fSGVxRFdnZTdudEdKS2F5MnBvUUVkdllkM0VYSEZWT0VSTkNURmQwYjVYbE5BRmxhRG1paGEtdUtjbm9DS1R5a0dZSlpVZg?oc=5",
       "source": "SMH.com.au",
@@ -1477,19 +1487,6 @@
       "summary": "",
       "categories": [
         "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Budget tax oddity sparks confusion over expat CGT",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQenFWaUxrbk5QZXZOUHFJNlFlQUxIaFRTTklKbWVzUzNTMl8wb1FoN0xOWGZnYWs0MlB3andIXzR6bnptLVZDRlVGVl9BSzJpX3VyUU1SMnNwMEtrS0FBbndjeWRmOEIyZFdRdkc5eTJZR1B6Y2piQm15b3VhOHNQOGlMSnFtZVJkaUgxRmd3RU9OdWhBaWQ4MVNlbFZldGpJQkJ6NnBTblZlSTUzSXc?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-17T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
       ],
       "relevant": true,
       "score": 3,
