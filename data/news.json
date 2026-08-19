@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-19T11:31:57.332Z",
+  "updatedAt": "2026-08-19T12:59:53.200Z",
   "count": 120,
-  "relevantCount": 52,
-  "spicyCount": 8,
+  "relevantCount": 51,
+  "spicyCount": 9,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -38,9 +38,9 @@
     "Erickson Immigration Group",
     "Ethos Migration Lawyers",
     "Fragomen",
-    "LinkedIn",
     "Michael West Media",
     "NT News",
+    "Property Council Australia",
     "Property Update",
     "RSM Global",
     "SBS",
@@ -49,17 +49,28 @@
     "Study International",
     "Sydney Morning Herald",
     "The Australian",
+    "The Conversation",
     "The Guardian",
     "The Nightly",
     "The Weekly Times",
     "World Socialist Web Site",
     "Yahoo News Australia",
+    "linkedin.com",
     "news24.com.au",
-    "propertycouncil.com.au",
-    "realestate.com.au",
-    "theconversation.com"
+    "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Israel's military clears soldiers over Gaza strike that killed Frankcom",
+      "url": "https://www.abc.net.au/news/2026-08-19/idf-clears-soldiers-of-criminal-wrongdoing/107056204",
+      "source": "ABC News",
+      "publishedAt": "2026-08-19T12:02:06.000Z",
+      "summary": "The Israel Defense Forces has cleared its personnel of any criminal wrongdoing in the April 2024 strike on a World Central Kitchen convoy in Gaza, where Australian woman Zomi Frankcom was killed.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Opera for the Dead and ocean-inspired works shine at Art Music Awards",
       "url": "https://www.abc.net.au/news/2026-08-19/art-music-awards-2026-winners-finalists/107004944",
@@ -351,17 +362,6 @@
       "spicy": false
     },
     {
-      "title": "El Niño loads the dice for more extreme fire conditions",
-      "url": "https://www.abc.net.au/news/2026-08-19/bushfire-risk-australia-ahead-of-el-nino-warning/107049892",
-      "source": "ABC News",
-      "publishedAt": "2026-08-19T01:00:35.000Z",
-      "summary": "Fears have been growing around what Australia's spring and summer will look like after the weather bureau declared an El Niño in June, which has the potential to become the strongest on record.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Husband of late MP Peta Murphy gives his verdict on Labor’s gambling reforms",
       "url": "https://www.smh.com.au/politics/federal/husband-of-late-mp-peta-murphy-gives-his-verdict-on-labor-s-gambling-reforms-20260819-p60pkd.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -369,8 +369,22 @@
       "summary": "Rob Glover says “organisations with a privileged place in Australian life have continued to put their commercial interests ahead of the social responsibilities”.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
+    },
+    {
+      "title": "Labor tax changes will hurt the poorest renters, major developer says",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTm1aZEU1ZWJUMjV6aU1aYzB1SnJhRkh0Y01NUVBHcVozQnZGcFhnX0k3N2duUVFhSTRzeHpJU2MtM3VNZVhHN2NjSG5IRDZGcENNTzR5MDZhRFZRbEVJMFZZekd1SWVvWHlqTm83OVRMVW5hazFEcTdHOXFuckVWemFkeTluYXpUaFhDWnJXSEVaTjdqdTlnaXNSZDhES1R3R21aR1VkVkgxb3dFeFN4SXhRY3RBVHVYbHJYSFBfYWxpQWM?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-19T00:04:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": true
     },
     {
       "title": "WiseTech shares plunge on ACCC raid — as it happened",
@@ -457,7 +471,7 @@
       "title": "Treasury’s forecasts were simply pie in the sky, Jim",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPOEZIMnpVRVRBTEFZVkFINjBKMDlESjN0cW5rRS1CRUdQb2RRTVVzV2h3RlY2cE40SWJvSkhSUjlramFQRHl5STVnSkFhVERYUTZGd2JnT3FNOVFWMEZpbTEtd1JndGF6YzFQNkR6TUlfS0lOS0J3RDQzRk1WOHN3UmVmazBhUkRzOEt6U0ttd2t3T21XcTkzOFFLZmtRcmREaE9oU20ycUVVa1VhWjcwMThoYzhQeURYNDZKQ29CMktwVG40NFJFeHJZQk5QcjBMX3AtOHJCeDR4bHBGTnVVRXlicndzZkI0MzhPY25rNU1Pa0REQXJxMnpOcGhuYkY50gGGAkFVX3lxTE93bE1fbTlfd2c5Rnc0a2VseFI0TWpPM2Z2Ymx5RUwtUVJ4VjBvSTZyVlRhWTE4OGJUT0xiLUdDZUlRVmxhdGRoaU1PR1BFUkVfTWNpV1luNzhYTzFWV1FiWnJzeUxiY3RESXR0VzFYdjl0QWZOQW5vT0l5ZHJYMDU2Qnp0ZlE3ZEM5U2JUY25Fd3R5LXhwalhYc1BTRXR4OEFFTEtwZWtkeDVoVERHLTlxZHBCMDF3R08tcGE1aklCbi12UFROTFNPZXN3ZGo3LVVMaGVhVTR5ZkdLb2k4eUZKWldUWWRjX3RZYXpiclY3VkZPVHpNQ1JkaFBlMUZ5eTVYbDBoVVE?oc=5",
       "source": "The Australian",
-      "publishedAt": "2026-08-18T12:12:36.000Z",
+      "publishedAt": "2026-08-18T11:30:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
@@ -839,12 +853,12 @@
     {
       "title": "Resolve poll suggests more voters support Labor’s federal budget changes than oppose them",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamF4elB3Ql9IUUNBNUlWZm4wMVRTWEE2SFBuU1NkbXhxU21QVjFmSnVzMjk3ZG5BeWxMZy0yQkZiVE5ab05EOWU1cHR6NjlyTTFpWkFSTG5kNHZyY3VGNFVGQXM2MllkdnNtUnRCMUMzTE5sLVhVZkdZUUhzeG1ialBqcHhDbXlXQnpUS2xiVy14QWlabW5LTTJzcVpuVlE1UFdOMzN5ajVZcUpiVlNCRHpjWERWRm01aEwyU0lHVWs?oc=5",
-      "source": "theconversation.com",
+      "source": "The Conversation",
       "publishedAt": "2026-08-16T23:38:33.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 0,
+      "score": 3,
       "spicy": false
     },
     {
@@ -1048,7 +1062,7 @@
     {
       "title": "2026-27 NSW Budget Analysis",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WbUdUWGc4MVdFTDNCUkJpb1IwNlVNRk1ZTks3TjF0dE1FNlYwWnAzZUwyMlY0VkRrYXQwcEpWZGVuQm9hMzZJSGRNaWV0T3RZQlBDVEYxTmh4Mm43SjVEYk9jV1p0OHlXcDdmOFFheDBDNVVJcWNPYnhGYnlTRU0?oc=5",
-      "source": "propertycouncil.com.au",
+      "source": "Property Council Australia",
       "publishedAt": "2026-08-09T10:15:30.000Z",
       "summary": "",
       "categories": [],
@@ -1161,7 +1175,7 @@
     {
       "title": "Australia's new skilled visa processing priorities: Onshore applicants, defence, law enforcement",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXIyXzJXeGlwUncyN1JwSVBtajhJNURMTkZjdW1nYUJCNUhsVWhOU29RdF9LRzl2eHZac3o0cXgyTGE3NnN6U3lpb3hmS0U1ZXhFalJuN0Z1NDQzb1ZvQlN0UHZaZ19GRFVJc1ZVZExJWkFTdlItT0MtV1RPZ0otZFBWSHZIMzJXSWxRLW85dnlvbmxwRUZNMzlMeDFqQk1fMXc?oc=5",
-      "source": "LinkedIn",
+      "source": "linkedin.com",
       "publishedAt": "2026-08-06T00:30:02.000Z",
       "summary": "",
       "categories": [
@@ -1258,19 +1272,6 @@
       ],
       "relevant": true,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Labor's quiet visa change prioritises onshore workers",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFc5bXZaUWh5eEhuT3gzdGl3SlowZzlZeW00X1d4TkxmR1lsZHlPMWVvQWw2WVV0bVEzcndoWlVYLTRMSVMwbWVyM1hYQXNfemFjSzZsU3ZPRTEzQlBJREx1d2RxU1hJMGdxTHhjLVRrVmtwYjl2SzhjT0xVT3l4ZDRsei1WZzVuYkg3ZXpBMEhkVE5HdFBPMDQxUktXcjJjanRaS0d5VXJwcUE?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-04T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
       "spicy": false
     },
     {
@@ -1462,6 +1463,17 @@
       "spicy": false
     },
     {
+      "title": "Budget improves by billions, but petrol pain about to grow",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjMyN1R5OTJoeU1ySDRXRzRqbDlLYmNISktIRDV3UmFjQUM0Zkk4LVhzUVNvUWFRNktjdXBOVTd6V2tEdXpPcWt2UlJKYkNOYTlwRUFzcGwwWkVuZ0ZhZHBUdV8tZ2VxZU9XamU1QXpaM1ZrQWNhNllUSWVMT1AybHgycnZ3UzBtSk9JaDJ2WXZoZ3NQWm1oU2VLdXBhRVhLU0JxVTlsY1JjYnYwVjBWa094YjMyNGlXc3c?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-07-20T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 2,
+      "spicy": false
+    },
+    {
       "title": "Downsizer drought weighs on housing supply as Baby Boomers stay put",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWGtLREx5NmY2YVZqUWQ1bTUzcGR3Xy1PV2ROcW9XeFB0Ykx0c0RYMHZyUVFyTlk1R19YQTVrRG13RTVWUWQ5SmY0NWZWSnhaQ1ZxU3NSWU85SjRPd2ZmWlF6cXNQRDJ4YW5jYkt3ZVp4QXAtMjhDVjhIaWdlZUVxM1NxVDV6b3pDdVZ2VmVrajI2Z0xPeHR6Rm0zVWtFV0FNQ3Mwamg4VGxRSm41X21jNHpENVdDdVY4cDJ4TG9WNmdlX0ZDbVZ2RmttellBZw?oc=5",
       "source": "AFR",
@@ -1469,19 +1481,6 @@
       "summary": "",
       "categories": [
         "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Budget tax oddity sparks confusion over expat CGT",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQenFWaUxrbk5QZXZOUHFJNlFlQUxIaFRTTklKbWVzUzNTMl8wb1FoN0xOWGZnYWs0MlB3andIXzR6bnptLVZDRlVGVl9BSzJpX3VyUU1SMnNwMEtrS0FBbndjeWRmOEIyZFdRdkc5eTJZR1B6Y2piQm15b3VhOHNQOGlMSnFtZVJkaUgxRmd3RU9OdWhBaWQ4MVNlbFZldGpJQkJ6NnBTblZlSTUzSXc?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-17T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
       ],
       "relevant": true,
       "score": 3,
