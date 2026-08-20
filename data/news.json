@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-20T07:00:33.718Z",
+  "updatedAt": "2026-08-20T08:07:04.727Z",
   "count": 120,
-  "relevantCount": 43,
+  "relevantCount": 45,
   "spicyCount": 7,
   "spiceThreshold": 5,
   "categories": [
@@ -40,30 +40,30 @@
     "LinkedIn",
     "Michael West Media",
     "NT News",
-    "Property Council Australia",
     "Property Update",
     "SBS",
     "SMH.com.au",
     "Shiksha",
+    "Study International",
     "Sydney Morning Herald",
     "The Australian",
     "The Conversation",
     "The Guardian",
     "The Nightly",
     "World Socialist Web Site",
+    "Yahoo Finance Australia",
     "Yahoo News Australia",
-    "au.finance.yahoo.com",
     "fundsforNGOs",
     "news24.com.au",
-    "realestate.com.au",
-    "redlandcitybulletin.com.au"
+    "propertycouncil.com.au",
+    "realestate.com.au"
   ],
   "items": [
     {
       "title": "Australia news live: NSW police commissioner says ‘I unreservedly apologise’ for miscommunication over 18-year-old bushwalker Lily Hooper’s death",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-20T07:00:16.000Z",
+      "publishedAt": "2026-08-20T08:01:50.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
@@ -71,24 +71,59 @@
       "spicy": false
     },
     {
-      "title": "Rising UK consumer confidence gives Andy Burnham ‘golden opportunity’, survey says – business live",
-      "url": "https://www.theguardian.com/business/live/2026/aug/20/rising-uk-consumer-confidence-economy-andy-burnham-latest-news-updates",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-20T06:43:28.000Z",
-      "summary": "BRC says confidence in economy hits highest level since the lows reached at start of Iran war At the same time, new figures revealed that US debt had reached $40tn for the first time, the US treasury department said, after the government deficit doubled over the last decade. The milestone marks year",
+      "title": "Rogue Liberal senator Antic’s forces plot to purge high-profile party members",
+      "url": "https://www.smh.com.au/politics/federal/rogue-liberal-senator-antic-s-forces-plot-to-purge-high-profile-party-members-20260820-p60q2z.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-20T07:56:30.000Z",
+      "summary": "The Liberal Party’s federal executive is expected to discuss the prospect of taking over the state branch in an attempt to nullify the threat at a meeting in Canberra on Friday.",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 4,
       "spicy": false
     },
     {
-      "title": "Politics live: Albanese calls Zomi Frankcom decision ‘an outrage’; over 1,000 birds found dead with suspected H5 flu in South Australia",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-20T06:42:04.000Z",
-      "summary": "",
+      "title": "Putin’s blood oil profits untouched by Australia’s toothless sanctions",
+      "url": "https://www.smh.com.au/politics/federal/putin-s-blood-oil-profits-untouched-by-australia-s-toothless-sanctions-20260820-p60q05.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-20T07:15:54.000Z",
+      "summary": "Not a single person has been prosecuted in Australia for breaching Russia-related sanctions since Vladimir Putin’s full-scale invasion of Ukraine in 2022.",
       "categories": [],
       "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Lambie sparks veterans debate as Labor strikes deals",
+      "url": "https://www.abc.net.au/news/2026-08-20/jacqui-lambie-veterans-labor-deals-gambling-ndis-cigarettes/107046758",
+      "source": "ABC News",
+      "publishedAt": "2026-08-20T07:05:55.000Z",
+      "summary": "This week Tasmanian Senator Jacqui Lambie shared her health struggles while the government and Coalition were busy making deals and One Nation launched a debate about cigarettes.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "ASX finishes higher after jobs data, led by gold miners and tech stocks",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-inch-up-wall-street-higher-as-us-flags-bond-buyback-20260820-p60pw9.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-20T06:54:26.000Z",
+      "summary": "The Australian sharemarket ticked higher in Thursday’s session after a report showed the nation’s unemployment rate unexpectedly rose in July, tempering expectations for more interest rate hikes by the Reserve Bank.",
+      "categories": [],
+      "relevant": false,
+      "score": 10,
+      "spicy": false
+    },
+    {
+      "title": "MPs in stoush over art display naming killed Gaza children",
+      "url": "https://www.abc.net.au/news/2026-08-20/wa-parliament-row-erupts-over-gaza-wall-of-tears-exhibition/107057566",
+      "source": "ABC News",
+      "publishedAt": "2026-08-20T06:51:22.000Z",
+      "summary": "Western Australia's parliament suspends Nationals MP Lachlan Hunter for four days after he used a debate to call out what he branded an \"antisemitic\" art exhibit that displayed the names of children killed in Gaza.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
       "score": 4,
       "spicy": false
     },
@@ -145,17 +180,6 @@
       "categories": [],
       "relevant": false,
       "score": 7,
-      "spicy": false
-    },
-    {
-      "title": "Darwin man charged with money laundering from illicit tobacco sales",
-      "url": "https://www.abc.net.au/news/2026-08-20/nt-police-money-laundering-charges-illicit-tobacco-sales/107057200",
-      "source": "ABC News",
-      "publishedAt": "2026-08-20T05:08:23.000Z",
-      "summary": "Police have arrested and charged a 33-year-old Darwin man for allegedly laundering millions of dollars through an illegal tobacco business, following a four-month investigation by Northern Territory Police alongside Australian Border Force.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
       "spicy": false
     },
     {
@@ -227,7 +251,7 @@
     {
       "title": "Federal debt ticks over $1 trillion for the first time",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiWW14NFRCRDRsNnNpQ0x5Ukw4T1pKcEpGQkhKdUFkQjI4OHNnVFhsM20zdlliXy1TSW0xZlNkOW9TQ283VXNlR0FLVmVTX3NndFlTa3ZuV19rem1uSUZ2dXlPWDJxLW9henRZOWZNaTVONGJadGtuc04zby1yOFU?oc=5",
-      "source": "au.finance.yahoo.com",
+      "source": "Yahoo Finance Australia",
       "publishedAt": "2026-08-20T03:06:00.000Z",
       "summary": "",
       "categories": [],
@@ -260,18 +284,18 @@
       "spicy": false
     },
     {
-      "title": "ASX holds gains after jobs data, led by gold miners and tech stocks",
-      "url": "https://www.smh.com.au/business/markets/asx-set-to-inch-up-wall-street-higher-as-us-flags-bond-buyback-20260820-p60pw9.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-20T02:22:09.000Z",
-      "summary": "The Australian sharemarket held its gains in lunchtime trade after a report showed the nation’s unemployment rate unexpectedly rose in July, easing expectations for more interest rate hikes by the Reserve Bank.",
+      "title": "Premier says Victorians need to know how crime infiltrated building sites",
+      "url": "https://www.abc.net.au/news/2026-08-20/vic-premier-ben-carroll-announces-construction-royal-commission/107057862",
+      "source": "ABC News",
+      "publishedAt": "2026-08-20T02:27:28.000Z",
+      "summary": "Former South Australian Supreme Court chief justice Christopher Kourakis will head the royal commission into corruption in the state's construction sector.",
       "categories": [],
       "relevant": false,
-      "score": 10,
+      "score": 4,
       "spicy": false
     },
     {
-      "title": "Live: Police commissioner apologises to family mistakenly told missing hiker was alive",
+      "title": "Police commissioner apologises to family mistakenly told missing hiker was alive",
       "url": "https://www.abc.net.au/news/2026-08-20/missing-18-year-old-bushwalker-lily-hooper-found/107045898",
       "source": "ABC News",
       "publishedAt": "2026-08-20T02:05:01.000Z",
@@ -348,6 +372,17 @@
       "spicy": false
     },
     {
+      "title": "Australia's debt hits $1 trillion as US debt passes $US40 trillion threshold — as it happened",
+      "url": "https://www.abc.net.au/news/2026-08-20/asx-markets-business-news-live-updates-thursday-20-august/107056572",
+      "source": "ABC News",
+      "publishedAt": "2026-08-19T21:42:51.000Z",
+      "summary": "Australia's debt has hit $1 trillion at the same time the United States sees its debt pass $US40 trillion.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
       "title": "US gross national debt tops $40tn for first time",
       "url": "https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion",
       "source": "The Guardian",
@@ -356,30 +391,6 @@
       "categories": [],
       "relevant": false,
       "score": 7,
-      "spicy": false
-    },
-    {
-      "title": "Ask Property: We had our eye on buying property with our SMSF, but now we're not so sure",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNENWNnREZWtzVnJhT3BKOWlyZUQtZWZ0bkVjeUczOGp4VXRZdFZQUFJMRWVLdFk0MUlzQmdMSHBmdndTTnNTb3pWZEliUmtsbWkyR2NGaEpXSUhwWXY5cEc1SmdPdk5EbTR4SlZEcXNwSmhEOXlma082RlEzMDlrSGVDN2RIRjVXSnZqRW82c29fQzVYZEZTdlZlQjRiblhvV1ktR3VYREZyRlpYOTFsMFBQWQ?oc=5",
-      "source": "redlandcitybulletin.com.au",
-      "publishedAt": "2026-08-19T21:18:29.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 1,
-      "spicy": false
-    },
-    {
-      "title": "Live: Family of Zomi Frankcom say they are 'deeply disappointed' by IDF report",
-      "url": "https://www.abc.net.au/news/2026-08-20/federal-politics-live-blog-zomi-frankcom/107055724",
-      "source": "ABC News",
-      "publishedAt": "2026-08-19T21:05:19.000Z",
-      "summary": "Australian Zomi Frankcom's family say they are 'deeply disappointed' by the IDF clearing soldiers of criminal actions in her death.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
       "spicy": false
     },
     {
@@ -425,7 +436,7 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -436,7 +447,7 @@
       "summary": "The world's largest supplier of fish feed products fires back over a former employee's claim that mould and pigeon poo are contaminating pellets at a factory supplying Tasmania's salmon industry.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -595,7 +606,7 @@
       "title": "Debt bomb explodes for trillion-dollar man Jim Chalmers",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX1Y3dldFLVpjMlg1QnhlZmlna29DYy11STFvQVdMZFVXVUd6LUVDWUc5Qk5uWjExOWY2S2gtUnNlV2lQVUV5b2lHUXlreE1RYUFOaGRuVTVHSk1zLVFvOS1wLWVHc04zSVgxZ1lFd0t5VUlJNm1oNFBZdG5PRnZIOTJHOXVCQUtNMDZFXzZYdEN0UnRJMl9FazYxRkJ3RzdVNmpRejhDc0ZkT2tUSkN2elhwZldkZVpPZzktSk1GOG5ORm9aMXBmYmRPeXg1ZXZ6SXY0UWxib1lSdV9JZ1NHRjExVU1BUlhvX3UxZUN2bU5nd3lW0gH6AUFVX3lxTE1aTHRfdkpiRkRyazdvblFXMlVoVWJkSlZMdjM3VWZOaFF0Rll5M2p5M2U1UkhIOTU3RTNkT19qTFcwSGVwdUlBNmgyTUI4X1czVWNHV2cybUpVNTdPNFBaUURjel9va2diMXdPTHNWTVk4Qk94WWh6cV9aMmtXcl84SEk3S1ZJUHVaZWl3VUdzQTd5YWhXWWZiOVF5R1VnczlZTElCSGhHcTZqdTNmT1UzX3hnQUdVcXdpZGo3RkJpdnhnVzA5R0M5ZDltdWZNTlRtd2NfUGUwTWVaNTJjRlVDd2dzWU5heTVhU1g3RFlld19oOGJoVG1mcEE?oc=5",
       "source": "The Australian",
-      "publishedAt": "2026-08-19T12:24:11.000Z",
+      "publishedAt": "2026-08-19T12:28:55.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
@@ -810,17 +821,6 @@
       "spicy": true
     },
     {
-      "title": "WiseTech shares plunge on ACCC raid — as it happened",
-      "url": "https://www.abc.net.au/news/2026-08-19/asx-markets-business-live-news/107051926",
-      "source": "ABC News",
-      "publishedAt": "2026-08-18T21:41:29.000Z",
-      "summary": "The competition watchdog has executed a search warrant at WiseTech Global. The Australian share market fell for a sixth consecutive day following another weak session on Wall Street. Look back at the day's markets and economics news on the ABC blog.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Does Australia have a gun problem? – podcast",
       "url": "https://www.theguardian.com/australia-news/audio/2026/aug/18/does-australia-have-a-gun-problem-full-story-podcast",
       "source": "The Guardian",
@@ -864,17 +864,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Labor, Coalition agree gambling can police itself. Good luck with that",
-      "url": "https://www.smh.com.au/politics/federal/labor-coalition-agree-gambling-can-police-itself-good-luck-with-that-20260818-p60pfj.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-18T09:30:00.000Z",
-      "summary": "Liberal Party frontbencher Sarah Henderson spent years attacking the government over gambling. Now she has helped the prime minister neutralise an awkward political problem.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -998,17 +987,6 @@
       "spicy": false
     },
     {
-      "title": "Investor exodus from Victoria resumes after federal budget",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTZQQ1FfRE5PM2JadklxLXN6UERtcGpqYzFMWXoxd3ZMVG5FV0RZTnlQR3FobWFlekF3RENuZzd4T09sRDQ1N0lvX0ZpU1A1S2NraVdIZWEyUUU0aGpTaW1hWHVxb0RMT2FrNGQtR2RaOFhZd25FSkcxSlF2QjVIVnJaUF9KMFRQV1FJakw2UDNUNi1wVHY3M2x3?oc=5",
-      "source": "realestate.com.au",
-      "publishedAt": "2026-08-15T23:08:33.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Queensland tenants hit by extreme rent hikes of up to $150 a week",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONXlIZTZOeWlCVzI1Mkh1SWVQdHlHX1VfMVY4RjN2cFZVc2p4UDJGMUh3dk5IMHpoc2RzMkdnaklVQTNsYmhPZVBwTHh1MEhDcnV2YnRSZTRxUmpYSThZSHdPd2VqWjdKcHdqOE9KanIxZ3ZKSHRDQmZJZGJEYUlBYVFlTndYZl81TTRlNUZtOE9lMkRUQ3ZKXy1pb3FieXBvc2c?oc=5",
       "source": "realestate.com.au",
@@ -1094,7 +1072,7 @@
     {
       "title": "2026-27 NSW Budget Analysis",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WbUdUWGc4MVdFTDNCUkJpb1IwNlVNRk1ZTks3TjF0dE1FNlYwWnAzZUwyMlY0VkRrYXQwcEpWZGVuQm9hMzZJSGRNaWV0T3RZQlBDVEYxTmh4Mm43SjVEYk9jV1p0OHlXcDdmOFFheDBDNVVJcWNPYnhGYnlTRU0?oc=5",
-      "source": "Property Council Australia",
+      "source": "propertycouncil.com.au",
       "publishedAt": "2026-08-09T10:15:30.000Z",
       "summary": "",
       "categories": [],
@@ -1466,6 +1444,32 @@
       ],
       "relevant": true,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "14 countries with dependant visas that let you bring your spouse and family",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqLWtXc0JNbVlkTlM4ZGVvTmo3NndGSk1ZOVhDWVliM1dQUlBMN0k2VTc0OFc0Ql9UVlFSbXdHakZtOEd0bW4xR2lzVTNqS281LUo5N0dWSVFXaHJQMHZLWmlISTl6VFprd1YtSVJWTFhkNGZKajJpd2FoZDNJSFk?oc=5",
+      "source": "Study International",
+      "publishedAt": "2026-07-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Does One Nation’s migration policy actually add up?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWJuc3NvdXJoUU1uOWRXbGdLQzBYa2I5YzJxOEtLN3N2cE52YXJQNGNwSmpJa3lGMFlPOU0xZERGb1ROcDdxYmxQS1ZFaDZkTjFYMnIyd2NXb2syVW9GVkV5ZzlPclVZTC1fSGVxRFdnZTdudEdKS2F5MnBvUUVkdllkM0VYSEZWT0VSTkNURmQwYjVYbE5BRmxhRG1paGEtdUtjbm9DS1R5a0dZSlpVZg?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     }
   ]
