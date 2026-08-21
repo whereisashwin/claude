@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-21T22:31:40.067Z",
+  "updatedAt": "2026-08-21T23:30:15.014Z",
   "count": 120,
-  "relevantCount": 44,
+  "relevantCount": 45,
   "spicyCount": 9,
   "spiceThreshold": 5,
   "categories": [
@@ -49,17 +49,28 @@
     "Study International",
     "Sydney Morning Herald",
     "The Australian",
-    "The Conversation",
     "The Guardian",
     "The Nightly",
     "World Socialist Web Site",
     "Yahoo Finance Australia",
     "Yahoo News Australia",
+    "news24.com.au",
     "realestate.com.au"
   ],
   "items": [
     {
-      "title": "NSW baby first in world to receive breakthrough epilepsy treatment",
+      "title": "Live: History looms in Mackay as Australia looks for response against Bangladesh",
+      "url": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-live-updates-second-test-day-one/107063906",
+      "source": "ABC News",
+      "publishedAt": "2026-08-21T23:08:34.000Z",
+      "summary": "Mackay's Harrup Park becomes the 12th Australian venue to host a Test match, with Australia desperate for an improved performance in the second and final Test against Bangladesh.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "NSW baby makes history after breakthrough epilepsy treatment",
       "url": "https://www.abc.net.au/news/2026-08-22/baby-gets-world-first-epilepsy-treatment-at-sydney-hospital/107050908",
       "source": "ABC News",
       "publishedAt": "2026-08-21T21:37:52.000Z",
@@ -193,17 +204,6 @@
       "spicy": false
     },
     {
-      "title": "Australia has a soft spot for the amazing flannel flower",
-      "url": "https://www.abc.net.au/news/science/2026-08-22/flannel-flower-australias-most-amazing-wildflower/107053414",
-      "source": "ABC News",
-      "publishedAt": "2026-08-21T18:30:00.000Z",
-      "summary": "The flannel flower is a beautiful bloom with a few superpowers up its floral sleeve. And it's not just an east-coast star.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Labor and Coalition unite to ringfence AI from One Nation backlash",
       "url": "https://www.smh.com.au/politics/federal/labor-and-coalition-unite-to-ringfence-ai-from-one-nation-backlash-20260821-p60qal.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -214,6 +214,17 @@
       ],
       "relevant": true,
       "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "A trillion reasons Jim Chalmers is under fire over budget",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMFFzcjhXMWFGcG1Dd1lFemhXcXg1c09vc0VQc2ROY1dWR3lIdnM4dWtLVzhxbi0tUGFOb1BaVDVlbzU2Qlg3a091UGpjSXIwNVBaVHFpVW5GMThuN0dXcmRzZHV1cWgxQ2E5amZxaDZkZGlRMnh3MTlDMDlid0w4TFh5UVdXQmVlMFhVSk9Vd0ZlT0lyR3h4eVpfc1BheVoyZ3RqWG9kODNaRTNtN0JFWk1SZkUtaUhfUHJjNjVKbUNEV2toajA0ZllEU3d6d1FYU2NvMEtYSDh1UC05dUZfeF9UREI3YjlENXFMblZ5YW15ckRjUjFn0gH8AUFVX3lxTFBxUGE1a0lkVDY2cmpGMkJZRDk1TF94cUk2ZEJhbVlWc2MxT3VtbVVSeC1TMmNQZFhCNTAxanQyYmNaOHRWdTlvTnFFeHQ5RV9RRVdWM2gySVVadzN5Yll2cEFyNjRuWGVZTWFHNVpUQndZck95VnB4WTRYSi1QYWZ1R2IxUVJibTNJaDdSaEJtaHNCcEtvODNOdzh0aGxfSXFfM0F4clV5ei1RYzhwcjVqOWswUDRtMk82bkNfYVJVLUY5aFlLXzFaWkM0OHBONkdEM1l0WW9zUVlZaU9TQXlqLVdZbWJaVjJhMk5kZklQQVBaQ1R3UWNHY2h4ag?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-08-21T17:31:47.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
       "spicy": false
     },
     {
@@ -236,17 +247,6 @@
       "categories": [],
       "relevant": false,
       "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "A trillion reasons Jim Chalmers is under fire over budget",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMFFzcjhXMWFGcG1Dd1lFemhXcXg1c09vc0VQc2ROY1dWR3lIdnM4dWtLVzhxbi0tUGFOb1BaVDVlbzU2Qlg3a091UGpjSXIwNVBaVHFpVW5GMThuN0dXcmRzZHV1cWgxQ2E5amZxaDZkZGlRMnh3MTlDMDlid0w4TFh5UVdXQmVlMFhVSk9Vd0ZlT0lyR3h4eVpfc1BheVoyZ3RqWG9kODNaRTNtN0JFWk1SZkUtaUhfUHJjNjVKbUNEV2toajA0ZllEU3d6d1FYU2NvMEtYSDh1UC05dUZfeF9UREI3YjlENXFMblZ5YW15ckRjUjFn0gH8AUFVX3lxTFBxUGE1a0lkVDY2cmpGMkJZRDk1TF94cUk2ZEJhbVlWc2MxT3VtbVVSeC1TMmNQZFhCNTAxanQyYmNaOHRWdTlvTnFFeHQ5RV9RRVdWM2gySVVadzN5Yll2cEFyNjRuWGVZTWFHNVpUQndZck95VnB4WTRYSi1QYWZ1R2IxUVJibTNJaDdSaEJtaHNCcEtvODNOdzh0aGxfSXFfM0F4clV5ei1RYzhwcjVqOWswUDRtMk82bkNfYVJVLUY5aFlLXzFaWkM0OHBONkdEM1l0WW9zUVlZaU9TQXlqLVdZbWJaVjJhMk5kZklQQVBaQ1R3UWNHY2h4ag?oc=5",
-      "source": "The Australian",
-      "publishedAt": "2026-08-21T09:06:38.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -487,17 +487,6 @@
       "relevant": true,
       "score": 6,
       "spicy": true
-    },
-    {
-      "title": "Why it's households, not the government with the debt problem",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXJ0Y053RzZGZ2JuYkFhenBzQXN3Tm40bmQxUDhVeTJWclF4U3QxN3lxcjJKd2VwUG5iRVJvUzB5UlB3MnNKX3gyTTV6cVZ6aFRmcExHenNjUFhGRW8yN0xCc2hvYWdENy1pODRjUTRZOG9WbnQxUDR5S2daaGt2ZmQwZ1U3cjVpanVUcHEtbWg2ZzNOb2pUZlBrY0lfZ29uTkI5MG5tMzQ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-20T18:55:23.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
     },
     {
       "title": "Forestry Corporation carries out 'logging in disguise' as road maintenance",
@@ -947,17 +936,6 @@
       "spicy": false
     },
     {
-      "title": "Resolve poll suggests more voters support Labor’s federal budget changes than oppose them",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamF4elB3Ql9IUUNBNUlWZm4wMVRTWEE2SFBuU1NkbXhxU21QVjFmSnVzMjk3ZG5BeWxMZy0yQkZiVE5ab05EOWU1cHR6NjlyTTFpWkFSTG5kNHZyY3VGNFVGQXM2MllkdnNtUnRCMUMzTE5sLVhVZkdZUUhzeG1ialBqcHhDbXlXQnpUS2xiVy14QWlabW5LTTJzcVpuVlE1UFdOMzN5ajVZcUpiVlNCRHpjWERWRm01aEwyU0lHVWs?oc=5",
-      "source": "The Conversation",
-      "publishedAt": "2026-08-16T23:38:33.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Ex-Treasury boss warns on budget woes, migration cuts",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQckltb2VTZ0h2bzNxSnNPd1RMVjNjY01PS1pMYTRMWjJHM1RNLTJra1gyckJhUEZOQkxDQ2sydWpiWm1Hb3R4UThaRnBwemc3MVVpWTdEVllfSnhWSlF1YzFMVnFjU0tSV2FRM3E2NGJqQ1o2WV9waUR1MHItSkdIbTNaNzVtdW9QSFpsbDU2NkZKZVdOcVRRdC1MZEkzNkU5cU5TOU5n?oc=5",
       "source": "AFR",
@@ -1379,6 +1357,17 @@
       "spicy": false
     },
     {
+      "title": "Culture wars, net zero and the budget: The policies splitting Labor, the Coalition and One Nation",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOeFJ6RTJIQnZUUVhvX2xDelIyUmd5OV9DcDFibEVmT2R4RU1PcExjSFJ4Qm9ERVIwNnlwMFdqREw2U0IySWh5Z2h5bDJ6WmszY3R6RFpOdEtSMWF3OHY5dVhKUk1aamRxTHU5Q1h0Qmp6UzZfcnJzZFVsVmtPTl9McjUwQ0JjQ1V0Y3ZxYk9ZUDlxR1dTbWozUE9Ka3Rtd0h5ZVRnbmlSdTVFWEIyWjVWTWd2YjQwUFVSS2M3a1BSV0lLY2ZOaDhGYllHeGwzZ3NoSzA5MG1aUFdfQzllRlRKUF85M25ZRmZILWV6ZnQ3TVV2aHNwbmRMVHA5bGJDVlJKNkllOHptUFBaaTJheFpzWEIxRGdvTDRhTUNQcTNjdU9QcjQyWEJIblBsUjl6N3ZMUURFRklTUU1sSnVQMV9iNWJCQXdnOGJCOHY1QtIB0gJBVV95cUxPV2VPMUh5T0V3UEZrS3Q2bW4tNFdDbTgwNWFVRkg2Q0I3NUVlbnpDbHhXU0pIQ3JGX0JOcWFqWnFwSUQ3TjhjZzR0Z2o3aXNkZkRFeER2SERoYmlwbTZtam9xRlZzaXhKRE4xbFFiZW01SHgyekU3S1VHMFFVcUp3VF9kMGhCbkptb2ZGWW5oV3VyNjVxMVNwWjhuQmVDMHQyT2NCN0F5U2VZLTFaMTY4cF9acmxKTW5EZzNsZFBlNi1jcVNmVFlKRHVvVjlsTnFCNkZTQ3VXa1BxLW5ldHV3N2VabWhTTUd1SGo1VTExeFU3ODRxdHdCS2VPZGJESHpRRDFiY2VxTnJKaVRoem9vbF9qS0VJZ0lPblI0UGR4d2M0V1R2LW9QeFctQlROdzZIZHFLUUtNZTVPQ0RzZzRyY1FyVlR2cjB2R2tYUHJFNDVmUQ?oc=5",
+      "source": "news24.com.au",
+      "publishedAt": "2026-07-30T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Introduction of new skilled visa processing priorities under Ministerial Direction 119",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1yM1A5d28zQk1vRElTT3ZGb3NXVzlhRFd6NUpxYWd2WkdjVXFrV2ZqTzRlNjU2V2czMV8yZ3Q5MVFiNWFrNWV6R0JOdlItdXpmUU9OTDBFYzdCTUV2bXNSYmFkOG9FSFFSOVJ2c1U5czQ0UGJ3Mnh3bUM3MEdmaWc5bjlxTGVfcWlDM0hiSmNQb18tZDdBTGl3UHNEanRRQ3dkdV81MU9RMTVEdDBHdk9Zc1dyUkE?oc=5",
       "source": "Ethos Migration Lawyers",
@@ -1425,6 +1414,19 @@
       "summary": "",
       "categories": [
         "Housing"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "One Nation wants COVID-level migration: what that means (in 8 charts)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOURpS2xDU3lyVWpUWEtpNUdkU3ExbDY4OE9iRUhhQjItMC0yUVk5Wk1ZdVliS2t0X25xa2MtbVFqTnBiUEsyMUFxazhBNVE1emMxcXZ1QldBcWtwMXF3c3pfZ0phZ2dtN0JWeG5LNzV6VEZnUjVMdzR5V0RhQUdYOUx1TWJEVHRRMVZzelBlZ0duNENtNEpSYlBEREtGakI1ZjExaGFnVEpXWDJ5MnNMZ1JRVlAxd2g3?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
       ],
       "relevant": true,
       "score": 3,
