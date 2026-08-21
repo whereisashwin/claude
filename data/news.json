@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-21T21:31:03.520Z",
+  "updatedAt": "2026-08-21T22:31:40.067Z",
   "count": 120,
-  "relevantCount": 43,
+  "relevantCount": 44,
   "spicyCount": 9,
   "spiceThreshold": 5,
   "categories": [
@@ -40,6 +40,7 @@
     "LinkedIn",
     "MacroBusiness",
     "Michael West Media",
+    "Proactive financial news",
     "Property Council Australia",
     "Property Update",
     "SBS",
@@ -54,10 +55,20 @@
     "World Socialist Web Site",
     "Yahoo Finance Australia",
     "Yahoo News Australia",
-    "news24.com.au",
     "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "NSW baby first in world to receive breakthrough epilepsy treatment",
+      "url": "https://www.abc.net.au/news/2026-08-22/baby-gets-world-first-epilepsy-treatment-at-sydney-hospital/107050908",
+      "source": "ABC News",
+      "publishedAt": "2026-08-21T21:37:52.000Z",
+      "summary": "A baby from the NSW Central Coast has made medical history, becoming the first person in the world to receive a precision medicine treatment for a rare and devastating form of epilepsy.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Can the Liberals topple Victoria's government at the state election?",
       "url": "https://www.abc.net.au/news/2026-08-22/coalition-path-to-victory-victoria-state-election-2026/107063196",
@@ -103,7 +114,7 @@
       "spicy": false
     },
     {
-      "title": "Australia is on track for wettest El Niño on record",
+      "title": "Australia on track for wettest El Niño on record",
       "url": "https://www.abc.net.au/news/2026-08-22/australia-weather-on-track-for-wettest-el-nino-on-record/107064594",
       "source": "ABC News",
       "publishedAt": "2026-08-21T19:19:00.000Z",
@@ -160,17 +171,6 @@
       "spicy": false
     },
     {
-      "title": "Australia has a soft spot for the amazing flannel flower",
-      "url": "https://www.abc.net.au/news/science/2026-08-22/flannel-flower-australias-most-amazing-wildflower/107053414",
-      "source": "ABC News",
-      "publishedAt": "2026-08-21T18:30:00.000Z",
-      "summary": "The flannel flower is a beautiful bloom with a few superpowers up its floral sleeve. And it's not just an east-coast star.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "The real story of 'bad girl' Miles Franklin's not-so-brilliant career",
       "url": "https://www.abc.net.au/news/2026-08-22/my-brilliant-career-netflix-miles-franklin/107038670",
       "source": "ABC News",
@@ -187,6 +187,17 @@
       "source": "ABC News",
       "publishedAt": "2026-08-21T18:30:00.000Z",
       "summary": "The Tony-winning playwright, filmmaker and performer returns to Australia to celebrate Bowie, punk and 25 years of queer classic Hedwig and the Angry Inch.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australia has a soft spot for the amazing flannel flower",
+      "url": "https://www.abc.net.au/news/science/2026-08-22/flannel-flower-australias-most-amazing-wildflower/107053414",
+      "source": "ABC News",
+      "publishedAt": "2026-08-21T18:30:00.000Z",
+      "summary": "The flannel flower is a beautiful bloom with a few superpowers up its floral sleeve. And it's not just an east-coast star.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -359,17 +370,6 @@
       "categories": [],
       "relevant": false,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Four Australians investigated over alleged Bali bar assault that left Perth man dead",
-      "url": "https://www.abc.net.au/news/2026-08-21/perth-man-paul-dougan-bali-assault-death/107062456",
-      "source": "ABC News",
-      "publishedAt": "2026-08-21T01:03:41.000Z",
-      "summary": "Indonesian police say they are investigating four Australians over the death of a Perth man following a Kuta bar fight.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -1180,19 +1180,6 @@
       "spicy": false
     },
     {
-      "title": "One Nation leader Pauline Hanson says she does not care if immigration cuts impact businesses",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-06T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Australia's new skilled visa processing priorities: Onshore applicants, defence, law enforcement",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXIyXzJXeGlwUncyN1JwSVBtajhJNURMTkZjdW1nYUJCNUhsVWhOU29RdF9LRzl2eHZac3o0cXgyTGE3NnN6U3lpb3hmS0U1ZXhFalJuN0Z1NDQzb1ZvQlN0UHZaZ19GRFVJc1ZVZExJWkFTdlItT0MtV1RPZ0otZFBWSHZIMzJXSWxRLW85dnlvbmxwRUZNMzlMeDFqQk1fMXc?oc=5",
       "source": "LinkedIn",
@@ -1227,6 +1214,19 @@
       "categories": [],
       "relevant": false,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "One Nation leader Pauline Hanson says she does not care if immigration cuts impact businesses",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJvczdWNVN5V2R5TnhhOE94WkxLd2NkOGpTbGNSamNJRVdjMUNtSnpONENKTkRTdTNyeU04clpTbWhDc1RHQnVBS3FINTNEQjlpNmVjQ2Z1Qk9iSUxjVmQzQ1JLTVVGQURaVjdpdV9Ydkh4NDNySXhXbzVFWUhVcWZCanpJXzhxdWh1dWJHWml5NU5FLVNHV1A0Y0ZOTDhuVHdPdA?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 5,
       "spicy": false
     },
     {
@@ -1379,17 +1379,6 @@
       "spicy": false
     },
     {
-      "title": "Culture wars, net zero and the budget: The policies splitting Labor, the Coalition and One Nation",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOeFJ6RTJIQnZUUVhvX2xDelIyUmd5OV9DcDFibEVmT2R4RU1PcExjSFJ4Qm9ERVIwNnlwMFdqREw2U0IySWh5Z2h5bDJ6WmszY3R6RFpOdEtSMWF3OHY5dVhKUk1aamRxTHU5Q1h0Qmp6UzZfcnJzZFVsVmtPTl9McjUwQ0JjQ1V0Y3ZxYk9ZUDlxR1dTbWozUE9Ka3Rtd0h5ZVRnbmlSdTVFWEIyWjVWTWd2YjQwUFVSS2M3a1BSV0lLY2ZOaDhGYllHeGwzZ3NoSzA5MG1aUFdfQzllRlRKUF85M25ZRmZILWV6ZnQ3TVV2aHNwbmRMVHA5bGJDVlJKNkllOHptUFBaaTJheFpzWEIxRGdvTDRhTUNQcTNjdU9QcjQyWEJIblBsUjl6N3ZMUURFRklTUU1sSnVQMV9iNWJCQXdnOGJCOHY1QtIB0gJBVV95cUxPV2VPMUh5T0V3UEZrS3Q2bW4tNFdDbTgwNWFVRkg2Q0I3NUVlbnpDbHhXU0pIQ3JGX0JOcWFqWnFwSUQ3TjhjZzR0Z2o3aXNkZkRFeER2SERoYmlwbTZtam9xRlZzaXhKRE4xbFFiZW01SHgyekU3S1VHMFFVcUp3VF9kMGhCbkptb2ZGWW5oV3VyNjVxMVNwWjhuQmVDMHQyT2NCN0F5U2VZLTFaMTY4cF9acmxKTW5EZzNsZFBlNi1jcVNmVFlKRHVvVjlsTnFCNkZTQ3VXa1BxLW5ldHV3N2VabWhTTUd1SGo1VTExeFU3ODRxdHdCS2VPZGJESHpRRDFiY2VxTnJKaVRoem9vbF9qS0VJZ0lPblI0UGR4d2M0V1R2LW9QeFctQlROdzZIZHFLUUtNZTVPQ0RzZzRyY1FyVlR2cjB2R2tYUHJFNDVmUQ?oc=5",
-      "source": "news24.com.au",
-      "publishedAt": "2026-07-30T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Introduction of new skilled visa processing priorities under Ministerial Direction 119",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1yM1A5d28zQk1vRElTT3ZGb3NXVzlhRFd6NUpxYWd2WkdjVXFrV2ZqTzRlNjU2V2czMV8yZ3Q5MVFiNWFrNWV6R0JOdlItdXpmUU9OTDBFYzdCTUV2bXNSYmFkOG9FSFFSOVJ2c1U5czQ0UGJ3Mnh3bUM3MEdmaWc5bjlxTGVfcWlDM0hiSmNQb18tZDdBTGl3UHNEanRRQ3dkdV81MU9RMTVEdDBHdk9Zc1dyUkE?oc=5",
       "source": "Ethos Migration Lawyers",
@@ -1442,19 +1431,6 @@
       "spicy": false
     },
     {
-      "title": "One Nation wants COVID-level migration: what that means (in 8 charts)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOURpS2xDU3lyVWpUWEtpNUdkU3ExbDY4OE9iRUhhQjItMC0yUVk5Wk1ZdVliS2t0X25xa2MtbVFqTnBiUEsyMUFxazhBNVE1emMxcXZ1QldBcWtwMXF3c3pfZ0phZ2dtN0JWeG5LNzV6VEZnUjVMdzR5V0RhQUdYOUx1TWJEVHRRMVZzelBlZ0duNENtNEpSYlBEREtGakI1ZjExaGFnVEpXWDJ5MnNMZ1JRVlAxd2g3?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-24T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "14 countries with dependant visas that let you bring your spouse and family",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqLWtXc0JNbVlkTlM4ZGVvTmo3NndGSk1ZOVhDWVliM1dQUlBMN0k2VTc0OFc0Ql9UVlFSbXdHakZtOEd0bW4xR2lzVTNqS281LUo5N0dWSVFXaHJQMHZLWmlISTl6VFprd1YtSVJWTFhkNGZKajJpd2FoZDNJSFk?oc=5",
       "source": "Study International",
@@ -1465,6 +1441,32 @@
       ],
       "relevant": true,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "The tax changes investors should actually care about after the Federal Budget",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMFVwWG8tSmtUaHZvRzAwTzhfQlEwZm5mNlhqcG82WDNZQ0J1bWhlQTZKc282dTduZWJlSlZQdjNfcW9ZQURiMVQ0M1JWcjRmOXAwVnRzeHc4RUxkQUZFTWNzTU9ReGtPazJZdzU1UjdhdmhZNkl1ZjN0UU0wbUVOdFVqNEZfeW1JaXY1aHc0eWk5Sm9Ldll5VlpXcHg3ZVp1TE5kUjlPanhBWjJUUEF4dktEbnJCZENLQzA3TDlOa19TMWlEWlFqVE9qZnRuUEtvS2tiQ0M4S3dHeHNGSHVWWU9BR2J5Zw?oc=5",
+      "source": "Proactive financial news",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "'Nervous' investors retreat from housing market as downturn broadens",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTNiWXNrMjlXdGlPVzh4OVFEOTlMQTZrSTkzQjRFb21HWXp2aG1GbGdnZUJlTnZqMl85U1ZTMXpCY3JpMmxGd2ZqY2J0eDV4NTI2dmtyR2dDMUpGU0JEWi1ZTXdOZjc1eUQ2a1R3UUp6T3JoYlpPR3NRRms0cXoyWXJJdnhVOFp6M1hobXZIVGluaGpTVkkzcWVpLXQzWnUxSlV6SldZVDlrQQ?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 3,
       "spicy": false
     }
   ]
