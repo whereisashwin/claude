@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-22T13:36:58.946Z",
+  "updatedAt": "2026-08-22T14:28:05.272Z",
   "count": 120,
-  "relevantCount": 46,
-  "spicyCount": 9,
+  "relevantCount": 48,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -52,6 +52,7 @@
     "The Conversation",
     "The Guardian",
     "The Nightly",
+    "The West Australian",
     "World Socialist Web Site",
     "Yahoo Finance Australia",
     "Yahoo News Australia",
@@ -90,17 +91,6 @@
       "categories": [],
       "relevant": false,
       "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "NSW baby makes history after breakthrough epilepsy treatment",
-      "url": "https://www.abc.net.au/news/2026-08-22/baby-gets-world-first-epilepsy-treatment-at-sydney-hospital/107050908",
-      "source": "ABC News",
-      "publishedAt": "2026-08-21T21:37:52.000Z",
-      "summary": "A baby from the NSW Central Coast has made medical history, becoming the first person in the world to receive a precision medicine treatment for a rare and devastating form of epilepsy.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -479,17 +469,6 @@
       "relevant": true,
       "score": 6,
       "spicy": true
-    },
-    {
-      "title": "Why it's households, not the government with the debt problem",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXJ0Y053RzZGZ2JuYkFhenBzQXN3Tm40bmQxUDhVeTJWclF4U3QxN3lxcjJKd2VwUG5iRVJvUzB5UlB3MnNKX3gyTTV6cVZ6aFRmcExHenNjUFhGRW8yN0xCc2hvYWdENy1pODRjUTRZOG9WbnQxUDR5S2daaGt2ZmQwZ1U3cjVpanVUcHEtbWg2ZzNOb2pUZlBrY0lfZ29uTkI5MG5tMzQ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-20T18:55:23.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
     },
     {
       "title": "Forestry Corporation carries out 'logging in disguise' as road maintenance",
@@ -1473,6 +1452,33 @@
       "relevant": true,
       "score": 0,
       "spicy": false
+    },
+    {
+      "title": "Does One Nation’s migration policy actually add up?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWJuc3NvdXJoUU1uOWRXbGdLQzBYa2I5YzJxOEtLN3N2cE52YXJQNGNwSmpJa3lGMFlPOU0xZERGb1ROcDdxYmxQS1ZFaDZkTjFYMnIyd2NXb2syVW9GVkV5ZzlPclVZTC1fSGVxRFdnZTdudEdKS2F5MnBvUUVkdllkM0VYSEZWT0VSTkNURmQwYjVYbE5BRmxhRG1paGEtdUtjbm9DS1R5a0dZSlpVZg?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Experts warn tax reforms putting pressure on property prices",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWDh3dFlJY2puWjRHUTBuTElUZVZDZlg3cktKUGNhbmhzdVowQWZRdVZQdmZidUdYU2h0UEpZUE1yeW9wbzlKZkRRbWk5ZlVrdFhvenVBcVFMemRVbG5CcWRCaUVsYUZsUEVVTlB5M2hLTDJrb1paczQzMzVnQ0VFaDl1MFctc0N5WjV6YjVrc1BIaUR2bGJ2UU1Hd2xaWFUwNFBTbDRRaDFacjUzMGoxZ0RvTnJ2T3pRYU5ub3F0WWlOMUU2LXozUHBTd2FYamQ0Rl83TDF5MFdHclVPcTZnZE1B?oc=5",
+      "source": "The West Australian",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
     }
   ]
 }
