@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-23T21:28:11.071Z",
+  "updatedAt": "2026-08-23T21:51:18.772Z",
   "count": 120,
-  "relevantCount": 53,
-  "spicyCount": 11,
+  "relevantCount": 52,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -43,7 +43,6 @@
     "Proactive financial news",
     "Property Council Australia",
     "Property Update",
-    "RSM Global",
     "SBS",
     "SMH.com.au",
     "Shiksha",
@@ -63,8 +62,32 @@
       "title": "Australia news live: Shark attack victim thanks donors after ‘incredibly difficult’ recovery; penguin parade gets flu shots",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-23T21:26:07.000Z",
+      "publishedAt": "2026-08-23T21:46:16.000Z",
       "summary": "Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Live: One Nation defends migration policy blunder",
+      "url": "https://www.abc.net.au/news/2026-08-24/federal-politics-live-blog-barnaby-joyce-immigration-/107069930",
+      "source": "ABC News",
+      "publishedAt": "2026-08-23T21:40:14.000Z",
+      "summary": "Barnaby Joyce says One Nation's policy has been 130,000 net migration and has been \"all along.\"",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Secretive, century-old explosives facility approved for expansion",
+      "url": "https://www.abc.net.au/news/2026-08-24/bajool-explosives-reserve-to-increase-operations/107038676",
+      "source": "ABC News",
+      "publishedAt": "2026-08-23T21:29:23.000Z",
+      "summary": "One of four government-run explosive facilities in Queensland, the Bajool reserve has been in action since 1913. There are plans to expand it to meet increased demand from the mining industry.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -82,7 +105,7 @@
       "spicy": false
     },
     {
-      "title": "Mundi Mundi Bash still ultimate outback adventure, festival goers say",
+      "title": "Mundi Mundi Bash draws crowd despite rain and cost-of-living challenges",
       "url": "https://www.abc.net.au/news/2026-08-24/mundi-mundi-bash-continues-despite-rain-and-flooding/107050906",
       "source": "ABC News",
       "publishedAt": "2026-08-23T21:00:43.000Z",
@@ -95,17 +118,15 @@
       "spicy": false
     },
     {
-      "title": "Sydney councillor laments 'huge failure' amid short-term rental boom",
+      "title": "Calls for release of government review into short-stays amid Airbnb crisis",
       "url": "https://www.abc.net.au/news/2026-08-24/nsw-airbnbs-sydney-short-term-rental-housing-delivery/106972950",
       "source": "ABC News",
       "publishedAt": "2026-08-23T20:42:17.000Z",
       "summary": "City of Sydney Deputy Mayor Jess Miller warns there is nothing preventing short-term accommodation investors from exploiting new developments earmarked for NSW.",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 8,
-      "spicy": true
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
     },
     {
       "title": "'Survival mode': Study reveals toll on parents of children with disability",
@@ -816,17 +837,6 @@
       "spicy": true
     },
     {
-      "title": "Debt to hit new high but nation's budget outlook steady",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QMk83S0I0NGJndUktbWVmdjF3OHZrbmJJWFVKaWhHLV9yWGpHVGpLdUdaNklzc2JPT0hCd1hXbWphTExyU0xUMEpFcEthN3BYQU11a0ctZWlyXzJKY2NjNC1xbzNJZ3hxaXFTaTBqc0MtOGt2WEpKag?oc=5",
-      "source": "Yahoo News Australia",
-      "publishedAt": "2026-08-19T04:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "‘No-brainer’: The property investors heading to New Zealand",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMk43dl9rMEZUamFlTEhTd01sZWRNTE16UTNtOTYyN3FKbjl2Z2hGRXpETGY2RTZUd0FDRnh4WHVaS3ZGdHl0dVhpNDNCZlRqdUQ1NWpVNzZqaVlGRU9xcXdVRDlqTEdaN2FCRXFhMjdlUjQ0UEJ3ck5STTl3UjZTRWVxaUdfYmwwWHM3bWt4ZXJKdjZFWVNPZ0d6SVIzNTdqNG1iU2RxYmJELXZsNGh5V2FKMA?oc=5",
       "source": "AFR",
@@ -873,19 +883,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Federal Budget 2026–27: the tax reform Australia needs | RSM",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWhWUXBvOXUwV2JIcmlDbDF6RjVoYkYtVXhwWDBhYUVIZzFCUXc2LU9JNVNPSVppQkUwZ2E3bTRyUXpmQnk3blJ5RkIwenlJZnpXYU9ZT25OVllCRWdPYWlSLVA1Ml91MVpRRDd0eEwxcmoxSkROc0tCdU1yMl9Ra0o2SGl3WnVGeTFlUFhJNUZ2WjZxbjhMbXBBYw?oc=5",
-      "source": "RSM Global",
-      "publishedAt": "2026-08-17T22:47:22.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 2,
       "spicy": false
     },
     {
