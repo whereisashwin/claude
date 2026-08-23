@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-23T19:48:57.819Z",
+  "updatedAt": "2026-08-23T20:31:28.720Z",
   "count": 120,
-  "relevantCount": 54,
-  "spicyCount": 9,
+  "relevantCount": 53,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -34,7 +34,6 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
-    "Australian Property Update",
     "Crown World Mobility",
     "Erickson Immigration Group",
     "Ethos Migration Lawyers",
@@ -56,9 +55,45 @@
     "The West Australian",
     "Yahoo Finance Australia",
     "Yahoo News Australia",
-    "news24.com.au"
+    "news24.com.au",
+    "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Parents of kids with disability more likely to be burnt out, study finds",
+      "url": "https://www.abc.net.au/news/2026-08-24/parents-children-disability-experience-psychological-distress/107062176",
+      "source": "ABC News",
+      "publishedAt": "2026-08-23T20:05:04.000Z",
+      "summary": "A major Australian study finds parents caring for young children with disability are twice as likely to say they are in poor health, feeling constantly in demand and lonely.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "‘Never mind the Nazis’, Coalition says to the Brethren. ‘Just show us the money’",
+      "url": "https://www.smh.com.au/politics/federal/never-mind-the-nazis-coalition-says-to-the-brethren-just-show-us-the-money-20260823-p60qo4.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-23T20:00:00.000Z",
+      "summary": "Revelations that a group of so-called Christians had paid neo-Nazis to sway an election have not shaken the Coalition’s public support for a significant donor.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Three Queensland police officers convicted of DV offences escape discipline",
+      "url": "https://www.abc.net.au/news/2026-08-24/qld-ccc-domestic-violence-qps/107059006",
+      "source": "ABC News",
+      "publishedAt": "2026-08-23T19:44:12.000Z",
+      "summary": "The Queensland Police Service cannot discipline an officer convicted of a crime if no conviction is recorded due to its interpretation of a recent court decision.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Australia's bowling attack can't disguise batting failings forever",
       "url": "https://www.abc.net.au/news/2026-08-24/australia-beat-bangladesh-but-batting-problems-remain/107069022",
@@ -71,7 +106,7 @@
       "spicy": false
     },
     {
-      "title": "'I shouldn't be here': Australian murder suspect speaks from Thai prison",
+      "title": "'I shouldn't be here': Australian murder suspect speaks from Thai prison for first time",
       "url": "https://www.abc.net.au/news/2026-08-24/australian-murder-suspect-simon-carman-speaks-from-thai-prison/107056966",
       "source": "ABC News",
       "publishedAt": "2026-08-23T19:12:46.000Z",
@@ -115,7 +150,7 @@
       "spicy": false
     },
     {
-      "title": "'AUKUS is like a feast': MPs sound alarm over defence industry lobbying",
+      "title": "'He has inside knowledge': MPs sound alarm over defence industry lobbying",
       "url": "https://www.abc.net.au/news/2026-08-24/defence-insiders-now-lobbying-for-industry-analysis-shows/107046326",
       "source": "ABC News",
       "publishedAt": "2026-08-23T18:51:19.000Z",
@@ -126,7 +161,7 @@
       "spicy": false
     },
     {
-      "title": "A Hindu deity is the starting point of this mind-expanding new exhibition",
+      "title": "Worshipped by millions, this god is the centre of a new art exhibition",
       "url": "https://www.abc.net.au/news/2026-08-24/avatar-forms-of-vishnu-art-gallery-of-new-south-wales-agnsw/107064596",
       "source": "ABC News",
       "publishedAt": "2026-08-23T18:30:00.000Z",
@@ -867,6 +902,19 @@
       "spicy": false
     },
     {
+      "title": "Queensland tenants hit by extreme rent hikes of up to $150 a week",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONXlIZTZOeWlCVzI1Mkh1SWVQdHlHX1VfMVY4RjN2cFZVc2p4UDJGMUh3dk5IMHpoc2RzMkdnaklVQTNsYmhPZVBwTHh1MEhDcnV2YnRSZTRxUmpYSThZSHdPd2VqWjdKcHdqOE9KanIxZ3ZKSHRDQmZJZGJEYUlBYVFlTndYZl81TTRlNUZtOE9lMkRUQ3ZKXy1pb3FieXBvc2c?oc=5",
+      "source": "realestate.com.au",
+      "publishedAt": "2026-08-14T19:05:38.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": true
+    },
+    {
       "title": "Low-income Australians should accept substandard homes, Liberal frontbencher says",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUdRM2t4RVE2R1RKZmVaZzR5R1VSVG9xN0ROQ2hvekxLN0N6c2VTbUF5MlFrMVlJaTdFQkxTYjgxYlRQbGMyVmNwclVKUDdwNG9Zd05rcWRycGNTN0dNcGk5TmZUT2Q3ckZxM1lVR0pCcGJfa0tmZVhMVXhta1d3UmtUdXNLNTdhMlRVRlJWd1NfRzA4MGhMN2lpVUVUV3VtbGtpbA?oc=5",
       "source": "SBS",
@@ -1438,56 +1486,6 @@
       ],
       "relevant": true,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Labor tax changes imperil ‘optimistic’ state budgets",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNklnX29tX3N0eE1lanAzQjhlMXRBVzFVUTNZaGtpaC0zSjZabENjM2ZhY1NRN2R2U1luTnJuSXhwZDNtaF90RktJTWFCejFiUnFkMjhkN0dtX0IySDZRYnpMTk1ka0ZDVnJYTlZod05ROHVnblV0SDNqNk1mOGtIdWJEQUVXWm96WFBqVmZZT0xYR2puaDlQRmR2M1UxeG9JcjBxZEFMWnE3Zi1TckE?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-16T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Victoria's housing affordability edge under threat, industry warns",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcEZ1ZWY0ZWE4Y1NhZ0l0bGYtSndpVFlDWWppQXBzT0NHNDNXRG5kQzV1eVdYTlNwUTRQMnd0VDJZeGZoNTVqQzZuSzZoazlSUk9PRXVWMUpHUGZQR0RWR1BJMXpuWFpuak5sWkZ4ekwwMHJUQTU5d3VoLVo1ZER0WndRNzR0Uzk2ZEJOZ1pGUDl2ZXJrRWpnbmpRRlFQQS13UDhkSWlwSW1iVXlJ?oc=5",
-      "source": "Australian Property Update",
-      "publishedAt": "2026-07-16T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Anthony Albanese’s AI vision scores high on vibes but the devil will be in the detail. And there is one glaring omission … | David Pocock",
-      "url": "https://www.theguardian.com/australia-news/commentisfree/2026/jul/16/anthony-albanese-ai-vision-artificial-intelligence-omission",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-16T00:05:38.000Z",
-      "summary": "When the PM talks about new laws applying to the ‘next generation of large-scale datacentres’ what does he mean? Albanese’s AI blueprint sparks calls for datacentre moratorium until new regulations in place Expectations were high as the prime minister took the stage at the University of Sydney on We",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Treasurer Jim Chalmers’ budget hinges on 41,200 public service job cuts",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlpoRm1kb1doTERNR21tb09HZ1lvV2RMcVE3bkRnelRrVjJBZ21WQktvUXlUbXktMUdIS1ZUS254VTl3aklqUFNiQTFNMy1JOVhpOVlGYWtfTjA3Ykd0Zm1qSXdnQXY3WjQ3d1FVVi1CT0gteTNzR2lxRFZlU0VTdS14ZTZjZzBKb1U5QmdxbGNscUdNeGN1ZnI0QmszT1NRMGI3SzN2RWREY0U?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-15T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
       "spicy": false
     }
   ]
