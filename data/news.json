@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-23T23:27:40.231Z",
+  "updatedAt": "2026-08-23T23:50:22.482Z",
   "count": 120,
-  "relevantCount": 50,
+  "relevantCount": 49,
   "spicyCount": 8,
   "spiceThreshold": 5,
   "categories": [
@@ -54,18 +54,30 @@
     "The West Australian",
     "Yahoo Finance Australia",
     "Yahoo News Australia",
-    "news24.com.au"
+    "news24.com.au",
+    "realestate.com.au"
   ],
   "items": [
     {
       "title": "Australia news live: shark attack victim thanks donors after ‘incredibly difficult’ recovery; second fur seal dies of suspected bird flu",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-23T23:25:29.000Z",
+      "publishedAt": "2026-08-23T23:44:33.000Z",
       "summary": "Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach.",
       "categories": [],
       "relevant": false,
       "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Family of missing woman wants $1m reward to help solve 13-year-old mystery",
+      "url": "https://www.abc.net.au/news/2026-08-24/call-for-reward-into-monique-clubb-disappearance-hervey-bay-qld/107009654",
+      "source": "ABC News",
+      "publishedAt": "2026-08-23T23:30:33.000Z",
+      "summary": "Monique Clubb disappeared during a trip to Brisbane more than 13 years ago. Her family has now co-launched a campaign calling on Queensland Police to implement a reward for new information that could lead to an arrest.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
       "spicy": false
     },
     {
@@ -920,6 +932,19 @@
       "spicy": false
     },
     {
+      "title": "Queensland tenants hit by extreme rent hikes of up to $150 a week",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONXlIZTZOeWlCVzI1Mkh1SWVQdHlHX1VfMVY4RjN2cFZVc2p4UDJGMUh3dk5IMHpoc2RzMkdnaklVQTNsYmhPZVBwTHh1MEhDcnV2YnRSZTRxUmpYSThZSHdPd2VqWjdKcHdqOE9KanIxZ3ZKSHRDQmZJZGJEYUlBYVFlTndYZl81TTRlNUZtOE9lMkRUQ3ZKXy1pb3FieXBvc2c?oc=5",
+      "source": "realestate.com.au",
+      "publishedAt": "2026-08-14T19:05:38.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": true
+    },
+    {
       "title": "Low-income Australians should accept substandard homes, Liberal frontbencher says",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUdRM2t4RVE2R1RKZmVaZzR5R1VSVG9xN0ROQ2hvekxLN0N6c2VTbUF5MlFrMVlJaTdFQkxTYjgxYlRQbGMyVmNwclVKUDdwNG9Zd05rcWRycGNTN0dNcGk5TmZUT2Q3ckZxM1lVR0pCcGJfa0tmZVhMVXhta1d3UmtUdXNLNTdhMlRVRlJWd1NfRzA4MGhMN2lpVUVUV3VtbGtpbA?oc=5",
       "source": "SBS",
@@ -1265,19 +1290,6 @@
       "spicy": false
     },
     {
-      "title": "Introduction of new skilled visa processing priorities under Ministerial Direction 119",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcW94QUhVWFlHZDJDdXg4VHhrVnhVLTRMb3h3bUNUVDkzdUk5OXVjSDVSNHQ0SURheGRhQXJzOFpVR2duWjJNekZGR3dDZkFSaDctbFpSbXZuZWo1OHpfdUNxMl9KNW1tQnRlVVVxeXpiRUxLR0YyMWpkLXBhSTU1WTc4eWhkRkFsODlGVXk2Z1haTGVieXpnX0NidWkxbXRTTWNjdHl1aUdMRW1uQ3JPSy1NOUxIdl9K?oc=5",
-      "source": "Ethos Migration Lawyers",
-      "publishedAt": "2026-07-30T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Culture wars, net zero and the budget: The policies splitting Labor, the Coalition and One Nation",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOeFJ6RTJIQnZUUVhvX2xDelIyUmd5OV9DcDFibEVmT2R4RU1PcExjSFJ4Qm9ERVIwNnlwMFdqREw2U0IySWh5Z2h5bDJ6WmszY3R6RFpOdEtSMWF3OHY5dVhKUk1aamRxTHU5Q1h0Qmp6UzZfcnJzZFVsVmtPTl9McjUwQ0JjQ1V0Y3ZxYk9ZUDlxR1dTbWozUE9Ka3Rtd0h5ZVRnbmlSdTVFWEIyWjVWTWd2YjQwUFVSS2M3a1BSV0lLY2ZOaDhGYllHeGwzZ3NoSzA5MG1aUFdfQzllRlRKUF85M25ZRmZILWV6ZnQ3TVV2aHNwbmRMVHA5bGJDVlJKNkllOHptUFBaaTJheFpzWEIxRGdvTDRhTUNQcTNjdU9QcjQyWEJIblBsUjl6N3ZMUURFRklTUU1sSnVQMV9iNWJCQXdnOGJCOHY1QtIB0gJBVV95cUxPV2VPMUh5T0V3UEZrS3Q2bW4tNFdDbTgwNWFVRkg2Q0I3NUVlbnpDbHhXU0pIQ3JGX0JOcWFqWnFwSUQ3TjhjZzR0Z2o3aXNkZkRFeER2SERoYmlwbTZtam9xRlZzaXhKRE4xbFFiZW01SHgyekU3S1VHMFFVcUp3VF9kMGhCbkptb2ZGWW5oV3VyNjVxMVNwWjhuQmVDMHQyT2NCN0F5U2VZLTFaMTY4cF9acmxKTW5EZzNsZFBlNi1jcVNmVFlKRHVvVjlsTnFCNkZTQ3VXa1BxLW5ldHV3N2VabWhTTUd1SGo1VTExeFU3ODRxdHdCS2VPZGJESHpRRDFiY2VxTnJKaVRoem9vbF9qS0VJZ0lPblI0UGR4d2M0V1R2LW9QeFctQlROdzZIZHFLUUtNZTVPQ0RzZzRyY1FyVlR2cjB2R2tYUHJFNDVmUQ?oc=5",
       "source": "news24.com.au",
@@ -1285,6 +1297,19 @@
       "summary": "",
       "categories": [],
       "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Introduction of new skilled visa processing priorities under Ministerial Direction 119",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1yM1A5d28zQk1vRElTT3ZGb3NXVzlhRFd6NUpxYWd2WkdjVXFrV2ZqTzRlNjU2V2czMV8yZ3Q5MVFiNWFrNWV6R0JOdlItdXpmUU9OTDBFYzdCTUV2bXNSYmFkOG9FSFFSOVJ2c1U5czQ0UGJ3Mnh3bUM3MEdmaWc5bjlxTGVfcWlDM0hiSmNQb18tZDdBTGl3UHNEanRRQ3dkdV81MU9RMTVEdDBHdk9Zc1dyUkE?oc=5",
+      "source": "Ethos Migration Lawyers",
+      "publishedAt": "2026-07-30T02:08:02.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
       "score": 0,
       "spicy": false
     },
@@ -1449,32 +1474,6 @@
       "summary": "",
       "categories": [
         "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Budget forecasts rest on ‘unlikely’ $480b income tax boon",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX0NUa095T2ptS3JyR3FwelZQd3J4ZWp3YW9KQllVTjBtei1IdlJSUHNFYUhUOXlySUZENGhiNWdRZWROVzU0RGtxNTZfY0Z4NmM5aVBOTm50eFZsUlVqdHVJR2RfZDZhQTJsOVBDTTBrcXZpcUFGNDFvdk9VVHlwc2lScno0eUU2OHJCNl91cVZKU0c0a2JrNF9kUlV4Rm11VUJTRUE5Nmg?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-17T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": true
-    },
-    {
-      "title": "ASX value stocks smash growth as tax changes turbocharge rotation",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdjdFVmNHQ1Z3SWFSbnRLWWFSeUdXU25JQ0lWWHFVTGxSMWhvUHhKRmVQMmZFR0lkVm11WjVLekJwSVlqQnlXbDBvdHNxYnVLQmNsaThkbTVtU1poYXRWQlFfOHdJOF9MeWMtS0FfVFlRRHdzR3RESmlHRGVaUHl3ZXlyYkdEUmlRWWtUQ3c0S2swQU4xRTVFaUtnTVk4cmxfdmxvSEtWVVNWSnMteC1sMFNQUDBTdVFfT1M3VEtHZFlpQQ?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-17T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
       ],
       "relevant": true,
       "score": 3,
