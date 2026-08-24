@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-24T04:23:10.250Z",
+  "updatedAt": "2026-08-24T05:20:15.883Z",
   "count": 120,
-  "relevantCount": 54,
-  "spicyCount": 9,
+  "relevantCount": 57,
+  "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -45,7 +45,6 @@
     "Property Council Australia",
     "Property Update",
     "RSM Global",
-    "SBS",
     "SMH.com.au",
     "Shiksha",
     "Study International",
@@ -56,22 +55,47 @@
     "The West Australian",
     "Yahoo Finance Australia",
     "Yahoo News Australia",
-    "news24.com.au"
+    "news24.com.au",
+    "sbs.com.au"
   ],
   "items": [
     {
-      "title": "Australia news live: AFL chief says ‘actions of a few’ don’t define the game; five arrested as police raid CFMEU headquarters",
+      "title": "Australia news live: Albanese promises ‘no change’ to WA’s share of GST; five arrested as police raid CFMEU headquarters",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-24T04:21:35.000Z",
+      "publishedAt": "2026-08-24T05:06:43.000Z",
       "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
+    },
+    {
+      "title": "Kaiser airborne survey homes in on rich Victorian goldfield",
+      "url": "https://www.smh.com.au/business/companies/kaiser-airborne-survey-homes-in-on-rich-victorian-goldfield-20260824-p60r2h.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-24T04:26:26.000Z",
+      "summary": "Kaiser Reef has wrapped up a key geophysical survey at its historic Maldon gold project, aiming to define new drill targets in the rich Victorian goldfield.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Another case of acute liver damage in counterfeit peptide user",
+      "url": "https://www.abc.net.au/news/2026-08-24/contaminated-peptide-tests-liver-damage-hospitalisations/107070478",
+      "source": "ABC News",
+      "publishedAt": "2026-08-24T04:25:20.000Z",
+      "summary": "Doctors are warning there could be a \"contaminated batch\" of counterfeit peptides causing hospitalisations in Victoria, after the seventh case of liver toxicity.",
       "categories": [],
       "relevant": false,
       "score": 6,
       "spicy": false
     },
     {
-      "title": "Pauline Hanson’s deleted tweet deepens One Nation’s migration muddle",
+      "title": "Pauline Hanson’s deleted post deepens One Nation’s migration muddle",
       "url": "https://www.smh.com.au/politics/federal/pauline-hanson-s-deleted-tweet-deepens-one-nation-s-migration-muddle-20260824-p60qv0.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-08-24T04:06:51.000Z",
@@ -84,7 +108,20 @@
       "spicy": false
     },
     {
-      "title": "Breaking: Albanese says WA's GST deal won't change while he is PM",
+      "title": "No potholes in WA roads thanks to bigger slice of GST pie",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkxPeDRTRUFKOE1BQmVRcnVaLVR3dWhQZVM3bFNoamh5YmtSQ2x5MzBucy1nMGNCdE45MEhITkx1WXFhalh1cFZucjVGbGM2MHJqZXI2REF3eExuTUlnQnNSQ0J2eG5HREhGUHIwYm9DTzNhUXlZZVNKXzVhX3lSWjdDWW5SZlp6dWFKN3RLc1hhazJ6RWYxSnRCT016LVR1NVByY3FQT3BSZ2pyN2Uw?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-08-24T04:01:13.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Albanese says WA's GST deal won't change while he is PM",
       "url": "https://www.abc.net.au/news/2026-08-24/anthony-albanese-pledges-no-change-to-wa-gst-deal/107071388",
       "source": "ABC News",
       "publishedAt": "2026-08-24T03:20:48.000Z",
@@ -108,19 +145,6 @@
       "relevant": true,
       "score": 6,
       "spicy": true
-    },
-    {
-      "title": "No potholes in WA roads thanks to bigger slice of GST pie",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkxPeDRTRUFKOE1BQmVRcnVaLVR3dWhQZVM3bFNoamh5YmtSQ2x5MzBucy1nMGNCdE45MEhITkx1WXFhalh1cFZucjVGbGM2MHJqZXI2REF3eExuTUlnQnNSQ0J2eG5HREhGUHIwYm9DTzNhUXlZZVNKXzVhX3lSWjdDWW5SZlp6dWFKN3RLc1hhazJ6RWYxSnRCT016LVR1NVByY3FQT3BSZ2pyN2Uw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-24T02:46:24.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 4,
-      "spicy": false
     },
     {
       "title": "No, the budget’s property tax changes have not spiked rents",
@@ -172,7 +196,7 @@
       "spicy": false
     },
     {
-      "title": "National rental prices rise to half average Australian income",
+      "title": "Average rental prices push six-figure income earners into rental stress",
       "url": "https://www.abc.net.au/news/2026-08-24/everybodys-home-rental-increases-half-average-income/107070036",
       "source": "ABC News",
       "publishedAt": "2026-08-24T01:13:04.000Z",
@@ -643,44 +667,11 @@
       "spicy": true
     },
     {
-      "title": "Kuniko unearths fresh NSW gold targets in Lachlan Fold Belt",
-      "url": "https://www.smh.com.au/business/companies/kuniko-unearths-fresh-nsw-gold-targets-in-lachlan-fold-belt-20260821-p60qf4.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-21T03:59:56.000Z",
-      "summary": "Kuniko has used a major geophysical review to define multiple new gold-silver drill targets at its Commonwealth-Silica Hill project in NSW’s prolific Lachlan Fold Belt.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Fourth Sydney Airport safety incident in three weeks under investigation",
       "url": "https://www.abc.net.au/news/2026-08-21/nsw-sydney-airport-qantas-taxiing-fourth-safety-incident/107062836",
       "source": "ABC News",
       "publishedAt": "2026-08-21T03:07:49.000Z",
       "summary": "Airservices Australia, the government-owned organisation responsible for air traffic management, says it reported the \"potential traffic conflict\" between two Qantas planes to safety authorities on Tuesday.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Welcome to the decade of budget deficits",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLUtRQWcxWWRvRFpsVEt5c3o4VTgtVl9jcEdCMEtqRlBHT2FkZFVUVUVUYVpUbVFSbGtUbkFUYVQ5MU9IOXlVWENFTXhkUURJSWZONmNIb0J1M19oUU1yWHlQVnpXSU5NbkRQY3gzYThpYWFRRDJidWtfekNTNHo1bWN3WWF4WE1vUkE?oc=5",
-      "source": "MacroBusiness",
-      "publishedAt": "2026-08-21T02:02:34.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Australian dollar climbs as global bond sell-off ramps up — as it happened",
-      "url": "https://www.abc.net.au/news/2026-08-21/asx-markets-business-live-news-august-21-2026/107061908",
-      "source": "ABC News",
-      "publishedAt": "2026-08-20T21:32:54.000Z",
-      "summary": "The Australian dollar is pushing higher again in Asian trade as the global bond sell-off intensifies.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -845,17 +836,6 @@
       "spicy": false
     },
     {
-      "title": "States face budget shock as $226b in cheap COVID debt comes due",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbDRGcWh0RnB3d3NkRFBOUzVUZHA2bUZGQjlWSjlIZnBHajFVTE92SGRrTUNlY3VDQTZOVUF1Nml1UkFNNGswajU1bFN1QkF5cm1rMUdSTWtzNnk1MDhtNE1lVFpWR3M1M0VFUFNoSHFsakxCV1g5c3RsSGVqN21YNmdMbFNYakpXVUx2YTFLNWg1MmRIMzJhYV9Jc1RNdTd2Z3FSOXZycWNuT3dCVWRFNU5KZw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-19T14:01:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 8,
-      "spicy": false
-    },
-    {
       "title": "Virgin Australia apologises to disability advocate removed from flight over wheelchair motor",
       "url": "https://www.theguardian.com/business/2026/aug/19/virgin-australia-apologises-to-disability-advocate-removed-from-flight-over-wheelchair-motor-ntwnfb",
       "source": "The Guardian",
@@ -983,7 +963,7 @@
     {
       "title": "Low-income Australians should accept substandard homes, Liberal frontbencher says",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUdRM2t4RVE2R1RKZmVaZzR5R1VSVG9xN0ROQ2hvekxLN0N6c2VTbUF5MlFrMVlJaTdFQkxTYjgxYlRQbGMyVmNwclVKUDdwNG9Zd05rcWRycGNTN0dNcGk5TmZUT2Q3ckZxM1lVR0pCcGJfa0tmZVhMVXhta1d3UmtUdXNLNTdhMlRVRlJWd1NfRzA4MGhMN2lpVUVUV3VtbGtpbA?oc=5",
-      "source": "SBS",
+      "source": "sbs.com.au",
       "publishedAt": "2026-08-13T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1277,17 +1257,6 @@
       "spicy": false
     },
     {
-      "title": "One bold, fiscal move would ease our economic anxiety. Does the PM have the nerve?",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcm5FeVJ3TlNWSHpwYTVoekRDd2g4ZVY4MVVjbV9RUF9RS2c0UjZncU43c1VFQ0FRdnYtVlBpbGRCc0QtVHhrd2M0Unc2T0kwdHZDeTBkdUdVMjFZbGQwdk1lUllscC1lTi1IMG43aWRDbmtMWnQ0QTVQbXBjZmVDQzNuQTRXOVRXa05uUFVUaHg2ckFDeW1oYldQdlhfb1pkdTdWS1RKVWRkS0QzMHduanpRUXY3R04xQU1hZW1neldwdGhJMllCX1lXTVplQ2lPTWxiTXByWQ?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-08-01T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Why the Federal Budget’s Tax Changes Could Freeze the Property Market – And Why I Think They Won’t Last",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVFQcXRfUHh1V0c1N3gwV3h1NGdjQUFSaXZibVIzeDZaMm9sTXF6SGhQa3ZlcDdSUUVHM3BiYmhyMHd4eXBuaEx0U2o1LVZRcmFpWmk4U2w0eDI4Yzk2MzZRRWt1a01VckhUSFktM29WZmhMbWh2clc0SjJUSEtGT3d6ang4cHpiMUQ0OFVCVk9uN3N6X1hZdVZjeHRoekJLbjVxcHoxbnhZU0lxMnZGNkd3UHdJS2NGWnk3S2p6Uy1HbmdUaUpoSmh3?oc=5",
       "source": "Property Update",
@@ -1326,19 +1295,6 @@
       "spicy": false
     },
     {
-      "title": "Introduction of new skilled visa processing priorities under Ministerial Direction 119",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcW94QUhVWFlHZDJDdXg4VHhrVnhVLTRMb3h3bUNUVDkzdUk5OXVjSDVSNHQ0SURheGRhQXJzOFpVR2duWjJNekZGR3dDZkFSaDctbFpSbXZuZWo1OHpfdUNxMl9KNW1tQnRlVVVxeXpiRUxLR0YyMWpkLXBhSTU1WTc4eWhkRkFsODlGVXk2Z1haTGVieXpnX0NidWkxbXRTTWNjdHl1aUdMRW1uQ3JPSy1NOUxIdl9K?oc=5",
-      "source": "Ethos Migration Lawyers",
-      "publishedAt": "2026-07-30T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Culture wars, net zero and the budget: The policies splitting Labor, the Coalition and One Nation",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOeFJ6RTJIQnZUUVhvX2xDelIyUmd5OV9DcDFibEVmT2R4RU1PcExjSFJ4Qm9ERVIwNnlwMFdqREw2U0IySWh5Z2h5bDJ6WmszY3R6RFpOdEtSMWF3OHY5dVhKUk1aamRxTHU5Q1h0Qmp6UzZfcnJzZFVsVmtPTl9McjUwQ0JjQ1V0Y3ZxYk9ZUDlxR1dTbWozUE9Ka3Rtd0h5ZVRnbmlSdTVFWEIyWjVWTWd2YjQwUFVSS2M3a1BSV0lLY2ZOaDhGYllHeGwzZ3NoSzA5MG1aUFdfQzllRlRKUF85M25ZRmZILWV6ZnQ3TVV2aHNwbmRMVHA5bGJDVlJKNkllOHptUFBaaTJheFpzWEIxRGdvTDRhTUNQcTNjdU9QcjQyWEJIblBsUjl6N3ZMUURFRklTUU1sSnVQMV9iNWJCQXdnOGJCOHY1QtIB0gJBVV95cUxPV2VPMUh5T0V3UEZrS3Q2bW4tNFdDbTgwNWFVRkg2Q0I3NUVlbnpDbHhXU0pIQ3JGX0JOcWFqWnFwSUQ3TjhjZzR0Z2o3aXNkZkRFeER2SERoYmlwbTZtam9xRlZzaXhKRE4xbFFiZW01SHgyekU3S1VHMFFVcUp3VF9kMGhCbkptb2ZGWW5oV3VyNjVxMVNwWjhuQmVDMHQyT2NCN0F5U2VZLTFaMTY4cF9acmxKTW5EZzNsZFBlNi1jcVNmVFlKRHVvVjlsTnFCNkZTQ3VXa1BxLW5ldHV3N2VabWhTTUd1SGo1VTExeFU3ODRxdHdCS2VPZGJESHpRRDFiY2VxTnJKaVRoem9vbF9qS0VJZ0lPblI0UGR4d2M0V1R2LW9QeFctQlROdzZIZHFLUUtNZTVPQ0RzZzRyY1FyVlR2cjB2R2tYUHJFNDVmUQ?oc=5",
       "source": "news24.com.au",
@@ -1346,6 +1302,19 @@
       "summary": "",
       "categories": [],
       "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Introduction of new skilled visa processing priorities under Ministerial Direction 119",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1yM1A5d28zQk1vRElTT3ZGb3NXVzlhRFd6NUpxYWd2WkdjVXFrV2ZqTzRlNjU2V2czMV8yZ3Q5MVFiNWFrNWV6R0JOdlItdXpmUU9OTDBFYzdCTUV2bXNSYmFkOG9FSFFSOVJ2c1U5czQ0UGJ3Mnh3bUM3MEdmaWc5bjlxTGVfcWlDM0hiSmNQb18tZDdBTGl3UHNEanRRQ3dkdV81MU9RMTVEdDBHdk9Zc1dyUkE?oc=5",
+      "source": "Ethos Migration Lawyers",
+      "publishedAt": "2026-07-30T02:08:02.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
       "score": 0,
       "spicy": false
     },
@@ -1490,6 +1459,43 @@
       "relevant": false,
       "score": 0,
       "spicy": false
+    },
+    {
+      "title": "Budget improves by billions, but petrol pain about to grow",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjMyN1R5OTJoeU1ySDRXRzRqbDlLYmNISktIRDV3UmFjQUM0Zkk4LVhzUVNvUWFRNktjdXBOVTd6V2tEdXpPcWt2UlJKYkNOYTlwRUFzcGwwWkVuZ0ZhZHBUdV8tZ2VxZU9XamU1QXpaM1ZrQWNhNllUSWVMT1AybHgycnZ3UzBtSk9JaDJ2WXZoZ3NQWm1oU2VLdXBhRVhLU0JxVTlsY1JjYnYwVjBWa094YjMyNGlXc3c?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-07-20T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 2,
+      "spicy": false
+    },
+    {
+      "title": "Downsizer drought weighs on housing supply as Baby Boomers stay put",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWGtLREx5NmY2YVZqUWQ1bTUzcGR3Xy1PV2ROcW9XeFB0Ykx0c0RYMHZyUVFyTlk1R19YQTVrRG13RTVWUWQ5SmY0NWZWSnhaQ1ZxU3NSWU85SjRPd2ZmWlF6cXNQRDJ4YW5jYkt3ZVp4QXAtMjhDVjhIaWdlZUVxM1NxVDV6b3pDdVZ2VmVrajI2Z0xPeHR6Rm0zVWtFV0FNQ3Mwamg4VGxRSm41X21jNHpENVdDdVY4cDJ4TG9WNmdlX0ZDbVZ2RmttellBZw?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-20T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Budget forecasts rest on ‘unlikely’ $480b income tax boon",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX0NUa095T2ptS3JyR3FwelZQd3J4ZWp3YW9KQllVTjBtei1IdlJSUHNFYUhUOXlySUZENGhiNWdRZWROVzU0RGtxNTZfY0Z4NmM5aVBOTm50eFZsUlVqdHVJR2RfZDZhQTJsOVBDTTBrcXZpcUFGNDFvdk9VVHlwc2lScno0eUU2OHJCNl91cVZKU0c0a2JrNF9kUlV4Rm11VUJTRUE5Nmg?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-17T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
     }
   ]
 }
