@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-24T21:36:05.706Z",
+  "updatedAt": "2026-08-24T22:33:42.291Z",
   "count": 120,
-  "relevantCount": 57,
-  "spicyCount": 11,
+  "relevantCount": 60,
+  "spicyCount": 12,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -37,7 +37,7 @@
     "Crown World Mobility",
     "Erickson Immigration Group",
     "Ethos Migration Lawyers",
-    "Legit News",
+    "Fragomen",
     "MacroBusiness",
     "Michael West Media",
     "Proactive financial news",
@@ -53,19 +53,33 @@
     "The Australian",
     "The Guardian",
     "The Nightly",
+    "The West Australian",
     "Yahoo Finance Australia",
     "Yahoo News Australia",
     "news24.com.au"
   ],
   "items": [
     {
-      "title": "Australia news live: Sydney trains plagued by morning cancellations due to ‘urgent’ repairs to overhead wires",
+      "title": "Australia news live: WA to get Blue Poles in painting’s first interstate trip in two decades; power line repairs cause Sydney trains chaos",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-24T21:23:02.000Z",
-      "summary": "Commuters warned journey may take an extra 45 minutes as ‘limited’ buses replace north shore trains.",
+      "publishedAt": "2026-08-24T22:19:57.000Z",
+      "summary": "Anthony Albanese will announce a loan of the work to the Art Gallery of Western Australia from April to September 2027.",
       "categories": [],
       "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Live: US imposes 'economic D-Day' sanctions to isolate Iran, Coles results to be revealed",
+      "url": "https://www.abc.net.au/news/2026-08-25/asx-markets-business-live-news-25-august-2026/107074088",
+      "source": "ABC News",
+      "publishedAt": "2026-08-24T21:30:30.000Z",
+      "summary": "US Treasury Secretary Scott Bessent has unveiled new sanctions targeting Iran's trading partners.The financial results of retailer Coles will be revealed as part of reporting season, as the ASX 200 awaits inflation data that will inform the direction of interest rates.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
       "score": 6,
       "spicy": false
     },
@@ -84,7 +98,7 @@
       "spicy": true
     },
     {
-      "title": "Ex-NSW police officer says she was drugged and raped by senior colleague",
+      "title": "Ex-police officer claims she was raped after work drinks by NSW officer",
       "url": "https://www.abc.net.au/news/2026-08-25/nsw-police-culture-female-officer-alleges-drugging-and-rape/107051314",
       "source": "ABC News",
       "publishedAt": "2026-08-24T20:46:28.000Z",
@@ -151,17 +165,6 @@
       ],
       "relevant": true,
       "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Victorian premier plans to make $2b saving on Suburban Rail Loop",
-      "url": "https://www.abc.net.au/news/2026-08-25/suburban-rail-loop-project-ben-carroll-savings-2-billion/107073280",
-      "source": "ABC News",
-      "publishedAt": "2026-08-24T19:33:40.000Z",
-      "summary": "Underground station interchanges and \"complex pedestrian bridges\" are among the things to go, according to the state government.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
       "spicy": false
     },
     {
@@ -278,22 +281,9 @@
       "url": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
       "source": "The Guardian",
       "publishedAt": "2026-08-24T14:01:35.000Z",
-      "summary": "Prime minister will use national cabinet meeting to assuage premiers over new AI law as AEMO forecasts seven-fold rise in datacentre power use",
+      "summary": "Prime minister will use national cabinet meeting to assuage premiers over new AI law as Aemo forecasts seven-fold rise in datacentre power use",
       "categories": [],
       "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Australia can’t tax and redistribute its way to prosperity, BCA warns",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTNhQWR1Q0p1TlRWN2VHSDhGRXNGRHMwQmpIek1OWks4QUoxdzVuT0ZMakZiSW5sR0dZdkdrcWltYkRxS3YtVWpmS1Awa2w4eXZmU281Vnh2dVZubzdRWDBRR0FnMklzVDZPX01IbGFwVEFMTGttRkRrRWZPZnllMGZrREk4MEtwR25HckQ2Szd1M0dRa01BY19uWjNWaGRjVW9teXV3Y2thYVdWdVM0bkpiR1hIM1NKalU1dGd3?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-24T12:30:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
       "score": 6,
       "spicy": false
     },
@@ -308,17 +298,6 @@
       ],
       "relevant": true,
       "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "New Zealand prime minister proposes Australia-style social media ban",
-      "url": "https://www.abc.net.au/news/2026-08-24/new-zealand-pm-proposes-under-16s-social-media-ban/107073346",
-      "source": "ABC News",
-      "publishedAt": "2026-08-24T12:03:19.000Z",
-      "summary": "The proposal marks New Zealand as the latest country to mull such a law since Australia enacted its world-first under-16s social media ban in December 2025.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -340,7 +319,7 @@
       "summary": "The US is scooping up treasury bonds in an effort to raise their price and push yields down – but it’s not working The bond market is driving the Trump administration crazy. Last week, the treasury secretary, Scott Bessent, announced that the government would sharply ramp up its purchase of treasury",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -591,17 +570,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "ASX rises as miners rally while banks sink — as it happened",
-      "url": "https://www.abc.net.au/news/2026-08-24/asx-markets-business-live-news-australian-market-to-lift/107069462",
-      "source": "ABC News",
-      "publishedAt": "2026-08-23T20:58:05.000Z",
-      "summary": "The Australian share market has closed higher, led by the materials sector. It follows Wall Street finishing Friday on a positive note, but still shedding 1.4 per cent over the week.",
-      "categories": [],
-      "relevant": false,
-      "score": 8,
       "spicy": false
     },
     {
@@ -889,17 +857,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "AFP spends $523m guarding politicians – far more than on counter-terrorism",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONzVBMUFldFN4MTlaTXBNN0FMSV80OU9fQURvMGdJX1ZRZEFlbWc3UHk1VFgxYlBRbjVDZ19jNlY3V2psc21wZDlYSkZsY1RLN0Z4M0hYbXowNVFXVTFUUERTaDI3NnRkVjJmTGFmV014ZldwQXEySkVPNm44eHRlMVFJRzV0Vm4ycF9ITHF4LTlSZVVCR1Atd3EwclZhLXpiWVRWM1RmWXRVUHZnY3VkUmx6UUU3NHZ4VVh0M2RmSkdOUQ?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-20T05:30:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -1343,19 +1300,6 @@
       "spicy": false
     },
     {
-      "title": "Australia Unveils New Migration Plan for 2026/27, Mentions Who Will Get Priority Visas",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOazExRGl0czVONlQ1TWd6dUxYZ0NvMWZKVm9MSmV2TVZ1MlMtUnZsaGZZOGh4bEtXX0tNVlQ5NlYzcS1aLW5QUDVCb1ZoS1kzQzAtdmpGeEZMd29BV19fOUhTaEllRGJwQWdVUU9KeHZfRTdRblZGUGxlcEhlbDFZZG1pVkxieWRXcUtDbnp1enR1SFlsellJeGhlT3dXM2JK?oc=5",
-      "source": "Legit News",
-      "publishedAt": "2026-08-01T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Why the Federal Budget’s Tax Changes Could Freeze the Property Market – And Why I Think They Won’t Last",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVFQcXRfUHh1V0c1N3gwV3h1NGdjQUFSaXZibVIzeDZaMm9sTXF6SGhQa3ZlcDdSUUVHM3BiYmhyMHd4eXBuaEx0U2o1LVZRcmFpWmk4U2w0eDI4Yzk2MzZRRWt1a01VckhUSFktM29WZmhMbWh2clc0SjJUSEtGT3d6ang4cHpiMUQ0OFVCVk9uN3N6X1hZdVZjeHRoekJLbjVxcHoxbnhZU0lxMnZGNkd3UHdJS2NGWnk3S2p6Uy1HbmdUaUpoSmh3?oc=5",
       "source": "Property Update",
@@ -1493,6 +1437,70 @@
       ],
       "relevant": true,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
+      "source": "Fragomen",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Does One Nation’s migration policy actually add up?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWJuc3NvdXJoUU1uOWRXbGdLQzBYa2I5YzJxOEtLN3N2cE52YXJQNGNwSmpJa3lGMFlPOU0xZERGb1ROcDdxYmxQS1ZFaDZkTjFYMnIyd2NXb2syVW9GVkV5ZzlPclVZTC1fSGVxRFdnZTdudEdKS2F5MnBvUUVkdllkM0VYSEZWT0VSTkNURmQwYjVYbE5BRmxhRG1paGEtdUtjbm9DS1R5a0dZSlpVZg?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "We feel your pain: PM sets election battle lines with One Nation, pledges cost of living relief",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMEp6eUZmWnZobnA3a3NybXpHX1Q0c19NVENJcW5oTjNBcTR2Y2xFWVJpaEM3ZEJxS1hBWXJYc0pVMklXaldiSFl2VWlIQVRWUWZud1Y0bFJhdi1uOGlFbVZpMWVtZThqcFhibU52dHdlbElNZnVYd2RIQWpOWnRPamN5LXpDMGF1TFZCdW5wVlBrdFozeVp5ektRM21WeTJLQzNYS203OXNfbGRfeXdWR2hKeG4yaWd6OE5UZU8xQlpmN1NWNHBGUWlSM094WlBEdTNlbWpyc3c0YWZKUW93SmxPOFZfdlo1dFE?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Experts warn tax reforms putting pressure on property prices",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWDh3dFlJY2puWjRHUTBuTElUZVZDZlg3cktKUGNhbmhzdVowQWZRdVZQdmZidUdYU2h0UEpZUE1yeW9wbzlKZkRRbWk5ZlVrdFhvenVBcVFMemRVbG5CcWRCaUVsYUZsUEVVTlB5M2hLTDJrb1paczQzMzVnQ0VFaDl1MFctc0N5WjV6YjVrc1BIaUR2bGJ2UU1Hd2xaWFUwNFBTbDRRaDFacjUzMGoxZ0RvTnJ2T3pRYU5ub3F0WWlOMUU2LXozUHBTd2FYamQ0Rl83TDF5MFdHclVPcTZnZE1B?oc=5",
+      "source": "The West Australian",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
+    },
+    {
+      "title": "Minimum Salary Changes Announced",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
+      "source": "Fragomen",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
       "spicy": false
     }
   ]
