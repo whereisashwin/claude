@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-25T03:06:07.904Z",
+  "updatedAt": "2026-08-25T04:10:10.258Z",
   "count": 120,
-  "relevantCount": 59,
-  "spicyCount": 10,
+  "relevantCount": 60,
+  "spicyCount": 12,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -53,26 +53,49 @@
     "The Australian",
     "The Guardian",
     "The Nightly",
+    "The West Australian",
     "World Socialist Web Site",
     "Yahoo News Australia",
     "news24.com.au"
   ],
   "items": [
     {
-      "title": "Australia news live: PM dubbed ‘WA’s daddy’ over Blue Poles and GST promises; RBA poised to lift interest rates again if needed",
+      "title": "Australia news live: Major Sydney property developer collapses leaving buyers in limbo; Greens senator opts out for 2028 over partner’s health",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-25T03:04:20.000Z",
+      "publishedAt": "2026-08-25T04:04:20.000Z",
       "summary": "West Australian newspaper uses moniker on front page.",
       "categories": [
-        "Tax"
+        "Housing"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 4,
       "spicy": false
     },
     {
-      "title": "Concerns new AFP team could make Australia complicit in US drug boat 'executions'",
+      "title": "Woodside scraps long-term emissions and clean energy targets despite windfall oil profits caused by Iran war",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-25T03:29:38.000Z",
+      "summary": "Australia’s biggest oil and gas company recorded a 27% increase in sales profit to $1.67bn in the six-month reporting period",
+      "categories": [],
+      "relevant": false,
+      "score": 11,
+      "spicy": false
+    },
+    {
+      "title": "More than $60m in Tasmanian labour hire contracts awarded without tender",
+      "url": "https://www.abc.net.au/news/2026-08-25/tasmanian-government-contracts-awarded-without-tender/107074652",
+      "source": "ABC News",
+      "publishedAt": "2026-08-25T03:26:27.000Z",
+      "summary": "The Tasmanian government has awarded $61 million in external labour hire contracts without conducting any tender process as part of its digital transformation process of the health department.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Concerns AFP drugs team may implicate Australia in US boat strikes",
       "url": "https://www.abc.net.au/news/2026-08-25/afp-colombia-drugs-taskforce-leaves-questions-unanswered/106989490",
       "source": "ABC News",
       "publishedAt": "2026-08-25T03:00:01.000Z",
@@ -90,19 +113,6 @@
       "summary": "Aureka hits high-grade gold in Victoria with a 4.4m intercept grading 8.9g/t gold, including a bonanza 0.3m at 65.3g/t, extending its St Arnaud project south.",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Australia news live: PM dubbed ‘WA’s daddy’ over Blue Poles and GST promises; home ownership for young people back to 1940s levels",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-25T02:44:12.000Z",
-      "summary": "West Australian newspaper uses moniker on front page.",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
       "score": 4,
       "spicy": false
     },
@@ -148,17 +158,6 @@
       "source": "ABC News",
       "publishedAt": "2026-08-25T01:38:43.000Z",
       "summary": "The Essential Services Commission says the company submitted digitally altered photos and falsified customers to claim energy efficiency certificates.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Charter guide spots foreign fishing boat, crew detained",
-      "url": "https://www.abc.net.au/news/2026-08-25/foreign-fishing-boat-seized-far-north-queensland/107074500",
-      "source": "ABC News",
-      "publishedAt": "2026-08-25T01:37:42.000Z",
-      "summary": "The operator of a Far North Queensland fishing charter company says there is still anxiety about the arrivals of suspected illegal foreign boats, despite Border Force responding quickly to a fresh arrival.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -235,17 +234,6 @@
       "spicy": false
     },
     {
-      "title": "Live: PM defends attending $10,000-per-head fundraising dinner in Perth",
-      "url": "https://www.abc.net.au/news/2026-08-25/federal-politics-live-blog-coalition-migration-target/107074022",
-      "source": "ABC News",
-      "publishedAt": "2026-08-24T21:09:48.000Z",
-      "summary": "Anthony Albanese has defended his attendance at a $10,000-per-head fundraising dinner in Perth ahead of a cabinet meeting.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
       "title": "Australia's green energy targets in 'jeopardy' as wind woes worsen",
       "url": "https://www.abc.net.au/news/2026-08-25/wind-farm-drought-threatens-australias-renewable-energy-target/107070744",
       "source": "ABC News",
@@ -288,6 +276,19 @@
       "relevant": false,
       "score": 4,
       "spicy": false
+    },
+    {
+      "title": "Ex-ATO boss Chris Jordan named by KPMG whistleblower",
+      "url": "https://www.abc.net.au/news/2026-08-25/whistleblower-alleges-chris-jordan-avoided-paying-tax-kpmg/107063824",
+      "source": "ABC News",
+      "publishedAt": "2026-08-24T18:27:18.000Z",
+      "summary": "Former tax commissioner Chris Jordan is accused of receiving more than $1 million in \"secret commissions\" during his time at KPMG in the 1990s, according to documents seen by the ABC.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
     },
     {
       "title": "'Corruption at highest level': Ex-ATO boss Chris Jordan named by KPMG whistleblower",
@@ -848,17 +849,6 @@
       "spicy": false
     },
     {
-      "title": "Why it's households, not the government with the debt problem",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXJ0Y053RzZGZ2JuYkFhenBzQXN3Tm40bmQxUDhVeTJWclF4U3QxN3lxcjJKd2VwUG5iRVJvUzB5UlB3MnNKX3gyTTV6cVZ6aFRmcExHenNjUFhGRW8yN0xCc2hvYWdENy1pODRjUTRZOG9WbnQxUDR5S2daaGt2ZmQwZ1U3cjVpanVUcHEtbWg2ZzNOb2pUZlBrY0lfZ29uTkI5MG5tMzQ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-08-20T18:55:23.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "‘An end to exceptionalism’: Costello’s warning on $1trn debt",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVM2U25YODZUMHY5dVJGTkJfWE1fTUtGdDVIaUlCYUJ0aEtLamxFWTM1RVJycjV6bzZhY1lRai0tZ0loY0Jaek1nU3RLZTdQWGtJV3U5YWpGSjcxRk9rTHJtQlQ2ZHBCUERja2VLVlN0LWw5NVlPRDNNS0pCRHduUjlucWE4MjBEOWtOem5wOXkwWGViNnNtbDd2ZF80R1NtOFRYWnZxZ0JkeU01X2lDdzJwcTVTQQ?oc=5",
       "source": "AFR",
@@ -948,17 +938,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Severe weather warning for northern Victoria – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-18T07:55:43.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
       "spicy": false
     },
     {
@@ -1497,6 +1476,31 @@
       ],
       "relevant": true,
       "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Experts warn tax reforms putting pressure on property prices",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWDh3dFlJY2puWjRHUTBuTElUZVZDZlg3cktKUGNhbmhzdVowQWZRdVZQdmZidUdYU2h0UEpZUE1yeW9wbzlKZkRRbWk5ZlVrdFhvenVBcVFMemRVbG5CcWRCaUVsYUZsUEVVTlB5M2hLTDJrb1paczQzMzVnQ0VFaDl1MFctc0N5WjV6YjVrc1BIaUR2bGJ2UU1Hd2xaWFUwNFBTbDRRaDFacjUzMGoxZ0RvTnJ2T3pRYU5ub3F0WWlOMUU2LXozUHBTd2FYamQ0Rl83TDF5MFdHclVPcTZnZE1B?oc=5",
+      "source": "The West Australian",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
+    },
+    {
+      "title": "Minimum Salary Changes Announced",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
+      "source": "Fragomen",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
       "spicy": false
     }
   ]
