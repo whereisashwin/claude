@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-25T23:30:36.078Z",
+  "updatedAt": "2026-08-26T01:47:25.649Z",
   "count": 120,
-  "relevantCount": 57,
-  "spicyCount": 9,
+  "relevantCount": 61,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -40,7 +40,9 @@
     "Fragomen",
     "MacroBusiness",
     "Michael West Media",
+    "Proactive financial news",
     "Property Council Australia",
+    "Property Update",
     "PwC Australia",
     "RSM Global",
     "SBS",
@@ -59,11 +61,35 @@
   ],
   "items": [
     {
-      "title": "Australia news live: Ooshies trend sees profit boom for Woolworths; productivity commissioner says ‘line was crossed’ by WA premier in GST scuffle",
+      "title": "Australia news live: inflation eases less than expected, making rate rise likelier; NT MP Luke Gosling stands aside as envoy",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-08-25T23:27:47.000Z",
+      "publishedAt": "2026-08-26T01:47:15.000Z",
       "summary": "",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australia news live: search continues for pilot who crashed into sea off NT; Nine Entertainment reports earnings lift",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-26T01:27:51.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Productivity Commission says ‘line was crossed’ when WA premier labelled them ‘east coast clowns’ over GST",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/26/wa-gst-deal-productivity-commission-western-australia-premier-roger-cook",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-26T01:22:59.000Z",
+      "summary": "Commissioner Angela Jackson also said it was ‘disappointing’ that Anthony Albanese had ruled out changes to Western Australia’s GST arrangements",
       "categories": [
         "Tax"
       ],
@@ -72,17 +98,30 @@
       "spicy": false
     },
     {
-      "title": "Australia news live: profit boom for Woolworths; productivity commissioner says ‘line was crossed’ by WA premier in GST scuffle",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-25T23:23:00.000Z",
-      "summary": "",
+      "title": "ASX rises ahead of inflation numbers; Woolies, Nine gain; oil stocks decline",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-rise-wall-street-boosted-by-falling-oil-prices-canada-hits-back-at-us-with-tariffs-20260826-p60rjt.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-08-26T01:10:47.000Z",
+      "summary": "The Australian sharemarket opened higher again amid another flurry of corporate results after a solid session on Wall Street.",
       "categories": [
-        "Tax"
+        "Cost of living"
       ],
       "relevant": true,
       "score": 4,
       "spicy": false
+    },
+    {
+      "title": "Fares secretly hiked to fund Suburban Rail Loop, auditor-general finds",
+      "url": "https://www.abc.net.au/news/2026-08-26/victorian-auditor-general-report-on-srl/107079060",
+      "source": "ABC News",
+      "publishedAt": "2026-08-26T00:43:39.000Z",
+      "summary": "The Victorian Auditor-General's Office has found the state government never revealed a new levy on public transport fares from the start of 2025.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
     },
     {
       "title": "Victorian offshore wind auction opens with plans to power 1.5 million homes",
@@ -96,25 +135,25 @@
       "spicy": false
     },
     {
-      "title": "Councils criticise how Victoria plans to divvy up $140m to Murray-Darling Basin towns",
-      "url": "https://www.abc.net.au/news/2026-08-26/murray-darling-basin-buybacks-funding-victoria-water-government/107063328",
+      "title": "Live: Labor MP Luke Gosling stands aside from envoy role as he faces breach of bail charge",
+      "url": "https://www.abc.net.au/news/2026-08-26/federal-politics-live-blog-luke-gosling-angus-taylor-aug-26/107078366",
       "source": "ABC News",
-      "publishedAt": "2026-08-25T22:32:17.000Z",
-      "summary": "A group of seven councils says the proposed allocation of funding does not address the individuality of the regions affected by Murray-Darling Basin water buybacks.",
+      "publishedAt": "2026-08-25T21:12:47.000Z",
+      "summary": "Federal Labor MP Luke Gosling has stood aside from his special envoy role as he faces a breach of bail charge.",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 4,
       "spicy": false
     },
     {
-      "title": "Live: Woolworths profit soars to $1.1b, private credit woes hit Australia",
+      "title": "Live: Kids' toy craze and Big W success help push Woolworths to $1.1b profit",
       "url": "https://www.abc.net.au/news/2026-08-26/asx-markets-business-live-credit-fund-limits-redemptions/107077366",
       "source": "ABC News",
       "publishedAt": "2026-08-25T21:11:10.000Z",
       "summary": "Woolworths has seen its headline profit surge by 18 per cent to $1.1 billion, while Australia's private credit woes have deepened as a large investment firm imposes redemption limits.",
       "categories": [],
       "relevant": false,
-      "score": 11,
+      "score": 9,
       "spicy": false
     },
     {
@@ -131,7 +170,7 @@
       "spicy": true
     },
     {
-      "title": "Older Australians 'digitally excluded' as everyday services move online",
+      "title": "Older Australians losing independence as everyday services go online",
       "url": "https://www.abc.net.au/news/2026-08-26/older-australians-losing-independence-as-digital-divide-widens/107070936",
       "source": "ABC News",
       "publishedAt": "2026-08-25T19:42:06.000Z",
@@ -218,7 +257,7 @@
       "url": "https://www.abc.net.au/news/2026-08-26/salo-banned-movies-festival-of-dangerous-ideas/107048872",
       "source": "ABC News",
       "publishedAt": "2026-08-25T18:30:00.000Z",
-      "summary": "The controversial film Salò, or the 120 Days of Sodom was banned for decades in Australia but is getting a rare festival screening. Why are some films banned and what does the public lose when media is censored?",
+      "summary": "The controversial film Salò, or the 120 Days of Sodom, was banned for decades in Australia but is getting a rare festival screening. Why are some films banned and what does the public lose when media is censored?",
       "categories": [],
       "relevant": false,
       "score": 6,
@@ -278,7 +317,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -412,7 +451,7 @@
       "title": "Australian national debt hits $1 trillion as interest bill escalates",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYQkpxVnA0dzJlT0FwbW9aRjFXUWNVZ0ZoU2ZjYzBIUmR2RUtKcU16dWRNdk5nMmJvaEpwZmtlQnJJTnJDMkp1eTFSM0V0cDM3Uy0zRVltM2ZlYmtlSkJFWlI5OXMzMWRZ?oc=5",
       "source": "World Socialist Web Site",
-      "publishedAt": "2026-08-25T02:02:47.000Z",
+      "publishedAt": "2026-08-25T02:00:49.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
@@ -656,39 +695,6 @@
       "spicy": true
     },
     {
-      "title": "ASX hits higher note; mining stocks up; banks, insurers sold off",
-      "url": "https://www.smh.com.au/business/markets/asx-set-to-rise-as-wall-street-advances-a-bitcoin-stronger-20260824-p60qtj.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-24T07:35:36.000Z",
-      "summary": "Australia’s share market has started the new week higher, as BHP and the materials sector hit record highs.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Orbit drilling set to grow 1.7Moz NSW polymetallic resource",
-      "url": "https://www.smh.com.au/business/companies/orbit-drilling-set-to-grow-1-7moz-nsw-polymetallic-resource-20260824-p60r4r.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-24T06:55:58.000Z",
-      "summary": "Orbit Resources is drilling again at its 1.7Moz gold equivalent Lewis Ponds project in NSW, after new assays hit mineralisation beyond the existing resource.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Beetaloo taps infrastructure giant for 750km NT gas pipeline push",
-      "url": "https://www.smh.com.au/business/companies/beetaloo-taps-infrastructure-giant-for-750km-nt-gas-pipeline-push-20260824-p60r41.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-24T06:17:49.000Z",
-      "summary": "Beetaloo Energy Australia has signed a non-binding memorandum of understanding with AGIG to plan a 750km pipeline linking its gas with its Beetaloo Digital hub near Darwin.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "2026-27 Federal Budget: CGT changes - is 30 June 2027 a transaction deadline",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVHdGYWI2VXJldnE4bHBTVnFHRU4wNUg3VzFuSjJpdktoaFZCRXVnUnFDM3c3V1hDNHJHdVdxODlOWU43alFCN2lESXNDWDlhSXowSjRBdkQzcmVYaDhHd0RhcWU3THAyWEJjV0l1N3dqMmVnQnJ4UVMwV281aUpMZHBDbHNINDM0WTdwNjFPS0dBREE3ZEw1M29VSHAxcTQ2M2xucG9uc3FkSFhYeENVcnd0NnpfRzg?oc=5",
       "source": "PwC Australia",
@@ -890,17 +896,6 @@
       "categories": [],
       "relevant": false,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Bryn is 16 and has never eaten a meal. His mother’s terrified the newly-cut NDIS won’t ‘step up to keep him alive’",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/21/bryn-is-16-and-has-never-eaten-a-meal-his-mothers-terrified-the-newly-cut-ndis-wont-step-up-to-keep-him-alive",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-21T05:31:39.000Z",
-      "summary": "Sweeping changes, condemned by disability advocates, mean some scheme participants’ funding will be reduced by 99%",
-      "categories": [],
-      "relevant": false,
-      "score": 8,
       "spicy": false
     },
     {
@@ -1320,6 +1315,20 @@
       "spicy": false
     },
     {
+      "title": "Why the Federal Budget’s Tax Changes Could Freeze the Property Market – And Why I Think They Won’t Last",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVFQcXRfUHh1V0c1N3gwV3h1NGdjQUFSaXZibVIzeDZaMm9sTXF6SGhQa3ZlcDdSUUVHM3BiYmhyMHd4eXBuaEx0U2o1LVZRcmFpWmk4U2w0eDI4Yzk2MzZRRWt1a01VckhUSFktM29WZmhMbWh2clc0SjJUSEtGT3d6ang4cHpiMUQ0OFVCVk9uN3N6X1hZdVZjeHRoekJLbjVxcHoxbnhZU0lxMnZGNkd3UHdJS2NGWnk3S2p6Uy1HbmdUaUpoSmh3?oc=5",
+      "source": "Property Update",
+      "publishedAt": "2026-07-31T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
       "title": "Australia wanted cheaper homes. Now comes the hard part",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUU1mM0tkR1NzSm4zOXdtMVRZS01qQnRKZzlxYXN3RUJ1S0ZMd2ZUWFhYNk50SjZESm1Za2ZuQUx0aTdOcTJyUGZ3NXlCWTFiYUJYcWlRV0MwU2hWTmktYTJ4UEUtYXZ0WXFucmFwS2tmSUdZMzFkSDYwb2lGLU12Nm5jS2dsV0xRWmZlcnlvd2RoVkZyQWF4WlI2WmJWQi1GS0dYcEtuRzc?oc=5",
       "source": "AFR",
@@ -1420,6 +1429,19 @@
       "spicy": false
     },
     {
+      "title": "The tax changes investors should actually care about after the Federal Budget",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMFVwWG8tSmtUaHZvRzAwTzhfQlEwZm5mNlhqcG82WDNZQ0J1bWhlQTZKc282dTduZWJlSlZQdjNfcW9ZQURiMVQ0M1JWcjRmOXAwVnRzeHc4RUxkQUZFTWNzTU9ReGtPazJZdzU1UjdhdmhZNkl1ZjN0UU0wbUVOdFVqNEZfeW1JaXY1aHc0eWk5Sm9Ldll5VlpXcHg3ZVp1TE5kUjlPanhBWjJUUEF4dktEbnJCZENLQzA3TDlOa19TMWlEWlFqVE9qZnRuUEtvS2tiQ0M4S3dHeHNGSHVWWU9BR2J5Zw?oc=5",
+      "source": "Proactive financial news",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "'Nervous' investors retreat from housing market as downturn broadens",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTNiWXNrMjlXdGlPVzh4OVFEOTlMQTZrSTkzQjRFb21HWXp2aG1GbGdnZUJlTnZqMl85U1ZTMXpCY3JpMmxGd2ZqY2J0eDV4NTI2dmtyR2dDMUpGU0JEWi1ZTXdOZjc1eUQ2a1R3UUp6T3JoYlpPR3NRRms0cXoyWXJJdnhVOFp6M1hobXZIVGluaGpTVkkzcWVpLXQzWnUxSlV6SldZVDlrQQ?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1481,17 +1503,6 @@
       "categories": [],
       "relevant": false,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Budget improves by billions, but petrol pain about to grow",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjMyN1R5OTJoeU1ySDRXRzRqbDlLYmNISktIRDV3UmFjQUM0Zkk4LVhzUVNvUWFRNktjdXBOVTd6V2tEdXpPcWt2UlJKYkNOYTlwRUFzcGwwWkVuZ0ZhZHBUdV8tZ2VxZU9XamU1QXpaM1ZrQWNhNllUSWVMT1AybHgycnZ3UzBtSk9JaDJ2WXZoZ3NQWm1oU2VLdXBhRVhLU0JxVTlsY1JjYnYwVjBWa094YjMyNGlXc3c?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-07-20T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 2,
       "spicy": false
     }
   ]
