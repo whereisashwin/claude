@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T13:10:10.124Z",
+  "updatedAt": "2026-08-26T14:20:05.315Z",
   "count": 120,
-  "relevantCount": 64,
+  "relevantCount": 66,
   "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
@@ -41,7 +41,9 @@
     "Fragomen",
     "MacroBusiness",
     "Michael West Media",
+    "Proactive financial news",
     "Property Council Australia",
+    "Property Update",
     "PwC Australia",
     "RSM Global",
     "SBS",
@@ -59,11 +61,11 @@
   ],
   "items": [
     {
-      "title": "Australian among hundreds missing in Nepal floods, as 22 confirmed dead",
+      "title": "At least 95 dead in Nepal floods, Australian among hundreds missing",
       "url": "https://www.abc.net.au/news/2026-08-26/australian-missing-in-nepal-flood/107082672",
       "source": "ABC News",
       "publishedAt": "2026-08-26T11:33:20.000Z",
-      "summary": "The flash flood in the Himalayan border region has killed at least nine people in Nepal. Nearly 300 foreign nationals, including an Australian, have been reported missing.",
+      "summary": "The flash flood in the Himalayan border region has killed at least 95 people in Nepal. Nearly 300 foreign nationals, including an Australian, have been reported missing.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -164,17 +166,6 @@
       "spicy": false
     },
     {
-      "title": "Melbourne attack accused tells court 'at least they're both still breathing'",
-      "url": "https://www.abc.net.au/news/2026-08-26/man-appears-in-court-after-woman-and-child-attacked-melbourne/107082022",
-      "source": "ABC News",
-      "publishedAt": "2026-08-26T07:37:43.000Z",
-      "summary": "The 27-year-old was remanded in custody after being charged with repeatedly stabbing a woman and punching her 10-year-old child outside the Victoria Police headquarters.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Shock job cuts at Austrac despite expanding role battling financial crime",
       "url": "https://www.smh.com.au/business/companies/shock-job-cuts-at-austrac-despite-expanding-role-battling-financial-crime-20260826-p60rra.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
@@ -236,17 +227,6 @@
       "relevant": true,
       "score": 9,
       "spicy": true
-    },
-    {
-      "title": "Qld police investigating alleged sexual assault of girl in residential care",
-      "url": "https://www.abc.net.au/news/2026-08-26/qld-police-alleged-sexual-assault-in-residential-care/107079800",
-      "source": "ABC News",
-      "publishedAt": "2026-08-26T05:25:41.000Z",
-      "summary": "Queensland police are investigating the alleged sexual assault of a teenage girl in residential care, which the child safety minister has described as \"heinous\".",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
     },
     {
       "title": "Rate rise back on cards despite a step down in inflation",
@@ -570,6 +550,17 @@
       "categories": [],
       "relevant": false,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Developers send warning as new home sales collapse",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONW1JUGZySDhBUUdwYmQ1a29ZSzdhbnZqWEQxTjBFNHoxdGZCTnRMcnVfakQ4aWZzaUVkdGtxb2MyMkpWSDh2X25LR2swNGJQVDFVSERzS2dSZjBvQ3dnN3g4R3hHWXhTdGU0WGJDTW5pNHM4bXJvb2FPLXpYV1RLZHd3NDR5Y3JkcTRJYlA1cWJhVjMtTjNv?oc=5",
+      "source": "MacroBusiness",
+      "publishedAt": "2026-08-25T01:02:12.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 2,
       "spicy": false
     },
     {
@@ -1258,6 +1249,20 @@
       "spicy": false
     },
     {
+      "title": "Why the Federal Budget’s Tax Changes Could Freeze the Property Market – And Why I Think They Won’t Last",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVFQcXRfUHh1V0c1N3gwV3h1NGdjQUFSaXZibVIzeDZaMm9sTXF6SGhQa3ZlcDdSUUVHM3BiYmhyMHd4eXBuaEx0U2o1LVZRcmFpWmk4U2w0eDI4Yzk2MzZRRWt1a01VckhUSFktM29WZmhMbWh2clc0SjJUSEtGT3d6ang4cHpiMUQ0OFVCVk9uN3N6X1hZdVZjeHRoekJLbjVxcHoxbnhZU0lxMnZGNkd3UHdJS2NGWnk3S2p6Uy1HbmdUaUpoSmh3?oc=5",
+      "source": "Property Update",
+      "publishedAt": "2026-07-31T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
       "title": "Australia wanted cheaper homes. Now comes the hard part",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUU1mM0tkR1NzSm4zOXdtMVRZS01qQnRKZzlxYXN3RUJ1S0ZMd2ZUWFhYNk50SjZESm1Za2ZuQUx0aTdOcTJyUGZ3NXlCWTFiYUJYcWlRV0MwU2hWTmktYTJ4UEUtYXZ0WXFucmFwS2tmSUdZMzFkSDYwb2lGLU12Nm5jS2dsV0xRWmZlcnlvd2RoVkZyQWF4WlI2WmJWQi1GS0dYcEtuRzc?oc=5",
       "source": "AFR",
@@ -1265,6 +1270,19 @@
       "summary": "",
       "categories": [],
       "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Treasurer Jim Chalmers urged to rethink trust tax ‘sledgehammer’ on SMEs",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzJ0Z2Y3REU3M1pPcko3elI1YVhRbnUzazcybjhHR0lNVUxuYTVyXy1NLTdEeFpkeFUwSnl0TXZrNFpqUUxFeE51bVdTWG9BQWE0T3NLM1gtYmdfX1BwaWNHdE8xa0hoYjNLTzV5N0ZDR0hkYXdFR3pkQk00REtkQ0YtQkpmU0NtM1NJblh0QWlVOE8wRjY1UERUcVdfYXp3V1Zha2laNW5ZZTRROWFvR2lFWQ?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-07-30T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
       "score": 3,
       "spicy": false
     },
@@ -1329,6 +1347,19 @@
       ],
       "relevant": true,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "The tax changes investors should actually care about after the Federal Budget",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMFVwWG8tSmtUaHZvRzAwTzhfQlEwZm5mNlhqcG82WDNZQ0J1bWhlQTZKc282dTduZWJlSlZQdjNfcW9ZQURiMVQ0M1JWcjRmOXAwVnRzeHc4RUxkQUZFTWNzTU9ReGtPazJZdzU1UjdhdmhZNkl1ZjN0UU0wbUVOdFVqNEZfeW1JaXY1aHc0eWk5Sm9Ldll5VlpXcHg3ZVp1TE5kUjlPanhBWjJUUEF4dktEbnJCZENLQzA3TDlOa19TMWlEWlFqVE9qZnRuUEtvS2tiQ0M4S3dHeHNGSHVWWU9BR2J5Zw?oc=5",
+      "source": "Proactive financial news",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1482,30 +1513,6 @@
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Anthony Albanese’s AI vision scores high on vibes but the devil will be in the detail. And there is one glaring omission … | David Pocock",
-      "url": "https://www.theguardian.com/australia-news/commentisfree/2026/jul/16/anthony-albanese-ai-vision-artificial-intelligence-omission",
-      "source": "The Guardian",
-      "publishedAt": "2026-07-16T00:05:38.000Z",
-      "summary": "When the PM talks about new laws applying to the ‘next generation of large-scale datacentres’ what does he mean? Albanese’s AI blueprint sparks calls for datacentre moratorium until new regulations in place Expectations were high as the prime minister took the stage at the University of Sydney on We",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Treasurer Jim Chalmers’ budget hinges on 41,200 public service job cuts",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlpoRm1kb1doTERNR21tb09HZ1lvV2RMcVE3bkRnelRrVjJBZ21WQktvUXlUbXktMUdIS1ZUS254VTl3aklqUFNiQTFNMy1JOVhpOVlGYWtfTjA3Ykd0Zm1qSXdnQXY3WjQ3d1FVVi1CT0gteTNzR2lxRFZlU0VTdS14ZTZjZzBKb1U5QmdxbGNscUdNeGN1ZnI0QmszT1NRMGI3SzN2RWREY0U?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-15T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
       "spicy": false
     }
   ]
