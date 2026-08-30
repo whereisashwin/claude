@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-30T13:57:26.058Z",
+  "updatedAt": "2026-08-30T18:02:20.045Z",
   "count": 120,
   "relevantCount": 55,
-  "spicyCount": 10,
+  "spicyCount": 8,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -40,7 +40,9 @@
     "Fragomen",
     "Michael West Media",
     "News.com.au",
+    "Nine.com.au",
     "PerthNow",
+    "Proactive financial news",
     "Property Update",
     "PwC Australia",
     "SBS",
@@ -48,7 +50,6 @@
     "Study International",
     "Sydney Morning Herald",
     "The Australian",
-    "The Canberra Times",
     "The Guardian",
     "The Nightly",
     "The West Australian",
@@ -57,6 +58,41 @@
     "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Cash settlements on home insurance claims leaving vulnerable Australians short-changed, Asic says",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/31/cash-settlements-home-insurance-cyclone-disaster-repairs-vulnerable-australians-asic",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-30T15:01:00.000Z",
+      "summary": "Corporate regulator finds insurers settling most claims with cash rather than by managing repairs or rebuilding, warning of ‘unfair outcomes’ for homeowners",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "The American painting that sparked an Australian culture war - podcast",
+      "url": "https://www.theguardian.com/australia-news/audio/2026/aug/31/blue-poles-jackson-pollock-the-american-painting-that-sparked-an-australian-culture-war-full-story-podcast",
+      "source": "The Guardian",
+      "publishedAt": "2026-08-30T15:00:02.000Z",
+      "summary": "When Jackson Pollock painted Blue Poles, his masterpiece of American abstract expressionism, little did he know it would become one of Australia’s most fascinating political controversies. The piece ensnared everyone from Gough Whitlam to the Shah of Iran, only to end up in Canberra’s National Galle",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Hundreds lost in Nepal mourned in vigils across Australia",
+      "url": "https://www.abc.net.au/news/2026-08-31/hundreds-attend-vigils-for-nepal/107095694",
+      "source": "ABC News",
+      "publishedAt": "2026-08-30T14:47:41.000Z",
+      "summary": "As recovery efforts enter the fifth day in Nepal, hundreds have gathered across Australia to grieve the lives lost in this week's devastating floods.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Privacy laws target AI, smart glasses right to erase Australians’ data",
       "url": "https://www.smh.com.au/politics/federal/privacy-laws-target-ai-smart-glasses-right-to-erase-australians-data-20260830-p60stl.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
@@ -120,7 +156,7 @@
       "summary": "Even after a week in which Pauline Hanson and One Nation candidates tripped over themselves trying to explain key policies, voters still backed the party",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -131,7 +167,7 @@
       "summary": "The Labor and Liberal parties are beginning to lick their wounds after suffering a bruising defeat in a by-election in Perth's south as One Nation continues celebrating its historic victory.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -142,7 +178,7 @@
       "summary": "One Nation vows to remove renewable energy zones and scrap compulsory land acquisition for VNI West at a regional Victorian rally.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -153,7 +189,7 @@
       "summary": "Nearly 400 trees will be removed in Adelaide's eastern parklands to make way for a new MotoGP street circuit costing $96 million, the South Australian government has revealed.",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 6,
       "spicy": false
     },
     {
@@ -164,7 +200,7 @@
       "summary": "Queues outside the Australian frozen yoghurt chain’s first UK store show its potential. Can it do the same in Texas?",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -175,18 +211,7 @@
       "summary": "The federal government is facing pressure to outlaw strangulation and suffocation in pornography, mimicking a UK ban.",
       "categories": [],
       "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Southern Tasmanian man charged with murdering his 85yo mother",
-      "url": "https://www.abc.net.au/news/2026-08-30/police-investigating-suspicious-death-huonville-tasmania/107094922",
-      "source": "ABC News",
-      "publishedAt": "2026-08-30T01:00:05.000Z",
-      "summary": "Police are alleging the Huonville woman was smothered by her 55-year-old son.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
+      "score": 5,
       "spicy": false
     },
     {
@@ -276,19 +301,6 @@
       "summary": "Some prominent MPs believe an MH17-style joint investigation would provide accountability for the death of the Australian aid worker.",
       "categories": [],
       "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "The fatal flaw in the WA GST deal that the Productivity Commission ignores",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFFmSXBaN0pXSUsybHlfZ2dMNEdqbzFRZlRQRms2bHVzc191ajRlMldIRHBVUnR1eGRVTXMwS1RMZ09oQkh5ek9YekdkU3pQZDdIN0k4clkyWnMyeFZITVRkVTZQdXBYVi01ZlpWNXFHdWNDeXczNEpjT2pPLWx6SHR1N2FYOGd6SW1JWFFHbEE0SGlkWVB2MUpYRW05UTkyaEU1MWYzWUppT3JJLVhZ?oc=5",
-      "source": "The Canberra Times",
-      "publishedAt": "2026-08-28T19:41:44.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
       "score": 3,
       "spicy": false
     },
@@ -795,30 +807,6 @@
       "spicy": false
     },
     {
-      "title": "Albanese backs down on states powering AI datacentres using renewable energy",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/albanese-backs-down-on-states-powering-ai-datacentres-using-sustainable-energy",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-26T08:36:50.000Z",
-      "summary": "Shift comes after Chris Bowen said Labor would use constitutional powers to override states resisting rules on sustainable energy",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Fears grow for fourth rate hike after Australia sees higher-than-expected July inflation",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-26T06:44:23.000Z",
-      "summary": "Bureau of Statistics says CPI was 3.5% in July, casting doubt on Reserve Bank meeting its 2.5% inflation target without further hike",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 10,
-      "spicy": true
-    },
-    {
       "title": "Is the Trump Treasury panicking over the level of US debt?",
       "url": "https://www.theguardian.com/business/2026/aug/26/is-the-trump-treasury-panicking-over-the-level-of-us-debt",
       "source": "The Guardian",
@@ -1051,6 +1039,21 @@
       ],
       "relevant": true,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "New tax changes fuel Australia’s worsening rental crisis as investors flee",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeUhTRmV0T1lNMkJSS3hZLXNyNkwyX3hydkM5UFVyLXY5WFdoSVN3SlpJT05yeFdnYWh5dVdHM3BNTFVoLXhCaUtuLUxfY2NJUHhaQVEtWlBueks3S0tYOHdaTEl2NWZwZE1XLXdjckdFRGplQUZ1SnR0MnlqVTlpVTZibGxJV2NvWW5ycTM0VEpxUU9YelZTTG1BMzhLcTF1b3BxRjVkVkV1ODZ4UkE?oc=5",
+      "source": "realestate.com.au",
+      "publishedAt": "2026-08-15T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax",
+        "Housing",
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 2,
       "spicy": false
     },
     {
@@ -1291,6 +1294,19 @@
       "spicy": false
     },
     {
+      "title": "Government refuses to rush through fix for ‘widow’s tax’ despite widespread pressure",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjFpNkZBSDRoYjNqOVJxVG0zZHEyUjRBaTVmTFhac0FCRkdsZnREVzgtNFJjaFA3elNmZ0hjMXF5WFhscG1Pd0lLZ2g5MkoxX0JiOTFFR3lnLUNBUmpibk9uRzhXeWcyWndTd1hSeWxMVGVTNW5HdzBrem1YbWR6U0djcjJtcEYxNWJQM2EySTduYjN3ZnRob2FkRUxaTngwTVpxcWFpb0M?oc=5",
+      "source": "Nine.com.au",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Labor’s stealth visa overhaul targets offshore skilled workers",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2VwMzZMY2FDbDVHLWthdDRkWFcxd2dVOUFXbVVQQWtRTUNFcXBWZUt3cFVWdE1EbVhIcVJhMVQ1LVB5NlBYZmdJVUdtLUxLVHZFVGduMnc4bUpBTlV2Z3dRaUpoM2ppVS1LaDZBLTVMTVlwU1ZyYWE5THlQQzljcV9rbEpWdXFrUnh4aVg4M1NCNzN0ajhUUlBtbUZZZmMxSVdBUVpoNDREaml0U3ROUjI0SQ?oc=5",
       "source": "AFR",
@@ -1402,6 +1418,19 @@
       "spicy": false
     },
     {
+      "title": "The tax changes investors should actually care about after the Federal Budget",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMFVwWG8tSmtUaHZvRzAwTzhfQlEwZm5mNlhqcG82WDNZQ0J1bWhlQTZKc282dTduZWJlSlZQdjNfcW9ZQURiMVQ0M1JWcjRmOXAwVnRzeHc4RUxkQUZFTWNzTU9ReGtPazJZdzU1UjdhdmhZNkl1ZjN0UU0wbUVOdFVqNEZfeW1JaXY1aHc0eWk5Sm9Ldll5VlpXcHg3ZVp1TE5kUjlPanhBWjJUUEF4dktEbnJCZENLQzA3TDlOa19TMWlEWlFqVE9qZnRuUEtvS2tiQ0M4S3dHeHNGSHVWWU9BR2J5Zw?oc=5",
+      "source": "Proactive financial news",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
       "source": "Fragomen",
@@ -1462,32 +1491,6 @@
       "relevant": false,
       "score": 2,
       "spicy": false
-    },
-    {
-      "title": "Downsizer drought weighs on housing supply as Baby Boomers stay put",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWGtLREx5NmY2YVZqUWQ1bTUzcGR3Xy1PV2ROcW9XeFB0Ykx0c0RYMHZyUVFyTlk1R19YQTVrRG13RTVWUWQ5SmY0NWZWSnhaQ1ZxU3NSWU85SjRPd2ZmWlF6cXNQRDJ4YW5jYkt3ZVp4QXAtMjhDVjhIaWdlZUVxM1NxVDV6b3pDdVZ2VmVrajI2Z0xPeHR6Rm0zVWtFV0FNQ3Mwamg4VGxRSm41X21jNHpENVdDdVY4cDJ4TG9WNmdlX0ZDbVZ2RmttellBZw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-20T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Budget forecasts rest on ‘unlikely’ $480b income tax boon",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX0NUa095T2ptS3JyR3FwelZQd3J4ZWp3YW9KQllVTjBtei1IdlJSUHNFYUhUOXlySUZENGhiNWdRZWROVzU0RGtxNTZfY0Z4NmM5aVBOTm50eFZsUlVqdHVJR2RfZDZhQTJsOVBDTTBrcXZpcUFGNDFvdk9VVHlwc2lScno0eUU2OHJCNl91cVZKU0c0a2JrNF9kUlV4Rm11VUJTRUE5Nmg?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-07-17T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": true
     }
   ]
 }
