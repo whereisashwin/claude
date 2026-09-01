@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-01T17:25:20.329Z",
+  "updatedAt": "2026-09-01T20:06:53.406Z",
   "count": 120,
-  "relevantCount": 62,
-  "spicyCount": 11,
+  "relevantCount": 61,
+  "spicyCount": 9,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -37,33 +37,138 @@
     "Crown World Mobility",
     "Erickson Immigration Group",
     "Ethos Migration Lawyers",
-    "Fragomen",
+    "Financial Newswire",
     "MacroBusiness",
     "Michael West Media",
     "Nine.com.au",
     "Proactive financial news",
     "Professional Planner",
+    "Property Update",
     "PwC Australia",
-    "SBS",
     "SMH.com.au",
     "Study International",
     "Sydney Morning Herald",
     "The Australian",
-    "The Conversation",
     "The Guardian",
     "The Nightly",
     "William Buck Australia",
     "news24.com.au",
-    "propertyupdate.com.au",
-    "realestate.com.au"
+    "realestate.com.au",
+    "sbs.com.au",
+    "theconversation.com"
   ],
   "items": [
     {
-      "title": "House prices head for historic 10% drop as fourth interest rate hike looms",
+      "title": "Spring roars in with near-record temperatures across Victoria",
+      "url": "https://www.abc.net.au/news/2026-09-02/spring-off-to-warm-start-in-victoria-with-higher-temperatures/107103242",
+      "source": "ABC News",
+      "publishedAt": "2026-09-01T19:57:47.000Z",
+      "summary": "After a mild winter, temperatures across Victoria are continuing to climb, with the state experiencing a warmer-than-average start to spring.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "First Nations people with disability spending extended periods in custody, report finds",
+      "url": "https://www.abc.net.au/news/2026-09-02/research-indigenous-people-with-disability-justice-system/107091510",
+      "source": "ABC News",
+      "publishedAt": "2026-09-01T19:57:23.000Z",
+      "summary": "The Indigenous disability-led research is a national first, and examines the experiences of Aboriginal and Torres Strait Islander people with disability in Australia's justice system.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "New plan to tackle drug trafficking in Pacific as Australian cases soar",
+      "url": "https://www.abc.net.au/news/2026-09-02/australia-to-fund-scheme-to-tackle-pacific-drug-smuggling/107104900",
+      "source": "ABC News",
+      "publishedAt": "2026-09-01T19:52:18.000Z",
+      "summary": "The drug smuggling trade ravaging some Pacific communities is being fed by Australia's appetites for illegal drugs with seizures more than three times higher than last year.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Former UTAS exec alleges 'smear campaign' after reporting relationship",
+      "url": "https://www.abc.net.au/news/2026-09-02/former-utas-executive-makes-integrity-commission-complaint/107102458",
+      "source": "ABC News",
+      "publishedAt": "2026-09-01T19:26:12.000Z",
+      "summary": "A former senior HR executive at the University of Tasmania alleges the institution mishandled her conflict-of-interest disclosure about a relationship she had formed with another executive.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Pill testing to be made permanent at up to 15 music festivals a year in NSW",
+      "url": "https://www.abc.net.au/news/2026-09-02/pill-testing-to-continue-at-nsw-music-festivals-after-trial/107103918",
+      "source": "ABC News",
+      "publishedAt": "2026-09-01T19:22:19.000Z",
+      "summary": "The Minns government will provide a drug checking service at up to 15 music festivals per year in the state, beginning in October.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australian property: Do our pollies really want a more ‘affordable’ housing market? We’re about to find out",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWkRoalF4Tm1TRU5hVFZUcXBaeUhlSXFYMHRzQktPTEFTZk5PaE9TMzQyLUdROU5kMUotXzJsT3ZlLURDZ3VqRGFtZ1Bsby1XUjdEeXc1STZkQm5hRW9hRkp1U0pvN1d0a192cGlTS01rWWM2TEFEU1BpcUdiRnhCMF85c1V1bHNyQTQ2YXc0TmpPOXRrWk1ob1ZmdFAxWF9JOU41UXR2LUtocTdBOHVxQzl3YktMTE1mNHo2U2xkOUlVRENQbFcyZFlLSWFGUHAxeElVdHE4dGxoUzBGOVNrNGxn?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-09-01T19:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 1,
+      "spicy": false
+    },
+    {
+      "title": "The unnoticed rule change that has Penny Wong earning the PM’s salary",
+      "url": "https://www.smh.com.au/politics/federal/the-unnoticed-rule-change-that-has-penny-wong-earning-the-pm-s-salary-20260901-p60tfp.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-09-01T18:45:00.000Z",
+      "summary": "A quiet change to parliamentary pay rules means the foreign minister will draw Australia’s highest political wage while filling in for Anthony Albanese.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Social media algorithm opt-in would curb 'manosphere', says advocate",
+      "url": "https://www.abc.net.au/news/2026-09-02/algorithm-social-media-sexism-manosphere/107104586",
+      "source": "ABC News",
+      "publishedAt": "2026-09-01T18:43:18.000Z",
+      "summary": "Consent advocate Chanel Contos wants Australians to be able to opt out of algorithm-driven content.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "How Coles and NSW Police busted an Apple gift card tampering scam",
+      "url": "https://www.abc.net.au/news/2026-09-02/coles-nsw-police-apple-gift-card-tampering/107102712",
+      "source": "ABC News",
+      "publishedAt": "2026-09-01T18:38:13.000Z",
+      "summary": "Police found a bag containing 47 iTunes gift cards in bundles of five labelled with post-it notes when they raided a home in Sydney's western suburbs.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Fourth interest rate hike looms even as analysts predict house prices could fall 10%",
       "url": "https://www.theguardian.com/australia-news/2026/sep/02/property-house-prices-drop-sydney-melbourne-brisbane-perth-adelaide-interest-rates",
       "source": "The Guardian",
       "publishedAt": "2026-09-01T15:00:02.000Z",
-      "summary": "Cotality data reveals property prices are now falling in more than 90% of Australian suburbs, while analysts expect market downturn to continue",
+      "summary": "Cotality data reveals property prices are now falling in more than 90% of Australian suburbs, while economists expect market downturn to continue",
       "categories": [
         "Housing"
       ],
@@ -93,17 +198,6 @@
       "categories": [],
       "relevant": false,
       "score": 7,
-      "spicy": false
-    },
-    {
-      "title": "Partner of missing Australian in Nepal says waiting for news has been 'hell'",
-      "url": "https://www.abc.net.au/news/2026-09-01/families-refuse-to-give-up-on-loved-ones-missing-in-nepal/107104082",
-      "source": "ABC News",
-      "publishedAt": "2026-09-01T10:22:32.000Z",
-      "summary": "A week after the catastrophic Nepal-Tibet flood, Sarada Viswanathan is refusing to give up on her partner Rishab Iyer, who is still missing.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
       "spicy": false
     },
     {
@@ -138,7 +232,7 @@
       "summary": "Australia’s new privacy laws are already playing a major role in an array of disputes, including one about employment.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -149,7 +243,7 @@
       "summary": "A lower house committee has scrutinised the Tasmanian government's decision to ban people from fishing sand flathead across a large part of the state's south. It found the government failed to properly manage the species for years, before rushing through the ban without proper consultation.",
       "categories": [],
       "relevant": false,
-      "score": 8,
+      "score": 7,
       "spicy": false
     },
     {
@@ -160,7 +254,7 @@
       "summary": "Brisbane ferry workers have been undertaking intermittent industrial action since July 30, with pay negotiations between the Maritime Union of Australia and RiverCity Ferries stalling.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -173,7 +267,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -186,7 +280,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -197,7 +291,7 @@
       "summary": "The yield of the Australian government's 10-year bond has climbed to a 15-year high, in a worrying sign for Australian borrowers.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -308,14 +402,25 @@
       "spicy": true
     },
     {
+      "title": "No Country for Young People",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZRHZaY2xBeW1BOFo3TWUtZ3hBWm1OWm5jWjN3Qy1qYVRRZmItZ2ppNjRxM19SX09UaVZleVdnR0E1c19xZmZ2YmFab1czLXM4U19qc0NVY09zSE1hUU1CaUNPWGZXT3NIamNuSkZ6V1Ytc3ROOS1tdTdiSXo?oc=5",
+      "source": "Financial Newswire",
+      "publishedAt": "2026-08-31T20:33:05.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Australia’s government now has $1 trillion in debt. Four charts on how we got here and its cost",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVhYZUY3bXM4bXpsd0VYTzdtU2xzQUdkUTFwOUlXenhJYV9pOFotVzJZSXNCcW5OckNyVE1UT3dKWGlJQ2lqb3JMSXVoRzNRYWk2QzExNVhyWFI4cEdULXFqUlZoRjBDVGFjM2M3R3JHaTdIenRRbHZYd01OYjVOYmJfSkpSc1pSajNZcFBFTzZoX2hFdTVBN2kyaWxoTWZEZndZWUFNdWxsYU9ZaHRubHY3bVphNDNadW1xVVY2TVk0aWhCSUE?oc=5",
-      "source": "The Conversation",
+      "source": "theconversation.com",
       "publishedAt": "2026-08-31T20:09:40.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 3,
       "spicy": false
     },
     {
@@ -448,44 +553,11 @@
       "spicy": true
     },
     {
-      "title": "How Australia’s social media ban loomed over Meta’s $24b settlement",
-      "url": "https://www.smh.com.au/business/companies/how-australia-s-social-media-ban-loomed-over-meta-s-24b-settlement-20260831-p60t06.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-31T08:38:03.000Z",
-      "summary": "A landmark settlement reached by the Facebook owner shows that the government’s social media ban is changing the conversation.",
-      "categories": [],
-      "relevant": false,
-      "score": 8,
-      "spicy": false
-    },
-    {
       "title": "One Nation commits to coal-fired power and lifting nuclear ban in Victoria",
       "url": "https://www.abc.net.au/news/2026-08-31/one-nation-victoria-energy-policy-announcement/107097686",
       "source": "ABC News",
       "publishedAt": "2026-08-31T08:09:48.000Z",
       "summary": "One Nation leader Pauline Hanson and state leader Warren Pickering travelled to the Latrobe Valley to announce the party's Victorian energy policy.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "ASX dips as oil rises on Middle East tensions",
-      "url": "https://www.smh.com.au/business/markets/asx-set-to-slide-as-wall-street-retreats-fed-chief-talks-up-inflation-fight-20260831-p60svl.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-31T07:58:05.000Z",
-      "summary": "The Australian sharemarket started the week lower, but rose over August, the fifth straight calendar month of gains.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Danish giant steps in to help break Australia’s wind farm drought",
-      "url": "https://www.smh.com.au/business/companies/danish-giant-steps-in-to-help-break-australia-s-wind-farm-drought-20260831-p60t2j.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-31T07:31:01.000Z",
-      "summary": "A decision to greenlight the eastern seaboard’s largest wind farm in more than two years has provided a much-needed boost to Australia’s renewable energy ambitions.",
       "categories": [],
       "relevant": false,
       "score": 5,
@@ -536,30 +608,6 @@
       "spicy": false
     },
     {
-      "title": "'Outdated' law costing teens $411m a year in superannuation, modelling finds",
-      "url": "https://www.abc.net.au/news/2026-08-31/under-18s-losing-millions-super-members-council-says/107096710",
-      "source": "ABC News",
-      "publishedAt": "2026-08-31T00:33:03.000Z",
-      "summary": "Workers aged under 18 who work less than 30 hours a week for one employer do not currently get paid superannuation, which the Super Members Council says is discriminatory.",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": true
-    },
-    {
-      "title": "Screen Queensland funding cut shakes film industry confidence",
-      "url": "https://www.abc.net.au/news/2026-08-31/screen-queensland-funding-cut-shakes-industry-confidence/107092508",
-      "source": "ABC News",
-      "publishedAt": "2026-08-30T23:01:51.000Z",
-      "summary": "The Queensland government's funding cut to its state-owned film and television agency risks undermining the Sunshine State's ability to attract future productions.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Labor’s budget hides a $34b bill for rapidly expanding bureaucracy",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYUZ5LVZvdXQyMEpUQ0t5WHBkUVN5cFRHRmpPV0NFeGs3WEZfQmdobXVGZ19DWlVhZnptZzZPWEtxejdDVVQzdnpQWmJXd3Iya3FTWjMxVTdwYkxTMmExc3ZtdHdNaWwzT2otNnNnZUJ6N1I2TDdEbHVnUGJvUWtlS2pTVHBPVi1INEowRE9Ba205SEVRekZIdk1pT2dzUUhKMWRGLVJsSmd2RnYyekNJVGx4UW5sbjA?oc=5",
       "source": "AFR",
@@ -580,20 +628,6 @@
       "relevant": false,
       "score": 0,
       "spicy": false
-    },
-    {
-      "title": "Negative gearing and CGT shakeout takes hold in property market",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLTBJNzdzSGR0ZVc1V25nVjRmRkhYNUNPbjdtZHNUR3RnZGZCcC1sWlVocm05NFlDcTRwUlRQaF9XeEF6VHF0TmRyUHBQZGYyZHVfZHFLQzV2cDE2TW9ZZGlzRFdFcVR4RGFqRU5ZLXBYZ09XSXNFZ29GR08tYTlmZFB2RmlabHN2cWozQUU0RTNHT3ZtZklhMzJ0TlVDYXcteWI5ZG5iWllaMHBxZE1IZ2VEMmR5eXpzd2dUYkdXOA?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-30T19:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 7,
-      "spicy": true
     },
     {
       "title": "Is Hanson’s rise Albanese’s fall? Not so fast",
@@ -699,17 +733,6 @@
       "spicy": false
     },
     {
-      "title": "Israeli veterans’ visit attracts controversy as calls grow for investigation into Zomi Frankcom killing",
-      "url": "https://www.smh.com.au/politics/federal/israeli-veterans-visit-attracts-controversy-as-calls-grow-for-investigation-into-zomi-frankcom-killing-20260828-p60scv.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-08-29T09:50:00.000Z",
-      "summary": "Some prominent MPs believe an MH17-style joint investigation would provide accountability for the death of the Australian aid worker.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "How is One Nation influencing Labor’s immigration policy? – Back to Back Barries podcast",
       "url": "https://www.theguardian.com/global/video/2026/aug/29/how-is-one-nation-influencing-labors-immigration-policy-back-to-back-barries-podcast",
       "source": "The Guardian",
@@ -797,7 +820,7 @@
     {
       "title": "Why Labor’s federal budget changes could send Australian rents soaring",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGtrQVRzcVUxbHVWZGNNSXprQ1NQNzZSTzdaM1NRYVFJcHZkdjd6bkFOSnphYXlnTGNVLXJhMkd6YkFtRks1SnlKdVFrYkhDbU0yaXFOc0NDOC1CWVpySi11VllsSm9ZZkVuMklzZzhhdURROGpvSWhrMjd2OEFHSlZrcU1YNVBkWTNmOERBQTJYc211NnVUMHAxTE1TVmljeUE?oc=5",
-      "source": "propertyupdate.com.au",
+      "source": "Property Update",
       "publishedAt": "2026-08-28T07:34:58.000Z",
       "summary": "",
       "categories": [
@@ -805,19 +828,6 @@
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Spring shake-up: What to expect from property investors",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdTF2cWplRlBJZk8wUllmM2p5VmNPRURUVjNYRFNvSDBmTERzcDZFT0RIVDlOUm9qMUJkWE1IRVQzTTd3RHUwNWxMQ0VET1FMWHVNNUU3b3VmT3NWN0hFMjNpVHRuU2FzZkNjZkVhbVJXbFd1TlVLbEItVVpqWlhBbU5lSE9MOUl3ajBYMkRzRS1WYjIz?oc=5",
-      "source": "realestate.com.au",
-      "publishedAt": "2026-08-28T06:15:18.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     },
     {
@@ -1093,7 +1103,7 @@
     {
       "title": "Low-income Australians should accept substandard homes, Liberal frontbencher says",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUdRM2t4RVE2R1RKZmVaZzR5R1VSVG9xN0ROQ2hvekxLN0N6c2VTbUF5MlFrMVlJaTdFQkxTYjgxYlRQbGMyVmNwclVKUDdwNG9Zd05rcWRycGNTN0dNcGk5TmZUT2Q3ckZxM1lVR0pCcGJfa0tmZVhMVXhta1d3UmtUdXNLNTdhMlRVRlJWd1NfRzA4MGhMN2lpVUVUV3VtbGtpbA?oc=5",
-      "source": "SBS",
+      "source": "sbs.com.au",
       "publishedAt": "2026-08-13T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1490,19 +1500,6 @@
       ],
       "relevant": true,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "A World of Difference in Immigration - Immigration attorneys, solicitors, and consultants worldwide",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZXZXOGxtSzg4VjZlVDcxbGJuSWRWTU01ZzBvX1doWWQzUFFtYTRmRWlJMU80OVdTblBFNXdfSk5iVGlEQ2xDT3YzX0pRdlhZOEZIUFhLWGdWajZFcTFRYkhuUkw1dEowWi1PcERzZl9OakdP?oc=5",
-      "source": "Fragomen",
-      "publishedAt": "2026-07-22T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     }
   ]
