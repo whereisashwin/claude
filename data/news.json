@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-05T18:05:07.009Z",
+  "updatedAt": "2026-09-05T20:39:07.556Z",
   "count": 120,
-  "relevantCount": 56,
+  "relevantCount": 61,
   "spicyCount": 14,
   "spiceThreshold": 5,
   "categories": [
@@ -33,10 +33,13 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
+    "Australian Aviation",
     "Crown World Mobility",
     "News.com.au",
+    "Property Update",
     "PwC Australia",
     "SBS",
+    "SMH.com.au",
     "Sydney Morning Herald",
     "The Australian",
     "The Business Times",
@@ -44,12 +47,60 @@
     "The Guardian",
     "The Nightly",
     "The Strategist | ASPI's analysis and commentary site",
+    "William Buck Australia",
     "Yahoo Finance Australia",
-    "australianaviation.com.au",
-    "realestate.com.au",
-    "smh.com.au"
+    "michaelwest.com.au",
+    "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Big tobacco is back in town as cigarette tax fight lights up Australian politics",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/06/tobacco-excise-australia-industry-lobbying-coalition-one-nation",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-05T20:00:47.000Z",
+      "summary": "The industry has been pushing for cuts to excise for decades. With the explosion in illegal cigarette sales, those calls have grown louder",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "AI chatbots like Buddy at Bunnings years from becoming norm",
+      "url": "https://www.abc.net.au/news/2026-09-06/ai-chatbot-shopping-buddy-bunnings-australia-retailers/107102066",
+      "source": "ABC News",
+      "publishedAt": "2026-09-05T19:01:56.000Z",
+      "summary": "Some of Australia's largest retailers are investing in autonomous AI agents shopping for customers. But experts say the technology is expensive and years from being mainstream.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "One Nation, Coalition bank on cheap cigarettes being uncool",
+      "url": "https://www.abc.net.au/news/2026-09-06/smoking-tobacco-excise-coalition-one-nation-black-market/107097648",
+      "source": "ABC News",
+      "publishedAt": "2026-09-05T19:00:00.000Z",
+      "summary": "The Coalition and One Nation will have to prove they believe a generation that has grown up thinking cigarettes are both uncool and expensive will continue to resist when the last of those barriers disappears.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Three years in a Chinese jail changed Cheng Lei. So has freedom",
+      "url": "https://www.abc.net.au/news/2026-09-06/journalist-cheng-lei-prison-warns-dig-deeper-on-china/107072376",
+      "source": "ABC News",
+      "publishedAt": "2026-09-05T18:41:28.000Z",
+      "summary": "Finally free after 1,154 days in a Chinese prison, wrongfully accused of spilling state secrets, Australian journalist Cheng Lei was overjoyed to see her children again. But back home freedom brought its own challenges.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Two briefly detained over 'chaotic scenes' at Canberra junior AFL match",
       "url": "https://www.abc.net.au/news/2026-09-05/act-flares-set-off-items-thrown-players-junior-afl-grand-final/107120130",
@@ -58,7 +109,7 @@
       "summary": "Two spectators were briefly taken into custody after reports of flares being set off and items being thrown at players at the Under 18s AFL Canberra Grand Final between Marist College and the Belconnen Magpies last night.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -71,7 +122,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 1,
+      "score": 0,
       "spicy": false
     },
     {
@@ -82,7 +133,7 @@
       "summary": "Labor, Coalition, Greens and independent MPs have all labelled the One Nation leader a hypocrite for casting herself as a victim of political fury.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -95,7 +146,7 @@
         "Family & Education"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -115,50 +166,6 @@
       "source": "ABC News",
       "publishedAt": "2026-09-05T02:29:17.000Z",
       "summary": "The murder of Graham Staines and his two young sons — burnt alive in their car — made headlines around the world. Now the man who did it may walk free.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "'Just being myself': Socceroo Awer Mabil on his viral reaction to Hanson's 'monoculture' comments",
-      "url": "https://www.abc.net.au/news/2026-09-05/awer-mabil-football-socceroos-monoculture-pauline-hanson/107106742",
-      "source": "ABC News",
-      "publishedAt": "2026-09-05T02:18:28.000Z",
-      "summary": "Socceroos star Awer Mabil says he was just being himself when he called out Pauline Hanson's plan for a \"monoculture\" in Australia.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Construction sector probe likely to put Mick Gatto back in the spotlight",
-      "url": "https://www.abc.net.au/news/2026-09-05/victoria-construction-sector-royal-commission-mick-gatto/107115656",
-      "source": "ABC News",
-      "publishedAt": "2026-09-04T21:39:14.000Z",
-      "summary": "Mick Gatto is a powerful figure in a sector soon to be probed by a Victorian royal commission — but he says he's not worried.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Most Australians missing in Nepal were last seen in one crucial zone",
-      "url": "https://www.abc.net.au/news/2026-09-05/nepal-tibet-crossing-area-crucial-in-search-for-survivors/107115458",
-      "source": "ABC News",
-      "publishedAt": "2026-09-04T20:01:48.000Z",
-      "summary": "Desperate Australians charter their own helicopters over the Nepal-Tibet disaster zone to search for their missing loved ones.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Extreme heat, winds and flooding rains: Wild weather set for eastern states",
-      "url": "https://www.abc.net.au/news/2026-09-05/heat-thunderstorms-flooding-snow-for-eastern-australia-weather/107117906",
-      "source": "ABC News",
-      "publishedAt": "2026-09-04T19:43:40.000Z",
-      "summary": "A powerful front will generate a smorgasbord of wild weather across eastern Australia this weekend.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -187,28 +194,6 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Everyone but Australia reconsiders relationship with America",
-      "url": "https://www.abc.net.au/news/2026-09-05/united-states-richard-marles-donald-trump-aukus-paul-keating/107097650",
-      "source": "ABC News",
-      "publishedAt": "2026-09-04T19:00:00.000Z",
-      "summary": "No-one inside federal politics seems particularly interested in discussing the large orange elephant in the room and how it is materially changing every other country's views of the world.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Why political optimism has become scarce in Australia",
-      "url": "https://www.abc.net.au/news/2026-09-05/political-hope-optimism-australia-economy-paul-keating/107076246",
-      "source": "ABC News",
-      "publishedAt": "2026-09-04T19:00:00.000Z",
-      "summary": "Judgements on the Albanese government's performance have never been this harsh.",
-      "categories": [],
-      "relevant": false,
       "score": 3,
       "spicy": false
     },
@@ -692,7 +677,7 @@
     {
       "title": "Money matters: what’s in the federal budget for aviation?",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnQ1aWw4dW5tUk1hZzRGMXU4cEd4SDJCMlZlZXdyYl9tS0VPTDdzMk5pY0ZyMmNRYkhIOHJWMmJzSm05ejhOVXRDR1MxS19sZDM5UXNXTTVmci0xbUxhQV83Z1FyUWFLTjBzSkRKbVI5RVVQc0VFUmxPVkMtYU1pZnZ6eTNSUXp6ZW4xd0NGV2RFYTFkR3pHa00zWHNaQQ?oc=5",
-      "source": "australianaviation.com.au",
+      "source": "Australian Aviation",
       "publishedAt": "2026-09-03T02:18:20.000Z",
       "summary": "",
       "categories": [],
@@ -887,7 +872,7 @@
     {
       "title": "Australian property: Do our pollies really want a more ‘affordable’ housing market? We’re about to find out",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWkRoalF4Tm1TRU5hVFZUcXBaeUhlSXFYMHRzQktPTEFTZk5PaE9TMzQyLUdROU5kMUotXzJsT3ZlLURDZ3VqRGFtZ1Bsby1XUjdEeXc1STZkQm5hRW9hRkp1U0pvN1d0a192cGlTS01rWWM2TEFEU1BpcUdiRnhCMF85c1V1bHNyQTQ2YXc0TmpPOXRrWk1ob1ZmdFAxWF9JOU41UXR2LUtocTdBOHVxQzl3YktMTE1mNHo2U2xkOUlVRENQbFcyZFlLSWFGUHAxeElVdHE4dGxoUzBGOVNrNGxn?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-09-01T19:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1021,19 +1006,6 @@
       "spicy": false
     },
     {
-      "title": "The datacentre power spat highlights a hidden truth: we’re not building renewables fast enough to meet our needs | Alison Reeve",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/01/australia-datacentre-battle-highlights-hidden-truth-renewables-gas-electricity-solar",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-31T15:00:27.000Z",
-      "summary": "A battle over datacentre power sources is only part of the picture. Australia needs a much bigger electricity system to meet all future demand Anthony Albanese has been clear that he wants a set of national standards to ensure datacentre growth accelerates Australia’s push to renewables and keeps a ",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Labor’s $2500 foreign student fee has become a budget ‘cash cow’",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWVVbWQ3aFlUT1ZwREJzV19qZlZpeDUxd0hJQXU2YXlqdnJsV3lhTHlKYWVNLTlWNS14QnpCOGVQZnN3Y2F6WUdWUGZTc21TLUR2MmltcXRlckJLYjRCNnI2NVlJWklSSzhJSURCa1o3OWlRZzcwM0Y4SUQyY3hlTDlURDB1RTg3aTJId0FKLXBYMTlwNGpjYWVmV1J2cWFGWGRHell1ZzRkRllJUi1vQ3dn?oc=5",
       "source": "AFR",
@@ -1060,7 +1032,7 @@
     {
       "title": "Treasurer Jim Chalmers hits the market for a chief of staff",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUzVVNFFMeWk1RW90MFNYWlQ2Y0NIWXJMRXdMUTNBdWhremgyX0lJbkJTUTZ6M2RzTGJpQ1JrZzR6RmpUUXdEWVBFcXFKSEkzVERfMWJiek9aWkZwZTZSRzNiczN2R3VsOEdxLW0zUGZhcDcwNWc1RUtveTI1c1luNEpfdkRWYk0zaFlyUnhXQnd3N21UQ0lxR2plM2QyYnVLbVdxQUltVjB5a28?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-08-30T19:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1096,6 +1068,19 @@
       "spicy": false
     },
     {
+      "title": "Why Labor’s federal budget changes could send Australian rents soaring",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGtrQVRzcVUxbHVWZGNNSXprQ1NQNzZSTzdaM1NRYVFJcHZkdjd6bkFOSnphYXlnTGNVLXJhMkd6YkFtRks1SnlKdVFrYkhDbU0yaXFOc0NDOC1CWVpySi11VllsSm9ZZkVuMklzZzhhdURROGpvSWhrMjd2OEFHSlZrcU1YNVBkWTNmOERBQTJYc211NnVUMHAxTE1TVmljeUE?oc=5",
+      "source": "Property Update",
+      "publishedAt": "2026-08-28T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 2,
+      "spicy": false
+    },
+    {
       "title": "What will we get out of the AI boom? The data suggests lots of noisy, energy-hungry datacentres and not much else",
       "url": "https://www.theguardian.com/business/grogonomics/2026/aug/27/ai-boom-noisy-energy-hungry-datacentres-construction-economy",
       "source": "The Guardian",
@@ -1115,6 +1100,19 @@
       "categories": [],
       "relevant": false,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Tax attack: Business to serve it up to PM over dinner after Labor’s budget changes",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMlN6RXZjdjY2b1hURE9pS2Q3WjlpRDdibFJCTHZhVDhJN1d6REFYM3Bid0ExZy1ja1RJdDl1elNaR01fN0JoNjZMbDZRWnZrNmxycGFnLW9jcXlRdVJMQmlTVGNHN1NWbVdpV3E1YlJNWFI5VnFtZ184X3hNWjNlc3NpRHBTdzhFOTQwY2R5ek4wRXVUV3lkc0FrZTlnYUFpYWlJdmJXWDNkZEg2NVBlclBpaVNrTHczTGhEMGJZc2RIMndhSjROQVNnbzBpUV91T0xSVkV0QUZxQ2diWmZF?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-08-24T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1164,17 +1162,6 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "$2 trillion of debt and climbing – Australia’s great big IOU is getting bigger",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSmxyX1VLOURsZXRUMnFZcjd0V05pMmxwVEpoTE50ZHFGMDNtSTk1SllHLUktVVFVZk9wZ0hNUHNEY1Q0d05rXzU4T2oxRGt5eld3VlA5aTlnalIzYXduam1RcjFSSXNYQndYeVdUYUs3ZjNzUFRPLUxDeFRnSDJCRDZ3NVo0TXExTFNYWlpqLTdOaHYyekdSOF9uM0NEUUlqVWdPdWgyU1FRYlRiakFFMVlwT0pFR1hMdkhvU0hBTno2VmJlbXpnZkdaTkNnWFphRHc?oc=5",
-      "source": "smh.com.au",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
       "score": 3,
       "spicy": false
     },
@@ -1340,6 +1327,19 @@
       "spicy": false
     },
     {
+      "title": "CGT changes are coming. Should you sell, hold or rethink your strategy?",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzRlSmpqNVM0M3AxWHBXd3JEV1ZRMUtYTnlUam9vSU9aaXNvcFNmeHA4dUVnNnpSSmk1cGpYa3JvRFZnVF9vN2pQeEVzZnc1OXFSempQaGVXYWhpd0dMbXVYREwtRDVBUXdCS2VUZ3NNRTF0U1M5TUR0SkJtZ1VQUWZQajdsdGVrdlhNMXBKY2g3cjN3VWpBY1lpdEdvVDNTcDdTbmhQUXA0S0lNV1E?oc=5",
+      "source": "William Buck Australia",
+      "publishedAt": "2026-08-11T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Victoria had bipartisan support for a legal right to work from home. So why has Ben Carroll kicked it down the road?",
       "url": "https://www.theguardian.com/australia-news/2026/aug/11/victoria-work-from-home-laws-wfh-premier-ben-carroll",
       "source": "The Guardian",
@@ -1348,6 +1348,32 @@
       "categories": [],
       "relevant": false,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Tax changes get tick of approval from ratings agency",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWJ2c1pHVHdRVVhRRTNiOEloR2VVSGtFRFBUaGF2SDE1dHMwVkJEOHd0emdfaDFwd2J0TFVXQk91TnI3dkFpa3RHX0ZZSWx0X1JpcEtaRVJEVjRScUxXY3I1SVlSQUM0d2RqT3k4cnQ1WHJQck40SkZqRjZUWXFRc2thUnRtalU?oc=5",
+      "source": "michaelwest.com.au",
+      "publishedAt": "2026-08-06T19:13:04.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Australia retains AAA as tax changes and spending cuts help bottom line",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbTlTMmFqRGZPU1lDTHFvZjJVUG83eWdzbzJ2ODhZSnFpQWxnOElrZ0VPZ0tHcklWaENyUGtIOENfajFVeWZ3Z08xSWEyVEk4eGwwU3N2OFVNdVpIRkdFcU03S0ZMWHY0bllYNE92Y0k5Q3I1X0VkSUlqM1JfNzhkeURjenFLclNKSFF3Tlo0TDVsb0k0dzBKVmR3NXRIT2o2ZTZsYUI5MFBpOGRibEJxa3FkYWhXTXZuM2tEVnk4WC00MkRLUVUxSEZRMzI?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-08-06T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 2,
       "spicy": false
     },
     {
@@ -1466,7 +1492,7 @@
     {
       "title": "Widows and divorcees protected as Labor reveals details of tax backdown",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaUhZSENjcThncjZFeVZBZjBrTWJWMTlyQ1NaNnVLS2tzOUR0SXhERHhGX1dNTVFjWWhDS3hhbTRJZzhiaXFzcWZrRTM0ZzJvbjR3QndiaHRBZTlqbmVHZzEzbWpldzVvRGlnNlowRkVRbWJPQlo5UWVpMU1reElsR0JTMkdxNU5nSldhOE5EUzVZczUtdWtuSHVTVkxHVUVrZGYtVWY4M081UGNRekJkdFZIcW9xTmZZd3FveDlEdS1QaW9VcERubGlaWEY?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-08-04T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1474,19 +1500,6 @@
       ],
       "relevant": true,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Labor’s stealth visa overhaul targets offshore skilled workers",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2VwMzZMY2FDbDVHLWthdDRkWFcxd2dVOUFXbVVQQWtRTUNFcXBWZUt3cFVWdE1EbVhIcVJhMVQ1LVB5NlBYZmdJVUdtLUxLVHZFVGduMnc4bUpBTlV2Z3dRaUpoM2ppVS1LaDZBLTVMTVlwU1ZyYWE5THlQQzljcV9rbEpWdXFrUnh4aVg4M1NCNzN0ajhUUlBtbUZZZmMxSVdBUVpoNDREaml0U3ROUjI0SQ?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-04T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 5,
       "spicy": false
     }
   ]
