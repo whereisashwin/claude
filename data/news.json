@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-07T19:48:50.767Z",
+  "updatedAt": "2026-09-07T22:43:56.539Z",
   "count": 120,
   "relevantCount": 59,
-  "spicyCount": 12,
+  "spicyCount": 13,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,26 +33,93 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
-    "Australian Property Update",
     "Fragomen",
     "Michael West Media",
-    "News.com.au",
     "Property Update",
+    "PwC Australia",
     "SBS",
+    "SMH.com.au",
     "Sydney Morning Herald",
+    "The Australian",
     "The Guardian",
     "The Nightly",
-    "The Strategist | ASPI's analysis and commentary site",
     "William Buck Australia",
     "Yahoo Finance Australia",
-    "pwc.com.au",
-    "realestate.com.au",
-    "smh.com.au",
-    "theaustralian.com.au"
+    "news.com.au",
+    "realestate.com.au"
   ],
   "items": [
     {
-      "title": "Elevated fire conditions across south-east Qld likely to remain",
+      "title": "Australia politics live: Joyce says One Nation ‘shouldn’t have to model’ super plan; Chaney condemns Labor ‘park barrelling’ allegations",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-07T22:42:46.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "NSW Greens MP pleads with federal colleagues not to back National party motion to block koala park deal",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/08/nsw-greens-mp-pleads-with-federal-colleagues-not-to-not-to-back-national-party-motion-to-block-koala-park",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-07T22:06:49.000Z",
+      "summary": "Federal Greens partyroom split over plan for NSW to get millions of dollars’ worth in carbon credits for creating a koala national park",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Australia's oldest coalmine plans to expand under Sydney's water catchment",
+      "url": "https://www.abc.net.au/news/2026-09-08/metropolitan-coal-mine-extension-union-greens-water-catchment/107117582",
+      "source": "ABC News",
+      "publishedAt": "2026-09-07T21:36:44.000Z",
+      "summary": "Peabody's plan to keep its Metropolitan Mine south of Sydney operating until 2044 has won emphatic union backing while the Greens call for it to be rejected.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Live: Super for housing under review: Bragg",
+      "url": "https://www.abc.net.au/news/2026-09-08/federal-politics-live-blog-coalition-review-housing-super/107125776",
+      "source": "ABC News",
+      "publishedAt": "2026-09-07T21:09:51.000Z",
+      "summary": "Andrew Bragg says the Coalition is continuing to look at ways people could use their superannuation to help them afford a home.",
+      "categories": [
+        "Tax",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
+    },
+    {
+      "title": "Witnesses 'intimidated' before murder trial over brothers killed in Mexico",
+      "url": "https://www.abc.net.au/news/2026-09-08/jake-callum-robinson-murder-trial-begins-mexico/107118046",
+      "source": "ABC News",
+      "publishedAt": "2026-09-07T20:11:20.000Z",
+      "summary": "Witnesses have been intimidated in the lead-up to the trial for three men accused of killing two Australian brothers in Mexico, prosecutors tell a Mexican court.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "As the united facade of Australia's gas industry crumbles, one player is blamed",
+      "url": "https://www.abc.net.au/news/2026-09-08/santos-accused-as-at-fault-for-domestic-gas-crisis/107101388",
+      "source": "ABC News",
+      "publishedAt": "2026-09-07T19:49:44.000Z",
+      "summary": "Cracks are appearing in the facade of the gas industry's solidarity and all fingers are pointing towards one player.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Bushfires across Queensland has fire authorities warning the public to be prepared",
       "url": "https://www.abc.net.au/news/2026-09-08/south-east-queensland-fire-warning-dry-conditions/107124516",
       "source": "ABC News",
       "publishedAt": "2026-09-07T19:39:54.000Z",
@@ -63,7 +130,7 @@
       "spicy": false
     },
     {
-      "title": "Week with no passengers as Spirit of Tasmania tests new ferries",
+      "title": "Day sailings to end with new Spirit of Tasmania ferries",
       "url": "https://www.abc.net.au/news/2026-09-08/spirit-of-tasmania-ferries-no-passengers-week-in-october/107108758",
       "source": "ABC News",
       "publishedAt": "2026-09-07T19:12:48.000Z",
@@ -74,33 +141,22 @@
       "spicy": false
     },
     {
-      "title": "ASX set to slide as oil prices rise; $A stronger",
+      "title": "ASX set to slide as oil prices rise; Copper prices soar",
       "url": "https://www.smh.com.au/business/markets/asx-set-to-slide-as-oil-prices-rise-a-stronger-20260908-p60v9u.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-09-07T19:12:47.000Z",
       "summary": "European stocks were weighed down by higher oil prices and a drop in Novartis following the failure of a heart drug, while Wall Street was closed for the Labor Day holiday.",
       "categories": [],
       "relevant": false,
-      "score": 9,
+      "score": 8,
       "spicy": false
     },
     {
-      "title": "Animal welfare claim launched against Tasmanian salmon industry",
+      "title": "Animal cruelty claims lead to calls for salmon industry investigation",
       "url": "https://www.abc.net.au/news/2026-09-08/animals-australia-calls-for-investigation-into-salmon-industry/107124116",
       "source": "ABC News",
       "publishedAt": "2026-09-07T19:12:09.000Z",
       "summary": "A request for an immediate investigation into salmon industry practices has been made to Biosecurity Tasmania regarding possible breaches to the state's Animal Welfare Act.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Everything you need to know ahead of NFL Melbourne",
-      "url": "https://www.abc.net.au/news/2026-09-08/nfl-in-melbourne-49ers-vs-rams-when-where-how-to-watch/107123128",
-      "source": "ABC News",
-      "publishedAt": "2026-09-07T19:03:59.000Z",
-      "summary": "The San Francisco 49ers are taking on the Los Angeles Rams at the MCG, the first NFL regular-season game to be held in Australia. Here's everything you need to know.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -151,7 +207,7 @@
       "spicy": false
     },
     {
-      "title": "'Serious pork-barrelling': Fears Labor may have misused millions last election",
+      "title": "'Misuse of public money': Allegations of pork-barrelling hit government",
       "url": "https://www.abc.net.au/news/2026-09-08/labor-mlci-grants-marginal-pork-barrelling/107116982",
       "source": "ABC News",
       "publishedAt": "2026-09-07T18:52:57.000Z",
@@ -162,7 +218,7 @@
       "spicy": false
     },
     {
-      "title": "Bond market rout puts global economy on financial crisis 'trajectory'",
+      "title": "Global economy on a financial crisis 'trajectory' as bond markets dive",
       "url": "https://www.abc.net.au/news/2026-09-08/bond-markets-interest-rates-mounting-risk-global-economic-crisis/107123348",
       "source": "ABC News",
       "publishedAt": "2026-09-07T18:44:28.000Z",
@@ -175,14 +231,14 @@
       "spicy": false
     },
     {
-      "title": "A year after $32m government investment, Aussie startup pivots to US",
+      "title": "Aussie startup cuts staff, pivots to US after $32m government outlay",
       "url": "https://www.abc.net.au/news/2026-09-08/harrison-ai-lays-off-australian-staff-after-32m-investment/107110480",
       "source": "ABC News",
       "publishedAt": "2026-09-07T18:42:48.000Z",
       "summary": "Harrison.ai is laying off staff and pivoting to a new US business model, a year after receiving a $32 million investment from the federal government to keep the company in Australia.",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 9,
       "spicy": false
     },
     {
@@ -230,6 +286,19 @@
       "spicy": false
     },
     {
+      "title": "'Not Jesus Christ': Barnaby Joyce pressed on super policy modelling",
+      "url": "https://www.abc.net.au/news/2026-09-07/barnaby-joyce-pressed-on-super-policy-modelling/107126312",
+      "source": "ABC News",
+      "publishedAt": "2026-09-07T11:00:00.000Z",
+      "summary": "One Nation introduced a new policy that would allow Australians facing hardship to convert super payments to wages for up to three years. But what would the cost be to people's retirement savings?",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
       "title": "Joyce says he’s ‘not Jesus Christ’ when pushed on controversial superannuation policy",
       "url": "https://www.smh.com.au/politics/federal/joyce-says-he-s-not-jesus-christ-when-pushed-on-controversial-superannuation-policy-20260907-p60v8z.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -243,17 +312,6 @@
       "spicy": false
     },
     {
-      "title": "French burglar used ChatGPT to locate Canberra home with luxury goods",
-      "url": "https://www.abc.net.au/news/2026-09-07/burglary-canberra-home-french-nationals-luxury-goods/107125540",
-      "source": "ABC News",
-      "publishedAt": "2026-09-07T09:58:43.000Z",
-      "summary": "The crime began with photos of designer items posted on social media in Australia and ended with the arrest of four French men at a KFC in Sydney, fresh court documents show.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Court ruling clears way for 124-home Byron Shire development",
       "url": "https://www.abc.net.au/news/2026-09-07/wallum-court-judgment-clears-way-for-byron-shire-development/107121454",
       "source": "ABC News",
@@ -263,7 +321,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -274,18 +332,18 @@
       "summary": "Australia and Solomon Islands have reached an in-principle agreement over a new treaty, with a leaked text message from a high-ranking official outlining the lengths Canberra will go to to get the deal done.",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 6,
       "spicy": false
     },
     {
-      "title": "Australia’s top bureaucrats want to block sharing of clips from parliament on social media to save them from ‘ridicule’",
+      "title": "Bureaucrats urge Albanese to ban social media clips taken from parliament to save them from ‘ridicule’",
       "url": "https://www.theguardian.com/australia-news/2026/sep/07/australias-top-bureaucrats-want-to-block-sharing-of-clips-from-parliament-on-social-media-to-save-them-from-ridicule",
       "source": "The Guardian",
       "publishedAt": "2026-09-07T09:05:33.000Z",
       "summary": "Secretaries board concerned material posted without proper context as Greens warn ban could result in lack of transparency",
       "categories": [],
       "relevant": false,
-      "score": 10,
+      "score": 7,
       "spicy": false
     },
     {
@@ -293,10 +351,10 @@
       "url": "https://www.abc.net.au/news/2026-09-07/tas-spirit-ferry-operator-tt-line-to-be-in-debt-until-2052/107124262",
       "source": "ABC News",
       "publishedAt": "2026-09-07T07:53:20.000Z",
-      "summary": "In the wake of the bungled Spirit of Tasmania replacement project, ferry operator TT-Line says it expects to stay in debt for an estimated 26 years.",
+      "summary": "T-Line says the introduction of the new ships will result in an end to daytime sailing, due to increased freight and passenger capacity, as the ferry operator also confirms there will be eight days during the ship changeover with no sailings at all.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 5,
       "spicy": false
     },
     {
@@ -309,7 +367,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -323,17 +381,6 @@
       ],
       "relevant": true,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Solo sailor winched to safety in dramatic Indian Ocean rescue",
-      "url": "https://www.abc.net.au/news/2026-09-07/candian-sailor-rescued-indian-ocean-christmas-island/107125458",
-      "source": "ABC News",
-      "publishedAt": "2026-09-07T07:17:10.000Z",
-      "summary": "Australian authorities executed the textbook helicopter rescue after the Canadian sailor's vessel began taking on water 1,000 kilometres south-east of Christmas Island.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -541,14 +588,14 @@
     {
       "title": "First-home buyers snub budget ‘assistance’ and avoid the market",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNT2hxYUR6MnpleE5pcmFZU3dmRGRrSmZOMVFNQ2N2SFItVEttcHVlNU5FWVcwNURRdnJSWXdMbDlFM3VhZ0E0MmlmcTJXVHRvdDViRFR3V0I0OG8tdUpsM1Y2anFZUWRtSEdNRUJUcmtHaHZsNG1uMl8zRzBBTXJKUlgydm9rdWcwbnl1Y1czbmNXaDUyc0J6djNzV3BnbVdiRXBVUExRVU84dHppeWZoNE9qY20yQXhJWHR6d0lvaHVQYTRsckU1TU5pdy1zQzVkdVkxeVA3d3prUUhhdWlVUmRCVkNSbGtLYTdnZ2VrRTAwQ2JtbXl30gH8AUFVX3lxTFBwQ2Q3Z3VuYm1Vd3BLRVNwRDl5TGZyNkhPWXY1ZTNwdE9sUDd2eDB1a1hGSFRZVUhGY3JaTi1lZU9PWEtDSFdxYzNIODU2RkgyTnFlR214TWwzZ0liWldWOUR3YXdaMk54YXR2bjBFMGNnQUx0bnlLblRldFpiNW1ScjJtSzg3anZOMlpOck1vaTBhd2piSmhtLVlMSkRhUDZfT3VwUndhS1BRZE55bjBfdEVHbHc0OEU1cEI5dlFjX2lKRmxYLV9xcFh5SG45VTVhS1RxSFFFTXpwaDA0R0xibXpXajN0NnA2R0NqbVF3amFoanU0Zlg2dDR0VQ?oc=5",
-      "source": "theaustralian.com.au",
+      "source": "The Australian",
       "publishedAt": "2026-09-06T07:13:00.000Z",
       "summary": "",
       "categories": [
         "Housing"
       ],
       "relevant": true,
-      "score": 0,
+      "score": 3,
       "spicy": false
     },
     {
@@ -810,7 +857,7 @@
     {
       "title": "It will take a generation to fix the housing crisis, says top economist",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNazl5MVlEbDV0enlHd3otVFBZZEl1SjQxZ2JKQTFLYUVrT3F1bkpURGFUZEJzZzh4MWFwSlR5NDFXdlNRMXBnaDdsSmxRbEpHUk1lcDcxbEE0Rks3aE9kV0c1T29hckJ0RDV3T1pueE12engwTUtHczFEb0U5REJDQnJOaUVRd21vVUV4SWFSdkxKcHFyYm1yRkVDakV5eGdGdGtOQ2ZvOHJQS1dxOE9sOHhmSlRlVndjTS1KUjhHekVQc0drd0VDc3FnOA?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-09-03T19:00:00.000Z",
       "summary": "",
       "categories": [
@@ -837,7 +884,7 @@
     {
       "title": "Small business trusts get stamp duty escape hatch in Chalmers’ latest tax tweak",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMHhOT0NxQ0hybTRFendvMU14X2UybVlwaXk0NjZ1angtNGVWRlpfSHZRRFdYbWxwQVNFdUVjRUlsS0dtU21yaDR0V3BMM0c1eXJPNllPYkNNVHJlN0V3OC1BMFZYamdvSHhyWTFuV3B2YzdHODdaOUZ0TVZaVmJUS0lSNDNQUk1uQ2xfVFBoUjJ4dVN0Yzh0VzhFOS1EOHZRTDhOTWlrVFB0aWVMRTZOSm40TWRlQ2djOHJBVFkzRzBwLWV5S3pDWE1neUE3eTByNG9SSVpR?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-09-03T07:06:26.000Z",
       "summary": "",
       "categories": [
@@ -936,7 +983,7 @@
     {
       "title": "Housing showdown: Chalmers on budget defence as Liberals warn of market crash",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU2ZOSjV5amFFLVkwTm5ndjZWSDg3QlNhVm1URGM4SDBSd083ZXlxX3c1ZGxPVF9MTFVUa3F0UUx3a0pITWZhUkZaMWlsYUY1a2pQejhlSTh4X2Z2dUEtZVM1LUFVeHZoYk5HRVJCMEFzQk9qYzBVQVk0TUFhWF9LOS12MDBsNkFiMUh6WXBFN0FQbm42WjJaSmlnalA3UlcydnFoVm9MSEtkOTd3QkRIUlF0ckI5RzlwVnkwbHNkUDVYQXNoUWZENG51ejdBRlowbUlN?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-09-03T00:41:27.000Z",
       "summary": "",
       "categories": [
@@ -968,28 +1015,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Australians are buying EVs instead of holidaying in Europe – and other things we learned from the national accounts",
-      "url": "https://www.theguardian.com/business/2026/sep/03/australia-national-accounts-abs-economic-growth-evs-europe-holidays",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-02T15:00:27.000Z",
-      "summary": "ABS’s snapshot of Australia’s accounts shows economic growth – albeit low – in the face ‘challenging international circumstances’",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Canberra ‘put on notice’ as AI-generated submissions bring false information into parliamentary inquiries",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/canberra-put-on-notice-ai-submissions-false-information-hallucinations-parliament",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-02T15:00:27.000Z",
-      "summary": "Guardian Australia’s reporting on AI-generated content in inquiries has highlighted its dangers, politicians say",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -1041,7 +1066,7 @@
     {
       "title": "Chalmers grilled on house price upheaval",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYUFwYzNCMnNCaUNMVk5KV3VRLXhzczNIbWlQUkFfNG5KSFR0SjVPZ3dRdU9tb2FwM2g2M19fY1dTMzRCZGdGa0VGT0dEaFZrdWViQ2RoNFp1YTNqLU9MbTJqdFNIR1gydTlJSGhBUUR4b0xzTGRuMmlYelRfXzRQNFQ2Z21SQ2V3RUZqVlk0cnk4aDVCY0lTRGJ4WGFwa3Zkek5icU5saGdGbWx1XzJhMy02YTNHcHE1ODVNQVpQLWd3YXRVNzJKSHBuU3MxNEVjUEdIYWhvLW8zN0x0bWd0YlJB0gHnAUFVX3lxTE5SVlNseHNWSEg5LTNJZ1g4a3Fob1QxYUxNNUFEaUJZc2dDQkM5ZDAwYnJpUE5FUEVoSm82WEYwZDJmN001Q2o4dDJSRTRmc0hRZ3RBZ0F5ek5Hc0dRQ3pFSnF4NVJMVmR1c2RZSC1SdWFMZlliV3djdGh5dmx3M00zV3pnQWNqLWxTM3RraWtRM3phY3FxUjdQamtxMnVrRjlrYVIyTjl6cmFnT1VIUUFqVGRtVmZnaTdBeHRIMGVSWFkyZVduQ1d6RWczd2NiWVJ3alUtMXpsVUFlQzZIZmNTRy1LVmdnYw?oc=5",
-      "source": "News.com.au",
+      "source": "news.com.au",
       "publishedAt": "2026-09-02T05:12:09.000Z",
       "summary": "",
       "categories": [
@@ -1065,7 +1090,7 @@
     {
       "title": "Australian property: Do our pollies really want a more ‘affordable’ housing market? We’re about to find out",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWkRoalF4Tm1TRU5hVFZUcXBaeUhlSXFYMHRzQktPTEFTZk5PaE9TMzQyLUdROU5kMUotXzJsT3ZlLURDZ3VqRGFtZ1Bsby1XUjdEeXc1STZkQm5hRW9hRkp1U0pvN1d0a192cGlTS01rWWM2TEFEU1BpcUdiRnhCMF85c1V1bHNyQTQ2YXc0TmpPOXRrWk1ob1ZmdFAxWF9JOU41UXR2LUtocTdBOHVxQzl3YktMTE1mNHo2U2xkOUlVRENQbFcyZFlLSWFGUHAxeElVdHE4dGxoUzBGOVNrNGxn?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-09-01T19:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1091,14 +1116,14 @@
     {
       "title": "Defence tech entrepreneur fears CGT overhaul-induced ‘wasteland’",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQYUtVZk83RURHaGtaU1BkdV9RX2hDUkpYT0xKR3hNZ3FfdFBJbkdYVkhEdXh5US1ZeDNwejJvbHRGQjBqemdDRUFOYy1vN2J6LVNIQWdXZDJpVTdUTGF4c1BxWldnTlNDajJYcXRrTXZacnR5YXZFV0hqc3ZqOWFrOVZZUXkxNkxmMmt4WDItTk5BV0lTZV9FWDdUZW9rLVJXc2hjN2NGV3BCLVR4OFBsUGxlTURSelY2ZUpTVG1HeldfS2E2LWJNbGJwWW4tUjRNRXMxbVlyRmQ3OHJpMmZNV0pnWFJOZUgyRjJscXZveVdjSi04ZWQwTE1WekVvZjl2Vlg0WklB0gGLAkFVX3lxTE1qYko2Q3BISC1SaTYzSi1wampNLUFpYjd1ZmJIYWtWYU1hS0MwZG9CVEl6cEZueFlqakU1WkpmMzNGellIZThlUFNkSnZkSjFwbm0ta1ZCQ3hOMnAxcDNtSkM2eEtuMy10MXFMcVpuN0ltZkstQjVBR0lyRGdrOTJwU2ZrVjVVVUZHYmNGYzNZQl9EUUlmeFhDcW12b24wTlItSHJydm5xYV9oUzlMcklNSEpMSUxIQ0hZc213RFVxQjNFc3BtNml2VGt4LThwY0dQdUQzcXhsLWlCSmpqLWZQODdqYTVHQ0RsSG1EanQ5LWg0RzVabllWdzlrS0FXN2pDd21tMkJvZnprVQ?oc=5",
-      "source": "theaustralian.com.au",
+      "source": "The Australian",
       "publishedAt": "2026-08-31T19:00:00.000Z",
       "summary": "",
       "categories": [
         "Tax"
       ],
       "relevant": true,
-      "score": 2,
+      "score": 5,
       "spicy": false
     },
     {
@@ -1139,7 +1164,7 @@
     {
       "title": "Treasurer Jim Chalmers hits the market for a chief of staff",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUzVVNFFMeWk1RW90MFNYWlQ2Y0NIWXJMRXdMUTNBdWhremgyX0lJbkJTUTZ6M2RzTGJpQ1JrZzR6RmpUUXdEWVBFcXFKSEkzVERfMWJiek9aWkZwZTZSRzNiczN2R3VsOEdxLW0zUGZhcDcwNWc1RUtveTI1c1luNEpfdkRWYk0zaFlyUnhXQnd3N21UQ0lxR2plM2QyYnVLbVdxQUltVjB5a28?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-08-30T19:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1198,7 +1223,7 @@
     {
       "title": "Tax attack: Business to serve it up to PM over dinner after Labor’s budget changes",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMlN6RXZjdjY2b1hURE9pS2Q3WjlpRDdibFJCTHZhVDhJN1d6REFYM3Bid0ExZy1ja1RJdDl1elNaR01fN0JoNjZMbDZRWnZrNmxycGFnLW9jcXlRdVJMQmlTVGNHN1NWbVdpV3E1YlJNWFI5VnFtZ184X3hNWjNlc3NpRHBTdzhFOTQwY2R5ek4wRXVUV3lkc0FrZTlnYUFpYWlJdmJXWDNkZEg2NVBlclBpaVNrTHczTGhEMGJZc2RIMndhSjROQVNnbzBpUV91T0xSVkV0QUZxQ2diWmZF?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-08-24T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1211,7 +1236,7 @@
     {
       "title": "2026-27 Federal Budget: CGT changes - is 30 June 2027 a transaction deadline",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVHdGYWI2VXJldnE4bHBTVnFHRU4wNUg3VzFuSjJpdktoaFZCRXVnUnFDM3c3V1hDNHJHdVdxODlOWU43alFCN2lESXNDWDlhSXowSjRBdkQzcmVYaDhHd0RhcWU3THAyWEJjV0l1N3dqMmVnQnJ4UVMwV281aUpMZHBDbHNINDM0WTdwNjFPS0dBREE3ZEw1M29VSHAxcTQ2M2xucG9uc3FkSFhYeENVcnd0NnpfRzg?oc=5",
-      "source": "pwc.com.au",
+      "source": "PwC Australia",
       "publishedAt": "2026-08-24T05:12:45.000Z",
       "summary": "",
       "categories": [
@@ -1263,12 +1288,12 @@
     {
       "title": "Debt bomb explodes for trillion-dollar man Jim Chalmers",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX1Y3dldFLVpjMlg1QnhlZmlna29DYy11STFvQVdMZFVXVUd6LUVDWUc5Qk5uWjExOWY2S2gtUnNlV2lQVUV5b2lHUXlreE1RYUFOaGRuVTVHSk1zLVFvOS1wLWVHc04zSVgxZ1lFd0t5VUlJNm1oNFBZdG5PRnZIOTJHOXVCQUtNMDZFXzZYdEN0UnRJMl9FazYxRkJ3RzdVNmpRejhDc0ZkT2tUSkN2elhwZldkZVpPZzktSk1GOG5ORm9aMXBmYmRPeXg1ZXZ6SXY0UWxib1lSdV9JZ1NHRjExVU1BUlhvX3UxZUN2bU5nd3lW0gH6AUFVX3lxTE1aTHRfdkpiRkRyazdvblFXMlVoVWJkSlZMdjM3VWZOaFF0Rll5M2p5M2U1UkhIOTU3RTNkT19qTFcwSGVwdUlBNmgyTUI4X1czVWNHV2cybUpVNTdPNFBaUURjel9va2diMXdPTHNWTVk4Qk94WWh6cV9aMmtXcl84SEk3S1ZJUHVaZWl3VUdzQTd5YWhXWWZiOVF5R1VnczlZTElCSGhHcTZqdTNmT1UzX3hnQUdVcXdpZGo3RkJpdnhnVzA5R0M5ZDltdWZNTlRtd2NfUGUwTWVaNTJjRlVDd2dzWU5heTVhU1g3RFlld19oOGJoVG1mcEE?oc=5",
-      "source": "theaustralian.com.au",
+      "source": "The Australian",
       "publishedAt": "2026-08-20T07:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 0,
+      "score": 3,
       "spicy": false
     },
     {
@@ -1287,12 +1312,12 @@
     {
       "title": "Treasury’s forecasts were simply pie in the sky, Jim",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPOEZIMnpVRVRBTEFZVkFINjBKMDlESjN0cW5rRS1CRUdQb2RRTVVzV2h3RlY2cE40SWJvSkhSUjlramFQRHl5STVnSkFhVERYUTZGd2JnT3FNOVFWMEZpbTEtd1JndGF6YzFQNkR6TUlfS0lOS0J3RDQzRk1WOHN3UmVmazBhUkRzOEt6U0ttd2t3T21XcTkzOFFLZmtRcmREaE9oU20ycUVVa1VhWjcwMThoYzhQeURYNDZKQ29CMktwVG40NFJFeHJZQk5QcjBMX3AtOHJCeDR4bHBGTnVVRXlicndzZkI0MzhPY25rNU1Pa0REQXJxMnpOcGhuYkY50gGGAkFVX3lxTE93bE1fbTlfd2c5Rnc0a2VseFI0TWpPM2Z2Ymx5RUwtUVJ4VjBvSTZyVlRhWTE4OGJUT0xiLUdDZUlRVmxhdGRoaU1PR1BFUkVfTWNpV1luNzhYTzFWV1FiWnJzeUxiY3RESXR0VzFYdjl0QWZOQW5vT0l5ZHJYMDU2Qnp0ZlE3ZEM5U2JUY25Fd3R5LXhwalhYc1BTRXR4OEFFTEtwZWtkeDVoVERHLTlxZHBCMDF3R08tcGE1aklCbi12UFROTFNPZXN3ZGo3LVVMaGVhVTR5ZkdLb2k4eUZKWldUWWRjX3RZYXpiclY3VkZPVHpNQ1JkaFBlMUZ5eTVYbDBoVVE?oc=5",
-      "source": "theaustralian.com.au",
+      "source": "The Australian",
       "publishedAt": "2026-08-18T07:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 0,
+      "score": 3,
       "spicy": false
     },
     {
@@ -1461,7 +1486,7 @@
     {
       "title": "Australia retains AAA as tax changes and spending cuts help bottom line",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbTlTMmFqRGZPU1lDTHFvZjJVUG83eWdzbzJ2ODhZSnFpQWxnOElrZ0VPZ0tHcklWaENyUGtIOENfajFVeWZ3Z08xSWEyVEk4eGwwU3N2OFVNdVpIRkdFcU03S0ZMWHY0bllYNE92Y0k5Q3I1X0VkSUlqM1JfNzhkeURjenFLclNKSFF3Tlo0TDVsb0k0dzBKVmR3NXRIT2o2ZTZsYUI5MFBpOGRibEJxa3FkYWhXTXZuM2tEVnk4WC00MkRLUVUxSEZRMzI?oc=5",
-      "source": "smh.com.au",
+      "source": "SMH.com.au",
       "publishedAt": "2026-08-06T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1469,32 +1494,6 @@
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Federal tax changes risk worsening apartment shortage",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXJyUHh1V1BLZFFOVFZmMjhuWkFuZ2RQRXRkZEo4SllWRWRKeGlkbk1YNTJmYWgyOXhSTGI2OGxDX3hsMzMxTHlwUm94RVF3WDVhTFBhc0lmejFSVE1XN05IbFF6cFpFN2F5T3E3MkhxZGo3US1YTVV2YVp2RWctOGNvSUlWQjZQOGFPM29RRU9uZzJydnJJUmctdkZHQQ?oc=5",
-      "source": "Australian Property Update",
-      "publishedAt": "2026-08-06T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Housing policy should serve Australia’s strategic interests",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3ZEX1hmeHVTTGNJUUplNWVINVJ6UE1JaFZoOV96aHY3ZHZkOE16UzBMZF9ETmFKaVRGN0FtTC1CSXNNNTVvSnZQVGZFcm1pV3RSeEUzcm5kMUdkNThUXzZjZWRmRkI5N1hmR2p2MUo4VlRlemhLaXlqTktNb3JONWpaVmdaS2ZqaVhSWlNObnhiSGNCZ0VXNA?oc=5",
-      "source": "The Strategist | ASPI's analysis and commentary site",
-      "publishedAt": "2026-08-06T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     }
   ]
