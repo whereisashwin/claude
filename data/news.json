@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-07T22:43:56.539Z",
+  "updatedAt": "2026-09-08T01:05:16.497Z",
   "count": 120,
-  "relevantCount": 59,
-  "spicyCount": 13,
+  "relevantCount": 57,
+  "spicyCount": 12,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,8 +33,9 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
+    "Australian Aviation",
     "Fragomen",
-    "Michael West Media",
+    "News.com.au",
     "Property Update",
     "PwC Australia",
     "SBS",
@@ -45,16 +46,74 @@
     "The Nightly",
     "William Buck Australia",
     "Yahoo Finance Australia",
-    "news.com.au",
     "realestate.com.au"
   ],
   "items": [
     {
-      "title": "Australia politics live: Joyce says One Nation ‘shouldn’t have to model’ super plan; Chaney condemns Labor ‘park barrelling’ allegations",
+      "title": "Australia politics live: Hastie attacks One Nation bid to unseat him, calling ‘time on cowards’ and rejecting ‘slander’ for Ben Roberts-Smith evidence",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-09-07T22:42:46.000Z",
+      "publishedAt": "2026-09-08T01:03:57.000Z",
       "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Under pressure to explain super policy, Joyce says he is 'not Jesus Christ'",
+      "url": "https://www.abc.net.au/news/2026-09-08/barnaby-joyce-one-nation-superannuation-policy-early-access/107127346",
+      "source": "ABC News",
+      "publishedAt": "2026-09-08T00:07:01.000Z",
+      "summary": "The One Nation Treasury spokesperson sidesteps questions about modelling the inflationary impact of the proposal, saying Australians are \"not stupid\" and can manage their own money.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Under pressure to explain super policy, Barnaby Joyce says he is 'not Jesus Christ'",
+      "url": "https://www.abc.net.au/news/2026-09-08/barnaby-joyce-one-nation-superannuation-policy-early-access/107127346",
+      "source": "ABC News",
+      "publishedAt": "2026-09-08T00:07:01.000Z",
+      "summary": "The One Nation Treasury spokesperson sidesteps questions on the 7.30 program about the early super access proposal. Barnaby Joyce has pushed back on warnings the scheme would have an inflationary impact by pumping more money in to the economy, which may worsen the cost-of-living crisis.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Labor accused of ‘sports rorts’ pork-barrelling as $400m flows to party seats",
+      "url": "https://www.smh.com.au/politics/federal/labor-accused-of-sports-rorts-pork-barrelling-as-400m-flows-to-party-seats-20260908-p60vb2.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-09-07T22:59:10.000Z",
+      "summary": "Electorates left out of the Commonwealth’s invite-only community grants program claim local groups were denied a fair go as $409 million flowed into Labor territory.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Erin Phillips and Bruce McAvaney given SANFL's highest honour",
+      "url": "https://www.abc.net.au/news/2026-09-08/phillips-and-mcavaney-given-sanfl-highest-honour/107127180",
+      "source": "ABC News",
+      "publishedAt": "2026-09-07T22:44:47.000Z",
+      "summary": "Erin Phillips and Bruce McAvaney have been inducted into the South Australian Football Hall of Fame at a ceremony at the Adelaide Oval.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "The regional queer community building safe spaces from the ground up",
+      "url": "https://www.abc.net.au/news/2026-09-08/regional-queer-community-building-safe-spaces/107111002",
+      "source": "ABC News",
+      "publishedAt": "2026-09-07T22:29:30.000Z",
+      "summary": "With the help of social media, grassroots LGBTQIA+ clubs are spreading in regional Queensland, despite no dedicated venues.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -72,6 +131,17 @@
       "spicy": false
     },
     {
+      "title": "Live: ASX down, building company collapse exposes private credit issues",
+      "url": "https://www.abc.net.au/news/2026-09-08/asx-markets-business-live-news-september-8-2026/107127114",
+      "source": "ABC News",
+      "publishedAt": "2026-09-07T21:42:05.000Z",
+      "summary": "The Australian share market has fallen as oil prices jump to seven-week high after flare-up in US-Iran tensions. The Bathla Group collapse exposes private credit issues and oil is up on Middle East tensions.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
       "title": "Australia's oldest coalmine plans to expand under Sydney's water catchment",
       "url": "https://www.abc.net.au/news/2026-09-08/metropolitan-coal-mine-extension-union-greens-water-catchment/107117582",
       "source": "ABC News",
@@ -83,18 +153,17 @@
       "spicy": false
     },
     {
-      "title": "Live: Super for housing under review: Bragg",
+      "title": "Live: Joyce says Australians who 'have a brain' won't take from super unless needed",
       "url": "https://www.abc.net.au/news/2026-09-08/federal-politics-live-blog-coalition-review-housing-super/107125776",
       "source": "ABC News",
       "publishedAt": "2026-09-07T21:09:51.000Z",
-      "summary": "Andrew Bragg says the Coalition is continuing to look at ways people could use their superannuation to help them afford a home.",
+      "summary": "Barnaby Joyce has defended One Nation's superannuation plan, saying \"people are not stupid\" and won't take money from their funds unless they really need it.",
       "categories": [
-        "Tax",
-        "Housing"
+        "Tax"
       ],
       "relevant": true,
-      "score": 6,
-      "spicy": true
+      "score": 4,
+      "spicy": false
     },
     {
       "title": "Witnesses 'intimidated' before murder trial over brothers killed in Mexico",
@@ -119,17 +188,6 @@
       "spicy": false
     },
     {
-      "title": "Bushfires across Queensland has fire authorities warning the public to be prepared",
-      "url": "https://www.abc.net.au/news/2026-09-08/south-east-queensland-fire-warning-dry-conditions/107124516",
-      "source": "ABC News",
-      "publishedAt": "2026-09-07T19:39:54.000Z",
-      "summary": "Drier than average conditions across Queensland in the coming weeks have prompted a warning from fire authorities.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
       "title": "Day sailings to end with new Spirit of Tasmania ferries",
       "url": "https://www.abc.net.au/news/2026-09-08/spirit-of-tasmania-ferries-no-passengers-week-in-october/107108758",
       "source": "ABC News",
@@ -141,14 +199,14 @@
       "spicy": false
     },
     {
-      "title": "ASX set to slide as oil prices rise; Copper prices soar",
+      "title": "ASX set to slide as oil prices rise; Copper prices soar; $445m crypto hack",
       "url": "https://www.smh.com.au/business/markets/asx-set-to-slide-as-oil-prices-rise-a-stronger-20260908-p60v9u.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-09-07T19:12:47.000Z",
       "summary": "European stocks were weighed down by higher oil prices and a drop in Novartis following the failure of a heart drug, while Wall Street was closed for the Labor Day holiday.",
       "categories": [],
       "relevant": false,
-      "score": 8,
+      "score": 11,
       "spicy": false
     },
     {
@@ -163,14 +221,14 @@
       "spicy": false
     },
     {
-      "title": "Labor's broken promise on plastic recycling",
-      "url": "https://www.abc.net.au/news/2026-09-08/labor-broken-promise-on-plastic-recycling/107125916",
+      "title": "Everything you need to know ahead of NFL Melbourne",
+      "url": "https://www.abc.net.au/news/2026-09-08/nfl-in-melbourne-49ers-vs-rams-when-where-how-to-watch/107123128",
       "source": "ABC News",
-      "publishedAt": "2026-09-07T19:01:37.000Z",
-      "summary": "Industry groups say they were left blindsided by the federal government's decision to scrap mandatory standards for packaging.",
+      "publishedAt": "2026-09-07T19:03:59.000Z",
+      "summary": "The San Francisco 49ers are taking on the Los Angeles Rams at the MCG, the first NFL regular-season game to be held in Australia. Here's everything you need to know.",
       "categories": [],
       "relevant": false,
-      "score": 8,
+      "score": 4,
       "spicy": false
     },
     {
@@ -207,7 +265,7 @@
       "spicy": false
     },
     {
-      "title": "'Misuse of public money': Allegations of pork-barrelling hit government",
+      "title": "One golf club benefitted from a multi-million-dollar Labor grants scheme. It was in the PM's electorate",
       "url": "https://www.abc.net.au/news/2026-09-08/labor-mlci-grants-marginal-pork-barrelling/107116982",
       "source": "ABC News",
       "publishedAt": "2026-09-07T18:52:57.000Z",
@@ -271,7 +329,7 @@
       "summary": "Leaked text messages have revealed details of a new $1 billion treaty Anthony Albanese wants to strike with his Solomon Islands counterpart.",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 6,
       "spicy": false
     },
     {
@@ -282,20 +340,7 @@
       "summary": "Uptick in US union membership coincides with high public approval ratings of unions After years of decline, union membership in the US increased by 411,000 members in 2025, the largest increase since 2008, according to a new report . The report makes clear the impact that “right to work” laws can ha",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "'Not Jesus Christ': Barnaby Joyce pressed on super policy modelling",
-      "url": "https://www.abc.net.au/news/2026-09-07/barnaby-joyce-pressed-on-super-policy-modelling/107126312",
-      "source": "ABC News",
-      "publishedAt": "2026-09-07T11:00:00.000Z",
-      "summary": "One Nation introduced a new policy that would allow Australians facing hardship to convert super payments to wages for up to three years. But what would the cost be to people's retirement savings?",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -308,7 +353,7 @@
         "Tax"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -759,17 +804,6 @@
       "spicy": true
     },
     {
-      "title": "Hanson, Coalition ready to fight Labor’s plan to tame social media feeds",
-      "url": "https://www.smh.com.au/politics/federal/hanson-coalition-ready-to-fight-labor-s-plan-to-tame-social-media-feeds-20260904-p60uig.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-04T07:58:33.000Z",
-      "summary": "Anthony Albanese, as first reported in this masthead, will next week outline a digital duty of care that could give people a right to go online free of algorithms.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Will Chalmers’ change on trusts save SMEs from a tax hit?",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEtTdmRjNWRwX1NLVDdvXzBDajN6ZHpuT3ZNdGZfYVBUcmkzdlFJWmlCSFEwbkZLY1hjc3A0SXNLZmUwSU1mNmF5eGp2YzZTQmszWWFmWFhXRmpkNm9pa25CNnltaEVMdnNSR0laMHZrVGRoUUVZN0ZmQUtoS1V3X1J4Yko4SXpjQUVzRjlxaVE0dkZXZG43NVN0OHZ1V3RRMjlXdDRhSXRJSU54?oc=5",
       "source": "AFR",
@@ -956,6 +990,17 @@
       "spicy": false
     },
     {
+      "title": "Money matters: what’s in the federal budget for aviation?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnQ1aWw4dW5tUk1hZzRGMXU4cEd4SDJCMlZlZXdyYl9tS0VPTDdzMk5pY0ZyMmNRYkhIOHJWMmJzSm05ejhOVXRDR1MxS19sZDM5UXNXTTVmci0xbUxhQV83Z1FyUWFLTjBzSkRKbVI5RVVQc0VFUmxPVkMtYU1pZnZ6eTNSUXp6ZW4xd0NGV2RFYTFkR3pHa00zWHNaQQ?oc=5",
+      "source": "Australian Aviation",
+      "publishedAt": "2026-09-03T02:18:20.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "This abattoir wants to hire 60 people but just one Australian applied",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWJRNk96MTByMDEtQ2dUZXRQMHRCNDhnUVhGaGpuWmMxM3dQQVVOelk2YkpfMms3TXNDazRGYjlpeUNtOEFYUVZvczBXOHg0WWpJVk1kdWhVQ0JtUDFBR1Y4WF93bUhJVnNPeGZpZWljTTlUcExJU29wMndzOS1lcnlMLVZROC01VTg4UkZVVmJOM005b1Z0TGlGN1Zfck10M1E?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1066,7 +1111,7 @@
     {
       "title": "Chalmers grilled on house price upheaval",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYUFwYzNCMnNCaUNMVk5KV3VRLXhzczNIbWlQUkFfNG5KSFR0SjVPZ3dRdU9tb2FwM2g2M19fY1dTMzRCZGdGa0VGT0dEaFZrdWViQ2RoNFp1YTNqLU9MbTJqdFNIR1gydTlJSGhBUUR4b0xzTGRuMmlYelRfXzRQNFQ2Z21SQ2V3RUZqVlk0cnk4aDVCY0lTRGJ4WGFwa3Zkek5icU5saGdGbWx1XzJhMy02YTNHcHE1ODVNQVpQLWd3YXRVNzJKSHBuU3MxNEVjUEdIYWhvLW8zN0x0bWd0YlJB0gHnAUFVX3lxTE5SVlNseHNWSEg5LTNJZ1g4a3Fob1QxYUxNNUFEaUJZc2dDQkM5ZDAwYnJpUE5FUEVoSm82WEYwZDJmN001Q2o4dDJSRTRmc0hRZ3RBZ0F5ek5Hc0dRQ3pFSnF4NVJMVmR1c2RZSC1SdWFMZlliV3djdGh5dmx3M00zV3pnQWNqLWxTM3RraWtRM3phY3FxUjdQamtxMnVrRjlrYVIyTjl6cmFnT1VIUUFqVGRtVmZnaTdBeHRIMGVSWFkyZVduQ1d6RWczd2NiWVJ3alUtMXpsVUFlQzZIZmNTRy1LVmdnYw?oc=5",
-      "source": "news.com.au",
+      "source": "News.com.au",
       "publishedAt": "2026-09-02T05:12:09.000Z",
       "summary": "",
       "categories": [
@@ -1173,19 +1218,6 @@
       "spicy": false
     },
     {
-      "title": "Why Labor’s federal budget changes could send Australian rents soaring",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGtrQVRzcVUxbHVWZGNNSXprQ1NQNzZSTzdaM1NRYVFJcHZkdjd6bkFOSnphYXlnTGNVLXJhMkd6YkFtRks1SnlKdVFrYkhDbU0yaXFOc0NDOC1CWVpySi11VllsSm9ZZkVuMklzZzhhdURROGpvSWhrMjd2OEFHSlZrcU1YNVBkWTNmOERBQTJYc211NnVUMHAxTE1TVmljeUE?oc=5",
-      "source": "Property Update",
-      "publishedAt": "2026-08-28T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 2,
-      "spicy": false
-    },
-    {
       "title": "‘No question’ temporary visa cuts will hit economy",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanpJTlUtczJaaTRHajQ5cWlaWGxRVU4wSjBBM2xMZVdEMGVMNUwtZU5MX3VzdlRBak45VWZOWmktN1lLaUNQSll4RTN3SkdhZGsxTko3akp2OHlHZkVSN09KQnMyQWhuQ0FtZTAzUWJQcTVwaHJ3YTctOE5aN1FIenZKUDhYS0VJcXBUbUZIZ0lDQ3lNWTdIb0x2UHJxN1NQ?oc=5",
       "source": "AFR",
@@ -1270,6 +1302,17 @@
       ],
       "relevant": true,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Outlook worsens for government to meet 1.2 million houses promise",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQWpUYy1XMVEwMTA0ZHRNZEFaN2dJX1F2U2xXclVpQmJLb3JnVmtqVk1GRGYxc0tIT0RFME9TRE5BSjFZSU00NUZsbENuTERsa3dILXV0Qm9maHltQ2dnMXBPd25JS21fQ2UwUHRfUTAtMGtKR2hQT0RmN2FPQlFQOWVDZnBocWlMNUJ2YVJYRQ?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-21T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
       "spicy": false
     },
     {
@@ -1446,54 +1489,6 @@
       ],
       "relevant": true,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Victoria had bipartisan support for a legal right to work from home. So why has Ben Carroll kicked it down the road?",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/11/victoria-work-from-home-laws-wfh-premier-ben-carroll",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-11T05:27:05.000Z",
-      "summary": "New Victorian premier delays proposed right to work from home two days a week until next July, despite Coalition support",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Chalmers faces wrangle with states over budget hit to business",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb25kTjFhZ3phZU5wV3owWXM1T3F1OU1NUTRrczV3NFMyemxicXdpZVBIanVoR0p5S3dYaUxJTWNCLXB0QTRQb19NYmVLYU1FUUJSWDRjbE9KTHo3RkVGakJWMnVJTGpmWFVLWmV0aFN4UzFHUXBrN09lQ1VwUFMxbThqeHhCcDlXVHpyNld1NDV5THdTWmJGSGJRX3VFUWZoSUlZUG4yQjA1ejRjbGFfSVJLUTlKZw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-10T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Tax changes get tick of approval from ratings agency",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWJ2c1pHVHdRVVhRRTNiOEloR2VVSGtFRFBUaGF2SDE1dHMwVkJEOHd0emdfaDFwd2J0TFVXQk91TnI3dkFpa3RHX0ZZSWx0X1JpcEtaRVJEVjRScUxXY3I1SVlSQUM0d2RqT3k4cnQ1WHJQck40SkZqRjZUWXFRc2thUnRtalU?oc=5",
-      "source": "Michael West Media",
-      "publishedAt": "2026-08-06T19:13:04.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Australia retains AAA as tax changes and spending cuts help bottom line",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbTlTMmFqRGZPU1lDTHFvZjJVUG83eWdzbzJ2ODhZSnFpQWxnOElrZ0VPZ0tHcklWaENyUGtIOENfajFVeWZ3Z08xSWEyVEk4eGwwU3N2OFVNdVpIRkdFcU03S0ZMWHY0bllYNE92Y0k5Q3I1X0VkSUlqM1JfNzhkeURjenFLclNKSFF3Tlo0TDVsb0k0dzBKVmR3NXRIT2o2ZTZsYUI5MFBpOGRibEJxa3FkYWhXTXZuM2tEVnk4WC00MkRLUVUxSEZRMzI?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-08-06T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 2,
       "spicy": false
     }
   ]
