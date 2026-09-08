@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-08T11:40:41.856Z",
+  "updatedAt": "2026-09-08T16:28:58.700Z",
   "count": 120,
-  "relevantCount": 54,
-  "spicyCount": 12,
+  "relevantCount": 53,
+  "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,30 +33,67 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
-    "Australian Aviation",
     "Fragomen",
     "News.com.au",
+    "Nine.com.au",
+    "Property Council Australia",
     "Property Update",
-    "PwC Australia",
+    "SBS",
     "SMH.com.au",
     "Sydney Morning Herald",
     "The Australian",
     "The Guardian",
+    "The Nightly",
     "Yahoo Finance Australia",
-    "nine.com.au",
-    "realestate.com.au",
-    "thenightly.com.au"
+    "australianaviation.com.au",
+    "pwc.com.au",
+    "realestate.com.au"
   ],
   "items": [
     {
-      "title": "Gun law reform in Tasmania on knife's edge with independent holding casting vote",
-      "url": "https://www.abc.net.au/news/2026-09-08/firearms-legislation-amendments-debated-tasmanias-lower-house/107127744",
-      "source": "ABC News",
-      "publishedAt": "2026-09-08T09:12:04.000Z",
-      "summary": "Proposed reforms to Tasmania's gun laws sit on a knife's edge, with one independent MP likely to hold the casting vote when debate resumes on Thursday.",
+      "title": "Labor wants Australians to be able to opt out of online algorithms. How will it change your feed?",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/09/labor-australians-opt-out-online-algorithms-how-change-feed",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-08T15:00:44.000Z",
+      "summary": "The prime minister has predicted blowback to the scheme, which will affect social media, search engines and AI chatbots",
       "categories": [],
       "relevant": false,
       "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "‘Catastrophic’ fears: health staff made lists of concerning cases days after Australia’s aged care funding tool launch",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/09/catastrophic-fears-health-staff-made-lists-of-concerning-cases-days-after-australias-aged-care-funding-tool-launch",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-08T15:00:42.000Z",
+      "summary": "Exclusive : Documents reveal assessors’ grave fears if client needs are underestimated by tool that can’t be overridden",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Super-sized political battle: Chalmers issues warning on ‘existential threat’",
+      "url": "https://www.smh.com.au/politics/federal/super-sized-political-battle-chalmers-issues-warning-on-existential-threat-20260908-p60vjy.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-09-08T12:30:00.000Z",
+      "summary": "Amid a growing political fight over use of superannuation, Jim Chalmers will release new figures showing the cost of the age pension to the budget will fall as super grows.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Legendary horseman Paddy Payne Sr dies aged 90",
+      "url": "https://www.abc.net.au/news/2026-09-08/paddy-payne-sr-obit-jockey-horse-racing/107131086",
+      "source": "ABC News",
+      "publishedAt": "2026-09-08T12:10:05.000Z",
+      "summary": "The father of 10 and patriarch of the famous Australian racing family has died.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
       "spicy": false
     },
     {
@@ -154,17 +191,6 @@
       "spicy": false
     },
     {
-      "title": "Popovic knocked back four-year Socceroos contract extension",
-      "url": "https://www.abc.net.au/news/2026-09-08/tony-popovic-turns-down-longer-socceroos-contract/107130450",
-      "source": "ABC News",
-      "publishedAt": "2026-09-08T07:19:50.000Z",
-      "summary": "Socceroos coach Tony Popovic has revealed he turned down a four-year contract offer from Football Australia (FA) to take the team through to the 2030 World Cup.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Eighth Australian found safe in Nepal",
       "url": "https://www.abc.net.au/news/2026-09-08/australian-found-safe-after-nepal-tibet-flood-disaster/107130470",
       "source": "ABC News",
@@ -235,7 +261,7 @@
       "url": "https://www.abc.net.au/news/2026-09-08/one-nation-victorian-leader-warren-pickering-admits-drug-use/107128700",
       "source": "ABC News",
       "publishedAt": "2026-09-08T06:31:09.000Z",
-      "summary": "One Nation's Victorian leader Warren Pickering has admitted to a history of drug use following a series of reports in The Australian newspaper.",
+      "summary": "One Nation's Victorian leader Warren Pickering has admitted to a history of drug use and drink driving, less than three months out from the state election.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -330,7 +356,7 @@
       "summary": "The Australian Border Force has seized more than 1.7 million illegal cigarettes and thousands of vapes with a street value of more than $800,000 in a joint operation across Western Australian and the Northern Territory.",
       "categories": [],
       "relevant": false,
-      "score": 9,
+      "score": 8,
       "spicy": false
     },
     {
@@ -343,7 +369,7 @@
         "Tax"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -354,7 +380,7 @@
       "summary": "Federal Greens partyroom split over plan for NSW to get millions of dollars’ worth in carbon credits for creating a koala national park",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -365,7 +391,7 @@
       "summary": "The comments follow One Nation’s seizure of a safe Labor seat that sits within the Liberal leadership aspirant’s federal electorate.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -376,7 +402,7 @@
       "summary": "A driver has avoided injury after a B-double caught fire on the Hume Highway, the tenth truck fire on the main highway between Sydney and Canberra in 70 days.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -389,7 +415,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 10,
+      "score": 9,
       "spicy": true
     },
     {
@@ -402,7 +428,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -599,20 +625,6 @@
       "spicy": false
     },
     {
-      "title": "Treasury warned Chalmers tax changes would lift rents and lower prices",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2E3VmpTM0NpNTJlbzlQREFCWG5jVERneU9sVTFJOHdwVm1ldENuZ0FHV0Z1OE83VVRWMk1HdzczbVlSOHdnRzFDWDZmSjlkX3I4MzhqaHJUeGUzNXpCclM0d05SRGFYRi1mYUxmWWwxNkNTX01VaElFUVI5cFZWWXI0R2FhX1BFSGZaSEUwbFUtUnlUZkY1MUF1ZWtVckVSb21JVFMybWVoMWZyLXVuWVQzZEVLWEJhMVVycTFn?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-09-07T07:42:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 7,
-      "spicy": true
-    },
-    {
       "title": "Labor has backed down on its trust tax changes, but family trusts still face a difficult choice",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMWJhMkJMZUxJNC1rWXZva3B3c1FOWXdXNEM1ellDSjQ0OE5WWHQ5LVBCVDA0Q0c0VHF0cDdGcHlDdnJ6REprYWROVlNDMG5pSEp2MUZ0cHU0eE81REpiVkRmQS0yeE9ldlp5UnEzZ25uU1hEYkJrQlUySTFsaDQxRk1paTl4ZEFoVzNkNnFLdFlBcUtMaFktaDItbmExaHppTTFvd1NOcHNySmtfVk5BTVZNM2liMUNjT3Z3MExuT05GRVk?oc=5",
       "source": "Property Update",
@@ -730,17 +742,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Veterans to lay down medals in escalation of fight with Albanese government over healthcare cuts",
-      "url": "https://www.smh.com.au/politics/federal/veterans-to-lay-down-medals-in-escalation-of-fight-with-albanese-government-over-healthcare-cuts-20260906-p60uso.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-06T19:00:00.000Z",
-      "summary": "The provocative ceremony will mark two years since the Royal Commission into Defence and Veteran Suicide delivered its final report.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
       "spicy": false
     },
     {
@@ -879,32 +880,6 @@
       "spicy": false
     },
     {
-      "title": "Back to Back Barries: The forces that can stop One Nation’s rise - podcast",
-      "url": "https://www.theguardian.com/australia-news/audio/2026/sep/05/back-to-back-barries-the-forces-that-can-stop-one-nations-rise-podcast-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-04T15:00:11.000Z",
-      "summary": "Barrie Cassidy and George Megalogenis (filling in for Tony this week) examine George’s new book, Three Shocks: Who We are Becoming in the 21st Century, and how these forces are reshaping our national identity and Australian politics. They also look at the politics of the housing market and Barrie re",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Labor is in damage control over falling house prices. Why not take credit instead? | Tom McIlroy",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/05/labor-house-prices-falling-values-home-ownership-why-not-take-credit",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-04T15:00:10.000Z",
-      "summary": "In the long term Chalmers, O’Neil and Albanese will want to own any improvement in intergenerational equity, so maybe it’s better to start now",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Housing affordability craters to record low despite fall in prices",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSkVJYzIxU1BJSjQ0Sm1FY3F3QWl5ZEExZEprSmRrZG9kVkctM1JsQnB2SWVlMkpDd0FMR2hodEppOFNoUlg0SjlWZ1pIZHhvMGZpQlI5cTlTR3lQMmFQdEtWUGZJN1BwbXctMUN4SFp1X2dySEZhWFhSYWllRkZlUmdRaTRHQVlwVnFsd09NcHhncGZsTU45VlJmQzZwZmRVd3AzdXlkNHVHYXF6ZUZqVkVkNUZnbzVkYkJqZlMwRTlaOXNMOEE?oc=5",
       "source": "SMH.com.au",
@@ -983,7 +958,7 @@
     {
       "title": "Housing crisis will take a generation to fix, says NAB chief economist",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREpGZk85UGo5Wm1kNkNFb2N4M09tREx0TklJaVFLNkM5WlBUMWRPNzRrbFkyT2FLOUwxazQxb3V4MC03ZU54SWEtZ3UyYi1pR0FMbnlsVTFTM25UX1JQNTItRU4zVDEwRkxtdmtZWTRXVFVsWGRWX05jaEx0LVlJb1JCOFUyRWdzOFFrZy15SnVDNjNaX1lCN0x5Z3lMdFN3RTBCaXl2REFzRXdUajVGNG96RS1mVjZFakZEd0RaSHJReG8xU2stRA?oc=5",
-      "source": "nine.com.au",
+      "source": "Nine.com.au",
       "publishedAt": "2026-09-04T00:44:25.000Z",
       "summary": "",
       "categories": [
@@ -1073,7 +1048,7 @@
     {
       "title": "Money matters: what’s in the federal budget for aviation?",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnQ1aWw4dW5tUk1hZzRGMXU4cEd4SDJCMlZlZXdyYl9tS0VPTDdzMk5pY0ZyMmNRYkhIOHJWMmJzSm05ejhOVXRDR1MxS19sZDM5UXNXTTVmci0xbUxhQV83Z1FyUWFLTjBzSkRKbVI5RVVQc0VFUmxPVkMtYU1pZnZ6eTNSUXp6ZW4xd0NGV2RFYTFkR3pHa00zWHNaQQ?oc=5",
-      "source": "Australian Aviation",
+      "source": "australianaviation.com.au",
       "publishedAt": "2026-09-03T02:18:20.000Z",
       "summary": "",
       "categories": [],
@@ -1141,17 +1116,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "VIDEO: What is Australia’s economic outlook?",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1pZMEUwZTRXalpBeUJJUkpvM2luem43LUxfLTBOSmNNSzVWZHg3WnJyc1NIRlNla3R5cm9faWJzdk1LQVNma0NPNjNXZkFUd3NzTl94MjBKOEVOTnQ4TUljWm9kUkswenFGbGVNeFcxSm9MUV9aYlA0V1pEaHE0Wm81RjZ1Sk5vOFVEVVNsWQ?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-09-02T10:07:52.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -1312,6 +1276,17 @@
       "spicy": false
     },
     {
+      "title": "2026-27 NSW Budget Analysis",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WbUdUWGc4MVdFTDNCUkJpb1IwNlVNRk1ZTks3TjF0dE1FNlYwWnAzZUwyMlY0VkRrYXQwcEpWZGVuQm9hMzZJSGRNaWV0T3RZQlBDVEYxTmh4Mm43SjVEYk9jV1p0OHlXcDdmOFFheDBDNVVJcWNPYnhGYnlTRU0?oc=5",
+      "source": "Property Council Australia",
+      "publishedAt": "2026-08-27T15:39:02.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "What will we get out of the AI boom? The data suggests lots of noisy, energy-hungry datacentres and not much else",
       "url": "https://www.theguardian.com/business/grogonomics/2026/aug/27/ai-boom-noisy-energy-hungry-datacentres-construction-economy",
       "source": "The Guardian",
@@ -1349,7 +1324,7 @@
     {
       "title": "2026-27 Federal Budget: CGT changes - is 30 June 2027 a transaction deadline",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVHdGYWI2VXJldnE4bHBTVnFHRU4wNUg3VzFuSjJpdktoaFZCRXVnUnFDM3c3V1hDNHJHdVdxODlOWU43alFCN2lESXNDWDlhSXowSjRBdkQzcmVYaDhHd0RhcWU3THAyWEJjV0l1N3dqMmVnQnJ4UVMwV281aUpMZHBDbHNINDM0WTdwNjFPS0dBREE3ZEw1M29VSHAxcTQ2M2xucG9uc3FkSFhYeENVcnd0NnpfRzg?oc=5",
-      "source": "PwC Australia",
+      "source": "pwc.com.au",
       "publishedAt": "2026-08-24T05:12:45.000Z",
       "summary": "",
       "categories": [
@@ -1434,7 +1409,7 @@
     {
       "title": "Chalmers insists on $2 a week rent rise despite dire warning",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbF9ncXZNZXl3ZEFDZEdnRndwYjlwUm1sYkp3Y05ZLUQ0aEVuWmJGVzhYaHcyLUMyaVdHN1hlWmRaZGgwcHdDR09xdXhrTHBhZDNHN1ZTRU52T2plVHhjRlo4Qng2MlBXcl8tZ2dQOURSd3hNUFZ6QnUwN0VzRG5ITDRPdE9SejhSeUJTLW1OTDFOaUtjalp4WnJGbG9Od0dSRUNtYkRKSHdmUTNuSmFlOFFsRHJ0MWc2S1NzdWtENFo1SVNPOV9aYmtzWmtVcmtMZUNGU2g4dWFPODVTME82U3ZFMEkyZw?oc=5",
-      "source": "thenightly.com.au",
+      "source": "The Nightly",
       "publishedAt": "2026-08-18T02:35:58.000Z",
       "summary": "",
       "categories": [
@@ -1473,12 +1448,36 @@
     {
       "title": "Former Labor adviser, bureaucrat slams Chalmers over Budget",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbklBT2dGdHV6OFNlZ3NiOFAwZXZkMEFJYmI5NWxBUkZ3bndOTGszODdjSDFpcE83SE5FNGlxRUhLSGVKRGdCYUxRcTR2dEpkdU5MZ19makNxYUJuaFM0Zms4ZS1NZXliWmlZaDhPUEVxSWFlQjlOX0dadWJONkZKVHRPaG9rZ1pSSWVHUDd0aG9EOXBKUWhMbXZiZWtfY0JGQ01HMGR0cEZoaWx0RndQR1dac2F3UHloZHdZNG9SMUVyRm5wRVBNbWQzckNjV2Zpd0hPQ3Bub0I?oc=5",
-      "source": "thenightly.com.au",
+      "source": "The Nightly",
       "publishedAt": "2026-08-17T05:25:49.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "40,000 skilled migrants needed to fill jobs on mine sites",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb3JEcTRPcms1dXNDTXRCZnRiZWZsRXRNVklIam9QTWhsZWdCQmhJazRCeEczc2NtN3BDbnRpNHl1YmZLZUtxSkIzc1p3SUFaUV9CdVdyNjcxd3dTZGNrWDN3c3NRSlk1T3paTS1QWHZDVzc1STFnSHdmWXdQUm1xbi1Vb29BUUl1R2tWMncwMlQxdXFWUE5NSWU1UmVBRFJTRklBRw?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-08-16T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Low-income Australians should accept substandard homes, Liberal frontbencher says",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUdRM2t4RVE2R1RKZmVaZzR5R1VSVG9xN0ROQ2hvekxLN0N6c2VTbUF5MlFrMVlJaTdFQkxTYjgxYlRQbGMyVmNwclVKUDdwNG9Zd05rcWRycGNTN0dNcGk5TmZUT2Q3ckZxM1lVR0pCcGJfa0tmZVhMVXhta1d3UmtUdXNLNTdhMlRVRlJWd1NfRzA4MGhMN2lpVUVUV3VtbGtpbA?oc=5",
+      "source": "SBS",
+      "publishedAt": "2026-08-13T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
       "spicy": false
     }
   ]
