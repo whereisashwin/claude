@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-12T16:59:44.988Z",
+  "updatedAt": "2026-09-12T19:13:56.483Z",
   "count": 120,
-  "relevantCount": 46,
-  "spicyCount": 10,
+  "relevantCount": 49,
+  "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -30,7 +30,7 @@
   ],
   "sources": [
     "ABC News",
-    "ABC iview",
+    "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Australian Aviation",
     "Australian Broker News",
@@ -38,9 +38,9 @@
     "Brisbane Times",
     "Crown World Mobility",
     "Fragomen",
+    "LinkedIn",
     "News.com.au",
     "Nine.com.au",
-    "Property Council Australia",
     "Property Update",
     "PwC Australia",
     "SMH.com.au",
@@ -49,11 +49,49 @@
     "The Conversation",
     "The Guardian",
     "Yahoo Finance Australia",
-    "abc.net.au",
-    "news.com.au",
+    "iview.abc.net.au",
+    "propertycouncil.com.au",
     "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "The Coalition finds voice in One Nation battle and starts new free speech fight",
+      "url": "https://www.abc.net.au/news/2026-09-13/andrew-hastie-anika-wells-angus-taylor-digital-duty-of-care/107143214",
+      "source": "ABC News",
+      "publishedAt": "2026-09-12T19:00:00.000Z",
+      "summary": "As fresh battle lines were drawn up over Labor’s proposed digital duty of care this week, another ongoing war entered a new phase.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "‘Don’t insult me’: Labor luminary unleashes over falling house prices, real wages",
+      "url": "https://www.smh.com.au/politics/federal/don-t-insult-me-labor-luminary-unleashes-over-falling-house-prices-real-wages-20260910-p60w5h.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-09-12T19:00:00.000Z",
+      "summary": "Bill Kelty, a mastermind of reforms that set up Australia’s modern economy, has delivered a stinging critique of the economic record of Anthony Albanese and Jim Chalmers.",
+      "categories": [
+        "Housing",
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 10,
+      "spicy": true
+    },
+    {
+      "title": "Nick Rogers's leafy suburb is ground zero in Australia's battle over trees",
+      "url": "https://www.abc.net.au/news/2026-09-13/housing-crisis-trees-collateral-damage/107137146",
+      "source": "ABC News",
+      "publishedAt": "2026-09-12T18:30:00.000Z",
+      "summary": "As we build more homes to tackle the housing crisis some worry trees will become collateral damage. But as our climate changes, isn't now the time we need trees most?",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Property stylists rue federal budget devastation",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZTF6OWdfRTcyajhVN0VCYlhid09QdHUxZ0ZzYzhlVnBBZ3BZSVc4M3g5eHNNSHFzdGVFNkxfRW1PLTdRcEtrS3VMQThqTlUxMzl4M04xVk40cVR4N0NYOHRxY2VOV3NXNnhJaXpnX0w1cHI5NjdoUUdHVVBEcWdidE9RdVJPbGNNdHZiTzBGNnNGcGdaSmFQdG9BVExzRUdGZC1kbndTUVBRQ29tX1RIV01RSDJjVGtXdkR5ZXZ3Rnh6dTVfeExtOGNSV0cwT1otYzhDUkhSYzMwRUJlQ1BpNDluVzE3N2ZBZ19MM0J0S0dwVWtsVFBnR1dZVUFCdUZPMHdWNGdoWEowNFFJYkVSSdIBlgJBVV95cUxQV19YQnQ1VmtTalFRakNVMTFRQXZpR1lNVkJXOW1hMHFtZzdkaU1FSjB4aE42TDNkdDJxMS0yMW85Vk9ob2ktWjdMd2RhdFN0YUU1NGpDRHVQdHVhdEx4Y2VHcHBEelRUb2hZMFpfVnlfQThFbmRadTVXWklBN0c2LUlCOUJpRWZPcE4zTk1XLVpKYndUSWJLeXo1dTE0MEEzY2RJRUVrTXcyblBOcnJHUUp0U3dxcjk1M3hMZk84R21kT1pneXl2X0ZsUnVFcmFPN2NhRDNNUjdabW5YeW1XVWI5OHBoOTBEaXNydmJiMC1yQVQzeURWeFprTGdyUUU1M2tMX0R5ckR6ejhxVC1pMXRuSnpGZw?oc=5",
@@ -81,17 +119,6 @@
       "spicy": false
     },
     {
-      "title": "World-first trial finds floating wetlands can cut greenhouse gas emissions",
-      "url": "https://www.abc.net.au/news/2026-09-12/floating-wetlands-slash-wastewater-greenhouse-gas-emissions/107075464",
-      "source": "ABC News",
-      "publishedAt": "2026-09-12T05:31:20.000Z",
-      "summary": "A floating garden of native plants in Victoria's east cuts a wastewater lagoon's emissions by about 30 per cent, with researchers now testing the approach on farm dams.",
-      "categories": [],
-      "relevant": false,
-      "score": 9,
-      "spicy": false
-    },
-    {
       "title": "Trindall returns from shoulder dislocation to lead Sharks in finals win",
       "url": "https://www.abc.net.au/news/2026-09-12/nrl-finals-live-updates-warriors-dolphins-sharks-cowboys/107137540",
       "source": "ABC News",
@@ -99,7 +126,7 @@
       "summary": "Four weeks after dislocating his shoulder, Braydon Trindall has returned to lead the Cronulla Sharks to a 26-16 win, advancing to the second week of the NRL finals while knocking out the North Queensland Cowboys.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -185,28 +212,6 @@
       "source": "ABC News",
       "publishedAt": "2026-09-11T22:00:18.000Z",
       "summary": "A new water recycling plant in Central NSW can process '16 times' more efficiently than existing systems, its inventor says.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Couple must leave 'dream' tiny home after court ruling",
-      "url": "https://www.abc.net.au/news/2026-09-12/court-rules-couple-need-consent-for-caravan-on-rural-property/107134502",
-      "source": "ABC News",
-      "publishedAt": "2026-09-11T21:13:22.000Z",
-      "summary": "A NSW couple have lost their court battle to continue living in their tiny home on wheels, which the Australian Tiny House Association says could have implications for all the state's caravan owners.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Odours and a charred campsite led Mexican police to the bodies of two Australian brothers",
-      "url": "https://www.abc.net.au/news/2026-09-12/mexico-robinson-brothers-carter-rhoad-murder-trial-evidence/107145584",
-      "source": "ABC News",
-      "publishedAt": "2026-09-11T20:10:41.000Z",
-      "summary": "Mexican authorities tell a court in Ensenada of the grim clues that led to the remains of Australian brothers Jake and Callum Robinson and their American friend Carter Rhoad being found.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -753,17 +758,6 @@
       "spicy": false
     },
     {
-      "title": "‘Check in on the authors of this rubbish’: Liberal MP calls out social media trolls",
-      "url": "https://www.smh.com.au/politics/federal/check-in-on-the-authors-of-this-rubbish-liberal-mp-calls-out-social-media-trolls-20260910-p60w6g.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-10T05:36:34.000Z",
-      "summary": "The backbencher was not the only MP to call out online abuse on Thursday, as a Labor MP also spoke about gendered abuse in the House of Representatives.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "My friend Blanche d’Alpuget often spoke to me about death. She once likened it to ‘untying a million little knots’ | Derek Rielly",
       "url": "https://www.theguardian.com/commentisfree/2026/sep/10/blanche-dalpuget-appreciation-derek-rielly",
       "source": "The Guardian",
@@ -913,7 +907,7 @@
     {
       "title": "‘Newborn tax’ hidden in Labor’s budget",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOd3I1SzhsTnlWV3Y0NW1OV1VNRm54UzdhejdpZHBHbDNUbGhvSmlfb05nYXh0Y2Qza2ticUZ5WVRGUzFDTXpvdVN2ZUFIb3JpQUZXOGNTc1cxczIzQV85d2xwNE44LTBpQXFKcDVZc3RGR3gzc2VpMTFfaXdoRzcxQzc0Z3dacVNGVTVsdi1QODNTX2d6cUhramZHcGhjQ0IwR1I3VDBHTGpJbW8yQzkxRWxQWDQzd1BfeVR5NmNXM3BINHdxOG9acTBNdEtieXZHNHMwRFhNdWU3NEFybDFoQUUweXQzYkJRSl83X3JDRnNiYUNLbjhQUngxUUFOcmtlc3BsbzlOWnVuV0dZcDFwRENlN29rRmgyc0FB0gGgAkFVX3lxTE11U3ZpU3RrZ2dvODJNM0p5amtsWDU2cnhDbHZKLVFwU3NaMXJEOGgxb3NzMjVETk1xNGRweTgxem41emk1UFNlbHN2MU0tNkI1WEVrVlF3eDFTdmpLM0NUZkY4cW5fYW8ydjRWa1NKYmRTMFVIMnhFX2w0ajJlYmN3T0hDcTF6ZnhlX0h1Y3E0dEM5enk3SGZJMUg2cnZpUU9fZF8xdW5hZ2FzOEpaME44TW9xd1A3WVhBNVFVMlRybE9rOUVFWjhGOWFkVW96M0tEMTlkNUtRQklUdmRwVzNNYjJJY0UzWlotSHBIbW1iWm8taFhPUnNXNzlKM2pKb3p1UGZwVFlDOUJNeGlNYmVNd250RHA4R3lNVVR1LV9PMw?oc=5",
-      "source": "news.com.au",
+      "source": "News.com.au",
       "publishedAt": "2026-09-09T02:22:16.000Z",
       "summary": "",
       "categories": [
@@ -926,7 +920,7 @@
     {
       "title": "BTN High: Federal Budget BTN High",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BQlc3bzlWZjhEOV9CbE5iNElvbk13N1c3Nmo1d0IxNXhmUFRXZlB3Nms1YlBDSkRFdkpuUUdkeG1UNVJ3WXhTY1NQcVVyVVI0RXZOajI5QVM3eWtTZjJIUHhpNVdwaURrWG9ZN21URlJ3TWxuZ0E?oc=5",
-      "source": "ABC iview",
+      "source": "iview.abc.net.au",
       "publishedAt": "2026-09-09T00:22:15.000Z",
       "summary": "",
       "categories": [],
@@ -972,7 +966,7 @@
     {
       "title": "Govt’s hidden housing bombshell revealed",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQUJJMjFrRkdzdWdPNjdueFA5amtmRjVHSHdaRnFQYzJfMjRJUFJmT3hvRjRRNUJVQWtpMV9WcVZoVTc1OGJMaEh4Ui14MlpqZlZlbURPQ0xPRUw4ZF82d3FJTl9INDllMDdjVURQN21CYTRXY05Vd3JvX1ZVc0x3OHczNXR6UjFWX1NtS0d4elhmV0hVVEpVRnc5QTJPZ2VCTGw2bEpvazdqU0VvYnZOUGVBUHpGcm5nUDdQSUJRRDV4OTdvQmtlNVFqZURiR016U0hJWnhLeFk0V0dKbkpsMTM5SVJOWDVRc2ZkMUM1OGLSAfYBQVVfeXFMUFRnaGFVbTk3NWVLYTZtLUJWQUU1T08wemdGLWN5dEFNTkdZbFJKcWNJUk9uUno2ZndvclNqd3FlMjFPd0ZhQ0JZUk5wVmhpMFU0Nkk5TmotbG4zeW1menZqM3pmZXczZkxwUjdWdUpaSjhyMExtNjh2UElRTF8tRWFpN1RYR3I3Z0UwQzBlVkp1UjZ4Tmc4dVhxOE1maXgzaExEbV96bnNRczdKTWhHdzJxVWtJWXpZbUttTVVKLWNRN1JxRU5VbTVhcmpIQkVGUzhVNGVNX0FQUEk4d2t5LWtMWEZ5d0p1WXNpb3dySWpIOUZVOHdR?oc=5",
-      "source": "news.com.au",
+      "source": "News.com.au",
       "publishedAt": "2026-09-07T22:44:50.000Z",
       "summary": "",
       "categories": [
@@ -996,7 +990,7 @@
     {
       "title": "A $3.4b collapse exposes the mess of our housing industry",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3ktcjBVbUdFbDRCRGwxQ0syZ2ZuUGhreXRRZEc5c1pwb0E5MUxjTHhYTkNGNzQ4Tk1EOHVvcF9wNWV5SE1jcDRQd0FPaTNuQ3RmbjVSS0g5bEM1SHFPQjBJYktONEx4OV84bWJVdDN3QUlUYTI4MHQtNW5qT0JDLXhPelJzNlVBTjhrTEM2b1NrakdKUXlnLVF2TjI1OWc?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-09-06T18:30:00.000Z",
       "summary": "",
       "categories": [
@@ -1161,7 +1155,7 @@
     {
       "title": "Course that accepted thousands of international student transfers cancelled",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGtoNGtBQlpyRHF0MHhVRUFoZU9TQ28zUHM4NzlUdzBhVmtxLXRnSHZoY24tS2I2Ujl6N2dGUnNFV21vWFYxYXNnT3F5MEFBc1owY0RMZE1NN3cyZGN3ZExGOXBrTXM3OG9UZGdNbEI4dG5LbjV3OGdXQ2dWUkUxSmFyMU4xaXBZN1A1ZFBRUVNaazdrSlFVTFVrMk5ZblZXMmNCNg?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1223,7 +1217,7 @@
     {
       "title": "Chalmers grilled on house price upheaval",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYUFwYzNCMnNCaUNMVk5KV3VRLXhzczNIbWlQUkFfNG5KSFR0SjVPZ3dRdU9tb2FwM2g2M19fY1dTMzRCZGdGa0VGT0dEaFZrdWViQ2RoNFp1YTNqLU9MbTJqdFNIR1gydTlJSGhBUUR4b0xzTGRuMmlYelRfXzRQNFQ2Z21SQ2V3RUZqVlk0cnk4aDVCY0lTRGJ4WGFwa3Zkek5icU5saGdGbWx1XzJhMy02YTNHcHE1ODVNQVpQLWd3YXRVNzJKSHBuU3MxNEVjUEdIYWhvLW8zN0x0bWd0YlJB0gHnAUFVX3lxTE5SVlNseHNWSEg5LTNJZ1g4a3Fob1QxYUxNNUFEaUJZc2dDQkM5ZDAwYnJpUE5FUEVoSm82WEYwZDJmN001Q2o4dDJSRTRmc0hRZ3RBZ0F5ek5Hc0dRQ3pFSnF4NVJMVmR1c2RZSC1SdWFMZlliV3djdGh5dmx3M00zV3pnQWNqLWxTM3RraWtRM3phY3FxUjdQamtxMnVrRjlrYVIyTjl6cmFnT1VIUUFqVGRtVmZnaTdBeHRIMGVSWFkyZVduQ1d6RWczd2NiWVJ3alUtMXpsVUFlQzZIZmNTRy1LVmdnYw?oc=5",
-      "source": "news.com.au",
+      "source": "News.com.au",
       "publishedAt": "2026-09-02T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1258,9 +1252,22 @@
       "spicy": false
     },
     {
+      "title": "Australian skilled visa processing times: Latest updates",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0hHRXMweGZrZ2VkNlR3MktVN1QxOUZDUHZqNDJteWtsWl8wdlcxWi1wYVByZkhQZFQyY0tvd2ZCcEJxWkZmTWtrTVBaUmFDRFhwTWxRX2JXSXdVNzloOUpidmpSMjNMcm9NQTZpQUpBeG9IUnhZYUQyWXV5aTZUSWFta2lUTG00YXZkU1hmNS1RTHdXWkhBaktxQVBLTFhQb3VQSmJxY28?oc=5",
+      "source": "LinkedIn",
+      "publishedAt": "2026-09-02T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "This abattoir wants to hire 60 people but just one Australian applied",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWJRNk96MTByMDEtQ2dUZXRQMHRCNDhnUVhGaGpuWmMxM3dQQVVOelk2YkpfMms3TXNDazRGYjlpeUNtOEFYUVZvczBXOHg0WWpJVk1kdWhVQ0JtUDFBR1Y4WF93bUhJVnNPeGZpZWljTTlUcExJU29wMndzOS1lcnlMLVZROC01VTg4UkZVVmJOM005b1Z0TGlGN1Zfck10M1E?oc=5",
-      "source": "abc.net.au",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-09-02T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1353,7 +1360,7 @@
     {
       "title": "‘Cautious spending’: Retailer blames budget",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTWY1cmstMDlVQ3FMZWJic29PSEtBSWktWWpJZVRyNnptVU56aHI3QkduaVNVMXAxblBoNngxZDRFMWFrQVJDR2pRak5xdGRCa3N1ZUJJOWJkYmNxSUt2aU9ObkdqTlRDRVB2SHF0RF8tcDZIc2FoekdySHJ0VXQyMWdPYy1yZ0Ezckh1VWYwYUJfMGw3VUUwLTd6UlJ4TDFLNk5EVXZkYkNXam56RUJTVzE1ZG1yM2tfOFVQOXRheXcwdy1rdWlqS3pXNS1NVVJjT2EtRURfTURGWFh5QmEyWUhJYnJ2OFpvVERZV3hnTERTakJ1LW1r0gH8AUFVX3lxTE1nMEpNaUpCa0dXdlZLb2NxRExDZ3kyXzZibm1PSnc2WTZaSXBZVWp4TGswcXpKTzBGNFFHQ3d1cS11U3NmcXFvT1U5M3ZiQUhNb05DU3RWNlZDT2JYYWNCcWpvTWI5bzZsMklPV0ZTNHNiQ2VMTUJpVXpCcFItWTRZRUkzM0kyX0JlLXFmWjBSS0QxZ01GcXd2Q21oUU5XUDhTUmRSbVhfRzR2WkNPYVFhSVNUZllfQ2x6WjhQYVEwVFJZVEYtNndsUXVRWVhua0JvSml3c0dOblQ1VVpkWm45ek40eV9oT2xha2lxMUVVemJpallEMEphd0Z5NA?oc=5",
-      "source": "news.com.au",
+      "source": "News.com.au",
       "publishedAt": "2026-08-28T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1377,7 +1384,7 @@
     {
       "title": "2026-27 NSW Budget Analysis",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WbUdUWGc4MVdFTDNCUkJpb1IwNlVNRk1ZTks3TjF0dE1FNlYwWnAzZUwyMlY0VkRrYXQwcEpWZGVuQm9hMzZJSGRNaWV0T3RZQlBDVEYxTmh4Mm43SjVEYk9jV1p0OHlXcDdmOFFheDBDNVVJcWNPYnhGYnlTRU0?oc=5",
-      "source": "Property Council Australia",
+      "source": "propertycouncil.com.au",
       "publishedAt": "2026-08-27T15:39:02.000Z",
       "summary": "",
       "categories": [],
