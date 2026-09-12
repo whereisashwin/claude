@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-12T10:32:42.014Z",
+  "updatedAt": "2026-09-12T13:58:34.055Z",
   "count": 120,
-  "relevantCount": 47,
-  "spicyCount": 11,
+  "relevantCount": 46,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,13 +33,13 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "ABC iview",
     "AFR",
-    "Australian Aviation",
     "Australian Broker News",
     "Brisbane Times",
     "Crown World Mobility",
     "Fragomen",
     "MacroBusiness",
     "News.com.au",
+    "Nine.com.au",
     "Property Council Australia",
     "Property Update",
     "PwC Australia",
@@ -49,10 +49,23 @@
     "The Conversation",
     "The Guardian",
     "Yahoo Finance Australia",
-    "nine.com.au",
+    "australianaviation.com.au",
     "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Four-year-old dies in house fire east of Cowra",
+      "url": "https://www.abc.net.au/news/2026-09-12/child-dies-woodstock-house-fire-nsw/107147016",
+      "source": "ABC News",
+      "publishedAt": "2026-09-12T10:34:19.000Z",
+      "summary": "A woman and two other children managed to escape the blaze in Central West New South Wales.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "World-first trial finds floating wetlands can cut greenhouse gas emissions",
       "url": "https://www.abc.net.au/news/2026-09-12/floating-wetlands-slash-wastewater-greenhouse-gas-emissions/107075464",
@@ -65,11 +78,11 @@
       "spicy": false
     },
     {
-      "title": "Mother's search for help before son's suicide sparks call for change",
-      "url": "https://www.abc.net.au/news/2026-09-12/darwin-mothers-forum-call-for-change-in-nt-highest-suicide-rate/107141654",
+      "title": "Trindall returns from shoulder dislocation to lead Sharks in finals win",
+      "url": "https://www.abc.net.au/news/2026-09-12/nrl-finals-live-updates-warriors-dolphins-sharks-cowboys/107137540",
       "source": "ABC News",
-      "publishedAt": "2026-09-12T03:12:46.000Z",
-      "summary": "In the jurisdiction with Australia's highest suicide rate, a mother's desperate search for help before her son's death has sparked calls for change.",
+      "publishedAt": "2026-09-12T05:01:19.000Z",
+      "summary": "Four weeks after dislocating his shoulder, Braydon Trindall has returned to lead the Cronulla Sharks to a 26-16 win, advancing to the second week of the NRL finals while knocking out the North Queensland Cowboys.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -94,7 +107,7 @@
       "summary": "Victoria's health minister has described the latest outage, which left dozens of callers struggling to get through to emergency services, as \"incredibly disappointing and unacceptable\".",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -105,7 +118,7 @@
       "summary": "Almost 20 years ago, transport expert Peter Newman called for Bendigo's trams to be used as public transport. Now, Bendigo and Geelong are among several cities across Australia looking to adopt light rail as a potential transport solution.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -116,7 +129,7 @@
       "summary": "Australia is being exploited by an ally that could draw it, however unwillingly, into war with China, experts warn Get our new political email ,",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -127,7 +140,18 @@
       "summary": "Backed by billionaires Gina Rinehart and Kerry Stokes, Pauline Hanson has unleashed on the Coalition MP, but he is showing how to hit back The Populist: a podcast series about how Pauline Hanson’s One Nation is gaining ground in Australia Get our new political email ,",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Nurse wins remote NT by-election, brings Labor to six seats in parliament",
+      "url": "https://www.abc.net.au/news/2026-09-12/rio-tinto-exit-looms-large-over-nt-mulka-by-election/107130274",
+      "source": "ABC News",
+      "publishedAt": "2026-09-11T23:08:05.000Z",
+      "summary": "NT Labor has won the by-election for the seat of Mulka in Arnhem Land, the first time for the party since 2016.",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
       "spicy": false
     },
     {
@@ -158,6 +182,17 @@
       "source": "ABC News",
       "publishedAt": "2026-09-11T21:13:22.000Z",
       "summary": "A NSW couple have lost their court battle to continue living in their tiny home on wheels, which the Australian Tiny House Association says could have implications for all the state's caravan owners.",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Odours and a charred campsite led Mexican police to the bodies of two Australian brothers",
+      "url": "https://www.abc.net.au/news/2026-09-12/mexico-robinson-brothers-carter-rhoad-murder-trial-evidence/107145584",
+      "source": "ABC News",
+      "publishedAt": "2026-09-11T20:10:41.000Z",
+      "summary": "Mexican authorities tell a court in Ensenada of the grim clues that led to the remains of Australian brothers Jake and Callum Robinson and their American friend Carter Rhoad being found.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -272,7 +307,7 @@
       "title": "Chalmers runs out of budget backflips",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVkxmWlJfRGUxVlNIYmNzcGtxRmlQLW5landndDBGald3a3dueFdjcjdHd3ZuT0lZS0Y5SmRyeGdSTW1MbEhjdEVBMjVBeHl1a2RMNUNsU1dRTS03aWlMYlMtOTZ4c0pxSzZNVURPNWI3V3oxME5mTGkwV1VCQ2RIdWFnbGVDWnltdjA3VUE0MjByM1FUZDJPOTZqTjh6WmE2ekt3OWZCUFpOaWFQRVdseWZUdHlQc1NNS1VWc3kwMWpWQmgtVTZzZHVvLTB0bjZSNk9jcTlGOUV3c1FHSVM5MUZmZkc1OU9pWUpaVkhUOEFLd29aZGd2UW9PVng1eUFzSXVnQlBrTWZBVDlSSUJ30gGUAkFVX3lxTE8zQUVBeV9uejlteXMwQXNRNnZhYkxONS1qOUlXUUl0ck94TEZRaVhZUjZ0T1MteG1kOXl0YklkeDBFOHJXel91YXNYQ1V5cm1lbnFiQnlPb0piVjJlUzRqVmltbkJsT2lhV0FRdlVPRlZsbnRzUjJMTGpibTdvUFd2QXFSNUg3X25xR09VanlidkNnWWtZNEdERlYxSlBxSnBhbUp1Qkh4VFFEbkM5NTJZN21pTTF6aFA1Mm9iZzViQk9oN09XVy0xcVBsZTRFZ1lnVXVoUHN6NlJkX2tZdDVsMmJQTGpBOERzeVQwNktVbEhFdXFsR0tadWJId3JpeUdmV0tRQkowMW9RU1lLMGl4ZzJGTw?oc=5",
       "source": "The Australian",
-      "publishedAt": "2026-09-11T12:15:00.000Z",
+      "publishedAt": "2026-09-11T12:15:55.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
@@ -763,11 +798,22 @@
       "title": "Chalmers’ trust bog hole sinking family ties as well as aspiration",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTDhzVTVXcDRmX0QwZXYzenphSmRXb2JpVVNqMy1KSERwa09ldTFhZUZRVkI5NHZTejVwRVJCdmFWMTlWSExuOE5POEpCYVF2N2pjeXppdVZkZU5kZHdDYWNJVDBDb3pfZ01HX3J1TWNGQkdaTnl3WHNyVHJoak5OQVVsOGV3aHI0ZVp6X0FqWVJOcXhiQVdVZUNSQ2dBSUs0MjdGM0NJZVdHeVNQYkpNanNOaTRPcU9qNW94bWdkV2t4Q05zdEpfT3oyT3J3OWZyQUd2UkthX29URGg4VVpxaVJnRV9oTGNhOGVxTWxweWpaeV9UUFh30gH8AUFVX3lxTFBwZjh1S3Z5aU1EbXprb3FlakVldW5tbS1XOG1hZHlMaG8zZ1Y0M2I2X1NDcEJyZ0lmbHRfUTNncVUwR2QzLW1XT1VjVkNvNXExODlyTlNPSnl4Y0JYdEVGVzczYk5qaGFYdDJPR0RBdlVqajJ0SHlUNGx4SW1oRllPZGUzU24tMFdYRUc1NnRlS3A1VlA3dzNuSGs2T1ItRlJSZVlIVUFzQlhqZjB5ZFZhTGlHSVB0NGwxVFVhREp0TzlsbE9Qbk4yTF9zMXdMbkkxbFU2UGRXUXZMTGVLWnQtRmtCcTZSNGJkLUY0VUhfekpEd1RTRVlHYjBzXw?oc=5",
       "source": "The Australian",
-      "publishedAt": "2026-09-10T01:25:34.000Z",
+      "publishedAt": "2026-09-10T00:53:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "50 trending suburbs where more buyers are hunting for homes",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmZjNURVeHUwa25XY05wYUUtNS05dmJ5TEtxc3BGVjdEeEZVSzYzU1hXdDROc2VWaTVHbzJTUC15azN0elRnQU9OdjYxVnVYT3FCUXpVU0xCZ3ZlX183bGhoM1daMWpYUXZWeEgtTHhiZXNSQzZsUEc5bm9qM1BacmNsS2k3Vm0xdnZMY2JHYXJfWGRmRUw5SG1kYw?oc=5",
+      "source": "realestate.com.au",
+      "publishedAt": "2026-09-10T00:18:21.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
       "spicy": false
     },
     {
@@ -933,20 +979,6 @@
       "spicy": false
     },
     {
-      "title": "Treasury warned Chalmers tax changes would lift rents and lower prices",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2E3VmpTM0NpNTJlbzlQREFCWG5jVERneU9sVTFJOHdwVm1ldENuZ0FHV0Z1OE83VVRWMk1HdzczbVlSOHdnRzFDWDZmSjlkX3I4MzhqaHJUeGUzNXpCclM0d05SRGFYRi1mYUxmWWwxNkNTX01VaElFUVI5cFZWWXI0R2FhX1BFSGZaSEUwbFUtUnlUZkY1MUF1ZWtVckVSb21JVFMybWVoMWZyLXVuWVQzZEVLWEJhMVVycTFn?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-09-07T07:42:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 7,
-      "spicy": true
-    },
-    {
       "title": "A $3.4b collapse exposes the mess of our housing industry",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3ktcjBVbUdFbDRCRGwxQ0syZ2ZuUGhreXRRZEc5c1pwb0E5MUxjTHhYTkNGNzQ4Tk1EOHVvcF9wNWV5SE1jcDRQd0FPaTNuQ3RmbjVSS0g5bEM1SHFPQjBJYktONEx4OV84bWJVdDN3QUlUYTI4MHQtNW5qT0JDLXhPelJzNlVBTjhrTEM2b1NrakdKUXlnLVF2TjI1OWc?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1101,7 +1133,7 @@
     {
       "title": "Housing crisis will take a generation to fix, says NAB chief economist",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREpGZk85UGo5Wm1kNkNFb2N4M09tREx0TklJaVFLNkM5WlBUMWRPNzRrbFkyT2FLOUwxazQxb3V4MC03ZU54SWEtZ3UyYi1pR0FMbnlsVTFTM25UX1JQNTItRU4zVDEwRkxtdmtZWTRXVFVsWGRWX05jaEx0LVlJb1JCOFUyRWdzOFFrZy15SnVDNjNaX1lCN0x5Z3lMdFN3RTBCaXl2REFzRXdUajVGNG96RS1mVjZFakZEd0RaSHJReG8xU2stRA?oc=5",
-      "source": "nine.com.au",
+      "source": "Nine.com.au",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1128,7 +1160,7 @@
     {
       "title": "Money matters: what’s in the federal budget for aviation?",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnQ1aWw4dW5tUk1hZzRGMXU4cEd4SDJCMlZlZXdyYl9tS0VPTDdzMk5pY0ZyMmNRYkhIOHJWMmJzSm05ejhOVXRDR1MxS19sZDM5UXNXTTVmci0xbUxhQV83Z1FyUWFLTjBzSkRKbVI5RVVQc0VFUmxPVkMtYU1pZnZ6eTNSUXp6ZW4xd0NGV2RFYTFkR3pHa00zWHNaQQ?oc=5",
-      "source": "Australian Aviation",
+      "source": "australianaviation.com.au",
       "publishedAt": "2026-09-03T02:18:20.000Z",
       "summary": "",
       "categories": [],
@@ -1434,41 +1466,6 @@
       ],
       "relevant": true,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Trillion-dollar trip-wire snares special agent of Treasury",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTXNEbXNrN2VURUtEQzRKbUdwWVBLZFNlRHI3NDA1b1BzMzRuYmdmdzhSYnA3ekdlQWt4WjFFOFI2eE00WjdKR29IT1ZzTDczMWtudGw3dDF3cldOdmZ2UERuQWRYaGloM1NoanNfdVpFMDR4TVlYV3FDeVl5TnV6S0NLbGNBNldQU05HZ0pmMENKSzlfX0w0aW5ROHhKbWFDbWZwb0JZdG1jM3l1VExmd2dNYmJwREpYc0FNZ1V4RThCMnB1elZ6M2N4OFF5T2VSMEtaQ2J6dzBfVDBzT281Ykh2U3NYUDJReTVpV29hcjRPZ0JuWld6SDBoZVFieHVi0gGGAkFVX3lxTFBNU0xFa3pjQkFMMW9pN1RGRFdQVGFOTlJvei1JUWVORkhHeXJ0WkhfLUpPdi14d1pDR1ZQM1hseUsxbFljckRJcHVZMDRQQkxDU1FKWnVhQTdXd3BudXQ2aGtGX0NvYXdUUlVZYkJ6UTRoUFpRZm9Wall5MkhwQW1SUWJCeUdqeDZsdmdXSjFLR2Z6TVRoQXVobS1UVk1KMm1WNjBHZFJiRzRhcEdtMTUyWGJ6dHdodnZiQzFUcEkzRUJzZlFvamFrZjJSbzVPNnBsZGJteEFrWm9Uem43MDdsX3NoVy1aRTFvTlhvcldmaER4NlRkWXZ0U3BuRWxPLVFNQTFRNEE?oc=5",
-      "source": "The Australian",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Debt bomb explodes for trillion-dollar man Jim Chalmers",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX1Y3dldFLVpjMlg1QnhlZmlna29DYy11STFvQVdMZFVXVUd6LUVDWUc5Qk5uWjExOWY2S2gtUnNlV2lQVUV5b2lHUXlreE1RYUFOaGRuVTVHSk1zLVFvOS1wLWVHc04zSVgxZ1lFd0t5VUlJNm1oNFBZdG5PRnZIOTJHOXVCQUtNMDZFXzZYdEN0UnRJMl9FazYxRkJ3RzdVNmpRejhDc0ZkT2tUSkN2elhwZldkZVpPZzktSk1GOG5ORm9aMXBmYmRPeXg1ZXZ6SXY0UWxib1lSdV9JZ1NHRjExVU1BUlhvX3UxZUN2bU5nd3lW0gH6AUFVX3lxTE1aTHRfdkpiRkRyazdvblFXMlVoVWJkSlZMdjM3VWZOaFF0Rll5M2p5M2U1UkhIOTU3RTNkT19qTFcwSGVwdUlBNmgyTUI4X1czVWNHV2cybUpVNTdPNFBaUURjel9va2diMXdPTHNWTVk4Qk94WWh6cV9aMmtXcl84SEk3S1ZJUHVaZWl3VUdzQTd5YWhXWWZiOVF5R1VnczlZTElCSGhHcTZqdTNmT1UzX3hnQUdVcXdpZGo3RkJpdnhnVzA5R0M5ZDltdWZNTlRtd2NfUGUwTWVaNTJjRlVDd2dzWU5heTVhU1g3RFlld19oOGJoVG1mcEE?oc=5",
-      "source": "The Australian",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "First-home buyers face ‘brutal battle’ for affordable property despite market slowdown",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR09RNzVDTVRCaVl3aVRGY1dzSU12d0dzLUhwNXE5cVRrNEwwU05Lc0t0RHRmcmgzOFFnQUIzWVVKVHNqQ08xS2tvbl80NS1BLUN5YmIwUjJobVEyRHRlSlEwVGRpdHRBUHpFVGF3aUZFdmdRZVkzX1JBSWNnQ2pucXg4WHNIM0VuTnBwb0JlZU9OUWI4RVVLcUp5NVo1VnNZNkI4d1JJeWNoVHVyaEdXd3l1MlViT0tVbXB3?oc=5",
-      "source": "realestate.com.au",
-      "publishedAt": "2026-08-19T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     }
   ]
