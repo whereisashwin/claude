@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-12T21:34:58.400Z",
+  "updatedAt": "2026-09-12T23:54:17.194Z",
   "count": 120,
-  "relevantCount": 45,
+  "relevantCount": 44,
   "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
@@ -30,17 +30,16 @@
   ],
   "sources": [
     "ABC News",
-    "ABC News & Headlines – Australian Broadcasting Corporation",
+    "ABC iview",
     "AFR",
     "Australian Aviation",
-    "Australian Broker News",
     "Australian Conveyancer",
-    "Brisbane Times",
     "Crown World Mobility",
     "Fragomen",
     "LinkedIn",
     "News.com.au",
     "Nine.com.au",
+    "Property Council Australia",
     "Property Update",
     "PwC Australia",
     "SMH.com.au",
@@ -48,12 +47,35 @@
     "The Australian",
     "The Conversation",
     "The Guardian",
+    "WAtoday",
     "Yahoo Finance Australia",
-    "iview.abc.net.au",
-    "propertycouncil.com.au",
+    "abc.net.au",
+    "brokernews.com.au",
     "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Australia news live: escalating Middle East conflict will see prices rise again, Chris Bowen says",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-12T23:46:41.000Z",
+      "summary": "The energy minister says Australia has 41 days’ worth on petrol in strategic reserve.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "'Bad language, threats': WA politicians have had enough of copping it online",
+      "url": "https://www.abc.net.au/news/2026-09-13/social-media-tests-wa-politicians-boundaries/107143006",
+      "source": "ABC News",
+      "publishedAt": "2026-09-12T21:59:43.000Z",
+      "summary": "Scrutiny and abuse are all in a day's work for politicians, but for Liberal, Labor and One Nation representatives in Western Australia, social media has proved to be a particularly nasty beast this week.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Wallaroos scare England but fail 'mission impossible'",
       "url": "https://www.abc.net.au/news/2026-09-13/wallaroos-scare-england-but-lose-in-salford/107147694",
@@ -754,14 +776,14 @@
     {
       "title": "Affordable regional pockets emerge as buyer search hotspots",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWVsRjRNTXVFQ2VhV3lhaHV4bGZpZmo1VGZJSjlRVERRYU5HMFRoS2FkaV9XWU8wWEV4cHdSeUthYzRoSlN6VE1rS3lqZWxLTmE0dENlYUFOZ0VKWWRLUG02bVhydVVETFFicHRMUWZaQTVUQ0NvNnFFY3RGeU13YjlUejRGejFwQnhrczlFbDBWMi1tRzJIeHpVUGtQVExxbkpENTRtWHVkWVNOb3JZUXpoczdlcFVoT1A5TA?oc=5",
-      "source": "Australian Broker News",
+      "source": "brokernews.com.au",
       "publishedAt": "2026-09-10T06:18:50.000Z",
       "summary": "",
       "categories": [
         "Housing"
       ],
       "relevant": true,
-      "score": 0,
+      "score": 3,
       "spicy": false
     },
     {
@@ -784,17 +806,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "ABC and the Guardian call on One Nation to reverse media ban amid censorship concerns",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/10/guardian-australia-abc-media-ban-one-nation-pauline-hanson-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-10T05:37:58.000Z",
-      "summary": "News outlets raise alarm after being barred from media events and condemn offensive comments made by party director James Ashby",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
       "spicy": false
     },
     {
@@ -842,19 +853,6 @@
       "spicy": false
     },
     {
-      "title": "High-end property hit by steepest price falls as affordable end of Australia’s housing market proves resilient",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/10/high-end-property-biggest-price-fall-housing-market-australia",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "summary": "Despite falls in some parts of the market, prices are showing signs of stabilising as investors exit and first-time buyers move in, analysts say",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Why the horror warnings about Australia’s ‘collapsing’ housing market are absurd – and very much in bad faith | Greg Jericho",
       "url": "https://www.theguardian.com/business/grogonomics/2026/sep/10/why-the-horror-warnings-about-australias-collapsing-housing-market-are-absurd-and-very-much-in-bad-faith",
       "source": "The Guardian",
@@ -879,6 +877,19 @@
       "relevant": true,
       "score": 6,
       "spicy": true
+    },
+    {
+      "title": "High-end property hit by steepest price falls as affordable end of Australia’s housing market proves resilient",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUF3bkxjQTRGb092NWN1QjQtcG9KNXVsVWdneG1QZ2FYbkVPUFJIZlZMS0llcXFxNi1vd05mTWxjeERPUWhNWi1YUzNvUG41N3RaQTB4SEFWUlFPRDlnWS1ORDVXN3cxOUFBWl9laXYyVkpUZnQtdGNsQUtvS2REaFBoMVhoRjIyVlo4NWlGZnk4dkY1VFp0MU5faWNDc0YxMW51cHpWc0p0YmRyRDFMMGRlRk1pNkU?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-09T14:01:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
     },
     {
       "title": "RentTech companies asking tenants for personal details ‘completely outside’ new Victorian laws",
@@ -923,7 +934,7 @@
     {
       "title": "BTN High: Federal Budget BTN High",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BQlc3bzlWZjhEOV9CbE5iNElvbk13N1c3Nmo1d0IxNXhmUFRXZlB3Nms1YlBDSkRFdkpuUUdkeG1UNVJ3WXhTY1NQcVVyVVI0RXZOajI5QVM3eWtTZjJIUHhpNVdwaURrWG9ZN21URlJ3TWxuZ0E?oc=5",
-      "source": "iview.abc.net.au",
+      "source": "ABC iview",
       "publishedAt": "2026-09-09T00:22:15.000Z",
       "summary": "",
       "categories": [],
@@ -993,7 +1004,7 @@
     {
       "title": "A $3.4b collapse exposes the mess of our housing industry",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3ktcjBVbUdFbDRCRGwxQ0syZ2ZuUGhreXRRZEc5c1pwb0E5MUxjTHhYTkNGNzQ4Tk1EOHVvcF9wNWV5SE1jcDRQd0FPaTNuQ3RmbjVSS0g5bEM1SHFPQjBJYktONEx4OV84bWJVdDN3QUlUYTI4MHQtNW5qT0JDLXhPelJzNlVBTjhrTEM2b1NrakdKUXlnLVF2TjI1OWc?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-09-06T18:30:00.000Z",
       "summary": "",
       "categories": [
@@ -1133,8 +1144,8 @@
     },
     {
       "title": "Housing showdown: Chalmers on budget defence as Liberals warn of market crash",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQlFTMkxfT3VkellFcEtvUFRGOV9qcC0zSHpMLUt3c0hETHJSQXg5ZDdxSDdydFVoSmduZ1BfY0N6WUEzMzQyWm9GS05aSG5iaGZEMDJhQ3FXbEJhOWMxQUpHQVNJYUdBaDQ3VEZTRzdIc2tlTjFoT2tYdXFHbktFSUhMR3BibVV3ZG5SY1BhdmtONnlHY0FYZGZUMHpoclp4bkJIS0lTcFEwZ2lrRWtBYlhBeGhTc2RSZHc3b29rYVBpTGhTRWR0MVNaRTVmYkhpWDVSX1piYi0zdmhWTHMteQ?oc=5",
-      "source": "Brisbane Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTjdaajlZb2phenNLZi13b0FxZmFFVUhpa3ZIWVBuVXY2NFZrYTVpd2pmNXgtcmFacW9IS1o4QWo4YjBmeW1Qck5ZZmZHVnFoWUR0c19QRGtsRHUzY3p6aF9oM1Rsd3RHQVJsd1UxWWxMMk9FdEpuVU9jamRPSTB1SGpQN3RTNkUxRHhlUng1aUZaQ2NyVXYzdnRpU1lrYWhRN0FHNFd6REVlR0pKZ1Rkd3ZXUVZTX2wtWVFjZlpNTkZyeU1zWTRQOHZzS1gzU2Ffb1dRSk85cDM?oc=5",
+      "source": "WAtoday",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1160,7 +1171,7 @@
     {
       "title": "Course that accepted thousands of international student transfers cancelled",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGtoNGtBQlpyRHF0MHhVRUFoZU9TQ28zUHM4NzlUdzBhVmtxLXRnSHZoY24tS2I2Ujl6N2dGUnNFV21vWFYxYXNnT3F5MEFBc1owY0RMZE1NN3cyZGN3ZExGOXBrTXM3OG9UZGdNbEI4dG5LbjV3OGdXQ2dWUkUxSmFyMU4xaXBZN1A1ZFBRUVNaazdrSlFVTFVrMk5ZblZXMmNCNg?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1259,7 +1270,7 @@
     {
       "title": "This abattoir wants to hire 60 people but just one Australian applied",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWJRNk96MTByMDEtQ2dUZXRQMHRCNDhnUVhGaGpuWmMxM3dQQVVOelk2YkpfMms3TXNDazRGYjlpeUNtOEFYUVZvczBXOHg0WWpJVk1kdWhVQ0JtUDFBR1Y4WF93bUhJVnNPeGZpZWljTTlUcExJU29wMndzOS1lcnlMLVZROC01VTg4UkZVVmJOM005b1Z0TGlGN1Zfck10M1E?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "source": "abc.net.au",
       "publishedAt": "2026-09-02T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1376,7 +1387,7 @@
     {
       "title": "2026-27 NSW Budget Analysis",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WbUdUWGc4MVdFTDNCUkJpb1IwNlVNRk1ZTks3TjF0dE1FNlYwWnAzZUwyMlY0VkRrYXQwcEpWZGVuQm9hMzZJSGRNaWV0T3RZQlBDVEYxTmh4Mm43SjVEYk9jV1p0OHlXcDdmOFFheDBDNVVJcWNPYnhGYnlTRU0?oc=5",
-      "source": "propertycouncil.com.au",
+      "source": "Property Council Australia",
       "publishedAt": "2026-08-27T15:39:02.000Z",
       "summary": "",
       "categories": [],
@@ -1454,19 +1465,6 @@
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "One Nation migration policy in a shambles after Farley comments",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTjlHLWtIREZEbFc0WHFnTHBLZUVXeTA2eG52NEhTZ2FNRDZzZVdwNlRHMHM5ZEVGWnJRUWpsZ2FXRUxKNWJUdk9NNm9qdFQ5RXJjbElfc0NidlpMT3VDaXVqOUI4Y1dCblRNRWNZcVgzY1lhTWZUUHZqV3ZJUEJMTldrWUlfNEVTSjhhMVVCbkFTTmEwYlYyQ1NURjM5LVZYWU4zZGJZa1daRTJadDdQeTFUNEltUlU?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-08-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
       "spicy": false
     }
   ]
