@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-13T23:04:08.484Z",
+  "updatedAt": "2026-09-14T01:29:38.207Z",
   "count": 120,
-  "relevantCount": 50,
-  "spicyCount": 12,
+  "relevantCount": 49,
+  "spicyCount": 14,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -36,7 +36,11 @@
     "Australian Aviation",
     "Australian Broker News",
     "Australian Conveyancer",
+    "Crown World Mobility",
+    "Fragomen",
+    "LinkedIn",
     "News.com.au",
+    "Nine.com.au",
     "Property Council Australia",
     "Property Update",
     "PwC Australia",
@@ -45,26 +49,84 @@
     "The Australian",
     "The Conversation",
     "The Guardian",
+    "The National Law Review",
+    "The Nightly",
+    "WAtoday",
     "Yahoo Finance Australia",
-    "crownworldmobility.com",
-    "fragomen.com",
-    "linkedin.com",
-    "natlawreview.com",
-    "nine.com.au",
     "realestate.com.au",
-    "watoday.com.au"
+    "theguardian.com"
   ],
   "items": [
     {
-      "title": "Politics live: Joyce backs Hanson on comments about Albanese’s mother; electrifying push for Australians to save $5,000 a year",
+      "title": "Australian politics live: Hastie urges deal with US to get AI model; Taylor says Hanson’s comments on PM’s mother ‘off limits’",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-09-13T22:59:24.000Z",
+      "publishedAt": "2026-09-14T01:13:40.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 4,
       "spicy": false
+    },
+    {
+      "title": "'Sydney Sweeney, do better': Aussie Olympians pillory sport betting ad",
+      "url": "https://www.abc.net.au/news/2026-09-14/athletes-criticise-sydney-sweeney-sport-betting-ad/107149776",
+      "source": "ABC News",
+      "publishedAt": "2026-09-14T00:55:31.000Z",
+      "summary": "A slew of elite athletes take aim at Sydney Sweeney for setting back women in sport over an advertisement for a sports betting company featuring the actress mostly nude.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Mary Gaudron, Australia's first female High Court judge, dies aged 83",
+      "url": "https://www.abc.net.au/news/2026-09-14/australia-first-female-high-court-judge-mary-gaudron-dies/107149916",
+      "source": "ABC News",
+      "publishedAt": "2026-09-14T00:37:05.000Z",
+      "summary": "Pioneering Australian judge Mary Gaudron has been honoured for her contributions to Australia's legal landscape after her death at age 83.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "ASX edges higher, oil rises; Fed meeting in focus",
+      "url": "https://www.smh.com.au/business/markets/asx-eyes-gains-wall-street-rises-fed-meeting-in-focus-20260914-p60wzq.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-09-14T00:32:42.000Z",
+      "summary": "The Australian sharemarket has opened higher while oil prices have advanced in early Asian trade, regaining most of their losses over the weekend.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "One Nation vows to cut migration by 750,000, sparking fears for key industries including aged care",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/14/one-nation-new-migration-plan-cut-750000-aged-care-impact-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-13T23:39:48.000Z",
+      "summary": "New immigration policy has attracted bipartisan condemnation, with Labor warning it would damage construction, healthcare and agriculture",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 8,
+      "spicy": true
+    },
+    {
+      "title": "One Nation unveils 'breathing space' plan for net-negative migration",
+      "url": "https://www.abc.net.au/news/2026-09-14/750k-visas-cut-under-one-nation-plan/107149702",
+      "source": "ABC News",
+      "publishedAt": "2026-09-13T23:31:12.000Z",
+      "summary": "One Nation unveils its plan to slash immigration by 750,000 places over three years, with major cuts targeting international students and the families of skilled migrants.",
+      "categories": [
+        "Visas & Migration",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 10,
+      "spicy": true
     },
     {
       "title": "One Nation reveals ‘net-negative’ migration plan that would slash 750,000 visas",
@@ -82,13 +144,15 @@
       "spicy": true
     },
     {
-      "title": "Australia's 'incognito' nuclear reactor marks 20 years of innovation",
-      "url": "https://www.abc.net.au/news/2026-09-14/ansto-opal-nuclear-reactor-celebrates-20-years/107132928",
-      "source": "ABC News",
-      "publishedAt": "2026-09-13T22:04:27.000Z",
-      "summary": "Australia's only nuclear reactor is celebrating 20 years of producing vital ingredients for lifesaving medicine, critical electronic products and groundbreaking research.",
-      "categories": [],
-      "relevant": false,
+      "title": "Working holiday visa pause leaves farms short as harvest season looms",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlVIeEZEVHZIOC0wT3RmN3dKcmlCUWlEZ1RCbEJtc0p2akRxMGNKYkdwc3diN0JRSFZpT204SlVucE5RbFdCYm5Xc2xpUy10ZmtQd0t2ZnVwd2VKVTBSUUdyeXRrX0hTdzhDV0dRaDE4YWRWNjVlU0paVVE1cUdMQW8yMGhEMlFtazI2dHNWUC1XYy11cmJfbzhiSko?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-09-13T22:05:20.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
       "score": 4,
       "spicy": false
     },
@@ -115,20 +179,6 @@
       "relevant": false,
       "score": 6,
       "spicy": false
-    },
-    {
-      "title": "Live: One Nation reveals plan to cut migration by 750k over three years",
-      "url": "https://www.abc.net.au/news/2026-09-14/politics-live-blog-one-nation-migration-parliament-sept-14/106327416",
-      "source": "ABC News",
-      "publishedAt": "2026-09-13T21:06:07.000Z",
-      "summary": "One Nation will today unveil plans to cut Australia's temporary migration program by targeting international students and families of skilled migrants.",
-      "categories": [
-        "Visas & Migration",
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 8,
-      "spicy": true
     },
     {
       "title": "Hyper-scale data centre could draw quarter of Queensland's power usage",
@@ -160,30 +210,6 @@
       "summary": "A plan to build a 280-turbine wind farm on public land on Tasmania's west coast is being touted as an economic boon, but it's also stoking fears for native wildlife.",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Wind farm proponent wants to build 280 turbines on public land",
-      "url": "https://www.abc.net.au/news/2026-09-14/proposed-tasmanian-wind-farm-whaleback-ridge/107134730",
-      "source": "ABC News",
-      "publishedAt": "2026-09-13T19:40:14.000Z",
-      "summary": "A plan to build a 280-turbine wind farm on public land on Tasmania's west coast is being touted as an economic boom, but it's also stoking fears for native wildlife.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "ASX eyes gains, Wall Street rises; Fed meeting in focus",
-      "url": "https://www.smh.com.au/business/markets/asx-eyes-gains-wall-street-rises-fed-meeting-in-focus-20260914-p60wzq.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-13T19:24:45.000Z",
-      "summary": "The Australian sharemarket is set for a positive start to the week after US stocks rebounded as oil prices eased and an update on inflation across the United States came in close to economists’ expectations.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
       "score": 4,
       "spicy": false
     },
@@ -228,19 +254,6 @@
       "summary": "In both Liberal and Labor research on how to meet the growing electoral threat from One Nation, one piece of advice does not change.",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "In the kaleidoscope of Australia's system, who gets to define a migrant?",
-      "url": "https://www.abc.net.au/news/2026-09-14/migration-definition-visa-holder-refugee-resident-national-forum/107109056",
-      "source": "ABC News",
-      "publishedAt": "2026-09-13T18:44:23.000Z",
-      "summary": "Migrants can be perceived as visa holders, refugees, asylum seekers, permanent residents, short term visitors and sometimes even citizens who speak or look differently.",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
       "score": 4,
       "spicy": false
     },
@@ -315,7 +328,7 @@
     {
       "title": "GIEC Global Australia Explains How New 2026 Skilled Visa Processi",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUzBHTS1LQlZINHFvaW1DbGdfeHNRTllLd2tiX0pGNzFtS1BydHFlTDczTzk1b2ZFNVJYMW91VnVYYUp0elZ2VVZlV1FfMGNGVllxRmxwN3VrZThtaW9sQllsa3IwZ2t4VUd2VkZqRVJIZlVQN3Z0NFlIQ2Rkd2F1NTRWbUxId2xWeTQ5MWphb3FXYnZualFJZnZKdWpuNlE5ZERMVVRVME9WcmM?oc=5",
-      "source": "natlawreview.com",
+      "source": "The National Law Review",
       "publishedAt": "2026-09-13T14:57:34.000Z",
       "summary": "",
       "categories": [
@@ -731,17 +744,6 @@
       "spicy": false
     },
     {
-      "title": "Sarah Hanson-Young on big tech’s ‘attack on democracy’ - podcast",
-      "url": "https://www.theguardian.com/australia-news/audio/2026/sep/11/sarah-hanson-young-on-big-techs-attack-on-democracy-australian-politics-podcast",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-11T02:30:52.000Z",
-      "summary": "This week, the Albanese government released its draft digital duty of care legislation and announced reforms to allow social media users to opt out of algorithms. The Coalition has ruled out their support, so the Greens will be crucial to the changes passing the Senate. Political editor Tom McIlroy ",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Mining safety regulator warns against 'unprecedented' vapes in mines",
       "url": "https://www.abc.net.au/news/2026-09-11/contraband-vape-warning-for-coal-mines/107142456",
       "source": "ABC News",
@@ -776,17 +778,6 @@
       ],
       "relevant": true,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Tony Abbott says it would be ‘right’ for One Nation to remove cartoon labelling Andrew Hastie a ‘traitor’",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/11/tony-abbott-says-it-would-be-right-for-one-nation-to-remove-cartoon-labelling-andrew-hastie-a-traitor-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-10T22:34:25.000Z",
-      "summary": "Former prime minister joins in widespread condemnation of ‘offensive’ animated series posted on social media by One Nation",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -908,7 +899,7 @@
     {
       "title": "High-end property hit by steepest price falls as affordable end of Australia’s housing market proves resilient",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUF3bkxjQTRGb092NWN1QjQtcG9KNXVsVWdneG1QZ2FYbkVPUFJIZlZMS0llcXFxNi1vd05mTWxjeERPUWhNWi1YUzNvUG41N3RaQTB4SEFWUlFPRDlnWS1ORDVXN3cxOUFBWl9laXYyVkpUZnQtdGNsQUtvS2REaFBoMVhoRjIyVlo4NWlGZnk4dkY1VFp0MU5faWNDc0YxMW51cHpWc0p0YmRyRDFMMGRlRk1pNkU?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-09-09T14:01:00.000Z",
       "summary": "",
       "categories": [
@@ -1124,7 +1115,7 @@
     {
       "title": "Minimum Salary Changes Announced",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5",
-      "source": "fragomen.com",
+      "source": "Fragomen",
       "publishedAt": "2026-09-04T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1148,7 +1139,7 @@
     {
       "title": "Housing showdown: Chalmers on budget defence as Liberals warn of market crash",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTjdaajlZb2phenNLZi13b0FxZmFFVUhpa3ZIWVBuVXY2NFZrYTVpd2pmNXgtcmFacW9IS1o4QWo4YjBmeW1Qck5ZZmZHVnFoWUR0c19QRGtsRHUzY3p6aF9oM1Rsd3RHQVJsd1UxWWxMMk9FdEpuVU9jamRPSTB1SGpQN3RTNkUxRHhlUng1aUZaQ2NyVXYzdnRpU1lrYWhRN0FHNFd6REVlR0pKZ1Rkd3ZXUVZTX2wtWVFjZlpNTkZyeU1zWTRQOHZzS1gzU2Ffb1dRSk85cDM?oc=5",
-      "source": "watoday.com.au",
+      "source": "WAtoday",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1161,7 +1152,7 @@
     {
       "title": "Housing crisis will take a generation to fix, says NAB chief economist",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREpGZk85UGo5Wm1kNkNFb2N4M09tREx0TklJaVFLNkM5WlBUMWRPNzRrbFkyT2FLOUwxazQxb3V4MC03ZU54SWEtZ3UyYi1pR0FMbnlsVTFTM25UX1JQNTItRU4zVDEwRkxtdmtZWTRXVFVsWGRWX05jaEx0LVlJb1JCOFUyRWdzOFFrZy15SnVDNjNaX1lCN0x5Z3lMdFN3RTBCaXl2REFzRXdUajVGNG96RS1mVjZFakZEd0RaSHJReG8xU2stRA?oc=5",
-      "source": "nine.com.au",
+      "source": "Nine.com.au",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1246,7 +1237,7 @@
     {
       "title": "Australian skilled visa processing times: Latest updates",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0hHRXMweGZrZ2VkNlR3MktVN1QxOUZDUHZqNDJteWtsWl8wdlcxWi1wYVByZkhQZFQyY0tvd2ZCcEJxWkZmTWtrTVBaUmFDRFhwTWxRX2JXSXdVNzloOUpidmpSMjNMcm9NQTZpQUpBeG9IUnhZYUQyWXV5aTZUSWFta2lUTG00YXZkU1hmNS1RTHdXWkhBaktxQVBLTFhQb3VQSmJxY28?oc=5",
-      "source": "linkedin.com",
+      "source": "LinkedIn",
       "publishedAt": "2026-09-02T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1361,19 +1352,6 @@
       "spicy": false
     },
     {
-      "title": "Why Labor’s federal budget changes could send Australian rents soaring",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGtrQVRzcVUxbHVWZGNNSXprQ1NQNzZSTzdaM1NRYVFJcHZkdjd6bkFOSnphYXlnTGNVLXJhMkd6YkFtRks1SnlKdVFrYkhDbU0yaXFOc0NDOC1CWVpySi11VllsSm9ZZkVuMklzZzhhdURROGpvSWhrMjd2OEFHSlZrcU1YNVBkWTNmOERBQTJYc211NnVUMHAxTE1TVmljeUE?oc=5",
-      "source": "Property Update",
-      "publishedAt": "2026-08-28T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 2,
-      "spicy": false
-    },
-    {
       "title": "2026-27 NSW Budget Analysis",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WbUdUWGc4MVdFTDNCUkJpb1IwNlVNRk1ZTks3TjF0dE1FNlYwWnAzZUwyMlY0VkRrYXQwcEpWZGVuQm9hMzZJSGRNaWV0T3RZQlBDVEYxTmh4Mm43SjVEYk9jV1p0OHlXcDdmOFFheDBDNVVJcWNPYnhGYnlTRU0?oc=5",
       "source": "Property Council Australia",
@@ -1387,7 +1365,7 @@
     {
       "title": "Immigration weekly update: August 27, 2026",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlRPR2tZTExzSllMeFJjTDFnd1J4WERuaFFrTXNFMWZkcFg2aGp3dnlpZ0o0TlpxZmFFX3VlLVU1MENUYl9HNHJMYjlNc0UxMVI1X251Wm94dGtna3BGOG9WTzlRTkxLOXhrVW1vVXNrV1VPVGZyd0lVWFk0Z3pJbzdFQUlod21YSkFXMkpNMmM?oc=5",
-      "source": "crownworldmobility.com",
+      "source": "Crown World Mobility",
       "publishedAt": "2026-08-27T12:21:07.000Z",
       "summary": "",
       "categories": [
@@ -1417,19 +1395,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Tax attack: Business to serve it up to PM over dinner after Labor’s budget changes",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMlN6RXZjdjY2b1hURE9pS2Q3WjlpRDdibFJCTHZhVDhJN1d6REFYM3Bid0ExZy1ja1RJdDl1elNaR01fN0JoNjZMbDZRWnZrNmxycGFnLW9jcXlRdVJMQmlTVGNHN1NWbVdpV3E1YlJNWFI5VnFtZ184X3hNWjNlc3NpRHBTdzhFOTQwY2R5ek4wRXVUV3lkc0FrZTlnYUFpYWlJdmJXWDNkZEg2NVBlclBpaVNrTHczTGhEMGJZc2RIMndhSjROQVNnbzBpUV91T0xSVkV0QUZxQ2diWmZF?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-08-24T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     },
     {
@@ -1481,6 +1446,41 @@
       "relevant": true,
       "score": 3,
       "spicy": false
+    },
+    {
+      "title": "Debt bomb explodes for trillion-dollar man Jim Chalmers",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX1Y3dldFLVpjMlg1QnhlZmlna29DYy11STFvQVdMZFVXVUd6LUVDWUc5Qk5uWjExOWY2S2gtUnNlV2lQVUV5b2lHUXlreE1RYUFOaGRuVTVHSk1zLVFvOS1wLWVHc04zSVgxZ1lFd0t5VUlJNm1oNFBZdG5PRnZIOTJHOXVCQUtNMDZFXzZYdEN0UnRJMl9FazYxRkJ3RzdVNmpRejhDc0ZkT2tUSkN2elhwZldkZVpPZzktSk1GOG5ORm9aMXBmYmRPeXg1ZXZ6SXY0UWxib1lSdV9JZ1NHRjExVU1BUlhvX3UxZUN2bU5nd3lW0gH6AUFVX3lxTE1aTHRfdkpiRkRyazdvblFXMlVoVWJkSlZMdjM3VWZOaFF0Rll5M2p5M2U1UkhIOTU3RTNkT19qTFcwSGVwdUlBNmgyTUI4X1czVWNHV2cybUpVNTdPNFBaUURjel9va2diMXdPTHNWTVk4Qk94WWh6cV9aMmtXcl84SEk3S1ZJUHVaZWl3VUdzQTd5YWhXWWZiOVF5R1VnczlZTElCSGhHcTZqdTNmT1UzX3hnQUdVcXdpZGo3RkJpdnhnVzA5R0M5ZDltdWZNTlRtd2NfUGUwTWVaNTJjRlVDd2dzWU5heTVhU1g3RFlld19oOGJoVG1mcEE?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Treasury’s forecasts were simply pie in the sky, Jim",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPOEZIMnpVRVRBTEFZVkFINjBKMDlESjN0cW5rRS1CRUdQb2RRTVVzV2h3RlY2cE40SWJvSkhSUjlramFQRHl5STVnSkFhVERYUTZGd2JnT3FNOVFWMEZpbTEtd1JndGF6YzFQNkR6TUlfS0lOS0J3RDQzRk1WOHN3UmVmazBhUkRzOEt6U0ttd2t3T21XcTkzOFFLZmtRcmREaE9oU20ycUVVa1VhWjcwMThoYzhQeURYNDZKQ29CMktwVG40NFJFeHJZQk5QcjBMX3AtOHJCeDR4bHBGTnVVRXlicndzZkI0MzhPY25rNU1Pa0REQXJxMnpOcGhuYkY50gGGAkFVX3lxTE93bE1fbTlfd2c5Rnc0a2VseFI0TWpPM2Z2Ymx5RUwtUVJ4VjBvSTZyVlRhWTE4OGJUT0xiLUdDZUlRVmxhdGRoaU1PR1BFUkVfTWNpV1luNzhYTzFWV1FiWnJzeUxiY3RESXR0VzFYdjl0QWZOQW5vT0l5ZHJYMDU2Qnp0ZlE3ZEM5U2JUY25Fd3R5LXhwalhYc1BTRXR4OEFFTEtwZWtkeDVoVERHLTlxZHBCMDF3R08tcGE1aklCbi12UFROTFNPZXN3ZGo3LVVMaGVhVTR5ZkdLb2k4eUZKWldUWWRjX3RZYXpiclY3VkZPVHpNQ1JkaFBlMUZ5eTVYbDBoVVE?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Chalmers insists on $2 a week rent rise despite dire warning",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbF9ncXZNZXl3ZEFDZEdnRndwYjlwUm1sYkp3Y05ZLUQ0aEVuWmJGVzhYaHcyLUMyaVdHN1hlWmRaZGgwcHdDR09xdXhrTHBhZDNHN1ZTRU52T2plVHhjRlo4Qng2MlBXcl8tZ2dQOURSd3hNUFZ6QnUwN0VzRG5ITDRPdE9SejhSeUJTLW1OTDFOaUtjalp4WnJGbG9Od0dSRUNtYkRKSHdmUTNuSmFlOFFsRHJ0MWc2S1NzdWtENFo1SVNPOV9aYmtzWmtVcmtMZUNGU2g4dWFPODVTME82U3ZFMEkyZw?oc=5",
+      "source": "The Nightly",
+      "publishedAt": "2026-08-18T02:35:58.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": true
     }
   ]
 }
