@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-15T21:09:35.382Z",
+  "updatedAt": "2026-09-15T23:38:20.485Z",
   "count": 120,
-  "relevantCount": 50,
-  "spicyCount": 11,
+  "relevantCount": 49,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -33,7 +33,6 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Australian Aviation",
-    "Australian Broker News",
     "Crown World Mobility",
     "Domain",
     "LinkedIn",
@@ -43,33 +42,114 @@
     "Property Update",
     "SMH.com.au",
     "Sydney Morning Herald",
+    "The Australian",
     "The Conversation",
     "The Guardian",
     "WAtoday",
     "Yahoo Finance Australia",
     "aapnews.aap.com.au",
+    "brokernews.com.au",
     "realestate.com.au",
-    "theaustralian.com.au",
+    "theguardian.com",
     "whitecase.com"
   ],
   "items": [
     {
-      "title": "NSW One Nation leader vows to fight for abortion controls",
-      "url": "https://www.abc.net.au/news/2026-09-16/one-nation-nsw-leader-mike-newman-addresses-abortion-rally/107157640",
+      "title": "Australian politics live: NSW One Nation leader clarifies anti-abortion comments; Butler defends $5m sports club upgrade",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-15T23:19:37.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "AI data centre provider could become one of Australia's biggest stock floats",
+      "url": "https://www.abc.net.au/news/2026-09-16/data-centre-firmus-courting-investors-ahead-of-share-float/107154842",
       "source": "ABC News",
-      "publishedAt": "2026-09-15T20:50:32.000Z",
-      "summary": "The NSW leader of One Nation has told a rally outside state parliament that he will seek tighter controls on abortion if his party is successful in the March election.",
+      "publishedAt": "2026-09-15T23:18:58.000Z",
+      "summary": "AI data centre developer Firmus Technologies is seeking financial backers ahead of a multi-billion-dollar share market float next month, with one expert saying \"mum and dad investors\" are likely targets.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Historic outback pub hits the market as restoration costs soar",
+      "url": "https://www.abc.net.au/news/2026-09-16/cornwall-hotel-for-sale-in-boulder-amid-construction-challenges/107139622",
+      "source": "ABC News",
+      "publishedAt": "2026-09-15T23:06:42.000Z",
+      "summary": "A heritage-listed hotel in Western Australia's Goldfields, infamous for its connection to the murders of two police officers a century ago, hits the market with an asking price of more than $1 million.",
+      "categories": [],
+      "relevant": false,
+      "score": 9,
+      "spicy": false
+    },
+    {
+      "title": "Fishers fund independent review in last-ditch effort to overturn gillnet ban",
+      "url": "https://www.abc.net.au/news/2026-09-16/gillnet-fishers-independent-review-great-barrier-reef-fishery/107154774",
+      "source": "ABC News",
+      "publishedAt": "2026-09-15T22:52:24.000Z",
+      "summary": "The North Queensland fishery produces between 200 and 300 tonnes of seafood annually, with some fishers fearing there is no viable replacement for gillnets.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Live: ASX to recover from three-month low, surging oil prices drag Wall Street lower",
+      "url": "https://www.abc.net.au/news/2026-09-16/asx-markets-business-live-news/107157842",
+      "source": "ABC News",
+      "publishedAt": "2026-09-15T21:53:06.000Z",
+      "summary": "The Australian share market is likely to rise slightly and bounce back from its three-month low. Wall Street extended its sell-off as oil prices spiked on further signs of disruption in Saudi Arabian crude supplies.",
       "categories": [],
       "relevant": false,
       "score": 4,
       "spicy": false
     },
     {
-      "title": "Australian politics live: Lambie compares ‘dangerous’ Hanson to Trump; NSW One Nation leader wants abortion ‘stopped’",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb",
+      "title": "By the time Thanasi's mother gets a visa, his childhood will be over",
+      "url": "https://www.abc.net.au/news/2026-09-16/family-visa-plea-migration-immigration-policy/107106288",
+      "source": "ABC News",
+      "publishedAt": "2026-09-15T21:34:28.000Z",
+      "summary": "Six-year-old Thanasi does not know about Australia's immigration policy. He just wants to be with his Kenyan mother.",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Government accused of throwing creatives ‘under the bus’ with proposal to ease copyright protections for AI giants",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/16/pocock-says-labor-easing-copyright-protections-for-ai-datacentre-investment-would-throw-creatives-under-the-bus",
       "source": "The Guardian",
-      "publishedAt": "2026-09-15T20:43:05.000Z",
-      "summary": "",
+      "publishedAt": "2026-09-15T21:29:11.000Z",
+      "summary": "Proposals revealed as senior personnel from OpenAI, the creator of ChatGPT, met with Albanese ministers",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Live: Former spy boss says 'ball was dropped' in Australia following October 7 attacks",
+      "url": "https://www.abc.net.au/news/2026-09-16/federal-politics-live-blog-september-16/107156754",
+      "source": "ABC News",
+      "publishedAt": "2026-09-15T21:07:55.000Z",
+      "summary": "A former spy boss says \"the ball was dropped\" following the October 7 attacks and Australia needs to draw a clearer line on what is deemed acceptable amid the rise in antisemitism.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "NSW One Nation leader vows to fight for abortion controls",
+      "url": "https://www.abc.net.au/news/2026-09-16/one-nation-nsw-leader-mike-newman-addresses-abortion-rally/107157640",
+      "source": "ABC News",
+      "publishedAt": "2026-09-15T20:50:32.000Z",
+      "summary": "The NSW leader of One Nation has told a rally outside state parliament that he will seek tighter controls on abortion if his party is successful in the March election.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -155,7 +235,7 @@
       "spicy": false
     },
     {
-      "title": "Cases of domestic violence 'disproportionately high' in country communities",
+      "title": "Why domestic violence cases are 'disproportionately high' in country communities",
       "url": "https://www.abc.net.au/news/2026-09-16/domestic-and-family-violence-in-regional-rural-australia/107125302",
       "source": "ABC News",
       "publishedAt": "2026-09-15T19:08:33.000Z",
@@ -199,22 +279,11 @@
       "spicy": false
     },
     {
-      "title": "Documents spark 'due diligence' question over Labor's $5m election pledge",
+      "title": "Labor encouraged council to ask for millions of dollars in grants process",
       "url": "https://www.abc.net.au/news/2026-09-16/federal-politics-labor-pledged-5-million-election-soccer-grant/107155218",
       "source": "ABC News",
       "publishedAt": "2026-09-15T18:48:00.000Z",
       "summary": "Labor urged a local council to seek election funding for an Adelaide soccer precinct before the project had been fully scoped, costed or designed.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
-      "title": "'Strictly adult entertainment': Celebrating 50 years of The Muppets",
-      "url": "https://www.abc.net.au/news/2026-09-16/muppets-50th-anniversary-richard-bradshaw/107124176",
-      "source": "ABC News",
-      "publishedAt": "2026-09-15T18:30:00.000Z",
-      "summary": "It's been 50 years since The Muppet Show hit TV screens around the world. For one Australian puppeteer, it was the adventure of a lifetime.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -249,7 +318,7 @@
       "url": "https://www.theguardian.com/australia-news/audio/2026/sep/15/is-andrew-hastie-launching-a-coalition-fightback-against-one-nation-full-story-podcast",
       "source": "The Guardian",
       "publishedAt": "2026-09-15T15:00:55.000Z",
-      "summary": "As One Nation squeezes the Liberal vote, Andrew Hastie’s clash with Pauline Hanson over a video calling him a traitor has exposed deep faultlines across the Australia’s political right. So is the MP becoming the face of the Liberal party fightback against One Nation? And what does this battle mean f",
+      "summary": "As One Nation squeezes the Liberal vote, Andrew Hastie’s clash with Pauline Hanson over a video calling him a traitor has exposed deep faultlines across Australia’s political right. So is the MP becoming the face of the Liberal party fightback against One Nation? And what does this battle mean for t",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -260,7 +329,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/sep/15/is-pauline-hanson-marching-australia-towards-a-brexit-style-hostility-to-reason",
       "source": "The Guardian",
       "publishedAt": "2026-09-15T15:00:53.000Z",
-      "summary": "Despite the limited logic of One Nation’s vibes-based politics, it’s not hard to see why dismissing experts might be a winning political position",
+      "summary": "Despite the limited logic of One Nation’s vibes-based politics, it’s not hard to see why dismissing experts might be a winning political position Listen to Guardian Australia’s podcast The Populist here Get our new political email ,",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -270,7 +339,7 @@
       "title": "Australian capital gains tax changes for foreign residents",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTMya25yWnRvUnlCX2RpalNXQkRoc2U0UFEzbHd0c0FiaHc5VU9rWkYya3J5VWpVTnlETGEtTlJhOWRuYVVwQUluYUZWaXVGaVpEc3RZLThsbndsUnJzRHRmejVodGFnLW04NzY2VEg5VTBJc1g3SFVieGRTSFdCNFFFYWxTSlE1NXVEYmVHQjdxaXhfVHc3MmJn?oc=5",
       "source": "whitecase.com",
-      "publishedAt": "2026-09-15T11:55:54.000Z",
+      "publishedAt": "2026-09-15T12:00:00.000Z",
       "summary": "",
       "categories": [
         "Tax"
@@ -287,7 +356,7 @@
       "summary": "Copyright holders such as authors, musicians or publications could be given the right to opt out, but the AI giants would be free to use any other material.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -667,17 +736,6 @@
       "spicy": false
     },
     {
-      "title": "Major private hospital operator to be divided up following financial collapse",
-      "url": "https://www.abc.net.au/news/2026-09-14/healthscope-split-receivers-calvary-healthe-consortium/107151964",
-      "source": "ABC News",
-      "publishedAt": "2026-09-14T07:32:54.000Z",
-      "summary": "Australia's second-largest private hospital operator will be divided between a consortium after it went into receivership last year.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Jacinta Price turns on Pauline Hanson over ‘primitive’ Indigenous comments",
       "url": "https://www.smh.com.au/politics/federal/jacinta-price-turns-on-pauline-hanson-over-primitive-indigenous-comments-20260914-p60x8f.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -750,17 +808,6 @@
       "spicy": false
     },
     {
-      "title": "Major caravan manufacturer shuts leaving customers in the dark",
-      "url": "https://www.abc.net.au/news/2026-09-14/australian-off-road-caravan-company-shuts-its-gates/107150896",
-      "source": "ABC News",
-      "publishedAt": "2026-09-14T06:44:01.000Z",
-      "summary": "Sunshine Coast's Australian Off Road campers have ceased operations, and customers say they have been unable to contact the company.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Pauline Hanson’s comments about Indigenous Australians condemned as ‘nasty’ and ‘derogatory’",
       "url": "https://www.theguardian.com/australia-news/2026/sep/14/pauline-hansons-comments-about-indigenous-australians-condemned-as-nasty-and-derogatory",
       "source": "The Guardian",
@@ -770,19 +817,6 @@
       "relevant": false,
       "score": 3,
       "spicy": false
-    },
-    {
-      "title": "New report lays bare public housing 'failures' in WA's far north",
-      "url": "https://www.abc.net.au/news/2026-09-14/kimberley-housing-maintenance-report-chronic-delays/107143672",
-      "source": "ABC News",
-      "publishedAt": "2026-09-14T04:52:44.000Z",
-      "summary": "Almost 70 per cent of public housing tenants in Western Australia's remote Kimberley region are waiting on urgent repairs, research has found.",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 8,
-      "spicy": true
     },
     {
       "title": "One Nation unveils 'breathing space' plan for net-negative migration",
@@ -891,27 +925,14 @@
       "spicy": false
     },
     {
-      "title": "Property stylists rue federal budget devastation",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZTF6OWdfRTcyajhVN0VCYlhid09QdHUxZ0ZzYzhlVnBBZ3BZSVc4M3g5eHNNSHFzdGVFNkxfRW1PLTdRcEtrS3VMQThqTlUxMzl4M04xVk40cVR4N0NYOHRxY2VOV3NXNnhJaXpnX0w1cHI5NjdoUUdHVVBEcWdidE9RdVJPbGNNdHZiTzBGNnNGcGdaSmFQdG9BVExzRUdGZC1kbndTUVBRQ29tX1RIV01RSDJjVGtXdkR5ZXZ3Rnh6dTVfeExtOGNSV0cwT1otYzhDUkhSYzMwRUJlQ1BpNDluVzE3N2ZBZ19MM0J0S0dwVWtsVFBnR1dZVUFCdUZPMHdWNGdoWEowNFFJYkVSSdIBlgJBVV95cUxQV19YQnQ1VmtTalFRakNVMTFRQXZpR1lNVkJXOW1hMHFtZzdkaU1FSjB4aE42TDNkdDJxMS0yMW85Vk9ob2ktWjdMd2RhdFN0YUU1NGpDRHVQdHVhdEx4Y2VHcHBEelRUb2hZMFpfVnlfQThFbmRadTVXWklBN0c2LUlCOUJpRWZPcE4zTk1XLVpKYndUSWJLeXo1dTE0MEEzY2RJRUVrTXcyblBOcnJHUUp0U3dxcjk1M3hMZk84R21kT1pneXl2X0ZsUnVFcmFPN2NhRDNNUjdabW5YeW1XVWI5OHBoOTBEaXNydmJiMC1yQVQzeURWeFprTGdyUUU1M2tMX0R5ckR6ejhxVC1pMXRuSnpGZw?oc=5",
-      "source": "theaustralian.com.au",
-      "publishedAt": "2026-09-12T14:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Chalmers runs out of budget backflips",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVkxmWlJfRGUxVlNIYmNzcGtxRmlQLW5landndDBGald3a3dueFdjcjdHd3ZuT0lZS0Y5SmRyeGdSTW1MbEhjdEVBMjVBeHl1a2RMNUNsU1dRTS03aWlMYlMtOTZ4c0pxSzZNVURPNWI3V3oxME5mTGkwV1VCQ2RIdWFnbGVDWnltdjA3VUE0MjByM1FUZDJPOTZqTjh6WmE2ekt3OWZCUFpOaWFQRVdseWZUdHlQc1NNS1VWc3kwMWpWQmgtVTZzZHVvLTB0bjZSNk9jcTlGOUV3c1FHSVM5MUZmZkc1OU9pWUpaVkhUOEFLd29aZGd2UW9PVng1eUFzSXVnQlBrTWZBVDlSSUJ30gGUAkFVX3lxTE8zQUVBeV9uejlteXMwQXNRNnZhYkxONS1qOUlXUUl0ck94TEZRaVhZUjZ0T1MteG1kOXl0YklkeDBFOHJXel91YXNYQ1V5cm1lbnFiQnlPb0piVjJlUzRqVmltbkJsT2lhV0FRdlVPRlZsbnRzUjJMTGpibTdvUFd2QXFSNUg3X25xR09VanlidkNnWWtZNEdERlYxSlBxSnBhbUp1Qkh4VFFEbkM5NTJZN21pTTF6aFA1Mm9iZzViQk9oN09XVy0xcVBsZTRFZ1lnVXVoUHN6NlJkX2tZdDVsMmJQTGpBOERzeVQwNktVbEhFdXFsR0tadWJId3JpeUdmV0tRQkowMW9RU1lLMGl4ZzJGTw?oc=5",
-      "source": "theaustralian.com.au",
+      "source": "The Australian",
       "publishedAt": "2026-09-12T01:44:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 0,
+      "score": 3,
       "spicy": false
     },
     {
@@ -928,14 +949,14 @@
     {
       "title": "Rents to rise ‘five times’ Jim’s claim, modelling warns",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQajlpREhOcTVCZjZTMW56VkxhREZDdDV6QkxLcHFVc1pQMXNCRUswdW5jSUgwU2RPcHNPaWNoT0lUWC1ySExYNm1xYXhaTDBZcUZDRlZNblhyRU5ram1ULVVhN19QNHFsLUNsY3VSTDBZck14TVgzNU1NMUh2VzhVa0lwRnpLbmZWTF9mOF96Z0dJLXBvZXJFNjBHVWtJT2U2LWRQV0cwb3c2RXZTSEtkcUlpRW5pcFlMTmdIVVcxNk5sMENiaWRNLW1jcW5FOUdUSEtKNGJ5QkJyQmvSAeABQVVfeXFMTjRpeWQ4Ui1jRUdCUVpBTWM4b1NCNmk2dzVVZFU1OUhmRFBBaU5VMVVKZHZ0djFrR0NCWTZ2dUpJUUpNLVE5LUdzc2hMQkxseF9xVWh4V05mVFlvekZRdjQ3QnBjaDlDMzVnbVhpeDR1Mld6Vi1ISk5SQ1A3TEJycmtyVnJJR1B3LS1lSTUyd0FJWjlZZWRjVHA3VVBISXU0dGhmOGgzOHpqZHRleDg0N2NHY1BROUI1UXVzU2ZSdDRqV0c3ZHFXUUpkYkFYa3BfUGgtb1p0b2c3X2djaDRXMWU?oc=5",
-      "source": "theaustralian.com.au",
+      "source": "The Australian",
       "publishedAt": "2026-09-11T00:20:00.000Z",
       "summary": "",
       "categories": [
         "Housing"
       ],
       "relevant": true,
-      "score": 2,
+      "score": 5,
       "spicy": false
     },
     {
@@ -952,14 +973,14 @@
     {
       "title": "Affordable regional pockets emerge as buyer search hotspots",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWVsRjRNTXVFQ2VhV3lhaHV4bGZpZmo1VGZJSjlRVERRYU5HMFRoS2FkaV9XWU8wWEV4cHdSeUthYzRoSlN6VE1rS3lqZWxLTmE0dENlYUFOZ0VKWWRLUG02bVhydVVETFFicHRMUWZaQTVUQ0NvNnFFY3RGeU13YjlUejRGejFwQnhrczlFbDBWMi1tRzJIeHpVUGtQVExxbkpENTRtWHVkWVNOb3JZUXpoczdlcFVoT1A5TA?oc=5",
-      "source": "Australian Broker News",
+      "source": "brokernews.com.au",
       "publishedAt": "2026-09-10T06:18:50.000Z",
       "summary": "",
       "categories": [
         "Housing"
       ],
       "relevant": true,
-      "score": 0,
+      "score": 3,
       "spicy": false
     },
     {
@@ -1002,7 +1023,7 @@
     {
       "title": "High-end property hit by steepest price falls as affordable end of Australia’s housing market proves resilient",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUF3bkxjQTRGb092NWN1QjQtcG9KNXVsVWdneG1QZ2FYbkVPUFJIZlZMS0llcXFxNi1vd05mTWxjeERPUWhNWi1YUzNvUG41N3RaQTB4SEFWUlFPRDlnWS1ORDVXN3cxOUFBWl9laXYyVkpUZnQtdGNsQUtvS2REaFBoMVhoRjIyVlo4NWlGZnk4dkY1VFp0MU5faWNDc0YxMW51cHpWc0p0YmRyRDFMMGRlRk1pNkU?oc=5",
-      "source": "The Guardian",
+      "source": "theguardian.com",
       "publishedAt": "2026-09-09T14:01:00.000Z",
       "summary": "",
       "categories": [
@@ -1342,14 +1363,14 @@
     {
       "title": "Defence tech entrepreneur fears CGT overhaul-induced ‘wasteland’",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQYUtVZk83RURHaGtaU1BkdV9RX2hDUkpYT0xKR3hNZ3FfdFBJbkdYVkhEdXh5US1ZeDNwejJvbHRGQjBqemdDRUFOYy1vN2J6LVNIQWdXZDJpVTdUTGF4c1BxWldnTlNDajJYcXRrTXZacnR5YXZFV0hqc3ZqOWFrOVZZUXkxNkxmMmt4WDItTk5BV0lTZV9FWDdUZW9rLVJXc2hjN2NGV3BCLVR4OFBsUGxlTURSelY2ZUpTVG1HeldfS2E2LWJNbGJwWW4tUjRNRXMxbVlyRmQ3OHJpMmZNV0pnWFJOZUgyRjJscXZveVdjSi04ZWQwTE1WekVvZjl2Vlg0WklB0gGLAkFVX3lxTE1qYko2Q3BISC1SaTYzSi1wampNLUFpYjd1ZmJIYWtWYU1hS0MwZG9CVEl6cEZueFlqakU1WkpmMzNGellIZThlUFNkSnZkSjFwbm0ta1ZCQ3hOMnAxcDNtSkM2eEtuMy10MXFMcVpuN0ltZkstQjVBR0lyRGdrOTJwU2ZrVjVVVUZHYmNGYzNZQl9EUUlmeFhDcW12b24wTlItSHJydm5xYV9oUzlMcklNSEpMSUxIQ0hZc213RFVxQjNFc3BtNml2VGt4LThwY0dQdUQzcXhsLWlCSmpqLWZQODdqYTVHQ0RsSG1EanQ5LWg0RzVabllWdzlrS0FXN2pDd21tMkJvZnprVQ?oc=5",
-      "source": "theaustralian.com.au",
+      "source": "The Australian",
       "publishedAt": "2026-09-01T07:00:00.000Z",
       "summary": "",
       "categories": [
         "Tax"
       ],
       "relevant": true,
-      "score": 2,
+      "score": 5,
       "spicy": false
     },
     {
@@ -1388,12 +1409,12 @@
     {
       "title": "Chalmers’ AI hopes dashed by Treasury advice",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY1Y4S0NkY1NwenU1WFBTcEhMWDhjekVIU0psSDlqRVk0VldwMUVCSUg1bUowVnR0UWFnTkdSdzhORjdPOWRBVnJEOVh3WmVsc0c1MHdmOVZTNnBkUnh2OTVJT3BNYURxWDQ0NTg3cUcxa3daVFI2Ymw5MXFEeWhnMUlvSzNya2NRbGtXUjZENzFYcDNLUnNfT256NzlnODBBX3hqZGd0dDdIWFdJSE5TR2hvb0dZcThTb2FSdDBFU3VFMEhDV0lvQmw1cmNSWXc2YUE4Tnl3MFNBS0NzM3JmUHRKVGR1YzFadGlZWtIB8gFBVV95cUxNQ2xXMVE4Vl9sM3RkeGNzR0VlazE1RWt2LU9aWHB3azU0aE5iVjZLWHRZMmt2Zk42VnpmS1liMkViNzNoSTljNms1djRJWkFmMWdhMVNDME1BbVctd25HdDN2YlFqNHh3V1dESmNKQTJzZWRvX085WWdkMFhpNE81UEh0RGtaLVRSaDNPYkZHdXI1Z2R4Q0VFNkk4TlpneDJFMnFQMEt5VnljS3k0QUl6TzNVdFUxS293YmozXzNQLXZ0c1pRWGs0R2VTUEVlLUtDdlpsa2gydjE2cFdvMEVwaWxxM19XMWstREozQ0xHdW82UQ?oc=5",
-      "source": "theaustralian.com.au",
+      "source": "The Australian",
       "publishedAt": "2026-08-31T07:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 0,
+      "score": 3,
       "spicy": false
     },
     {
@@ -1453,28 +1474,6 @@
       ],
       "relevant": true,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "What will we get out of the AI boom? The data suggests lots of noisy, energy-hungry datacentres and not much else",
-      "url": "https://www.theguardian.com/business/grogonomics/2026/aug/27/ai-boom-noisy-energy-hungry-datacentres-construction-economy",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-26T15:00:16.000Z",
-      "summary": "Booms in investment usually lead to economic growth. But this one looks unlikely to translate into better living standards for Australians",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "It shouldn’t be a secret who the prime minister has dinner with, and what was discussed. Australians deserve to know | Geoffrey Watson",
-      "url": "https://www.theguardian.com/australia-news/commentisfree/2026/aug/26/it-shouldnt-be-a-secret-who-the-prime-minister-has-dinner-with-and-what-was-discussed-australians-deserve-to-know-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-08-26T03:24:28.000Z",
-      "summary": "Any money being paid to dine with Anthony Albanese should be a matter of public record",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     }
   ]
