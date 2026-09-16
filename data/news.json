@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-16T14:46:04.446Z",
+  "updatedAt": "2026-09-16T18:47:39.481Z",
   "count": 120,
-  "relevantCount": 49,
+  "relevantCount": 50,
   "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
@@ -33,12 +33,12 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Australian Aviation",
+    "Australian Broker",
     "Domain",
     "Fragomen",
     "LinkedIn",
     "News.com.au",
     "Nine.com.au",
-    "Property Council Australia",
     "Property Update",
     "SMH.com.au",
     "Sydney Morning Herald",
@@ -47,12 +47,57 @@
     "The Guardian",
     "The Nightly",
     "WAtoday",
+    "White & Case LLP",
     "Yahoo News Australia",
     "aapnews.aap.com.au",
     "insidestory.org.au",
     "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Sweden's left-wing bloc wins general election by slim margin",
+      "url": "https://www.abc.net.au/news/2026-09-17/sweden-election-result/107149110",
+      "source": "ABC News",
+      "publishedAt": "2026-09-16T17:39:32.000Z",
+      "summary": "The centre-left coalition has secured a one-seat majority over the right-wing bloc that had been in power since 2022.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Labor seats get more than 90% of funding distributed under controversial multi-million dollar grants program",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/16/community-grants-scheme-senate-inquiry-funding-favours-labor",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-16T15:00:24.000Z",
+      "summary": "Guardian Australia analysis adds to concerns over the federal scheme, which is to be the subject of a Senate inquiry Federal Labor seats have received over 90% of funds already awarded in the first five months of a controversial multi-million dollar grants program, adding to concerns over the scheme",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Everything Australians put online could be scraped for AI under proposed new rules. How will you be affected?",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/17/everything-australians-put-online-could-be-scraped-for-ai-under-proposed-new-rules-how-will-you-be-affected",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-16T15:00:23.000Z",
+      "summary": "The Albanese government is considering reforms that give US big tech unrestricted access to Australian content",
+      "categories": [],
+      "relevant": false,
+      "score": 8,
+      "spicy": false
+    },
+    {
+      "title": "In such a rich country, it is shameful how many Australians on jobseeker are dying in desperate poverty | Greg Jericho",
+      "url": "https://www.theguardian.com/business/grogonomics/2026/sep/17/australians-jobseeker-dying-in-poverty",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-16T15:00:22.000Z",
+      "summary": "Lifting the abysmally low jobseeker rate to the poverty line would save thousands of lives Get our new political email ,",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Chalmers wipes more than $500b off nation’s debt – in four decades’ time",
       "url": "https://www.smh.com.au/politics/federal/chalmers-wipes-more-than-500b-off-nation-s-debt-in-four-decades-time-20260916-p60xur.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
@@ -112,17 +157,6 @@
       "relevant": true,
       "score": 8,
       "spicy": true
-    },
-    {
-      "title": "Australia's 43-year MotoGP streak continues with Senna Agius signing",
-      "url": "https://www.abc.net.au/news/2026-09-16/senna-agius-to-race-in-motogp-next-year-with-ktm-tech3/107161508",
-      "source": "ABC News",
-      "publishedAt": "2026-09-16T08:38:50.000Z",
-      "summary": "There will be a full-time Australian rider in motorcycle racing's premier class for the 43rd consecutive year, with 21-year-old Senna Agius signing to race for KTM Tech3 next year.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
     },
     {
       "title": "Discovery of missing woman's car in river heightens family's fears",
@@ -204,17 +238,6 @@
       "spicy": false
     },
     {
-      "title": "'Inhumane and unfair': NDIS clients stuck in hospital for months",
-      "url": "https://www.abc.net.au/news/2026-09-16/tas-three-ndis-clients-stuck-in-north-west-hospital/107158522",
-      "source": "ABC News",
-      "publishedAt": "2026-09-16T07:07:49.000Z",
-      "summary": "A disability advocate says three men being left in a Tasmanian hospital for months because they can't secure extra NDIS support to manage at home is \"inhumane and unfair\".",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Anthropic inks Queensland data centre deal worth five times Olympics budget",
       "url": "https://www.abc.net.au/news/2026-09-16/queensland-data-centre-anthropic-dalby/107160640",
       "source": "ABC News",
@@ -222,7 +245,7 @@
       "summary": "A $32 billion data centre proposed for a site west of Brisbane will be used by AI giant Anthropic.",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 6,
       "spicy": false
     },
     {
@@ -233,7 +256,7 @@
       "summary": "The $32 billion data centre is set to be the largest of its kind in the country, with a power draw comparable to 1.5 million average Australian households.",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 6,
       "spicy": false
     },
     {
@@ -246,7 +269,7 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -260,7 +283,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 3,
+      "score": 2,
       "spicy": false
     },
     {
@@ -271,7 +294,7 @@
       "summary": "Premier describes deal as ‘major win’ that will deliver more jobs for the state and put more energy into its grid",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 6,
       "spicy": false
     },
     {
@@ -285,7 +308,7 @@
         "Family & Education"
       ],
       "relevant": true,
-      "score": 8,
+      "score": 7,
       "spicy": true
     },
     {
@@ -299,7 +322,7 @@
         "Family & Education"
       ],
       "relevant": true,
-      "score": 10,
+      "score": 9,
       "spicy": true
     },
     {
@@ -312,7 +335,7 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -323,7 +346,7 @@
       "summary": "Former spy boss Dennis Richardson has criticised the media's handling of \"blatant antisemitism\" in Australia after the October 7 Hamas attacks and has called for an \"open discussion\" about extremist Islamists without targeting the broader Australian Muslim community.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -336,7 +359,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 1,
+      "score": 0,
       "spicy": false
     },
     {
@@ -347,7 +370,7 @@
       "summary": "A Queensland family that feared 80 years of dairying would end after a contract was not renewed has been offered a last-minute lifeline.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -518,6 +541,19 @@
       "categories": [],
       "relevant": false,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Australian capital gains tax changes for foreign residents",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTMya25yWnRvUnlCX2RpalNXQkRoc2U0UFEzbHd0c0FiaHc5VU9rWkYya3J5VWpVTnlETGEtTlJhOWRuYVVwQUluYUZWaXVGaVpEc3RZLThsbndsUnJzRHRmejVodGFnLW04NzY2VEg5VTBJc1g3SFVieGRTSFdCNFFFYWxTSlE1NXVEYmVHQjdxaXhfVHc3MmJn?oc=5",
+      "source": "White & Case LLP",
+      "publishedAt": "2026-09-15T12:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
       "spicy": false
     },
     {
@@ -823,43 +859,6 @@
       "spicy": false
     },
     {
-      "title": "One Nation’s immigration policy deserves serious discussion – but not for the reason you might think | Alan Gamlen",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/14/one-nations-immigration-policy-deserves-serious-discussion-but-not-for-the-reason-you-might-think-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-14T08:21:20.000Z",
-      "summary": "Its proposal to regulate the size and composition of the temporary migrant population has merit, but other aspects are blunt and punitive The surprising thing about One Nation’s new immigration policy is not that it contains extreme ideas. It is that parts of it deserve serious discussion. The best ",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "One Nation’s plan to cut migration by 750,000 would ‘smash economy’ and force hospitals to close, Labor says",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/14/one-nation-new-migration-plan-cut-750000-aged-care-impact-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-14T08:16:22.000Z",
-      "summary": "Universities Australia says party can’t take skills and jobs out of the country and ‘pretend there will be no consequences’",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Fugitive developer Jean Nassif brags about holding 52% of NSW government’s power in tapped call played to Icac",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/14/sydney-mayor-threatened-secretly-recorded-after-refusing-to-step-down-icac-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-14T07:59:07.000Z",
-      "summary": "Jean Nassif tells inquiry his statements were ‘all talk’ borne from frustration with former building commissioner David Chandler and 2GB radio shockjock Ray Hadley",
-      "categories": [],
-      "relevant": false,
-      "score": 8,
-      "spicy": false
-    },
-    {
       "title": "Pauline Hanson’s One Nation migration plan risks $56b budget blowout",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY0Y5cFZKT0lpaVBTNHNhRjZXd1pubFJMdmJhNnpvUUhwelNqb1BONXNFOTNJdHY5a2xzUEtnT1VHRGt5a0JFZjIzQ1F1NUFpZFpUWi1ReVAyVUNJQ0QwVWRYSHpTUGZjRnVneXlwRXl3cWg0VnRMNlNGV29URHduNWVyc2RkakNaZGoxYVVvcVNnaGRPalJSSDFpaDR6b3N2Nkc0?oc=5",
       "source": "AFR",
@@ -1016,6 +1015,19 @@
       "spicy": false
     },
     {
+      "title": "Affordable regional pockets emerge as buyer search hotspots",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWVsRjRNTXVFQ2VhV3lhaHV4bGZpZmo1VGZJSjlRVERRYU5HMFRoS2FkaV9XWU8wWEV4cHdSeUthYzRoSlN6VE1rS3lqZWxLTmE0dENlYUFOZ0VKWWRLUG02bVhydVVETFFicHRMUWZaQTVUQ0NvNnFFY3RGeU13YjlUejRGejFwQnhrczlFbDBWMi1tRzJIeHpVUGtQVExxbkpENTRtWHVkWVNOb3JZUXpoczdlcFVoT1A5TA?oc=5",
+      "source": "Australian Broker",
+      "publishedAt": "2026-09-10T06:18:50.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "50 trending suburbs where more buyers are hunting for homes",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmZjNURVeHUwa25XY05wYUUtNS05dmJ5TEtxc3BGVjdEeEZVSzYzU1hXdDROc2VWaTVHbzJTUC15azN0elRnQU9OdjYxVnVYT3FCUXpVU0xCZ3ZlX183bGhoM1daMWpYUXZWeEgtTHhiZXNSQzZsUEc5bm9qM1BacmNsS2k3Vm0xdnZMY2JHYXJfWGRmRUw5SG1kYw?oc=5",
       "source": "realestate.com.au",
@@ -1169,6 +1181,19 @@
       "spicy": false
     },
     {
+      "title": "Victoria named most affordable state as rates smash home dream",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzhYd01PTFExbC10cTRuTHczM2dkRU9RMGFUSVVqb2JKM19taU9uWThSdWFqZWktWmgzbE9mUERlNDBKMEZYb3p2ZzhUdTZWUHBZQkNsM2dHUmFiUDlWRmQyZ09DeFNwaVhiYy00Tm5mdUVQRXdwQWVUSmtieDlmT3JCZnp0X2VTWWdXRUEzNHNMa3JaSFRqTFFpMVRYRzQ?oc=5",
+      "source": "realestate.com.au",
+      "publishedAt": "2026-09-05T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "‘Worse than GFC’: Grim reality for homeowners",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSmdTQ2gtVUc0US16eGlHUkROeWh2WFJSRTVLaVBKOEJSQUpaN0E5dnduckRONkJ4ekpaRHVDT3hQeWc5VTVBcnRKY0pEVGQwczNsZENoTGJpejV1UDR2ZDA4RnRjTk9LR3VEUlVaTXg3dGFaU0lqd2RlSTRnVW5jemtLcTNOTzdIbnp4dXo4OXpZQXBjTkVGU0lKQk5tSkFxUVFycHc1cm13TTdVT0NxUEJhT3oyN0xWUW16b1FGNDZ4ZFdmZVdTVUEyTXpFdnVuZnVnS0o1S1lwR3dKUWtmNXZDT29hdU5NbUtkdk9fR08tcC1zbXl0b1hzQkZVTWPSAYQCQVVfeXFMT2JlTFdHQ0FMLVF4cElSWGZWODRKSURxSlhMOE1kdDl0VHd2VGRHR3VWdW5Ic25ZUVg4SGp0cGtlc0FQZGdYc2txclBKdlZpd0puUmI0Um1lUEUycXd0RjZNOE9NRFVGX3U4RFZQbjJGUjlpNlh1NWhESXhLWGRlYU5mSklIZl9VOFhnckNLeFBxRHU2bUI1WW1ReC1ndmZuanhGVXZaMUo2aHVyTGtYYWdzUkZQMFNUazNSejUxYTZqMVBxTlBpVGVfTGxJUXI2TVVfVTRlb2JOX251b0tmeEU3cWtEeGw3YWNVcm5mSjhvYURGc2FlRHk5X0pLZnl2WVVxTFI?oc=5",
       "source": "News.com.au",
@@ -1317,17 +1342,6 @@
       "spicy": false
     },
     {
-      "title": "Bathla went bust building the homes Australia needs most",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOczA4LU9KTmFNUS13bDJoMzgwZ0tmaEJQZlBEZHdjQ29jNTl5TzlfZGsza3I2V21kMkZzcElqelhwUVpTNHlUYUozempCdnJxeFpHY0Y0LWVjUlZ5UDJvQW5PMkZEcURhalV0YnF6bWtvUFBYR2ZGZXlLenRnbjRqVUJKa0lmQS1BTGJDWXFINkNjVm8wVGx6VWZVTGZ1V2YzR3Z0VzhVVERCYldXT0ZUa1hSRQ?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-09-02T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Australian skilled visa processing times: Latest updates",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0hHRXMweGZrZ2VkNlR3MktVN1QxOUZDUHZqNDJteWtsWl8wdlcxWi1wYVByZkhQZFQyY0tvd2ZCcEJxWkZmTWtrTVBaUmFDRFhwTWxRX2JXSXdVNzloOUpidmpSMjNMcm9NQTZpQUpBeG9IUnhZYUQyWXV5aTZUSWFta2lUTG00YXZkU1hmNS1RTHdXWkhBaktxQVBLTFhQb3VQSmJxY28?oc=5",
       "source": "LinkedIn",
@@ -1465,17 +1479,6 @@
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "2026-27 NSW Budget Analysis",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WbUdUWGc4MVdFTDNCUkJpb1IwNlVNRk1ZTks3TjF0dE1FNlYwWnAzZUwyMlY0VkRrYXQwcEpWZGVuQm9hMzZJSGRNaWV0T3RZQlBDVEYxTmh4Mm43SjVEYk9jV1p0OHlXcDdmOFFheDBDNVVJcWNPYnhGYnlTRU0?oc=5",
-      "source": "Property Council Australia",
-      "publishedAt": "2026-08-27T15:39:02.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
       "spicy": false
     }
   ]
