@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-21T14:28:54.456Z",
+  "updatedAt": "2026-09-21T19:42:30.442Z",
   "count": 120,
-  "relevantCount": 74,
-  "spicyCount": 14,
+  "relevantCount": 70,
+  "spicyCount": 15,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -35,8 +35,8 @@
     "Absolute Immigration",
     "Australian Broker",
     "BBC",
+    "CNN",
     "Education News",
-    "Elite Agent",
     "Ethos Migration Lawyers",
     "Indian Link",
     "IndianEagle",
@@ -47,8 +47,8 @@
     "SBS",
     "SMH.com.au",
     "Sydney Morning Herald",
+    "The Australian",
     "The Centre for Independent Studies",
-    "The Conversation",
     "The Guardian",
     "The Koala News",
     "The National Law Review",
@@ -59,14 +59,152 @@
     "insidestory.org.au",
     "news24.com.au",
     "realestate.com.au",
-    "theaustralian.com.au"
+    "theconversation.com"
   ],
   "items": [
     {
+      "title": "Victoria unveils data centre strategy with renewables requirements",
+      "url": "https://www.abc.net.au/news/2026-09-22/victorian-data-centres-policy-renewable-energy-mandates/107178138",
+      "source": "ABC News",
+      "publishedAt": "2026-09-21T19:14:39.000Z",
+      "summary": "Victoria will require new data centres to source their own renewable energy under a strategy unveiled by Premier Ben Carroll.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Why younger Australians are facing a tough economic future",
+      "url": "https://www.abc.net.au/news/2026-09-22/intergenerational-report-tough-economic-future/107178496",
+      "source": "ABC News",
+      "publishedAt": "2026-09-21T19:07:06.000Z",
+      "summary": "In 40 years, with an estimated population of 40 million, Australia will be more indebted and face what increasingly appears to be a permanent budget deficit.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Super wars escalate as Coalition leans in to mortgage plan",
+      "url": "https://www.smh.com.au/politics/federal/super-wars-escalate-as-coalition-leans-in-to-mortgage-plan-20260922-p60z5b.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-09-21T19:04:00.000Z",
+      "summary": "There are growing calls to consider whether the pool of retirement savings can help address contemporary economic problems.",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Albanese signs declaration with world leaders calling for international AI safeguards",
+      "url": "https://www.smh.com.au/politics/federal/australia-joins-call-for-ai-safeguards-amid-warnings-of-out-of-control-risks-20260922-p60zbe.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-09-21T19:01:56.000Z",
+      "summary": "At the United Nations in New York, Prime Minister Anthony Albanese and leaders including Canadian Prime Minister Mark Carney declared that “AI must remain under human direction, oversight and control”.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "‘More power to redheads’: Brethren leader backs Hanson, building nuclear bombs",
+      "url": "https://www.smh.com.au/politics/federal/more-power-to-redheads-brethren-leader-backs-hanson-building-nuclear-bombs-20260922-p60z1i.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-09-21T19:00:00.000Z",
+      "summary": "In a speech praising Hanson, the Exclusive Brethren leader also told his flock Australia should use its uranium to “build a few bombs”.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Why this new Ukraine pact is a war-game changer for Australia",
+      "url": "https://www.smh.com.au/politics/federal/why-this-new-ukraine-pact-is-a-war-game-changer-for-australia-20260922-p60z43.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-09-21T19:00:00.000Z",
+      "summary": "Ukraine is now training NATO forces in drone and electronic warfare. Under a new security agreement, Australia will also benefit from Kyiv’s expertise.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "BYD cuts references to 'China' and 'surveillance' from its privacy policy",
+      "url": "https://www.abc.net.au/news/2026-09-22/byd-ev-privacy-policy-update-china-surveillance-four-corners/107168584",
+      "source": "ABC News",
+      "publishedAt": "2026-09-21T18:52:40.000Z",
+      "summary": "The original policy gave the company almost unlimited powers to collect data on its Australian vehicle owners and broad discretion on how this could be disclosed.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "What everyday Australians want political leaders to hear",
+      "url": "https://www.abc.net.au/news/2026-09-22/your-say-what-everyday-australians-want-political-leader-to-hear/107162938",
+      "source": "ABC News",
+      "publishedAt": "2026-09-21T18:47:13.000Z",
+      "summary": "For the past eight weeks, ABC teams have been talking to thousands of people across the country about what matters to them, and there is a consistent message.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Bye bye, babies: A nation living into its 90s is ageing faster than expected",
+      "url": "https://www.smh.com.au/politics/federal/bye-bye-babies-a-nation-living-into-its-90s-is-ageing-faster-than-expected-20260922-p60z7t.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-09-21T18:25:00.000Z",
+      "summary": "Australia’s population is ageing quickly, driven by a rapid decline in the number of births per woman.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "The two assets booming after tax changes",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNmN4XzY2c2RyeU9laEgtNnVJRVJHcDJRUkQxb3pzcVJTN3JneHRTbzJCVEN3Mm43U19qaEd1NHB4VXQ1enloR1VTY1gzMWMta0pXLXJjV05PaGt0NmNtUEN5WW9IQml5Mkp4YVpTOEVYNGhmVDl3aE9VZE5oVkhhMmZaTS1lV1lqWHZjMTdQQThKRzNTUlBPTVpiYl9GSzhqczlXTDQwY01rQWlGZG9ZeWM0SDFCR1JMNkJ2R1kyVTk5WkI4aU8wc0t1QVhIa3FjYzdOQlNQSG4zYjZxc0tvWHYtMnFHZTUyWHFtcUhpMGpsRjdlYnpXcFJ4aGVRZS04aWNR0gGIAkFVX3lxTE5GTGJId2xRWHZTcnY3TXJKUUhtV3ZuQnVOblRrYTN3WjVUVDVZVHJOclRaWGNVSkhtaVhUN3FnQ1lWM2YtNWkzM1FndG12bFBOdDNZYW1WOE1oYjBPU3VoUGx6YVVkR3NrVWRvVjRsejFmQ09GYVk0TnFQUWpabWlHNEk0R3IyWTNXdmpqdDZnbHJoTGtKZXRkVjFPWjNEMFNKUE1KOFA3dFJfNlVycm9SamxFLUJvNFdXeHFSMUZWblEwT1BYN2dicUtfbTBBWVZjNGxXVVBRM2dtYmw4am13Q0E4Y3dOdWZubnhJMmMxWFU1eDNyVnNDeXlLZnFaQVpjM2h0dFNIag?oc=5",
+      "source": "News.com.au",
+      "publishedAt": "2026-09-21T17:59:38.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Fears of runaway AI spur Australia to join global call for guardrails",
+      "url": "https://www.abc.net.au/news/2026-09-22/australia-joins-global-push-for-ai-controls/107179312",
+      "source": "ABC News",
+      "publishedAt": "2026-09-21T17:56:49.000Z",
+      "summary": "Anthony Albanese and more than a dozen world leaders have issued an urgent plea for global guardrails to ensure AI remains \"under human control\".",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Health, wealth and housing: here’s what forecasters think Australia will look like in 2066",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/22/health-wealth-and-housing-heres-what-forecasters-think-australia-will-look-like-in-2066",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-21T15:00:34.000Z",
+      "summary": "The country will be home to 40 million people, but fewer people will be having even fewer babies",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 7,
+      "spicy": true
+    },
+    {
       "title": "Aussies ‘unfairly punished’ by tax change",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUkJQdHlYY08xcFFWT2daclNlM0ZIWGw2TmlBU0FiQTVrblBvMFJpTHNwVmpBcVJWZldlTTFKOERQVEhseklKdmFabVM4VXl4S3ZaZkJFQnAtRktsNHBlcDBXSHg3UmFGdkVPSmVYR3RRRHpZZXBoUUY1WjUtd01nMVMtSUhWc2lYZTBjVFdQQTdFbHlIcjBzVVdpRjBmVlpBWDBINVc0QmJvR3pYZU0zSVFTV2JWUTBoZGZCTFN0QWdjbTNEczlob3hyYkNXR1NCd1RraXh2dHhZVThtUld3RnlFakhyaXZjWG5DOU9JNzh3SmxGUDVjWW9GejVMTktHbzNJOFk1TUozMEdkbUU0cUg2bHlKd1U?oc=5",
-      "source": "theaustralian.com.au",
-      "publishedAt": "2026-09-21T14:03:14.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTjdXbTlRNTdKcDdfM1I5S0x1Q0hDazVHRzRmRklISFF5cWZtajZBbzliS1BMVGlOR09paGVMVkQtX1BHcFBLMkdTS3lEeUpSY3RKMVJzaURDdU5BUHZRTGRQajEyZ250OWZwTDVtcW8xZVJjVkxwdlJfazJiaWRjUjBzbDhCMTZBckZRN2hyY3d1TE1QVnI4WUVoaURxY2J6YnpHc29iaUdDeWRHb2RPU1BJcnR5V0VfY1UzVUszdnNvU2ZxZ3lRRm9zQ251YzFlU0t4dkpFMTllUHprbkhlTEl0SGVKN19rZ0tnemdLMU5EUFpDMmVOcHhWLU9pZmhv0gGGAkFVX3lxTE5xZ2dLWU1OX2cxYkVrRExlWUNiVVNqME9TTHROZnBJWmpYS0oyNXdZdy1hbk1xdHdzMnJDZHByamZRNm9TSzUyQndWQm8yenNDa0FuRkhNaUg5cEJiaFhoMnF3bnlDMDd4Y2VSSjJEMlJXWlpuemJMaHpsRGRnZk11cVFFQ29pVkFFenp2RjlPb2VkSGkwdFU1R2hpdTc3N0VPX3k0T2FJdk5WTUpRdUdFZVVvT0ZUMlEtbzVUVU5WM1lxZDRJVUlkOXBKVlpQc1FfNzA4Y0Q2QWJ3cmlKN3FyUGsxSHgtU0hDOFRrcEQ5bDNVME9wbGsyYW1uRFl0ajEtbkRJVXc?oc=5",
+      "source": "news24.com.au",
+      "publishedAt": "2026-09-21T14:01:55.000Z",
       "summary": "",
       "categories": [
         "Tax"
@@ -135,30 +273,6 @@
       "spicy": false
     },
     {
-      "title": "'Emaciated' woman never accessed NDIS funding despite approval, inquest told",
-      "url": "https://www.abc.net.au/news/2026-09-21/ndis-access-in-spotlight-at-inquest-into-death-of-nancy-white/107177178",
-      "source": "ABC News",
-      "publishedAt": "2026-09-21T08:53:56.000Z",
-      "summary": "A woman with an intellectual disability who was \"emaciated\" at the time of her death never accessed tens of thousands of dollars' worth of disability support funding despite prior approval, an inquest hears.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Huge super boom after tax changes",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNmN4XzY2c2RyeU9laEgtNnVJRVJHcDJRUkQxb3pzcVJTN3JneHRTbzJCVEN3Mm43U19qaEd1NHB4VXQ1enloR1VTY1gzMWMta0pXLXJjV05PaGt0NmNtUEN5WW9IQml5Mkp4YVpTOEVYNGhmVDl3aE9VZE5oVkhhMmZaTS1lV1lqWHZjMTdQQThKRzNTUlBPTVpiYl9GSzhqczlXTDQwY01rQWlGZG9ZeWM0SDFCR1JMNkJ2R1kyVTk5WkI4aU8wc0t1QVhIa3FjYzdOQlNQSG4zYjZxc0tvWHYtMnFHZTUyWHFtcUhpMGpsRjdlYnpXcFJ4aGVRZS04aWNR0gGIAkFVX3lxTE5GTGJId2xRWHZTcnY3TXJKUUhtV3ZuQnVOblRrYTN3WjVUVDVZVHJOclRaWGNVSkhtaVhUN3FnQ1lWM2YtNWkzM1FndG12bFBOdDNZYW1WOE1oYjBPU3VoUGx6YVVkR3NrVWRvVjRsejFmQ09GYVk0TnFQUWpabWlHNEk0R3IyWTNXdmpqdDZnbHJoTGtKZXRkVjFPWjNEMFNKUE1KOFA3dFJfNlVycm9SamxFLUJvNFdXeHFSMUZWblEwT1BYN2dicUtfbTBBWVZjNGxXVVBRM2dtYmw4am13Q0E4Y3dOdWZubnhJMmMxWFU1eDNyVnNDeXlLZnFaQVpjM2h0dFNIag?oc=5",
-      "source": "News.com.au",
-      "publishedAt": "2026-09-21T08:52:32.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Universal early childhood education better than baby bonus to increase Australia’s birthrate, Labor says",
       "url": "https://www.theguardian.com/australia-news/2026/sep/21/universal-early-childhood-education-better-than-baby-bonus-to-increase-australias-birthrate-labor-says",
       "source": "The Guardian",
@@ -193,7 +307,7 @@
       "summary": "Authorities across Australia's east coast are cracking down on the fishing black market, conducting raids, issuing large fines and crushing boats soon after they seize them.",
       "categories": [],
       "relevant": false,
-      "score": 11,
+      "score": 10,
       "spicy": false
     },
     {
@@ -204,7 +318,7 @@
       "summary": "Dismissed by critics as a mere stunt, the activist group’s viral prank has galvanised its network for a long-term campaign against Pauline Hanson’s party.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -217,7 +331,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -228,18 +342,7 @@
       "summary": "The next general consul to New York chairs Australia Post and is a former News Corp executive",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Australia banned these Chinese CCTV cameras. Now they're turning up in EVs",
-      "url": "https://www.abc.net.au/news/2026-09-21/ev-electric-vehicle-leapmotor-chinese-cctv-cameras-dahua-banned/107142310",
-      "source": "ABC News",
-      "publishedAt": "2026-09-21T05:47:23.000Z",
-      "summary": "Just a year after hundreds of Chinese CCTV cameras were removed from federal government buildings over surveillance fears, cameras from the same company were being used in EVs.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
+      "score": 3,
       "spicy": false
     },
     {
@@ -252,7 +355,7 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -263,20 +366,7 @@
       "summary": "Revised figures show the number of Australians living with migraine is about 4 million, with experts saying it highlights how authorities have been grossly under-reporting the chronic disease.",
       "categories": [],
       "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
-      "title": "Developers warn of project cancellations over trust tax changes",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Y3NUc05VWjdQWnl1MzFpMjBEWFZ0d2tySW4xeTM2Yk8wbTBOYmN3b2hfWVRuYmgzQjZqM2tsT2MwWEl4M2M1bVNNWUZkZ0x2T0xFUENJOEhyWWgxSDFoQWR5dVE5WG1oWExoQ0JEZC1xOHMyVVhvMXlrSk9SUQ?oc=5",
-      "source": "Elite Agent",
-      "publishedAt": "2026-09-21T04:53:03.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 3,
+      "score": 6,
       "spicy": false
     },
     {
@@ -287,7 +377,7 @@
       "summary": "Larvotto Resources has produced a maiden antimony-gold concentrate from its Hillgrove operation in NSW, with offtake deals already locked in with Wogen and Glencore.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -298,7 +388,7 @@
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 1,
+      "score": 0,
       "spicy": false
     },
     {
@@ -311,7 +401,7 @@
         "Family & Education"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -324,7 +414,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -335,7 +425,7 @@
       "summary": "Seventh intergenerational report also outlines how Australia is on the brink of an uncertain age of artificial intelligence",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -473,17 +563,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-09-20T15:00:20.000Z",
       "summary": "Most Australians know the story of Pauline Hanson: the fish and chip shop, the maiden speech, the ‘please explain’. But Hanson’s top adviser James Ashby wields as much – if not more – power over One Nation as Hanson herself. When the party bars media from press conferences, it’s Ashby who makes the ",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Landmark dementia survey finds carers overwhelmed and lonely",
-      "url": "https://www.abc.net.au/news/2026-09-21/dementia-survey-long-wait-diagnoses/107167698",
-      "source": "ABC News",
-      "publishedAt": "2026-09-20T14:12:15.000Z",
-      "summary": "Some Australians are not being connected to any support after receiving a dementia diagnosis and their carers say they are overwhelmed, according to a landmark new survey.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -681,19 +760,6 @@
       "spicy": false
     },
     {
-      "title": "Pride in flag, Western culture, and soldiers in schools: Coalition unveils education plan",
-      "url": "https://www.smh.com.au/politics/federal/pride-in-flag-western-culture-and-soldiers-in-schools-coalition-unveils-education-plan-20260919-p60yr8.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-19T01:58:03.000Z",
-      "summary": "Opposition education spokesman Julian Leeser said Indigenous history and cultural studies must be pared back as test results fall.",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Fishy freight lands in Tasmania ahead of Bass Strait trial",
       "url": "https://www.abc.net.au/news/2026-09-19/kingfish-brought-to-tasmania-blue-economy-zone-bass-strait/107163614",
       "source": "ABC News",
@@ -705,16 +771,16 @@
       "spicy": false
     },
     {
-      "title": "The rice industry is the 'backbone' of this small town, but it's struggling",
-      "url": "https://www.abc.net.au/news/2026-09-19/community-hit-hard-by-job-losses-at-sunrice-mill/107151422",
-      "source": "ABC News",
-      "publishedAt": "2026-09-18T19:53:56.000Z",
-      "summary": "It's just over a month since Australia's largest rice processor, SunRice, laid-off nearly 80 workers in southern NSW and already some people are struggling to pay rent.",
+      "title": "Farmers warn of food security impact from visa changes",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaW1MMjhIZG5hWE5VVUdvNDNDVHFtZzhfQnMycmtRcXNNalJGMmhhVjBtcUoyc3Q0bWNzak9JVDB2S0FQM0lGcXRQeVMwRk92Y1p1Vm9VZnFkZUdISlhDSkptVUlwdXJEaFpfejNJenJ6UmpoX2tXZXltRG9rdXVkS0Y1Zjk1eC1rckhJci1kTDl4a2hhcFJXY1NVUHd1Ym5mMjI5TGVLY0p3Qy04dnBLMw?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-09-18T21:06:38.000Z",
+      "summary": "",
       "categories": [
-        "Housing"
+        "Visas & Migration"
       ],
       "relevant": true,
-      "score": 3,
+      "score": 5,
       "spicy": false
     },
     {
@@ -740,41 +806,6 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "‘One of the great Australian achievements’: Howard praises immigration",
-      "url": "https://www.smh.com.au/politics/federal/one-of-the-great-australian-achievements-howard-praises-immigration-20260919-p60y7c.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-18T19:00:00.000Z",
-      "summary": "The former prime minister said everybody, irrespective of their ethnic background, should feel they are a part of Australia.",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "One Nation rails against Bowen. He’s now ready to turn Hanson’s patriotism against her",
-      "url": "https://www.smh.com.au/politics/federal/one-nation-rails-against-bowen-he-s-now-ready-to-turn-hanson-s-patriotism-against-her-20260919-p60yee.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-18T19:00:00.000Z",
-      "summary": "Labor hardheads believe Pauline Hanson’s recent controversies have altered the dynamic and created space for a more strident line on One Nation.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "The real Hanson shock: She’s Labor’s enemy ... with benefits",
-      "url": "https://www.smh.com.au/politics/federal/the-real-hanson-shock-she-s-labor-s-enemy-with-benefits-20260919-p60yix.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-18T19:00:00.000Z",
-      "summary": "Under pressure from One Nation, Labor is working hard, but missing one crucial element.",
-      "categories": [],
-      "relevant": false,
       "score": 5,
       "spicy": false
     },
@@ -819,14 +850,14 @@
     {
       "title": "Treasury trust tax consultation process fraught",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNME9NY1F5OEFtcHJfS2VaQ2NNdmRFdGVWYm1XVEVicjBoMjhEdmxSejNYOFFGNlptY2hGbjdleExneEtXQmZNVVNLeGhINnpWbzNWUFBKRjVGNEp6ZnN1YUZQd0VDYXhFQ09FTzR1eTE4WU5OTkdDd3ozN2FOWXhEWDByVmlEYmtBVEJjM1lMRjUxZnFJYlNRRmRJQUNVU1RGY1BWTzhZMTFRdlFXbUkzR0tJazdvZXhUZjdSbzVaTFlxdWJfdVNqUGpQbw?oc=5",
-      "source": "theaustralian.com.au",
-      "publishedAt": "2026-09-18T08:55:00.000Z",
+      "source": "The Australian",
+      "publishedAt": "2026-09-18T14:26:00.000Z",
       "summary": "",
       "categories": [
         "Tax"
       ],
       "relevant": true,
-      "score": 0,
+      "score": 3,
       "spicy": false
     },
     {
@@ -843,6 +874,19 @@
       "spicy": false
     },
     {
+      "title": "Australia’s new visa rules will force backpackers to join a lottery to stay longer",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa09pbVQwMXJDaDA3LWFNRlFUa2JyNXdSMVIxbWFSWktQQ0YzSkFUakZ3bFVZQXB3ek9HeVFERGVxRTJfMTNIdEs1RFllT2FwUUV0UElmVnRCaWRjV05rOUZoQUMxbnFETVF0WHVTNktsWUxhcExkOE90SUxpVTJEZURrRWU1UQ?oc=5",
+      "source": "CNN",
+      "publishedAt": "2026-09-18T08:24:36.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Proposed Australian migration reforms: Key changes explained",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEtaWV9xVE9Jal92SnVST0otRExMY1M0UVMxOGN6VXJQaXlRd0sycGFrZjN6X3JHSGZ1OUo5SWhydFFYVkF4Mnp1YWhHNHBaVnhUckk1UDVlaVgwblpSdWFZWnhBSVFRS2ttRG1lYnYtQnd1TGVZRUEyV1BMQWVEY3FGS1JlOXljR1lIM3NwRERlR255WldoU3FhZzU?oc=5",
       "source": "Absolute Immigration",
@@ -856,7 +900,7 @@
       "spicy": false
     },
     {
-      "title": "Australia’s New Migration Rules Explained: Impact on International Students, Families and Visa Holders",
+      "title": "Australia Visa Changes 2026: New Rules for Indian Students",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUGlJaVB0U2diSF9VVUpsSTg5VmY5SHBqMHFiOFZxMjF3UVdIQll4WXY0MXRWXzdwb2ZjcEpzZ0ZvUnhPN2h6dEUwQlR6RWxjdkFqVW1DV0JJSWh6bUJ2a2loTFlMYnNzYVgxSWt3WjZTQ2FVZWs3Qy0wbTgtMTZFcXltMWxsN3JRUGZxQTM5cUhaTEZLeUtz?oc=5",
       "source": "IndianEagle",
       "publishedAt": "2026-09-18T06:31:15.000Z",
@@ -866,7 +910,7 @@
         "Family & Education"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 2,
       "spicy": false
     },
     {
@@ -897,15 +941,15 @@
     {
       "title": "Labor’s $2.8bn trusts tax advice hit to families, business: CPA",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSnN6aDNKWjBiR1pWYnFIRXpMdEplb2Z4OHFKWXpWZ0NiZmFhWlVvd3NwLWxrZ0ZPRHAzSUZyN0ZNek1WU3dYTFppZVhPanVHMjlySmZoSnRDbDJob1RKSXBFMVVCU0o1N3hlZE5xV1U2ZTlPbm11MVczWjgtYzljWkFKTkJGaDlTVHppclZ1eExmV3VoYkhZRlktc3hnQlZGNXBranAxb1lQU1RnS2tNWTF2c2NMRk5SaXhhN293VVA2bGI0QzlySmVlYTRkTTREdXRxTVpXOURkdw?oc=5",
-      "source": "theaustralian.com.au",
+      "source": "The Australian",
       "publishedAt": "2026-09-17T19:00:00.000Z",
       "summary": "",
       "categories": [
         "Tax"
       ],
       "relevant": true,
-      "score": 3,
-      "spicy": false
+      "score": 6,
+      "spicy": true
     },
     {
       "title": "Rogue migration agents and visa hopping in the sights of government under migration proposal",
@@ -1049,7 +1093,7 @@
     {
       "title": "Migration changes to hit students’ families and working holiday makers",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd09oNTNFUnZkazZRNXVEYVdHd3ZIWUk2ejV3SUlnRnNhQ2NBVzlPeVlZNVN1RmJGc2Z5X2dZWXRrbndkYjRUaWhBZGhyX1hfNFlXQTRNNVBrTEFoWklqY0FOTlBHakdfbHBQMGpGYngxVmtUWDBrR0NkaTdwa1pDSVhMeWg4VmRSWXBVZ01WU05QanlWYUsyVktSazM1cXBlZklBd2lJMA?oc=5",
-      "source": "The Conversation",
+      "source": "theconversation.com",
       "publishedAt": "2026-09-17T04:24:47.000Z",
       "summary": "",
       "categories": [
@@ -1057,8 +1101,8 @@
         "Family & Education"
       ],
       "relevant": true,
-      "score": 5,
-      "spicy": true
+      "score": 2,
+      "spicy": false
     },
     {
       "title": "Burke unveils migration changes targeting students, workers and visa hopping",
@@ -1280,32 +1324,6 @@
       "spicy": true
     },
     {
-      "title": "One Nation unveils 'breathing space' plan for net-negative migration",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQnV0TWEtc19oNFo1dGUydDBrM3RCQ0xfUDl5dlhkQlU3Slh0QlJMU2RaRDNvY3pDR2NySnIyd1FyWTNtMDZpRWdYcWZGdUZHZjJrS0RSR0FaZ1U5cVI3ZE1Na2xSUmk5TkVZMGlpeUc5Mmt0N1NaWnEtWWFkRjhBVXR6N1psOGhIajZlUFBR?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-09-13T23:31:12.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Working holiday visa pause leaves farms short as harvest season looms",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlVIeEZEVHZIOC0wT3RmN3dKcmlCUWlEZ1RCbEJtc0p2akRxMGNKYkdwc3diN0JRSFZpT204SlVucE5RbFdCYm5Xc2xpUy10ZmtQd0t2ZnVwd2VKVTBSUUdyeXRrX0hTdzhDV0dRaDE4YWRWNjVlU0paVVE1cUdMQW8yMGhEMlFtazI2dHNWUC1XYy11cmJfbzhiSko?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-09-13T22:05:20.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "GIEC Global Australia Explains How New 2026 Skilled Visa Processi",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUzBHTS1LQlZINHFvaW1DbGdfeHNRTllLd2tiX0pGNzFtS1BydHFlTDczTzk1b2ZFNVJYMW91VnVYYUp0elZ2VVZlV1FfMGNGVllxRmxwN3VrZThtaW9sQllsa3IwZ2t4VUd2VkZqRVJIZlVQN3Z0NFlIQ2Rkd2F1NTRWbUxId2xWeTQ5MWphb3FXYnZualFJZnZKdWpuNlE5ZERMVVRVME9WcmM?oc=5",
       "source": "The National Law Review",
@@ -1319,14 +1337,40 @@
       "spicy": false
     },
     {
+      "title": "One Nation unveils 'breathing space' plan for net-negative migration",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQnV0TWEtc19oNFo1dGUydDBrM3RCQ0xfUDl5dlhkQlU3Slh0QlJMU2RaRDNvY3pDR2NySnIyd1FyWTNtMDZpRWdYcWZGdUZHZjJrS0RSR0FaZ1U5cVI3ZE1Na2xSUmk5TkVZMGlpeUc5Mmt0N1NaWnEtWWFkRjhBVXR6N1psOGhIajZlUFBR?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-09-13T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Working holiday visa pause leaves farms short as harvest season looms",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlVIeEZEVHZIOC0wT3RmN3dKcmlCUWlEZ1RCbEJtc0p2akRxMGNKYkdwc3diN0JRSFZpT204SlVucE5RbFdCYm5Xc2xpUy10ZmtQd0t2ZnVwd2VKVTBSUUdyeXRrX0hTdzhDV0dRaDE4YWRWNjVlU0paVVE1cUdMQW8yMGhEMlFtazI2dHNWUC1XYy11cmJfbzhiSko?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-09-13T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
       "title": "Chalmers runs out of budget backflips",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVkxmWlJfRGUxVlNIYmNzcGtxRmlQLW5landndDBGald3a3dueFdjcjdHd3ZuT0lZS0Y5SmRyeGdSTW1MbEhjdEVBMjVBeHl1a2RMNUNsU1dRTS03aWlMYlMtOTZ4c0pxSzZNVURPNWI3V3oxME5mTGkwV1VCQ2RIdWFnbGVDWnltdjA3VUE0MjByM1FUZDJPOTZqTjh6WmE2ekt3OWZCUFpOaWFQRVdseWZUdHlQc1NNS1VWc3kwMWpWQmgtVTZzZHVvLTB0bjZSNk9jcTlGOUV3c1FHSVM5MUZmZkc1OU9pWUpaVkhUOEFLd29aZGd2UW9PVng1eUFzSXVnQlBrTWZBVDlSSUJ3?oc=5",
-      "source": "theaustralian.com.au",
+      "source": "The Australian",
       "publishedAt": "2026-09-12T07:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 0,
+      "score": 3,
       "spicy": false
     },
     {
@@ -1345,14 +1389,14 @@
     {
       "title": "Rents to rise ‘five times’ Jim’s claim, modelling warns",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQajlpREhOcTVCZjZTMW56VkxhREZDdDV6QkxLcHFVc1pQMXNCRUswdW5jSUgwU2RPcHNPaWNoT0lUWC1ySExYNm1xYXhaTDBZcUZDRlZNblhyRU5ram1ULVVhN19QNHFsLUNsY3VSTDBZck14TVgzNU1NMUh2VzhVa0lwRnpLbmZWTF9mOF96Z0dJLXBvZXJFNjBHVWtJT2U2LWRQV0cwb3c2RXZTSEtkcUlpRW5pcFlMTmdIVVcxNk5sMENiaWRNLW1jcW5FOUdUSEtKNGJ5QkJyQms?oc=5",
-      "source": "theaustralian.com.au",
+      "source": "The Australian",
       "publishedAt": "2026-09-11T07:00:00.000Z",
       "summary": "",
       "categories": [
         "Housing"
       ],
       "relevant": true,
-      "score": 2,
+      "score": 5,
       "spicy": false
     },
     {
@@ -1445,12 +1489,12 @@
     {
       "title": "Chalmers says Intergenerational Report shows super puts Australia head of the pack in containing pension spending",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3FiOEZSN3hEeUYzQVMwOFVLTllnSDU3OU1MdzZJdWplMlBpRUtnYWozWXFMNE56eXZlaE5URmpzU0FCM05QVzVpZVVYY0FxNEVFclVfWG1vdXlia2JoeEdsQXZ5TjhmUi01QlVXVERCdl9oM2wyQXZGOVZWQXNLSnZrdlpLX1hlSFAtQllhYzBqVkxRRmpHZmpoLTRmMkp2OTZVaDNXQWlSRXRqc2xMWURoZlJoVzhXeE9kaXpxbnVrMTdqNGU2V1RMZFVOaTFzYzBhYmRjZ0U3TU5LdU15S25B?oc=5",
-      "source": "The Conversation",
+      "source": "theconversation.com",
       "publishedAt": "2026-09-08T07:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 3,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1491,58 +1535,6 @@
       ],
       "relevant": true,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Big tobacco is back in town as cigarette tax fight lights up Australian politics",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/06/tobacco-excise-australia-industry-lobbying-coalition-one-nation",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-05T20:00:47.000Z",
-      "summary": "The industry has been pushing for cuts to excise for decades. With the explosion in illegal cigarette sales, those calls have grown louder",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Housing affordability craters to record low despite fall in prices",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSkVJYzIxU1BJSjQ0Sm1FY3F3QWl5ZEExZEprSmRrZG9kVkctM1JsQnB2SWVlMkpDd0FMR2hodEppOFNoUlg0SjlWZ1pIZHhvMGZpQlI5cTlTR3lQMmFQdEtWUGZJN1BwbXctMUN4SFp1X2dySEZhWFhSYWllRkZlUmdRaTRHQVlwVnFsd09NcHhncGZsTU45VlJmQzZwZmRVd3AzdXlkNHVHYXF6ZUZqVkVkNUZnbzVkYkJqZlMwRTlaOXNMOEE?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-09-05T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Victoria named most affordable state as rates smash home dream",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzhYd01PTFExbC10cTRuTHczM2dkRU9RMGFUSVVqb2JKM19taU9uWThSdWFqZWktWmgzbE9mUERlNDBKMEZYb3p2ZzhUdTZWUHBZQkNsM2dHUmFiUDlWRmQyZ09DeFNwaVhiYy00Tm5mdUVQRXdwQWVUSmtieDlmT3JCZnp0X2VTWWdXRUEzNHNMa3JaSFRqTFFpMVRYRzQ?oc=5",
-      "source": "realestate.com.au",
-      "publishedAt": "2026-09-05T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Housing affordability falls to an all-time low",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNm1ZS1JJczkyY2ZvZHltQ2hReHRJTk5YcUo1ZzhvQ2FlRHVTc2lEWExmVEI3RVdicFFoemkwd3pNSnp4RnY5OEVSRVhVYjNFVHZqeDBKaHh0eGhITVUyZ2lwOWUzY2xLX3M1a3duaHNPbjF4TzRfdjJHZUNQOXdRczVBQ0N0RDRzbXRUaVNRejY5U3o0bXZpb0M2WUw5bGswZXRFclNMdlRhbTRmRHVpTVJCamREMzJpOFcwNTdhMWk1TVl1SnQ5YlJJd1lDQWNXNmZWc0RKWlFNMmxFa051V1VzN2hNSTBZX2h0VGVIMWUzSHFPNW5yRVhaOGdydWUtNFgyQUF3ajLSAY4CQVVfeXFMUHhBX2ZHdmxpYWpZeVJtYXRFbzZRbGFObGwzaTdLemVlSWowVVFXSTNGWXlyQjBJajZnVFNESlVGVU1HMzlLLWh1WWhfQUc5NGRiVWY1YjU5VHItbE1IWXJZMXItSUJpNlV0YXA1ZVFSQlVwcE5DRkdIYTAzc0xjQVVXWmFxV1hKZVM4d1FIcnZDRld5a2JnQUFwb25ja3gtbXlEcVBqeHozckE1QmhULUh4cmFveWFsUkhwbzJJcXM5NlcwdDlxUV9tVnhJN29zNVdSVzdQLU9adG11cDI2eXRFdXBnTWx4Y05nUjljT1k2emJiT1FIZFNpeVIxUE5RanlRUTlsTVBfTG1pcVl3?oc=5",
-      "source": "News.com.au",
-      "publishedAt": "2026-09-05T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
       "spicy": false
     }
   ]
