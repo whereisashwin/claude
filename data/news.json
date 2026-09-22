@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-21T23:09:09.215Z",
+  "updatedAt": "2026-09-22T01:46:00.932Z",
   "count": 120,
   "relevantCount": 72,
-  "spicyCount": 16,
+  "spicyCount": 15,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -32,20 +32,17 @@
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "Absolute Immigration",
-    "Australian Broker",
     "BBC",
     "CNN",
-    "Education News",
     "Ethos Migration Lawyers",
     "Indian Link",
     "IndianEagle",
     "Insider Guides",
+    "MacroBusiness",
     "News.com.au",
     "Nine.com.au",
-    "Property Update",
     "SBS",
     "Sydney Morning Herald",
-    "The Australian",
     "The Centre for Independent Studies",
     "The Conversation",
     "The Guardian",
@@ -55,29 +52,164 @@
     "The Straits Times",
     "The Times Australia",
     "White & Case LLP",
-    "William Buck Australia",
     "afr.com",
+    "brokernews.com.au",
+    "educationnews.co.ke",
     "insidestory.org.au",
     "news24.com.au",
     "realestate.com.au",
-    "smh.com.au"
+    "smh.com.au",
+    "theaustralian.com.au"
   ],
   "items": [
     {
-      "title": "Australia news live: PM and world leaders urge human control over AI; Chalmers says ‘monetised misogyny’ online fuelling DV",
+      "title": "Smart glasses to be banned from WA public schools",
+      "url": "https://www.abc.net.au/news/2026-09-22/smart-glasses-to-be-banned-in-all-wa-public-schools/107180384",
+      "source": "ABC News",
+      "publishedAt": "2026-09-22T01:40:16.000Z",
+      "summary": "Western Australia's education minister announces smart glasses will be banned from all state schools.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Australia news live: Liberal MP proposes using super to secure mortgages; ingredient in cold and flu supplements banned over allergy risk",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-09-21T22:49:15.000Z",
+      "publishedAt": "2026-09-22T01:36:25.000Z",
       "summary": "",
       "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "ASX rises in early trade after Wall Street surges; Tech stocks rally",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-rise-as-wall-street-surges-oil-prices-fall-road-clears-for-paramount-warner-bros-merger-20260922-p60zbl.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-09-22T01:21:08.000Z",
+      "summary": "The Australian sharemarket advanced in early trade after a tech-fuelled rally on Wall Street and a drop in oil prices and bond yields amid hopes for diplomatic progress in the Iran war.",
+      "categories": [
         "Cost of living"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Funding Putin: ‘Blood oil’ imports from major Asian supplier surge",
+      "url": "https://www.smh.com.au/politics/federal/funding-putin-blood-oil-imports-from-major-asian-supplier-surge-20260922-p60z1t.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-09-22T01:15:43.000Z",
+      "summary": "The majority of fuel arriving in Australia from a key Asian refinery originated in Russia, an alarming new analysis has found.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Federal and state governments careen off debt cliff",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGtBVEdkdHlkWlJ0TlZqdktOVDBGa2FVcDhFVkVxY2xaZHA1cURIRTNZQXhrb0xjZHFQQjFpVkVtSGlXSnZHV09QMDdpYkd5ZTRpZnJrRDRhVFQwZlNIc0EyQXBWY25YTFQyalNWWmxtYkc4d1g1aVBjckVBTnFJdmMxYU9fX05Ham5nNVNDYnNKUTdRMHNHcQ?oc=5",
+      "source": "MacroBusiness",
+      "publishedAt": "2026-09-22T01:09:10.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 1,
+      "spicy": false
+    },
+    {
+      "title": "Birthing among 'flies and trucks' becoming more common in parts of NSW",
+      "url": "https://www.abc.net.au/news/2026-09-22/babies-born-before-arriving-at-hospital-climbs-regional-nsw/107106782",
+      "source": "ABC News",
+      "publishedAt": "2026-09-22T00:52:46.000Z",
+      "summary": "The rate at which babies are being born before arriving at hospital has doubled in regional areas since 2001, in outer regional and remote areas it has more than tripled.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Council says there's 'no land' for charity's request for rough sleepers",
+      "url": "https://www.abc.net.au/news/2026-09-22/homeless-encampment-request-for-land-broken-hill-council/107137958",
+      "source": "ABC News",
+      "publishedAt": "2026-09-22T00:46:00.000Z",
+      "summary": "A request to use council land to build a transitional campsite for homeless people raises broader questions about homelessness policy in New South Wales.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Coalition weighing options to use super to boost home ownership",
+      "url": "https://www.abc.net.au/news/2026-09-22/federal-politics-liberals-float-super-changes-home-ownership/107179680",
+      "source": "ABC News",
+      "publishedAt": "2026-09-22T00:45:32.000Z",
+      "summary": "A push to allow Australians to use their super to make it easier to buy their first home is being floated by Shadow Housing Minister Andrew Bragg, as the Coalition works through its policy on how to help people enter the housing market.",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 8,
+      "spicy": true
+    },
+    {
+      "title": "Coalition re-ignites super debate by floating ideas to lift home ownership",
+      "url": "https://www.abc.net.au/news/2026-09-22/federal-politics-liberals-float-super-changes-home-ownership/107179680",
+      "source": "ABC News",
+      "publishedAt": "2026-09-22T00:45:32.000Z",
+      "summary": "A push to allow Australians to use their super to make it easier to buy their first home is being floated by Shadow Housing Minister Andrew Bragg, as the Coalition works through its policy on how to help people enter the housing market.",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "The two assets booming after tax changes",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNmN4XzY2c2RyeU9laEgtNnVJRVJHcDJRUkQxb3pzcVJTN3JneHRTbzJCVEN3Mm43U19qaEd1NHB4VXQ1enloR1VTY1gzMWMta0pXLXJjV05PaGt0NmNtUEN5WW9IQml5Mkp4YVpTOEVYNGhmVDl3aE9VZE5oVkhhMmZaTS1lV1lqWHZjMTdQQThKRzNTUlBPTVpiYl9GSzhqczlXTDQwY01rQWlGZG9ZeWM0SDFCR1JMNkJ2R1kyVTk5WkI4aU8wc0t1QVhIa3FjYzdOQlNQSG4zYjZxc0tvWHYtMnFHZTUyWHFtcUhpMGpsRjdlYnpXcFJ4aGVRZS04aWNR0gGIAkFVX3lxTE5GTGJId2xRWHZTcnY3TXJKUUhtV3ZuQnVOblRrYTN3WjVUVDVZVHJOclRaWGNVSkhtaVhUN3FnQ1lWM2YtNWkzM1FndG12bFBOdDNZYW1WOE1oYjBPU3VoUGx6YVVkR3NrVWRvVjRsejFmQ09GYVk0TnFQUWpabWlHNEk0R3IyWTNXdmpqdDZnbHJoTGtKZXRkVjFPWjNEMFNKUE1KOFA3dFJfNlVycm9SamxFLUJvNFdXeHFSMUZWblEwT1BYN2dicUtfbTBBWVZjNGxXVVBRM2dtYmw4am13Q0E4Y3dOdWZubnhJMmMxWFU1eDNyVnNDeXlLZnFaQVpjM2h0dFNIag?oc=5",
+      "source": "News.com.au",
+      "publishedAt": "2026-09-22T00:08:43.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
       ],
       "relevant": true,
       "score": 4,
       "spicy": false
     },
     {
-      "title": "Queensland teenager charged with preparing to cause harm",
+      "title": "The mill 200 farmers can't afford to lose",
+      "url": "https://www.abc.net.au/news/rural/2026-09-22/australia-last-grower-owned-sugar-mill-seeks-government-bailout/107158784",
+      "source": "ABC News",
+      "publishedAt": "2026-09-21T23:59:43.000Z",
+      "summary": "Australia's only remaining grower-owned sugar mill needs a multi-million-dollar loan to survive.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "US torpedo test-fired from UK sea drone for first time as part of AUKUS",
+      "url": "https://www.abc.net.au/news/2026-09-22/aukus-us-uk-torpedo-test-fire-unmanned-submarine/107179898",
+      "source": "ABC News",
+      "publishedAt": "2026-09-21T23:52:44.000Z",
+      "summary": "The UK government says the launch of a heavyweight torpedo, jointly developed by the US and Australia, \"marks a major advance in the future of submarine technology\".",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Queensland teenager charged with possessing violent extremist material",
       "url": "https://www.abc.net.au/news/2026-09-22/qld-teen-arrested-alleged-threats-maryborough/107179780",
       "source": "ABC News",
       "publishedAt": "2026-09-21T22:35:22.000Z",
@@ -90,11 +222,11 @@
       "spicy": false
     },
     {
-      "title": "Live: ASX to rise, AI rally pushes Nasdaq to record high, oil falls below $US100",
+      "title": "Live: ASX rises, AI rally pushes Nasdaq to record high, oil falls below $US100",
       "url": "https://www.abc.net.au/news/2026-09-22/asx-markets-business-live-news/107179814",
       "source": "ABC News",
       "publishedAt": "2026-09-21T22:25:17.000Z",
-      "summary": "The Australian share market is likely to start the day higher after Wall Street's AI stocks surged, pushing the tech-heavy Nasdaq index to a new record high.",
+      "summary": "The Australian share market started its day higher after Wall Street's AI stocks surged, pushing the tech-heavy Nasdaq index to a new record high.",
       "categories": [],
       "relevant": false,
       "score": 9,
@@ -112,18 +244,15 @@
       "spicy": false
     },
     {
-      "title": "Live: Bragg to reignite super fight with housing plan",
+      "title": "Live: F-35 parts mistakenly diverted to Hong Kong not 'sensitive', Marles says",
       "url": "https://www.abc.net.au/news/2026-09-22/federal-politics-live-blog-sept-22/107177062",
       "source": "ABC News",
       "publishedAt": "2026-09-21T21:11:34.000Z",
-      "summary": "A plan for Australians to use their superannuation to make it easier to secure a home loan is set to be floated by Shadow Housing Minister Andrew Bragg.",
-      "categories": [
-        "Tax",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": true
+      "summary": "Richard Marles told journalists in Adelaide that Australia has been \"made aware\" of the development, and was helping the US investigate what happened.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
     },
     {
       "title": "Cold and flu supplements containing controversial herb to face recall",
@@ -137,19 +266,6 @@
       "spicy": false
     },
     {
-      "title": "The two assets booming after tax changes",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNmN4XzY2c2RyeU9laEgtNnVJRVJHcDJRUkQxb3pzcVJTN3JneHRTbzJCVEN3Mm43U19qaEd1NHB4VXQ1enloR1VTY1gzMWMta0pXLXJjV05PaGt0NmNtUEN5WW9IQml5Mkp4YVpTOEVYNGhmVDl3aE9VZE5oVkhhMmZaTS1lV1lqWHZjMTdQQThKRzNTUlBPTVpiYl9GSzhqczlXTDQwY01rQWlGZG9ZeWM0SDFCR1JMNkJ2R1kyVTk5WkI4aU8wc0t1QVhIa3FjYzdOQlNQSG4zYjZxc0tvWHYtMnFHZTUyWHFtcUhpMGpsRjdlYnpXcFJ4aGVRZS04aWNR0gGIAkFVX3lxTE5GTGJId2xRWHZTcnY3TXJKUUhtV3ZuQnVOblRrYTN3WjVUVDVZVHJOclRaWGNVSkhtaVhUN3FnQ1lWM2YtNWkzM1FndG12bFBOdDNZYW1WOE1oYjBPU3VoUGx6YVVkR3NrVWRvVjRsejFmQ09GYVk0TnFQUWpabWlHNEk0R3IyWTNXdmpqdDZnbHJoTGtKZXRkVjFPWjNEMFNKUE1KOFA3dFJfNlVycm9SamxFLUJvNFdXeHFSMUZWblEwT1BYN2dicUtfbTBBWVZjNGxXVVBRM2dtYmw4am13Q0E4Y3dOdWZubnhJMmMxWFU1eDNyVnNDeXlLZnFaQVpjM2h0dFNIag?oc=5",
-      "source": "News.com.au",
-      "publishedAt": "2026-09-21T20:58:43.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Albanese signs AI declaration with world leaders calling for international safeguards",
       "url": "https://www.smh.com.au/politics/federal/australia-joins-call-for-ai-safeguards-amid-warnings-of-out-of-control-risks-20260922-p60zbe.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -158,17 +274,6 @@
       "categories": [],
       "relevant": false,
       "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "NSW set to change how sexual assault complainants give evidence",
-      "url": "https://www.abc.net.au/news/2026-09-22/nsw-reform-to-allow-sexual-assault-survivors-pre-record-evidence/107177194",
-      "source": "ABC News",
-      "publishedAt": "2026-09-21T20:32:14.000Z",
-      "summary": "NSW Attorney-General Michael Daley will introduce the \"commonsense\" reforms in the state parliament on Tuesday.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -255,6 +360,17 @@
       "spicy": false
     },
     {
+      "title": "What everyday Australians want political leaders to hear",
+      "url": "https://www.abc.net.au/news/2026-09-22/your-say-what-everyday-australians-want-political-leader-to-hear/107162938",
+      "source": "ABC News",
+      "publishedAt": "2026-09-21T18:47:13.000Z",
+      "summary": "For the past eight weeks, ABC teams have been talking to thousands of people across the country about what matters to them, and there is a consistent message.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
       "title": "Bye bye, babies: A nation living into its 90s is ageing faster than expected",
       "url": "https://www.smh.com.au/politics/federal/bye-bye-babies-a-nation-living-into-its-90s-is-ageing-faster-than-expected-20260922-p60z7t.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -270,7 +386,7 @@
       "url": "https://www.abc.net.au/news/2026-09-22/australia-joins-global-push-for-ai-controls/107179312",
       "source": "ABC News",
       "publishedAt": "2026-09-21T17:56:49.000Z",
-      "summary": "Anthony Albanese and more than a dozen world leaders have issued an urgent plea for global guardrails to ensure AI remains \"under human control\".",
+      "summary": "Anthony Albanese and more than 20 other world leaders issue an urgent plea for global guardrails to ensure AI remains \"under human control\".",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -291,15 +407,15 @@
     },
     {
       "title": "Aussies ‘unfairly punished’ by tax change",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTjdXbTlRNTdKcDdfM1I5S0x1Q0hDazVHRzRmRklISFF5cWZtajZBbzliS1BMVGlOR09paGVMVkQtX1BHcFBLMkdTS3lEeUpSY3RKMVJzaURDdU5BUHZRTGRQajEyZ250OWZwTDVtcW8xZVJjVkxwdlJfazJiaWRjUjBzbDhCMTZBckZRN2hyY3d1TE1QVnI4WUVoaURxY2J6YnpHc29iaUdDeWRHb2RPU1BJcnR5V0VfY1UzVUszdnNvU2ZxZ3lRRm9zQ251YzFlU0t4dkpFMTllUHprbkhlTEl0SGVKN19rZ0tnemdLMU5EUFpDMmVOcHhWLU9pZmhv0gGGAkFVX3lxTE5xZ2dLWU1OX2cxYkVrRExlWUNiVVNqME9TTHROZnBJWmpYS0oyNXdZdy1hbk1xdHdzMnJDZHByamZRNm9TSzUyQndWQm8yenNDa0FuRkhNaUg5cEJiaFhoMnF3bnlDMDd4Y2VSSjJEMlJXWlpuemJMaHpsRGRnZk11cVFFQ29pVkFFenp2RjlPb2VkSGkwdFU1R2hpdTc3N0VPX3k0T2FJdk5WTUpRdUdFZVVvT0ZUMlEtbzVUVU5WM1lxZDRJVUlkOXBKVlpQc1FfNzA4Y0Q2QWJ3cmlKN3FyUGsxSHgtU0hDOFRrcEQ5bDNVME9wbGsyYW1uRFl0ajEtbkRJVXc?oc=5",
-      "source": "news24.com.au",
-      "publishedAt": "2026-09-21T14:01:55.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbVlvZjlxZWpkRWRNQXdfRTNXYVAwNkF5QjY0QWswNXZIT0M4eW9mXzBUNnZhaHRBZzM2NF9yVnhfSUlMa3FaT1Q0TnZwYVhnbU5PbllWbmo1Xy03UkMxbnVxTDlFODkzelhCVmxNOHRsbUpPRENIMlE0NWdBcXh2NzhRZWl6LUtCTUFUTEk2bGxVLV9yWnhNVm5LSHVPVFRaYnAyUmluNHZqR1pWcDFRVmtVVHRqYXI1TUU2aUNKcEs4ZUp5QXNoZGMzeHBLUkFTZFZYMHJIM3NabGF3VkpoOUhMU0M1LXBVTExHeERLUElNWnBoMUhFd1BQa0NlQVdyQ2dRTTNtU1RpRXgyZFNTVVlaenTSAZoCQVVfeXFMTnRsNHcxRWV4UlJCelJKYU85WWpFc2FBTDNKYk1JRDhmekZxNTZsZVU4OWVfNHVHbGF6QjNEV0dOelFDd25yWnBGblVyM25uYkRTY09xa0Iza0Y1RHN0THAtTnpqTWp0ZjdYWTIzZTkwNW5QUlk0Snk0UGVDeDFGN1Z3QnJyaDVieTNJUzE1Ym5YQUVpYzNaR2tDb240cG51Zmp5a0g4SXk2cThtb0V2djFBeWlnaEtvenRxNTlZSU5xbmZ4QnNsX1o3UTZ2c2RZS2dwa1liM2tUWjB5VkswVG5TRUItdmFLT1N5Y0ZHRS1xb182VVdlcDVXVkxITHduTDhTUHRwT1pjWmh5cDMxa2luTWtoaG0zM1ZR?oc=5",
+      "source": "News.com.au",
+      "publishedAt": "2026-09-21T14:06:19.000Z",
       "summary": "",
       "categories": [
         "Tax"
       ],
       "relevant": true,
-      "score": 1,
+      "score": 4,
       "spicy": false
     },
     {
@@ -314,17 +430,6 @@
       "spicy": false
     },
     {
-      "title": "German leader Merz clings on after election 'disaster'",
-      "url": "https://www.abc.net.au/news/2026-09-21/germany-chancellor-friedrich-merz-coalition-intact-elections/107178992",
-      "source": "ABC News",
-      "publishedAt": "2026-09-21T13:13:15.000Z",
-      "summary": "Despite seeing his party tumble to its worst regional election defeat in post-war Germany, Chancellor Friedrich Merz vows to stay in power after announcing the centre-left Social Democrats wanted to remain in a coalition with his conservatives.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Albanese takes climate warning to New York, but fossil fuel experts test credibility",
       "url": "https://www.smh.com.au/politics/federal/albanese-takes-climate-warning-to-new-york-but-fossil-fuel-experts-test-credibility-20260921-p60z2z.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -334,7 +439,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -647,7 +752,7 @@
     {
       "title": "Australia tightens student visa rules: What Kenyan students need to know",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUlpOWN1b3VMTU5rXzVBYk9yci12RGxJQ3NPdmhQdjZwMkdKMnY0Vkl5WUI5RXpxTVUwRzBOWnR0LWFWdUlEdjZfY3BZR2JXaTlhRVRhT1E2YkRVdXh2X2syV3htemxkTDNUVldlSjJBNmxYaGxaVlJ1WFZ5czVTZ0xiRUxnb01fRmxXamxEMUhWUU4tSVVsM2pkcndyN3FNd3c?oc=5",
-      "source": "Education News",
+      "source": "educationnews.co.ke",
       "publishedAt": "2026-09-20T06:56:57.000Z",
       "summary": "",
       "categories": [
@@ -683,55 +788,11 @@
       "spicy": true
     },
     {
-      "title": "Italian-Australian icon Franco Cozzo remembered in retail revival",
-      "url": "https://www.abc.net.au/news/2026-09-20/italian-australian-icon-franco-cozzo-retail-revival/107169840",
-      "source": "ABC News",
-      "publishedAt": "2026-09-20T04:37:07.000Z",
-      "summary": "The late retailer Franco Cozzo furnished generations of Italian-Australians. Now his daughters are continuing the family tradition.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "More Australians to live into their 90s as life expectancy forecast to rise over coming decades",
       "url": "https://www.theguardian.com/australia-news/2026/sep/20/intergenerational-report-australian-life-expectancy-forecast-to-rise",
       "source": "The Guardian",
       "publishedAt": "2026-09-20T04:32:26.000Z",
       "summary": "Treasury’s latest intergenerational report projects life expectancy at birth will reach 89 for women and 86 for men by 2066",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Albanese urges US, China to strike AI deal akin to nuclear non-proliferation treaty",
-      "url": "https://www.smh.com.au/politics/federal/albanese-leaves-door-open-for-opt-out-ai-regime-as-he-visits-apple-park-20260920-p60yui.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-19T23:00:35.000Z",
-      "summary": "After meeting Apple executive chairman Tim Cook, the prime minister declared humans must “remain in control” of AI.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "In an outback town, this small venue raised $1 million to save itself",
-      "url": "https://www.abc.net.au/news/2026-09-20/alice-springs-live-music-venue-black-wreath-fundraiser-saved/107168920",
-      "source": "ABC News",
-      "publishedAt": "2026-09-19T22:25:58.000Z",
-      "summary": "Live music fans from across Australia and the world have banded together to raise the $1 million needed to save beloved Alice Springs venue The Black Wreath after the building's owner put it on the market.",
-      "categories": [],
-      "relevant": false,
-      "score": 10,
-      "spicy": false
-    },
-    {
-      "title": "Recycling industry needs to prepare for influx of EV waste, experts say",
-      "url": "https://www.abc.net.au/news/2026-09-20/qld-calls-for-more-ev-battery-recycling/107149400",
-      "source": "ABC News",
-      "publishedAt": "2026-09-19T21:09:57.000Z",
-      "summary": "As electric vehicle use rapidly grows in Australia, experts say the country's battery recycling industry must prepare for the looming influx of waste.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -880,14 +941,14 @@
     {
       "title": "Treasury trust tax consultation process fraught",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNME9NY1F5OEFtcHJfS2VaQ2NNdmRFdGVWYm1XVEVicjBoMjhEdmxSejNYOFFGNlptY2hGbjdleExneEtXQmZNVVNLeGhINnpWbzNWUFBKRjVGNEp6ZnN1YUZQd0VDYXhFQ09FTzR1eTE4WU5OTkdDd3ozN2FOWXhEWDByVmlEYmtBVEJjM1lMRjUxZnFJYlNRRmRJQUNVU1RGY1BWTzhZMTFRdlFXbUkzR0tJazdvZXhUZjdSbzVaTFlxdWJfdVNqUGpQbw?oc=5",
-      "source": "The Australian",
+      "source": "theaustralian.com.au",
       "publishedAt": "2026-09-18T14:26:00.000Z",
       "summary": "",
       "categories": [
         "Tax"
       ],
       "relevant": true,
-      "score": 3,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1228,19 +1289,6 @@
       "spicy": true
     },
     {
-      "title": "Proposed trust tax changes: more detail, more choices and significant decisions ahead",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeHpZYUV6bmxDZDNHRnA1a3hUTVhXcTVUdlhKWWdHTVZvUTlPRnctX2FSbU9Zb3VCak9sbHgxejhmY2Q3Z0JzbnpQWjdMem9CZEZ6bFBCMlFFdDJ0ZHVVWmNJNlpfVFlRSVRENldRR3VQalg3R3lSeXA1cFI4Ty10cFE2ZVdCSzcwUHNlOVFBcTFrS1NVLURxWUN1NHlaOWQ3TnVHUjF2N1hRZkpiU0poLVpGNllMUzNIb2g3TXNCMTB4dkpmWTZoa2lB?oc=5",
-      "source": "William Buck Australia",
-      "publishedAt": "2026-09-16T01:13:51.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Australian capital gains tax changes for foreign residents",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTMya25yWnRvUnlCX2RpalNXQkRoc2U0UFEzbHd0c0FiaHc5VU9rWkYya3J5VWpVTnlETGEtTlJhOWRuYVVwQUluYUZWaXVGaVpEc3RZLThsbndsUnJzRHRmejVodGFnLW04NzY2VEg5VTBJc1g3SFVieGRTSFdCNFFFYWxTSlE1NXVEYmVHQjdxaXhfVHc3MmJn?oc=5",
       "source": "White & Case LLP",
@@ -1371,12 +1419,12 @@
     {
       "title": "Chalmers runs out of budget backflips",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVkxmWlJfRGUxVlNIYmNzcGtxRmlQLW5landndDBGald3a3dueFdjcjdHd3ZuT0lZS0Y5SmRyeGdSTW1MbEhjdEVBMjVBeHl1a2RMNUNsU1dRTS03aWlMYlMtOTZ4c0pxSzZNVURPNWI3V3oxME5mTGkwV1VCQ2RIdWFnbGVDWnltdjA3VUE0MjByM1FUZDJPOTZqTjh6WmE2ekt3OWZCUFpOaWFQRVdseWZUdHlQc1NNS1VWc3kwMWpWQmgtVTZzZHVvLTB0bjZSNk9jcTlGOUV3c1FHSVM5MUZmZkc1OU9pWUpaVkhUOEFLd29aZGd2UW9PVng1eUFzSXVnQlBrTWZBVDlSSUJ3?oc=5",
-      "source": "The Australian",
+      "source": "theaustralian.com.au",
       "publishedAt": "2026-09-12T07:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 3,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1395,14 +1443,14 @@
     {
       "title": "Rents to rise ‘five times’ Jim’s claim, modelling warns",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQajlpREhOcTVCZjZTMW56VkxhREZDdDV6QkxLcHFVc1pQMXNCRUswdW5jSUgwU2RPcHNPaWNoT0lUWC1ySExYNm1xYXhaTDBZcUZDRlZNblhyRU5ram1ULVVhN19QNHFsLUNsY3VSTDBZck14TVgzNU1NMUh2VzhVa0lwRnpLbmZWTF9mOF96Z0dJLXBvZXJFNjBHVWtJT2U2LWRQV0cwb3c2RXZTSEtkcUlpRW5pcFlMTmdIVVcxNk5sMENiaWRNLW1jcW5FOUdUSEtKNGJ5QkJyQms?oc=5",
-      "source": "The Australian",
+      "source": "theaustralian.com.au",
       "publishedAt": "2026-09-11T07:00:00.000Z",
       "summary": "",
       "categories": [
         "Housing"
       ],
       "relevant": true,
-      "score": 5,
+      "score": 2,
       "spicy": false
     },
     {
@@ -1432,14 +1480,14 @@
     {
       "title": "Affordable regional pockets emerge as buyer search hotspots",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWVsRjRNTXVFQ2VhV3lhaHV4bGZpZmo1VGZJSjlRVERRYU5HMFRoS2FkaV9XWU8wWEV4cHdSeUthYzRoSlN6VE1rS3lqZWxLTmE0dENlYUFOZ0VKWWRLUG02bVhydVVETFFicHRMUWZaQTVUQ0NvNnFFY3RGeU13YjlUejRGejFwQnhrczlFbDBWMi1tRzJIeHpVUGtQVExxbkpENTRtWHVkWVNOb3JZUXpoczdlcFVoT1A5TA?oc=5",
-      "source": "Australian Broker",
+      "source": "brokernews.com.au",
       "publishedAt": "2026-09-10T06:18:50.000Z",
       "summary": "",
       "categories": [
         "Housing"
       ],
       "relevant": true,
-      "score": 0,
+      "score": 3,
       "spicy": false
     },
     {
@@ -1489,57 +1537,6 @@
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Chalmers says Intergenerational Report shows super puts Australia head of the pack in containing pension spending",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3FiOEZSN3hEeUYzQVMwOFVLTllnSDU3OU1MdzZJdWplMlBpRUtnYWozWXFMNE56eXZlaE5URmpzU0FCM05QVzVpZVVYY0FxNEVFclVfWG1vdXlia2JoeEdsQXZ5TjhmUi01QlVXVERCdl9oM2wyQXZGOVZWQXNLSnZrdlpLX1hlSFAtQllhYzBqVkxRRmpHZmpoLTRmMkp2OTZVaDNXQWlSRXRqc2xMWURoZlJoVzhXeE9kaXpxbnVrMTdqNGU2V1RMZFVOaTFzYzBhYmRjZ0U3TU5LdU15S25B?oc=5",
-      "source": "The Conversation",
-      "publishedAt": "2026-09-08T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Govt’s hidden housing bombshell revealed",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQUJJMjFrRkdzdWdPNjdueFA5amtmRjVHSHdaRnFQYzJfMjRJUFJmT3hvRjRRNUJVQWtpMV9WcVZoVTc1OGJMaEh4Ui14MlpqZlZlbURPQ0xPRUw4ZF82d3FJTl9INDllMDdjVURQN21CYTRXY05Vd3JvX1ZVc0x3OHczNXR6UjFWX1NtS0d4elhmV0hVVEpVRnc5QTJPZ2VCTGw2bEpvazdqU0VvYnZOUGVBUHpGcm5nUDdQSUJRRDV4OTdvQmtlNVFqZURiR016U0hJWnhLeFk0V0dKbkpsMTM5SVJOWDVRc2ZkMUM1OGLSAfYBQVVfeXFMUFRnaGFVbTk3NWVLYTZtLUJWQUU1T08wemdGLWN5dEFNTkdZbFJKcWNJUk9uUno2ZndvclNqd3FlMjFPd0ZhQ0JZUk5wVmhpMFU0Nkk5TmotbG4zeW1menZqM3pmZXczZkxwUjdWdUpaSjhyMExtNjh2UElRTF8tRWFpN1RYR3I3Z0UwQzBlVkp1UjZ4Tmc4dVhxOE1maXgzaExEbV96bnNRczdKTWhHdzJxVWtJWXpZbUttTVVKLWNRN1JxRU5VbTVhcmpIQkVGUzhVNGVNX0FQUEk4d2t5LWtMWEZ5d0p1WXNpb3dySWpIOUZVOHdR?oc=5",
-      "source": "News.com.au",
-      "publishedAt": "2026-09-08T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Treasury warned Chalmers tax changes would lift rents and lower prices",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2E3VmpTM0NpNTJlbzlQREFCWG5jVERneU9sVTFJOHdwVm1ldENuZ0FHV0Z1OE83VVRWMk1HdzczbVlSOHdnRzFDWDZmSjlkX3I4MzhqaHJUeGUzNXpCclM0d05SRGFYRi1mYUxmWWwxNkNTX01VaElFUVI5cFZWWXI0R2FhX1BFSGZaSEUwbFUtUnlUZkY1MUF1ZWtVckVSb21JVFMybWVoMWZyLXVuWVQzZEVLWEJhMVVycTFn?oc=5",
-      "source": "afr.com",
-      "publishedAt": "2026-09-07T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 7,
-      "spicy": true
-    },
-    {
-      "title": "Housing Affordability in Australia: Do We Actually Want It?",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX3d6aHNnRDU0LVlpdW9fMTZQYkNFc2FqcVBiUTNXaGZHWFhILUtaS3gxNXJHVG5wSGdTOVAwaXhxRi1hUDBwSUtjdklvWVJ3NHRjVHpKYVRKWGNMM3hETWFLTE43NlRoMUhGTkxCVmE4Zk4yQm10a2doZ3M0dmY0dmxsT3B2WnVjODdNZjFRcVA2UQ?oc=5",
-      "source": "Property Update",
-      "publishedAt": "2026-09-06T09:33:51.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
       "score": 0,
       "spicy": false
     }
