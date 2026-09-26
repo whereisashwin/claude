@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-26T01:24:14.492Z",
+  "updatedAt": "2026-09-26T06:33:05.667Z",
   "count": 120,
-  "relevantCount": 63,
-  "spicyCount": 13,
+  "relevantCount": 66,
+  "spicyCount": 15,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -35,11 +35,13 @@
     "Absolute Immigration",
     "Australian Broker",
     "BBC",
-    "Daily Pakistan",
+    "Chamberlains Law Firm",
+    "Elite Agent",
     "Ethos Migration Lawyers",
     "Fragomen",
     "Indian Link",
     "Insider Guides",
+    "Livemint",
     "News.com.au",
     "Nine.com.au",
     "Outlook India",
@@ -49,19 +51,54 @@
     "The Australian",
     "The Conversation",
     "The Guardian",
-    "The National Law Review",
     "The Nightly",
     "The Straits Times",
     "The Times Australia",
+    "WAtoday",
     "White & Case LLP",
     "World Socialist Web Site",
-    "eliteagent.com",
+    "cis.org.au",
     "insidestory.org.au",
-    "livemint.com",
+    "natlawreview.com",
     "news24.com.au",
     "realestate.com.au"
   ],
   "items": [
+    {
+      "title": "Queensland child deaths at five-year high",
+      "url": "https://www.abc.net.au/news/2026-09-26/qld-family-and-child-commission-annual-report-increase-in-deaths/107198072",
+      "source": "ABC News",
+      "publishedAt": "2026-09-26T03:16:16.000Z",
+      "summary": "Last financial year, 91 children known to child protection services died, the highest number in five years.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australia not alone as OpenAI agents hacked other websites",
+      "url": "https://www.abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074",
+      "source": "ABC News",
+      "publishedAt": "2026-09-26T02:05:48.000Z",
+      "summary": "OpenAI says dozens more third parties were affected by rogue agents bypassing website security controls, as new traces reveal days of attempts to access Australian health data.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "'Dozens' hacked by OpenAI agents globally",
+      "url": "https://www.abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074",
+      "source": "ABC News",
+      "publishedAt": "2026-09-26T02:05:48.000Z",
+      "summary": "OpenAI says dozens more third parties were affected by rogue agents bypassing website security controls, as new traces reveal days of attempts to access Australian health data.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "Albanese’s trip to the UN was more than selfies with leaders. Now he needs to convince voters",
       "url": "https://www.smh.com.au/politics/federal/albanese-s-trip-to-the-un-was-more-than-selfies-with-leaders-now-he-needs-to-convince-voters-20260926-p610nr.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
@@ -85,39 +122,6 @@
       "spicy": false
     },
     {
-      "title": "Urgent dredging underway to save disappearing Queensland beach",
-      "url": "https://www.abc.net.au/news/2026-09-26/dredging-begins-at-moore-park-beach/107165126",
-      "source": "ABC News",
-      "publishedAt": "2026-09-25T23:11:13.000Z",
-      "summary": "Dredging work is underway to save a disappearing regional Queensland beach, but there are questions about its long-term viability and the impacts of increasingly powerful weather events.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Retired doctor extradited from NSW pleads not guilty to indecent assault",
-      "url": "https://www.abc.net.au/news/2026-09-26/retired-tasmanian-doctor-denies-indecent-assault-allegations/107197514",
-      "source": "ABC News",
-      "publishedAt": "2026-09-25T23:06:35.000Z",
-      "summary": "A patient who was allegedly indecently assaulted during a medical appointment 20 years ago has told a Tasmanian court he was frightened of reporting the incident at the time.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Aussie star reaches WTA final as opponent says she was 'pressured' to withdraw",
-      "url": "https://www.abc.net.au/news/2026-09-26/talia-gibson-tatiana-prozorova-singapore-open-final/107198928",
-      "source": "ABC News",
-      "publishedAt": "2026-09-25T23:04:58.000Z",
-      "summary": "Talia Gibson has reached her maiden WTA singles final as Tatiana Prozorova takes a swipe at the WTA, saying a physio \"pressured\" her into withdrawing from their semifinal after she was hit by a smash during a doubles match.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "AI data centre company starts development work without a permit",
       "url": "https://www.abc.net.au/news/2026-09-26/firmus-starts-development-work-without-permit-wesley-vale/107198264",
       "source": "ABC News",
@@ -126,19 +130,6 @@
       "categories": [],
       "relevant": false,
       "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Push to stop girls having to suffer pelvic pain in silence",
-      "url": "https://www.abc.net.au/news/2026-09-26/calls-for-specialist-endometriosis-education-in-nsw-high-schools/107084228",
-      "source": "ABC News",
-      "publishedAt": "2026-09-25T21:06:12.000Z",
-      "summary": "Advocates are calling for specialist endometriosis education in NSW public schools to make it less awkward for students and teachers to discuss the condition.",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 6,
       "spicy": false
     },
     {
@@ -164,7 +155,7 @@
       "spicy": false
     },
     {
-      "title": "'Unbearable emotional weight': Partner visa delays come at a high personal cost",
+      "title": "'Unbearable emotional weight': Partner visa delays come at high personal cost",
       "url": "https://www.abc.net.au/news/2026-09-26/partner-visa-delays-for-offshore-applicants/107185444",
       "source": "ABC News",
       "publishedAt": "2026-09-25T19:55:24.000Z",
@@ -188,11 +179,11 @@
       "spicy": false
     },
     {
-      "title": "Who's legally responsible for the OpenAI Medicare hack?",
+      "title": "'Ethical' hacker doubts Open AI will face charges over Medicare hack",
       "url": "https://www.abc.net.au/news/2026-09-26/nik-cubrilovic-legal-action-over-openai-medicare-hack/107195416",
       "source": "ABC News",
       "publishedAt": "2026-09-25T19:21:11.000Z",
-      "summary": "As questions linger around whether OpenAI will face legal consequences for its Medicare hack, a man who faced decades in jail for alleged cybercrimes says Australian law comes down harder on individuals than organisations.",
+      "summary": "As questions linger as to whether or not OpenAI will face legal consequences for its Medicare hack, a man who faced decades in jail for alleged cybercrimes says Australian law comes down harder on individuals than organisations.",
       "categories": [
         "Cost of living"
       ],
@@ -252,7 +243,7 @@
       "summary": "As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI race When the Australian prime minister, Anthony Albanese, sat down for an interview in the heart of Silicon Valley at the weekend he had known for two days that his was the first gove",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -263,7 +254,7 @@
       "summary": "Barrie Cassidy and Sean Kelly (filling in for Tony Barry) look at the prime minister’s week in the US against the backdrop of Donald Trump’s ban of three news organisations from the White House. Would the Australian media ever join together like their American counterparts and boycott a political pa",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -619,7 +610,7 @@
     {
       "title": "Builders say tax changes could push more renters toward social housing",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN0pLYzFNaWdMQTZoRlVrdmhQVWdkRHFkR0ZlZVZVUFZUZGZWalJRemlwWDFyZ01MczN1Y3k3TU5rd0Q1TXk4dDduTkl0dWhBRGxudUdUNHd6M05pN0VmWnYyc21DUmpxV3dMaGFodXZreGEyUEpFcjZaa3FEMmszZ2hQcG1oMTlrQVE?oc=5",
-      "source": "eliteagent.com",
+      "source": "Elite Agent",
       "publishedAt": "2026-09-24T04:42:16.000Z",
       "summary": "",
       "categories": [
@@ -639,28 +630,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Coal mine owners walk away and leave rehabilitation to state",
-      "url": "https://www.abc.net.au/news/2026-09-24/bowen-coking-coal-walks-away-from-bluff-coal-mine-leaving-rehab/107189090",
-      "source": "ABC News",
-      "publishedAt": "2026-09-24T02:34:10.000Z",
-      "summary": "Liquidators surrender the leases of a central Queensland coal mine, with questions around who will manage and pay for the rehabilitation of the site.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Unemployment rate reaches post-COVID era high of 4.6pc in August",
-      "url": "https://www.abc.net.au/news/2026-09-24/unemployment-rate-australia-rises-post-covid-era-high-august/107189792",
-      "source": "ABC News",
-      "publishedAt": "2026-09-24T01:45:48.000Z",
-      "summary": "Some economists say the increase won't be enough to stop the Reserve Bank lifting interest rates next week.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
       "spicy": false
     },
     {
@@ -852,7 +821,7 @@
       "title": "Australia: ACT Labor government slashes secondary college budgets",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00UjhwekJtaTlUVDk1blZmLTl6RENjdlpOckw4Q2c2TWhxNGtJRVVudkQ3eWJGVENobko3VzV0eHdUQlhfS0RVenQxRzh3bnVJdmlzTktJdGI2Q2I2ekpYR3VtNTQwVElV?oc=5",
       "source": "World Socialist Web Site",
-      "publishedAt": "2026-09-23T03:01:34.000Z",
+      "publishedAt": "2026-09-23T03:02:13.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
@@ -862,7 +831,7 @@
     {
       "title": "Australia tightens visa rules for students, visitors and workers: Key changes explained",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOWRSRk41NzhJZ0JNa0JIX0JhYUVlNVRqaEJWNnVxRXBtRVVHcWlvd2cxYWVyN1A1R0xaczQ5UVZVMTNXdlNFZVhxYzQ4Z3RhZFV0Nk1qQWp1dzNSTzhCbkR5Szl5VE1TOEtJWUhqdUlXLTlvc3p0WG1YVjRaaHgtb1lBZ2ZtZ2k2dzM3U0xXV3NtcjNqa2RJMWRTc1E5LTFaMW40elpkODN0a3htc0VIbE9HbTF3U0VZSmd1MnJUSjdWZE5JZHpNVGxDMTg2ZjQ2ZmoyQUdyMTTSAd4BQVVfeXFMUDVydXZMYWgxclIzTTJORVZOMUNuQ09wWHFjc0VtTzVsWlRTeWhKQ0poM2MzaF90S1ZxOEc5X0loQUVxOFRidFQzeFBlVXZaVFc0VHRRSThpS25DcTI2YWlIOUM4dHlHSWlVOWxHNEczZU5fZkc2dTVlTzNsZll2NWxiMGRCaFQtbFN1N2NmYlJuRWZCSlplT1BtOGtpcThwQUswc3pVakdSeXM5MFFkRmlRNVF3b2d4OUlqS28tV01xc3J1OGNVTl9yOFBLUktjcGpMdG5LRF9nXzlKdEFB?oc=5",
-      "source": "livemint.com",
+      "source": "Livemint",
       "publishedAt": "2026-09-23T02:55:26.000Z",
       "summary": "",
       "categories": [
@@ -899,19 +868,6 @@
       "relevant": true,
       "score": 7,
       "spicy": true
-    },
-    {
-      "title": "Australia Visa Update: New Priority Rules bring Good News for Skilled Workers",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWlgtNXdRTjVLZEV6enljT3ZoNmxwbU9Hc2x4dUhwOE8xZ0U0M2dMSFZ4bUdQLWRzaHpCV0EtTE1KLS1wektCSjFvRnZVRzZSeFVES2pqUmJaYUFXZ2x0MXhHZjZPTFNnYXVwV3FvM2tZbVU4aW1YUHViaGFQb09vZTNsQW1XU1BqMXphUXhFY2x1QVJhZkVhOVY4OWRKbmhkTjZIZ21GOHd2WFcteExDTkNKQTdUX0tFUmlVcA?oc=5",
-      "source": "Daily Pakistan",
-      "publishedAt": "2026-09-22T10:02:57.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
     },
     {
       "title": "The two assets booming after tax changes",
@@ -1029,8 +985,8 @@
     },
     {
       "title": "Super contributions surge more than a third after budget tax changes",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQnF3Rkh3ZTFlc25FR2JYa0pqSGxrZGMzYXBSeU9wLXNpbnY1SGkwR3RsU29vNXd3clh4bnF4dk9UdWNvZ2lieVpZR1RTNmhWa3JXc2lMWDNKMHNOMXVtazZfWi1qY3lBX3Vkb1lnOGxwNE5DRHJ2LV9fbXlYcHFvQ3NXQm5jTS15Q3hHRjdMdm9xRG5yMkFRaHk3aVpKUnhQb1RxMHdkSVhwdG9tdjVWcnVtUjk0Q3VSZW14cXBXUjdoNEZVbG45YlhTYlcyUlZrZzlQTktQNXM?oc=5",
-      "source": "SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX3dBekk5cDVlNzBkY0lXdGJURkR2RTlQYmwzdVdaeWZldWhPOUJSYm1xOW11S3RubjFySHdia0FYUnRpZzg1R3ZEbE9GNVM1MWVmelg5MWJPY19NaEpfbzI2QkRfMkdaN0VYVFFkTDlfN2YtZ19TZFVNZFAyYWZJVTE4Q1FISHFfeHhEWERvZnJhMUt2d005LVgtS3IzSGtqQURwbTJOZHY1RGNBcFBfNlNQZ1B6eXRkYU9ZOVVYeG1aYXJVdzRvS2xJdmpaZldmZ2V6UWhWZ2ZncHhmQXc?oc=5",
+      "source": "WAtoday",
       "publishedAt": "2026-09-20T05:05:00.000Z",
       "summary": "",
       "categories": [
@@ -1118,17 +1074,6 @@
       "spicy": false
     },
     {
-      "title": "Backpacker cuts slammed as 'low blow' for farming and tourism",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnItX3FyNnVLOFFRRGNqdHBDYk9lemxyc2VKVF9Ld0pmQkNPT0c2R1lfZmxiZkFVbUgzR19kcWdDRkRaZWFpR0duSUtCeFRnVnE1eUMxeVhoMlljMlFoMnpULWFJUE5qVEg4NElOaU14Vlh6VkNTYlZtbVpNVi0yWjFJbmNGVWtibU9KWVhGRTZFbEljZzQwS25YT1pBdm5KcG95OUJtUUxSSGU4cy0zYkdn?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-09-17T08:33:27.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
       "title": "Cuts, punishment powers and a notable exception: Key changes in Labor's migration shake-up",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0pwTnZTajBwM2g4X0RNbnB4UGlIUEg3RXJBY09UaUsyUzFwdmd0UXZPc0lXei0ybWZ3bHZwTHJaMFh5dWJMekJzNFB4eHhNOV93SEIzQkljell6a0JzY3BvUmdwNXVRaE1rV1hmUW1McEdsaEozM0NrSWtJMzhjSzRBdXFFa0dGT0sw?oc=5",
       "source": "SBS",
@@ -1167,20 +1112,6 @@
       "spicy": true
     },
     {
-      "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iZ3pIcDEyaURJcGpRbmxmNU50emVndzJxVWVpMVpSMzNmVERMWFN0SVA1YnBlMDY1WGtkdU1MOVdJdXJELXFDYWllOGR2VXY2Sm40NHVWU2xWcE0?oc=5",
-      "source": "BBC",
-      "publishedAt": "2026-09-17T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration",
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Migration changes to hit students’ families and working holiday makers",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd09oNTNFUnZkazZRNXVEYVdHd3ZIWUk2ejV3SUlnRnNhQ2NBVzlPeVlZNVN1RmJGc2Z5X2dZWXRrbndkYjRUaWhBZGhyX1hfNFlXQTRNNVBrTEFoWklqY0FOTlBHakdfbHBQMGpGYngxVmtUWDBrR0NkaTdwa1pDSVhMeWg4VmRSWXBVZ01WU05QanlWYUsyVktSazM1cXBlZklBd2lJMA?oc=5",
       "source": "The Conversation",
@@ -1208,6 +1139,44 @@
       "spicy": false
     },
     {
+      "title": "Australian immigration changes finally announced - what are the changes, who's impacted and what's ahead?",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbUFfelVid25IOVRwRkRSZFFNUGlmOWZtNXVsOVhsT3dMMVZhWnVSRXF0anZNQUdLVWxzczRXTEFMWklrMlVmTGZSOTJXTzdpSlRSenphZ3RqZnRYTFRXWkxoOVJwS29pbTNUdlo0WUYxSWVoSVpxb1g1OURFMTdFbzFn?oc=5",
+      "source": "Ethos Migration Lawyers",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Backpacker cuts slammed as 'low blow' for farming and tourism",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnItX3FyNnVLOFFRRGNqdHBDYk9lemxyc2VKVF9Ld0pmQkNPT0c2R1lfZmxiZkFVbUgzR19kcWdDRkRaZWFpR0duSUtCeFRnVnE1eUMxeVhoMlljMlFoMnpULWFJUE5qVEg4NElOaU14Vlh6VkNTYlZtbVpNVi0yWjFJbmNGVWtibU9KWVhGRTZFbEljZzQwS25YT1pBdm5KcG95OUJtUUxSSGU4cy0zYkdn?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Australia immigration crackdown: visas for international students and backpackers targeted",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Pd2JGMnkyY25QTV9BSmpmZ0xwNUxsalRHUzVWWURZYng2R3lRTFdHbElzNzFua3ZqRE9QWXRKRTFUUm5JdWdxOUhfd3h2TmxGaDhqSDVPQlJrZEN5Snc?oc=5",
+      "source": "BBC",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
       "title": "Student visa changes target ‘visa hopping’ and families",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT0tITFRaUV9ueXVEMGNqRW9pY3RlMUxqSGZ0cTBTSlRBaFBDNG1ZSGFGLWlvdU5iSVlPRER6eDJkc21leDlCYWc5Yzd3VENPLXJfb3hpRF92eVJFcXcwTFBuSTRZb3VCZ25UV3M5T2ZBd3dOb2tyN2RvX2JVZlhHZ21Hay1sOVk0?oc=5",
       "source": "Indian Link",
@@ -1219,19 +1188,6 @@
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Australian immigration changes finally announced - what are the changes, who's impacted and what's ahead?",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbUFfelVid25IOVRwRkRSZFFNUGlmOWZtNXVsOVhsT3dMMVZhWnVSRXF0anZNQUdLVWxzczRXTEFMWklrMlVmTGZSOTJXTzdpSlRSenphZ3RqZnRYTFRXWkxoOVJwS29pbTNUdlo0WUYxSWVoSVpxb1g1OURFMTdFbzFn?oc=5",
-      "source": "Ethos Migration Lawyers",
-      "publishedAt": "2026-09-17T03:51:14.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 0,
       "spicy": false
     },
     {
@@ -1416,7 +1372,7 @@
     {
       "title": "GIEC Global Australia Explains How New 2026 Skilled Visa Processi",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUzBHTS1LQlZINHFvaW1DbGdfeHNRTllLd2tiX0pGNzFtS1BydHFlTDczTzk1b2ZFNVJYMW91VnVYYUp0elZ2VVZlV1FfMGNGVllxRmxwN3VrZThtaW9sQllsa3IwZ2t4VUd2VkZqRVJIZlVQN3Z0NFlIQ2Rkd2F1NTRWbUxId2xWeTQ5MWphb3FXYnZualFJZnZKdWpuNlE5ZERMVVRVME9WcmM?oc=5",
-      "source": "The National Law Review",
+      "source": "natlawreview.com",
       "publishedAt": "2026-09-13T14:57:34.000Z",
       "summary": "",
       "categories": [
@@ -1521,6 +1477,58 @@
       "relevant": false,
       "score": 3,
       "spicy": false
+    },
+    {
+      "title": "Tax Reforms: What’s Changing for CGT, Negative Gearing and Trusts",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWUJDZUlqOC1ZQ0ZDMmNLVW5RSlhuTHJUOEJTeTltQURJX1NHdGE3SldoUDl0NXhUUDc2RDZRYUs2X21DTzdMZExOeWtBak5VZGFOb01vWENtYVRyMXNuaDhuYlJFa0xuUHdvdXM1WlNsRTV1aDNCd2pfODg1aTlSNVRtVURpWlozTUU4S09sUWlOd0FrUWc?oc=5",
+      "source": "Chamberlains Law Firm",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Supporting young families. Part 1: Rethinking universal childcare",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmQ5cmlSRTRpOW53Z3VMR3VrU2NlR1VIOXRUbnVfQ2pUakFhTW51MW4wSU5PQWpibnBsMEFaWFRKcTlKYXNKWDBJdDRpT1NfalNfQzNwNTNXRmdRMkJmQWJEVXdOclRoU3FnUUt0UHFuUXJPSW5PMXhTX1FnWUlEM0hydDBuV3dFZkdoUDBrZHBUYmIxNWhSMGFNeW9fTXhI?oc=5",
+      "source": "cis.org.au",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Why the horror warnings about Australia’s ‘collapsing’ housing market are absurd – and very much in bad faith | Greg Jericho",
+      "url": "https://www.theguardian.com/business/grogonomics/2026/sep/10/why-the-horror-warnings-about-australias-collapsing-housing-market-are-absurd-and-very-much-in-bad-faith",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-09T15:00:05.000Z",
+      "summary": "If prices were to take a 10% fall from the March 2026 peak, as CBA has suggested, that would still only mean prices were back where they were at the end of 2024",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 8,
+      "spicy": true
+    },
+    {
+      "title": "Greg Jericho on One Nation’s superannuation ‘sugar hit’ - podcast",
+      "url": "https://www.theguardian.com/australia-news/audio/2026/sep/10/greg-jericho-on-one-nations-superannuation-sugar-hit-full-story-podcast",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-09T15:00:03.000Z",
+      "summary": "One Nation’s proposal to allow people to access 3% of their super contributions for three years is touted as a lifeline for lower-income earners who are struggling to get by. But with no modelling by the party to show the long-term effects, are we better off with our money in super or in our pockets",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
     }
   ]
 }
