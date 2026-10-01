@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-01T13:48:27.936Z",
+  "updatedAt": "2026-10-01T19:24:04.520Z",
   "count": 120,
-  "relevantCount": 57,
-  "spicyCount": 18,
+  "relevantCount": 61,
+  "spicyCount": 16,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -34,6 +34,8 @@
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
     "Absolute Immigration",
+    "Australian Property Update",
+    "BBC",
     "Bloomberg.com",
     "Business Standard",
     "Ethos Migration Lawyers",
@@ -43,13 +45,10 @@
     "Insider Guides",
     "MacroBusiness",
     "News.com.au",
-    "Nine.com.au",
-    "Property Council Australia",
     "Reuters",
     "SBS",
     "SMH.com.au",
     "Sydney Morning Herald",
-    "The Age",
     "The Australian",
     "The Canberra Times",
     "The Conversation",
@@ -61,20 +60,118 @@
     "The Straits Times",
     "UA.NEWS",
     "Yahoo Finance Australia",
-    "australianpropertyupdate.com.au",
     "insidestory.org.au",
+    "linkedin.com",
+    "nine.com.au",
+    "propertycouncil.com.au",
     "realestate.com.au"
   ],
   "items": [
     {
-      "title": "UK 30-year borrowing costs hit 6%, highest since 1998, as government bond sell-off intensifies – business live",
-      "url": "https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates",
+      "title": "The good, the bad and the grumpy: Will Joe Aston’s Rampart go soft on its corporate backers?",
+      "url": "https://www.smh.com.au/business/companies/the-good-the-bad-and-the-grumpy-will-joe-aston-s-rampart-go-soft-on-its-corporate-backers-20261002-p6123a.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-01T19:00:00.000Z",
+      "summary": "In this week’s On Background, Joe Aston’s media start-up has got everyone talking, ABC seems bored with long news bulletins and ATO’s latest data once again reveals a sorry tale.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Unemployment probably does need to climb … for now",
+      "url": "https://www.smh.com.au/business/the-economy/unemployment-probably-does-need-to-climb-for-now-20261002-p6126d.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-01T19:00:00.000Z",
+      "summary": "The Reserve Bank is not out to get people fired. But it needs to be careful about the direction it’s taking.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "‘Sharp practices’ by rogue migration lawyers in Labor’s crosshairs",
+      "url": "https://www.smh.com.au/politics/federal/sharp-practices-by-rogue-migration-lawyers-in-labor-s-crosshairs-20261002-p611ul.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-01T19:00:00.000Z",
+      "summary": "Lawyers are set to be warned they are driving some of the worst exploitation in the immigration system, including fraudulent parent applications.",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "The Greens were anti-establishment. Now it looks like they’re a part of it",
+      "url": "https://www.smh.com.au/politics/federal/the-greens-were-anti-establishment-now-it-looks-like-they-re-a-part-of-it-20261002-p611z0.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-01T19:00:00.000Z",
+      "summary": "David Shoebridge has taken charge of a party that was obstructionist when people wanted solutions and constructive when they wanted revolt. The Greens zigged when they should have zagged.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Albanese jets off to talk climate, but interest rate pain is never far away",
+      "url": "https://www.abc.net.au/news/2026-10-02/anthony-albanese-climate-change-ai-interest-rates/107217568",
+      "source": "ABC News",
+      "publishedAt": "2026-10-01T18:55:58.000Z",
+      "summary": "In ordinary people's day-to-day thinking the cost of living dominates, and never more than this week, when the Reserve Bank hiked rates to the highest level since 2011.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 10,
+      "spicy": false
+    },
+    {
+      "title": "EU envoy warns Australia not to let ‘enormous opportunity’ slip",
+      "url": "https://www.smh.com.au/politics/federal/eu-envoy-warns-australia-not-to-let-enormous-opportunity-slip-20261002-p6124z.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-01T17:59:00.000Z",
+      "summary": "Despite resistance from China and the US, the EU’s new envoy in Canberra says Europe and Australia can demand greater regulation of artificial intelligence.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Million-dollar public servants: 11 staff at Australia’s Future Fund paid significantly more than the PM",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/02/public-servants-australia-future-fund-paid-more-than-pm-albanese",
       "source": "The Guardian",
-      "publishedAt": "2026-10-01T13:44:53.000Z",
-      "summary": "Global bond rout kicks off again, with US 10-year Treasury yields hitting highest since 2002 Worryingly for Paris, the difference between French and German borrowing costs has widened to a 14-year high this morning. The gap between French and German government bond yields – a market gauge of the ris",
+      "publishedAt": "2026-10-01T15:00:55.000Z",
+      "summary": "One executive received a $1.5m package last year, while 10 other staff received remuneration exceeding $1m each",
       "categories": [],
       "relevant": false,
       "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Anthropic pushes for opt-out model for Australian content as ABC warns of ‘cannibalisation’ of news",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-01T15:00:53.000Z",
+      "summary": "Maker of Claude claims AI could transform economy but ABC and SBS say the technology should be subject to media regulations Get our new political email ,",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Labor will go after lawyers trying to 'game' the visa system",
+      "url": "https://www.abc.net.au/news/2026-10-01/labor-to-target-migration-agents-gaming-visa-system/107218224",
+      "source": "ABC News",
+      "publishedAt": "2026-10-01T13:59:54.000Z",
+      "summary": "Labor is moving against lawyers and migration agents accused of profiting from visa applications that have little prospect of success.",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 4,
       "spicy": false
     },
     {
@@ -145,7 +242,7 @@
       "summary": "With a sharp, aggressive strategy, the Greens' newly elected leader vows to take on corporate power and bring a 'red-hot fight' to coal and gas approvals. But after a turbulent week and internal party-room fractures, can Senator David Shoebridge and his polarising approach rally progressive voters w",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -156,7 +253,7 @@
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -167,31 +264,7 @@
       "summary": "Time magazine list includes Australian communications minister after her efforts to take on big tech Get our new political email ,",
       "categories": [],
       "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "The last thing Albanese needed was free advice from his own side",
-      "url": "https://www.abc.net.au/news/2026-10-01/interest-rate-rise-inflation-albanese-free-advice-minns/107207464",
-      "source": "ABC News",
-      "publishedAt": "2026-10-01T07:08:15.000Z",
-      "summary": "Under pressure from opponents after another interest rate hike and more bad inflation news, the last thing Anthony Albanese needed was free advice from his own side.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 8,
-      "spicy": true
-    },
-    {
-      "title": "Australia records first detections of 'devastating' plant disease",
-      "url": "https://www.abc.net.au/news/2026-10-01/root-rot-fungus-detected-australia/107216090",
-      "source": "ABC News",
-      "publishedAt": "2026-10-01T06:21:39.000Z",
-      "summary": "Monosporascus cannonballus is detected on two NT properties, marking the first cases in Australia.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
+      "score": 5,
       "spicy": false
     },
     {
@@ -204,7 +277,7 @@
         "Tax"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -215,7 +288,7 @@
       "summary": "Broken Hill Gold has poured an extra 174 gold ounces from its White Dam heap leach project in South Australia, with proceeds to fund the restart of mining at its Vertigo pit.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -226,7 +299,7 @@
       "summary": "With a sharp, aggressive strategy, the Australian Greens’ newly elected leader vows to take on corporate power and bring a “red hot fight” to coal and gas approvals. But following a turbulent week and internal party room fractures, can Senator David Shoebridge and his polarising approach rally progr",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -237,7 +310,7 @@
       "summary": "With a sharp, aggressive strategy, the Australian Greens’ newly elected leader vows to take on corporate power and bring a “red hot fight” to coal and gas approvals. But following a turbulent week and internal party room fractures, can Senator David Shoebridge and his polarising approach rally progr",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -250,7 +323,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -261,18 +334,7 @@
       "summary": "The two pledges come as foot traffic to branches and cash usage by Australians continues to fall.",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Victorian uses voluntary assisted dying medication supplied to partner",
-      "url": "https://www.abc.net.au/news/2026-10-01/voluntary-assisted-dying-report-reveals-partner-used-medication/107215474",
-      "source": "ABC News",
-      "publishedAt": "2026-10-01T05:34:29.000Z",
-      "summary": "The person is believed to have taken the medication in the days after the death of their partner, who had been diagnosed with cancer, earlier this year.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -283,7 +345,7 @@
       "summary": "NeuroScientific Biopharmaceuticals has hired Southern Star Research for a phase two trial of its StemSmart Crohn’s disease therapy in Australia and the US.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -294,7 +356,7 @@
       "summary": "Labor MP Josh Burns accuses new Greens leader David Shoebridge of \"prejudice\" over comments about the party's relationship with Jewish Australians.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -305,7 +367,7 @@
       "summary": "Doctors at Victoria's public hospitals will walk off the job for four hours leaving staffing at weekend levels, as a 14-month bargaining process over pay and conditions continues to grind on.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -319,7 +381,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 3,
+      "score": 2,
       "spicy": false
     },
     {
@@ -330,7 +392,7 @@
       "summary": "There is no greater treachery than this failure to face up to the climate crisis. How can we now fend off despair? The Independent Planning Commission’s published reasons for approving the largest coalmine in New South Wales history in the context of mounting death, disaster and despair brought on b",
       "categories": [],
       "relevant": false,
-      "score": 8,
+      "score": 7,
       "spicy": false
     },
     {
@@ -344,7 +406,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": true
     },
     {
@@ -357,7 +419,7 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -370,7 +432,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": true
     },
     {
@@ -417,17 +479,6 @@
       ],
       "relevant": true,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "‘Quite ill-prepared’: Shops scramble to meet new card surcharge ban",
-      "url": "https://www.smh.com.au/business/consumer-affairs/quite-ill-prepared-shops-scramble-to-meet-new-card-surcharge-ban-20261001-p611p9.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-30T22:07:56.000Z",
-      "summary": "Business lobby groups warn that some Australians will encounter card payment surcharges at the checkout despite a ban on the practice coming into effect.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
       "spicy": false
     },
     {
@@ -516,17 +567,6 @@
       ],
       "relevant": true,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Giant gold miner eager to keep $38b Australian mega-deal alive",
-      "url": "https://www.smh.com.au/business/companies/giant-gold-miner-eager-to-keep-38b-australian-mega-deal-alive-20261001-p611ol.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-30T18:00:00.000Z",
-      "summary": "The South African giant vying to buy Australia’s largest gold miner is “open to further dialogue” after its initial $38 billion takeover bid was shot down.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -634,17 +674,6 @@
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-09-30T08:41:08.000Z",
       "summary": "Australian federal MPs are world leaders in using AI for political speeches.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "A new route to Europe? How Hawaiian Airlines could forge fresh path for Australians",
-      "url": "https://www.smh.com.au/business/companies/a-new-route-to-europe-how-hawaiian-airlines-could-forge-fresh-path-for-australians-20260930-p611l4.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-30T08:00:00.000Z",
-      "summary": "After acquiring Hawaiian Airlines in 2024, Alaska Airlines reassigned Hawaiian’s wide-body 787s to carry passengers from Seattle to Europe and Asia.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -791,17 +820,6 @@
       "spicy": false
     },
     {
-      "title": "Emergency water restrictions for Queensland town following pump failure",
-      "url": "https://www.abc.net.au/news/2026-09-30/clermont-water-water-restrictions-pump-failure/107210014",
-      "source": "ABC News",
-      "publishedAt": "2026-09-30T02:21:48.000Z",
-      "summary": "Clermont residents are still being urged to conserve water, while storage levels are critically low due to multiple pump failures.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Lowe blow: Treasurer’s spending slammed by ex-central bank boss",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzdydG9nY1hiSG5ZZGZ0WVM4LUdzNmdnTWhoNzRGcGx1MzA0UmQ3S0w0djktc1VVTXFGWGtaQkJmSGF5RmdWakF1T0V4bEpQZmhJX3FqMkd5eE5iTmtMUUtRLXpjZ3B0RkE1a0NJUEZHMnEtOGJ4Uy1rLXdBX2FhckNPdTVYcTh1ZmFuUURGTnE2SFMzRGV4dVRBYVl4QmNJd0ZyR2x4OU9qUzM0aEtBY1lmRW8?oc=5",
       "source": "InDaily South Australia",
@@ -913,17 +931,6 @@
       "spicy": true
     },
     {
-      "title": "Revealed: the five-paragraph email OpenAI used to inform Australia about agent attack",
-      "url": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-29T11:04:05.000Z",
-      "summary": "Executive to front parliamentary committee on AI as ministers reveal how brief message telling them about hack was signed off ‘best’",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "To avoid another rate rise, things might have to get worse",
       "url": "https://www.smh.com.au/politics/federal/to-avoid-another-rate-rise-things-might-have-to-get-worse-20260929-p6119y.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -948,30 +955,6 @@
       "spicy": false
     },
     {
-      "title": "She’s an Australian law professor. Her husband says they ‘don’t do consent’",
-      "url": "https://www.smh.com.au/politics/federal/she-s-an-australian-law-professor-her-husband-says-they-don-t-do-consent-20260929-p611ej.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-29T09:00:00.000Z",
-      "summary": "Dr Joanna Howe, a Rhodes scholar, has become one of Australia’s most recognisable, prolific, and aggressive anti-abortion activists.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "RBA governor warns there could be further rate hikes, even if it tips Australia into recession",
-      "url": "https://www.smh.com.au/politics/federal/rba-hikes-interest-rates-to-4-6-per-cent-in-15-year-high-20260929-p6119t.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-29T08:36:32.000Z",
-      "summary": "In a blunt message that challenges Labor’s argument that inflation was driven primarily by the war, Bullock said domestic pressures had a role.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 7,
-      "spicy": true
-    },
-    {
       "title": "Australia investigating reports of human rights activist detained in Vietnam – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
       "source": "The Guardian",
@@ -980,17 +963,6 @@
       "categories": [],
       "relevant": false,
       "score": 9,
-      "spicy": false
-    },
-    {
-      "title": "Greens leadership showdown: Faruqi and McKim take on Hanson-Young as members demand a say",
-      "url": "https://www.smh.com.au/politics/federal/greens-leadership-showdown-to-occur-at-two-day-retreat-20260929-p611a1.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-09-29T07:54:03.000Z",
-      "summary": "Greens firebrand Max Chandler-Mather has urged the MPs to give all its grassroots members a say in choosing their next leader.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -1122,7 +1094,7 @@
     {
       "title": "Australia gets unexpected $6 billion federal budget boost",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3ZOZlJvbXY4c28xRU1wYndkU2laLTZKWEJWbWdYY0d1N1l3OUZ4cW1yMGFaQk9od1NlVWplZGUtLTRMTFd6RVhLeHJkaTV5RnN4THNoOTllX3VZOUdYTU1ySVdIY2s3TFBKaHk3U0R3dlZGMlZzaUlBTkF1cVBRcEh4YzVNNW1OZkNkSUd4SlMzRVdEV0YxZTl6cGJDWWY1QzZYRkdtRXoxdE9UNGZOb0dwaw?oc=5",
-      "source": "Nine.com.au",
+      "source": "nine.com.au",
       "publishedAt": "2026-09-28T03:39:41.000Z",
       "summary": "",
       "categories": [],
@@ -1261,20 +1233,6 @@
       "spicy": false
     },
     {
-      "title": "Housing groups welcome migration changes, but tradie shortage remains",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM3Exb3pETDc5NW56T0ZPZS11YUtLT0Y1T1ZFbmNrVjhabEJ3cTNIYmpCZURBRy1WZ1dFYzhka0U4M0ZIS3RnZ19BbXpFX3RVdFFVZkUwLTAtekpoMmtrdXlzQlk1c1E5MU9kalM0MGFGdk5JQlVPcWZzNGtRTFBlNjNoM09pTDJ0QmxnN19IMWJXZFc3T2lva3ZsZ3VzNmFMaGo5MEZtWTJRMXc5RHI3SnZB?oc=5",
-      "source": "australianpropertyupdate.com.au",
-      "publishedAt": "2026-09-21T07:07:42.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 2,
-      "spicy": false
-    },
-    {
       "title": "Chalmers to release intergenerational report",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcXJFcEg3TmdoYWpxTlV4Y21JOEUxRWh0ZHdKZW5aN0JpV2toOHZpbHc2bC1sOW1QSGQtOG1zUTd0dEhtMFM3RFU4RklFNGFvVm82OHQ3M3drMEdHNVBua2lOMURmMkxoalltUEU3R2R3YUVPY2JYWE1uLUQzb3pCa2NXLXJnbjQzZmc?oc=5",
       "source": "The Saturday Paper",
@@ -1310,6 +1268,20 @@
       "spicy": false
     },
     {
+      "title": "Housing groups welcome migration changes, but tradie shortage remains",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM3Exb3pETDc5NW56T0ZPZS11YUtLT0Y1T1ZFbmNrVjhabEJ3cTNIYmpCZURBRy1WZ1dFYzhka0U4M0ZIS3RnZ19BbXpFX3RVdFFVZkUwLTAtekpoMmtrdXlzQlk1c1E5MU9kalM0MGFGdk5JQlVPcWZzNGtRTFBlNjNoM09pTDJ0QmxnN19IMWJXZFc3T2lva3ZsZ3VzNmFMaGo5MEZtWTJRMXc5RHI3SnZB?oc=5",
+      "source": "Australian Property Update",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration",
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 2,
+      "spicy": false
+    },
+    {
       "title": "Jim Chalmers flags fresh tax cuts, warns of ‘confronting’ news in economic outlook",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSEw3THY4X2daMW92OVJyTXh5OEkteVhCczk2MzBFTXBUWjN6STNwNTl5UnpTelZZWEl1ekVtbVZ3OUs2dUhyWEx6YXZaeDJjRlYyN2d5Vk1XaFZCa195dnNxT0JBMjBwOTc5SHdxc1hoM0hQX09wbzMycW1OMmoxMmtxcnJBaGZQWGlxTTh4VkVHakdHTTh6bFdTcVNjdF9Bd0VCeUo4UHJTZ29mVXkwMkIzdU9aZnczRDNyaWN0N1ktcUFBbEdheU45bEY5c1lraDk5TkxoOA?oc=5",
       "source": "SMH.com.au",
@@ -1324,15 +1296,15 @@
     },
     {
       "title": "Super contributions surge more than a third after budget tax changes",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY0JpdkNucUFwNFBvYlJTZTV1dlFsYWFwM0V6N3h1czBROEF3dU5rYXVFMy1Vd0RHT1ZkM0xBbFBLaEJxcW5xTC00aUc0NzhRMU5ibGpTT0Y4OUNyWUJFMS1BNC1oaFd6MXMwdnpDUUJFcnBtd2hZSHZKVWd3MmhxZXBkaTMwQUZfOWRCVGpsSWVQY1A1YXRYRlRPSFd0RWRXRE82SkNnWUFsTXpMR3RKckoyTkoyZGtBUTFnU3FFZmlqNkZWUDg5RU5iSmZmSWpGOHc3TzhPWFRtN0Va?oc=5",
-      "source": "The Age",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQnF3Rkh3ZTFlc25FR2JYa0pqSGxrZGMzYXBSeU9wLXNpbnY1SGkwR3RsU29vNXd3clh4bnF4dk9UdWNvZ2lieVpZR1RTNmhWa3JXc2lMWDNKMHNOMXVtazZfWi1qY3lBX3Vkb1lnOGxwNE5DRHJ2LV9fbXlYcHFvQ3NXQm5jTS15Q3hHRjdMdm9xRG5yMkFRaHk3aVpKUnhQb1RxMHdkSVhwdG9tdjVWcnVtUjk0Q3VSZW14cXBXUjdoNEZVbG45YlhTYlcyUlZrZzlQTktQNXM?oc=5",
+      "source": "SMH.com.au",
       "publishedAt": "2026-09-20T07:00:00.000Z",
       "summary": "",
       "categories": [
         "Tax"
       ],
       "relevant": true,
-      "score": 5,
+      "score": 2,
       "spicy": false
     },
     {
@@ -1402,7 +1374,7 @@
     {
       "title": "2026-27 NSW Budget Analysis",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WbUdUWGc4MVdFTDNCUkJpb1IwNlVNRk1ZTks3TjF0dE1FNlYwWnAzZUwyMlY0VkRrYXQwcEpWZGVuQm9hMzZJSGRNaWV0T3RZQlBDVEYxTmh4Mm43SjVEYk9jV1p0OHlXcDdmOFFheDBDNVVJcWNPYnhGYnlTRU0?oc=5",
-      "source": "Property Council Australia",
+      "source": "propertycouncil.com.au",
       "publishedAt": "2026-09-17T10:12:22.000Z",
       "summary": "",
       "categories": [],
@@ -1508,6 +1480,44 @@
       "categories": [
         "Visas & Migration",
         "Family & Education"
+      ],
+      "relevant": true,
+      "score": 2,
+      "spicy": false
+    },
+    {
+      "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Pd2JGMnkyY25QTV9BSmpmZ0xwNUxsalRHUzVWWURZYng2R3lRTFdHbElzNzFua3ZqRE9QWXRKRTFUUm5JdWdxOUhfd3h2TmxGaDhqSDVPQlJrZEN5Snc?oc=5",
+      "source": "BBC",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "In such a rich country, it is shameful how many Australians on jobseeker are dying in desperate poverty | Greg Jericho",
+      "url": "https://www.theguardian.com/business/grogonomics/2026/sep/17/australians-jobseeker-dying-in-poverty",
+      "source": "The Guardian",
+      "publishedAt": "2026-09-16T15:00:22.000Z",
+      "summary": "Lifting the abysmally low jobseeker rate to the poverty line would save thousands of lives",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "The business cost of migration cuts: Labour shortages and skills gaps",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHNicU0tNnRjSmYyVmg0WTVtT3VBM2lBRWxXMzNSZnAzc2Q3djRHdzYzWngxQXZzMHJSbXNMemFiOUQ1M01hYWhORXlrZWUtRFNRM3dBYW8xVVJOejdpX2JIMmF6UzU4a3AzLTloVlFrZmFBNUpjWGgwczVyUHpmWkRocDk3VnJLTmJESHRaNlN1MkVLaGYxbjhjRGJJbHZ0UkE?oc=5",
+      "source": "linkedin.com",
+      "publishedAt": "2026-09-16T09:23:24.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
       ],
       "relevant": true,
       "score": 2,
