@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-02T02:30:41.325Z",
+  "updatedAt": "2026-10-02T09:35:54.901Z",
   "count": 120,
-  "relevantCount": 55,
-  "spicyCount": 15,
+  "relevantCount": 56,
+  "spicyCount": 14,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -29,7 +29,6 @@
     "Australia cost of living relief budget"
   ],
   "sources": [
-    "7NEWS",
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
@@ -38,6 +37,7 @@
     "Bloomberg.com",
     "Business Standard",
     "CNN",
+    "Ethos Migration Lawyers",
     "Fragomen",
     "InDaily South Australia",
     "MacroBusiness",
@@ -47,29 +47,156 @@
     "SBS",
     "SMH.com.au",
     "Sydney Morning Herald",
+    "The Age",
     "The Australian",
     "The Canberra Times",
     "The Guardian",
     "The Nightly",
     "The PIE News",
+    "The Saturday Paper",
     "The Straits Times",
     "UA.NEWS",
     "Yahoo Finance Australia",
-    "ethosmigration.com.au",
     "insidestory.org.au",
-    "realestate.com.au",
-    "thesaturdaypaper.com.au"
+    "realestate.com.au"
   ],
   "items": [
     {
-      "title": "Australia news live: Melbourne soaked by wettest day since 2024; Jackie O’s $80m legal fight with KIIS FM owner delayed",
+      "title": "Breaking: Former Liberal politician Bruce Baird dies aged 84",
+      "url": "https://www.abc.net.au/news/2026-10-02/nsw-former-liberal-politician-bruce-baird-dies/107223688",
+      "source": "ABC News",
+      "publishedAt": "2026-10-02T08:46:24.000Z",
+      "summary": "The party stalwart was father to former NSW premier Mike Baird and journalist Julia Baird.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Shoebridge pledges Greens members will ‘have a say’ in next leader – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
       "source": "The Guardian",
-      "publishedAt": "2026-10-02T02:10:34.000Z",
+      "publishedAt": "2026-10-02T07:31:29.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Rogue OpenAI agent accessed second NSW government website",
+      "url": "https://www.abc.net.au/news/2026-10-02/rogue-open-ai-agent-breach-nsw-government-website/107223108",
+      "source": "ABC News",
+      "publishedAt": "2026-10-02T07:21:44.000Z",
+      "summary": "The rogue AI agent entered a National Parks and Wildlife Service web application containing publicly available historical information and data on fires.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australian shares limp ahead to end four-week losing streak",
+      "url": "https://www.smh.com.au/business/markets/asx-eyes-gains-after-wild-night-on-markets-oil-prices-climb-20261002-p6127t.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-02T07:06:37.000Z",
+      "summary": "Investor confidence remains shaky as inflation, interest rates and a challenging earnings environment loom.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "Tasmania's top prosecutor rules out 'further action' on town hall snack saga",
+      "url": "https://www.abc.net.au/news/2026-10-02/tasmania-police-rules-out-further-action-hobart-snack-saga/107222164",
+      "source": "ABC News",
+      "publishedAt": "2026-10-02T05:39:31.000Z",
+      "summary": "Tasmania's top prosecutor has declined to take action over the taking of snacks from Hobart Town Hall by the city's deputy lord mayor, potentially bringing the contentious saga to a close.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Inquiry hears 'blue code of silence' stops DV victims reporting police",
+      "url": "https://www.abc.net.au/news/2026-10-02/tas-blue-code-of-silence-stops-dv-victims-reporting-police/107221656",
+      "source": "ABC News",
+      "publishedAt": "2026-10-02T05:36:24.000Z",
+      "summary": "Victim-survivors of police officers are concerned they will not be believed or treated seriously because of the \"interconnected relationships\" that police have with each other, a Tasmanian inquiry hears.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "The Iran war is making Australia’s gas industry richer",
+      "url": "https://www.smh.com.au/business/the-economy/the-iran-war-is-making-australia-s-gas-industry-richer-20261002-p612al.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-02T05:23:32.000Z",
+      "summary": "Soaring LNG prices are set to reverse a forecast revenue slump, delivering an unexpected $23 billion boost to the nation’s biggest gas exporters.",
+      "categories": [],
+      "relevant": false,
+      "score": 11,
+      "spicy": false
+    },
+    {
+      "title": "Hanson and Spender united in demand for Tax Office ban reversal",
+      "url": "https://www.smh.com.au/politics/federal/hanson-and-spender-united-in-demand-for-tax-office-ban-reversal-20261002-p612dk.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-02T05:04:41.000Z",
+      "summary": "In a rare unified moment, the two politicians have called for the Australian Taxation Office to reverse its plan to ban credit card payments.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "The Greens want to catch the Mamdani wave. But can the minor party really become ‘unashamedly populist’?",
+      "url": "https://www.smh.com.au/politics/federal/the-greens-want-to-catch-the-mamdani-wave-but-can-the-minor-party-really-become-unashamedly-populist-20261002-p611zv.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-02T03:52:29.000Z",
+      "summary": "New York City’s mayor and the UK’s Zack Polanski have tapped into anti-establishment anger. Australia’s new Greens leader, a hard man of the hard-left, wants to do the same.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Qld government takes data centre approvals from councils to avoid 'inconsistency'",
+      "url": "https://www.abc.net.au/news/2026-10-02/qld-state-to-take-data-centre-approvals-from-local-councils/107221348",
+      "source": "ABC News",
+      "publishedAt": "2026-10-02T03:37:52.000Z",
+      "summary": "The Queensland government will take the planning and assessment of data centre applications away from local councils under a system set to be rolled out in coming weeks.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Notorious alleged WA drug kingpin 'The Kid' arrested in Colombia",
+      "url": "https://www.abc.net.au/news/2026-10-02/alleged-drug-kingpin-arash-ebrahimi-far-arrested-in-colombia/107221142",
+      "source": "ABC News",
+      "publishedAt": "2026-10-02T03:29:52.000Z",
+      "summary": "Australian-Iranian national Arash Ebrahimi Far is arrested in Colombia while leaving hospital after being \"wounded by gunfire\".",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Primary school 'devastated' by suspected theft of kid goats",
+      "url": "https://www.abc.net.au/news/2026-10-02/two-stolen-miniature-goats-baranduda-primary-school/107219670",
+      "source": "ABC News",
+      "publishedAt": "2026-10-02T03:21:10.000Z",
+      "summary": "A Victorian primary school is searching for two baby black goats that have gone missing during the holidays.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
       "spicy": false
     },
     {
@@ -84,18 +211,7 @@
       "spicy": false
     },
     {
-      "title": "The Greens want to catch the Mamdani wave. But can the minor party really become ‘unashamedly populist’?",
-      "url": "https://www.smh.com.au/politics/federal/the-greens-want-to-catch-the-mamdani-wave-but-can-the-minor-party-really-become-unashamedly-populist-20261002-p611zv.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-10-02T02:00:53.000Z",
-      "summary": "New York City’s mayor and the UK’s Zack Polanski have tapped into anti-establishment anger. Australia’s new Greens leader, a hard man of the hard-left, wants to do the same.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "November interest rate rise a 'live' possibility, CBA chief says",
+      "title": "Commonwealth Bank boss says Reserve Bank rate hikes probably finished",
       "url": "https://www.abc.net.au/news/2026-10-02/cba-boss-talks-interest-rates-and-november-hike-possibility/107220010",
       "source": "ABC News",
       "publishedAt": "2026-10-02T01:36:24.000Z",
@@ -113,7 +229,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/02/labor-migration-crackdown-international-students",
       "source": "The Guardian",
       "publishedAt": "2026-10-02T01:33:56.000Z",
-      "summary": "Migration agents and lawyers ‘selling false hope’ to people seeking to stay in Australia also in government’s sights as it seeks to reduce overseas arrivals",
+      "summary": "Migration agents and lawyers ‘selling false hope’ to people seeking to stay in Australia also in ministers’ sights as they seek to reduce overseas arrivals",
       "categories": [
         "Visas & Migration",
         "Family & Education"
@@ -121,39 +237,6 @@
       "relevant": true,
       "score": 8,
       "spicy": true
-    },
-    {
-      "title": "ASX higher as banks, tech companies rise; Oil jumps",
-      "url": "https://www.smh.com.au/business/markets/asx-eyes-gains-after-wild-night-on-markets-oil-prices-climb-20261002-p6127t.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-10-02T00:36:57.000Z",
-      "summary": "The Australian sharemarket has advanced at the open with energy companies advancing on the back of surging oil prices while more swings in the bond market rattled global markets overnight.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Australia calls Maddinson and Harper into Test squad",
-      "url": "https://www.abc.net.au/news/2026-10-02/australia-calls-nic-maddinson-and-sam-harper-into-test-squad/107219810",
-      "source": "ABC News",
-      "publishedAt": "2026-10-02T00:08:28.000Z",
-      "summary": "Nic Maddinson is within touching distance of a remarkable return to the Test team, after Cameron Green's abdominal strain left him a doubt for the series opener against South Africa.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Tongan man deported from Australia convicted over bid to set up Comancheros gang branch",
-      "url": "https://www.abc.net.au/news/2026-10-02/deportee-to-tonga-convicted-over-comancheros-bid/107208250",
-      "source": "ABC News",
-      "publishedAt": "2026-10-02T00:04:02.000Z",
-      "summary": "Eneasi Taumoefolau has been found guilty in Tonga of participating in an organised criminal group over his role in establishing a branch of the Comancheros in the Pacific nation.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
     },
     {
       "title": "13-year-long bribery investigation by AFP ends with no prosecution",
@@ -189,51 +272,25 @@
       "spicy": false
     },
     {
-      "title": "Parents outraged as trees chopped down at central Victorian schools",
-      "url": "https://www.abc.net.au/news/2026-10-02/school-trees-vegetation-cleared-bushfire-season/107210666",
-      "source": "ABC News",
-      "publishedAt": "2026-10-01T22:22:58.000Z",
-      "summary": "A Lone Pine tree and strawberry plants are among vegetation abruptly cleared from a central Victorian school as part of a state government tree removal program.",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Live: Major bank drops KPMG in wake of audit leaks scandal",
+      "title": "Major bank drops KPMG in wake of audit leaks scandal – as it happened",
       "url": "https://www.abc.net.au/news/2026-10-02/asx-markets-business-news-live-updates/107136842",
       "source": "ABC News",
       "publishedAt": "2026-10-01T21:25:53.000Z",
-      "summary": "The Australian share market has risen fractionally after Wall Street recovered from early losses as US Treasury yields retreated from multi-decade highs.",
+      "summary": "The Australian share market has risen fractionally after Wall Street recovered from early losses as US Treasury yields retreated from multi-decade highs. See how the day's events unfolded on the ABC News live markets blog.",
       "categories": [],
       "relevant": false,
-      "score": 8,
+      "score": 7,
       "spicy": false
     },
     {
-      "title": "Superannuation sector calls trade minister's pitch to Trump officials 'ill-informed'",
+      "title": "Minister's Trump lamb plan labelled 'ill-informed' by super sector",
       "url": "https://www.abc.net.au/news/2026-10-02/don-farrell-pitches-lamb-investment-to-avoid-tariffs/107219472",
       "source": "ABC News",
       "publishedAt": "2026-10-01T21:24:15.000Z",
       "summary": "Trade Minister Don Farrell asks the Trump administration to consider sparing Australian sheep farmers from future tariffs in exchange for Australian investment in America's lamb industry.",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Live: Taylor lashes minister's 'harebrained' idea to invest Australian super in US lamb",
-      "url": "https://www.abc.net.au/news/2026-10-02/federal-politics-live-blog-october-2/107219460",
-      "source": "ABC News",
-      "publishedAt": "2026-10-01T21:02:12.000Z",
-      "summary": "The opposition leader has called on the trade minister to explain his idea to invest Australian super in the US lamb industry.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -244,51 +301,7 @@
       "summary": "A notoriously windy stretch of road in Tasmania could be upgraded with pricing revealed to be as high as $2.7 billion to re-route the road.",
       "categories": [],
       "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
-      "title": "Australian citrus growers miss out on millions without US export markets",
-      "url": "https://www.abc.net.au/news/2026-10-02/australian-citrus-growers-push-for-widened-export-access-to-us/107089330",
-      "source": "ABC News",
-      "publishedAt": "2026-10-01T20:00:19.000Z",
-      "summary": "There are calls for government departments to speed up decades-old negotiations as markets in Asian countries worsen and Australia faces citrus oversupply.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Police investigating accused paedophile's links to celebrated charity",
-      "url": "https://www.abc.net.au/news/2026-10-02/police-investigate-mark-dennis-charity-links/107000434",
-      "source": "ABC News",
-      "publishedAt": "2026-10-01T19:29:24.000Z",
-      "summary": "Australian and Cambodian police are jointly investigating accused paedophile Mark Dennis's network and links to a celebrated Cambodian charity following his death after being charged with possessing child abuse material.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Australian and Cambodian police investigating accused paedophile's network",
-      "url": "https://www.abc.net.au/news/2026-10-02/police-investigate-mark-dennis-charity-links/107000434",
-      "source": "ABC News",
-      "publishedAt": "2026-10-01T19:29:24.000Z",
-      "summary": "Australian and Cambodian police are jointly investigating accused paedophile Mark Dennis's network and links to a celebrated Cambodian charity following his death after being charged with possessing child abuse material.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "South-east faces flooding, storms after second-driest September on record",
-      "url": "https://www.abc.net.au/news/2026-10-02/floods-storms-forecast-south-east-australia-after-dry-spetember/107217872",
-      "source": "ABC News",
-      "publishedAt": "2026-10-01T19:29:16.000Z",
-      "summary": "After a warm and dry start to spring, heavy rain is expected to sweep across south-east Australia this weekend.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
+      "score": 6,
       "spicy": false
     },
     {
@@ -301,7 +314,7 @@
         "Tax"
       ],
       "relevant": true,
-      "score": 8,
+      "score": 7,
       "spicy": true
     },
     {
@@ -309,12 +322,12 @@
       "url": "https://www.smh.com.au/business/companies/the-good-the-bad-and-the-grumpy-will-joe-aston-s-rampart-go-soft-on-its-corporate-backers-20261002-p6123a.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-10-01T19:00:00.000Z",
-      "summary": "In this week’s On Background, Joe Aston’s media start-up has got everyone talking, ABC seems bored with long news bulletins and ATO’s latest data once again reveals a sorry tale.",
+      "summary": "In this week’s On Background, Joe Aston’s media start-up has got everyone talking, the ABC seems bored with long news bulletins and ATO’s latest data once again reveals a sorry tale.",
       "categories": [
         "Tax"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -325,7 +338,7 @@
       "summary": "The Reserve Bank is not out to get people fired. But it needs to be careful about the direction it’s taking.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -338,7 +351,7 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -349,7 +362,7 @@
       "summary": "David Shoebridge has taken charge of a party that was obstructionist when people wanted solutions and constructive when they wanted revolt. The Greens zigged when it should have zagged.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -360,7 +373,7 @@
       "summary": "Despite resistance from China and the US, the EU’s new envoy in Canberra says Europe and Australia can demand greater regulation of artificial intelligence.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -371,7 +384,7 @@
       "summary": "One executive received a $1.5m package last year, while 10 other staff received remuneration exceeding $1m each",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 6,
       "spicy": false
     },
     {
@@ -382,7 +395,20 @@
       "summary": "Maker of Claude claims AI could transform economy but ABC and SBS say the technology should be subject to media regulations",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "New rules to crack down on ‘permanently temporary’ migrants",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2ZaSVEyVjFGS05LX25ha0lTOHU1Sm0tRV9MYVhUYk95b3F2Y1F4aE5IQ29tNHJodWt4T2p3MlE1d3V3WFl1Z1k1ZTdXOTlmeFJ4d0g3bU40TDJXMlVkU0xodllkU3gySDlEMXh1U0xTU0lJZnJQYVlsZHdMV3d4cGkyRWJhOVJTcDZqSTJSWFBlRkFkSGhCUU8xRWl2LWxSaTNIUW85WElPT3hwdHhZ?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-10-01T14:01:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 3,
       "spicy": false
     },
     {
@@ -834,19 +860,6 @@
       "spicy": false
     },
     {
-      "title": "More than 1,000 large companies paid no tax in Australia, ATO reveals",
-      "url": "https://www.abc.net.au/news/2026-10-01/ato-reveals-companies-that-paid-no-tax-as-fights-profit-shifting/107204032",
-      "source": "ABC News",
-      "publishedAt": "2026-09-30T14:19:14.000Z",
-      "summary": "Almost 30 per cent of large companies paid no tax in 2024–25, an Australian Taxation Office report reveals, resulting in the corporate tax amount payable dropping by $8.2 billion from the previous year.",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": true
-    },
-    {
       "title": "David Shoebridge is one of parliament’s best operators. His new task as Greens leader is far broader",
       "url": "https://www.smh.com.au/politics/federal/david-shoebridge-is-one-of-parliament-s-best-operators-his-new-task-as-greens-leader-is-far-broader-20260930-p611qv.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -1136,17 +1149,6 @@
       "spicy": false
     },
     {
-      "title": "Federal budget improves but households still face likely interest rate hike",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYjcwSm9lNUNVMU9oN2w5WjVubFZlYU9rT3VzQVFDWXhoVGhTR2x4c0E4RVV1X1J6WU82cEZBRm83R2k3OVRiUnFvSExMOVJWQk9OS1BmaWE5S01Gb1FsRGVFNEFxUmpGWl9jb3N6SERBcm1rLTd4VEJjZ2RYNTQ2VGZ0NGwxZklMa0lfcmg5U0lrNnBiUUpnc3hsNldnc2tJQXNhOFlsZTB0aVBEa1Ftd0pB0gG3AUFVX3lxTFBWN0RDUmsyN3lCYjV0ajdBSnBab3ZYOFZNWm04YzYzUG1zejV6R3lHLXF3N1pIWnBUellDNnM5RWhpc1R4bER0ckgydEpleEJUUHZ6eV9OdGZSN2pfSlI4djk4RGdIWDM3WVluSFg4MmJTVjVpUnU3RVRVMkNkTUo3NGlKNlBRLUN2QXRIajVDU243TnZQVnB4UTd2RFJaekNOZmlqbFRYaEhhMVpsbkVEQmZ4RkFFVQ?oc=5",
-      "source": "7NEWS",
-      "publishedAt": "2026-09-28T09:05:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
       "title": "Labor on cusp of becoming the highest-taxing government ever",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdkWjlZZlVkb3pnZ045QkJOY3JjekpBM1psQVhNUl92WDA5MmxPeDhyOWdwMnA2VnkwSWxOOU1aU256RTJQaWhVa0ZBc3BfbGhlRjZuQ05sMzZudEdLQTVadFdsdEpKZUR3SkU4ZDg4cF9ubWlfQWNTMXRoaHpxZ0J5cnBHdmlPSzF2SWVvdmtZVGk4T3VrYkNKNTM4M3Z4M2JnVE93ZGg5ajJVTlV6ZDQ3cw?oc=5",
       "source": "AFR",
@@ -1186,7 +1188,7 @@
       "spicy": false
     },
     {
-      "title": "Treasurer Jim Chalmers defends inflation record as 15-year interest rate high looms",
+      "title": "Treasurer defends inflation record as 15-year interest rate high looms",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1A3bmhvUFQ5WVlkR01FZS1zdWhEa21wOUVQWE1GV1ZBb2JZdE5jWlhfR3JCM3RrQ29pTVJvUnRhSDBKWUdqcmo5SWR5RVpWWkhSbUwwNUdnMzFKU1l3QUFCSTV1cTZRdFBOSHk3LVpzakhLeGFsNTJjNGtBSnYtYVdqV1BzeTM1RU9WUTM1ZmhfcEZTUUNjSzFwUjB2OE9HejZ0V3hfalQyeVk?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-09-28T04:36:42.000Z",
@@ -1291,17 +1293,6 @@
       "spicy": false
     },
     {
-      "title": "Chalmers reveals multibillion-dollar blowout in debt bill",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWIyVmNVSFFYSElDVVRzWHpnaFFxTVJyMGxQbjFPd1ZGazhlR2JCd2c0STRnZkpSS3E5TGd4V2UzMEZVNFdGTVVPb1VqaUpncWZCQzhXVEI0b3pKYktFQjJnUElGZ0t2TE9YRGRQaUxXVW8wOFNraGY2emxXR2hkSWR4clBLdU93cDRxME5ld05vSzRBOERrTm4tZDNSV19yMnBiNWhpSFkwNTU5?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-09-23T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Australia squeezes dependants as wider student migration questions emerge",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNURvZ1dwZWxXQkxNSS1wNmY5NXlxUnZlTjhBVmc5Zk11SXI2bnh5TXU2anMya0hKZm44d0MycnlBWjBJNGZDNEtmWVA4MUc1ZWVjczExRDdPQ1F2eC1GVGl3ZHVKVEx3cWRJY0hHUS0xYTNTc05VdENkT1F2ZkNITFNHY3dIZlduX0lDM3UtMnNnRmNhUGlCaS02NjZNQQ?oc=5",
       "source": "The PIE News",
@@ -1342,7 +1333,7 @@
     {
       "title": "Chalmers to release intergenerational report",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcXJFcEg3TmdoYWpxTlV4Y21JOEUxRWh0ZHdKZW5aN0JpV2toOHZpbHc2bC1sOW1QSGQtOG1zUTd0dEhtMFM3RFU4RklFNGFvVm82OHQ3M3drMEdHNVBua2lOMURmMkxoalltUEU3R2R3YUVPY2JYWE1uLUQzb3pCa2NXLXJnbjQzZmc?oc=5",
-      "source": "thesaturdaypaper.com.au",
+      "source": "The Saturday Paper",
       "publishedAt": "2026-09-21T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1364,7 +1355,7 @@
     {
       "title": "New skilled visa processing priorities introduced",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVF4VTFvWkhiSFUwNnh3RHVuaEVxSzFlc0xUdVBMaElzeklLek5UWWxsazEzZ1dfOUh5VEtDUzZVcVpFNHR5VGlMTmZlTXdPWUkta1dUanJ1ZUhvVVJjdFlWdXFLMHhQeFE2ZVZhV3dQVGd0bUQ4cVhFLTcwd1hzbkp5VmszdmM?oc=5",
-      "source": "ethosmigration.com.au",
+      "source": "Ethos Migration Lawyers",
       "publishedAt": "2026-09-21T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1403,15 +1394,15 @@
     },
     {
       "title": "Super contributions surge more than a third after budget tax changes",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQnF3Rkh3ZTFlc25FR2JYa0pqSGxrZGMzYXBSeU9wLXNpbnY1SGkwR3RsU29vNXd3clh4bnF4dk9UdWNvZ2lieVpZR1RTNmhWa3JXc2lMWDNKMHNOMXVtazZfWi1qY3lBX3Vkb1lnOGxwNE5DRHJ2LV9fbXlYcHFvQ3NXQm5jTS15Q3hHRjdMdm9xRG5yMkFRaHk3aVpKUnhQb1RxMHdkSVhwdG9tdjVWcnVtUjk0Q3VSZW14cXBXUjdoNEZVbG45YlhTYlcyUlZrZzlQTktQNXM?oc=5",
-      "source": "SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY0JpdkNucUFwNFBvYlJTZTV1dlFsYWFwM0V6N3h1czBROEF3dU5rYXVFMy1Vd0RHT1ZkM0xBbFBLaEJxcW5xTC00aUc0NzhRMU5ibGpTT0Y4OUNyWUJFMS1BNC1oaFd6MXMwdnpDUUJFcnBtd2hZSHZKVWd3MmhxZXBkaTMwQUZfOWRCVGpsSWVQY1A1YXRYRlRPSFd0RWRXRE82SkNnWUFsTXpMR3RKckoyTkoyZGtBUTFnU3FFZmlqNkZWUDg5RU5iSmZmSWpGOHc3TzhPWFRtN0Va?oc=5",
+      "source": "The Age",
       "publishedAt": "2026-09-20T07:00:00.000Z",
       "summary": "",
       "categories": [
         "Tax"
       ],
       "relevant": true,
-      "score": 2,
+      "score": 5,
       "spicy": false
     },
     {
@@ -1500,6 +1491,17 @@
       "categories": [],
       "relevant": false,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Chalmers’ $500b debt turnaround relies on ‘unrealistic’ forecasts",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXRxMlF4VVRtdnJ3d2xBZy1FRmZKNTd5WUhiZE5xMXFyYi1JZDFOeF9xSWVYRUY2NkNfbWVVR3BOdmN0YVd0dU9DVXdBb3FRcjBlbkpvWE9VdHNEMTR6czlmbld6cDVWRXJpRTJtamxheEoyWVBwNWVUQng0d0pXWGgzdlZNaWkwMVZVN0dMajk4dUlMUkJMSllqbGlnUEYzYmd5dGQ3MS1XVkhWb0o4TmZ3?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
       "spicy": false
     }
   ]
