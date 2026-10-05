@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-04T21:50:43.993Z",
+  "updatedAt": "2026-10-05T00:40:20.713Z",
   "count": 120,
-  "relevantCount": 51,
+  "relevantCount": 52,
   "spicyCount": 12,
   "spiceThreshold": 5,
   "categories": [
@@ -31,6 +31,7 @@
   "sources": [
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
+    "AFR",
     "Absolute Immigration",
     "Australian Property Update",
     "Bloomberg.com",
@@ -39,46 +40,67 @@
     "Ethos Migration Lawyers",
     "Fragomen",
     "MacroBusiness",
+    "News.com.au",
     "Nine.com.au",
+    "SBS",
     "SMH.com.au",
     "Sydney Morning Herald",
-    "The Age",
     "The Australian",
     "The Guardian",
     "The Nightly",
     "The PIE News",
     "The Saturday Paper",
+    "The Straits Times",
     "Yahoo Finance Australia",
-    "afr.com",
     "insidestory.org.au",
-    "news.com.au",
     "news24.com.au",
-    "realestate.com.au",
-    "sbs.com.au"
+    "realestate.com.au"
   ],
   "items": [
     {
-      "title": "How services failed a foster child's transition to adulthood",
+      "title": "Man fatally shot by police after crashing car into tree",
+      "url": "https://www.abc.net.au/news/2026-10-05/man-fatally-shot-by-police-following-car-crash-in-rugby-nsw/107228664",
+      "source": "ABC News",
+      "publishedAt": "2026-10-05T00:14:31.000Z",
+      "summary": "An independent review by the Professional Standards Command will be conducted after a man was fatally shot by NSW police near Yass on Sunday.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "ASX climbs as miners advance; CSL rises after deal with Swiss giant",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-rise-wall-street-climbs-as-jobs-report-eases-worries-about-inflation-20261005-p612si.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-05T00:09:22.000Z",
+      "summary": "The Australian sharemarket has made a positive start to the week after Wall Street indexes climbed near their all-time high on Friday in New York after the latest update on the US job market",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "KPMG Australia mulls seeking $100 million in loans from global firm",
+      "url": "https://www.smh.com.au/business/companies/ailing-kpmg-australia-mulls-seeking-100-million-in-loans-from-global-firm-20261005-p612tp.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-04T22:06:58.000Z",
+      "summary": "The consultancy is seeking to stop other big clients deserting the firm and keep partner pay at a higher level.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Former foster child's NDIS plan didn't prepare him for adulthood",
       "url": "https://www.abc.net.au/news/2026-10-05/foster-child-ndis-struggles-child-safety-services-tasmania/107223716",
       "source": "ABC News",
       "publishedAt": "2026-10-04T20:55:31.000Z",
-      "summary": "Coby spends his days at his computer. His experiences with Tasmania's Child Safety Services during while in foster care have left him anxious and distrustful, and his NDIS plan failed to prepare him for life as an adult. Then they tried to move him into public housing.",
+      "summary": "Coby spends his days at his computer. His experiences with Child Safety Services while in foster care have left him anxious and distrustful, and his NDIS plan failed to prepare him for life as an adult. Then they tried to move him into public housing.",
       "categories": [
         "Housing"
       ],
       "relevant": true,
       "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Queensland mother seeks to force inquest into daughter's 2023 Kakadu death",
-      "url": "https://www.abc.net.au/news/2026-10-05/jessica-stephens-kakadu-death-karon-evans-inquest-rdh-lawsuit/107222652",
-      "source": "ABC News",
-      "publishedAt": "2026-10-04T20:39:09.000Z",
-      "summary": "Jessica Stephens's mother Karon Evans has applied for court orders that would force the Northern Territory coroner to hold an inquest into her death in Kakadu National Park after being discharged from Royal Darwin Hospital in 2023.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
       "spicy": false
     },
     {
@@ -93,14 +115,14 @@
       "spicy": false
     },
     {
-      "title": "Live: Albanese heads to pre-COP in Fiji, Tuvalu",
-      "url": "https://www.abc.net.au/news/2026-10-05/federal-politics-live-blog-albanese-pre-cop/107228246",
+      "title": "Live: ASX trading higher, Wall St rises after disappointing jobs report",
+      "url": "https://www.abc.net.au/news/2026-10-05/asx-markets-business-live-news/107227606",
       "source": "ABC News",
-      "publishedAt": "2026-10-04T20:14:41.000Z",
-      "summary": "Anthony Albanese will attend a pre-COP meeting in Fiji and Tuvalu today with Climate Change Minister Chris Bowen.",
+      "publishedAt": "2026-10-04T20:09:46.000Z",
+      "summary": "The Australian share market has started its day higher. Wall Street's key indices rose as rate hike expectations were wound back on soft US jobs data.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 6,
       "spicy": false
     },
     {
@@ -115,22 +137,11 @@
       "spicy": false
     },
     {
-      "title": "De Minaur fights back to reach China Open semis",
-      "url": "https://www.abc.net.au/news/2026-10-05/de-minaur-fights-back-to-reach-china-open-semis/107227642",
-      "source": "ABC News",
-      "publishedAt": "2026-10-04T19:24:59.000Z",
-      "summary": "Australia's Alex de Minaur pulls out a comeback win to reach the semifinals of the China Open in Beijing.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Australia's oldest man celebrates 113th birthday with ride in vintage car",
       "url": "https://www.abc.net.au/news/2026-10-05/australias-oldest-man-ken-weeks-celebrates-113th-birthday/107221240",
       "source": "ABC News",
       "publishedAt": "2026-10-04T19:17:15.000Z",
-      "summary": "Australia's oldest man, Ken Weeks, and the world's oldest man, Joao Marinho Neto, share the same birthday and exchanged best wishes for the first time this year.",
+      "summary": "Australia's oldest man, Ken Weeks, and the world's oldest man, João Marinho Neto, share the same birthday and exchanged best wishes for the first time this year.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -161,29 +172,7 @@
       "spicy": false
     },
     {
-      "title": "The Liberals and Greens appear to be heading in the same direction",
-      "url": "https://www.abc.net.au/news/2026-10-05/greens-and-liberals-move-away-from-sensible-centre/107226860",
-      "source": "ABC News",
-      "publishedAt": "2026-10-04T18:27:03.000Z",
-      "summary": "Anthony Albanese promised to be \"the adult in the room\" and govern from the centre. But is that still the political mood as we enter the last part of 2026?",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Three oppositions are contesting Victoria's election. The premier leads one",
-      "url": "https://www.abc.net.au/news/2026-10-05/victorias-three-opposition-election-premier-ben-carroll/107226558",
-      "source": "ABC News",
-      "publishedAt": "2026-10-04T18:04:25.000Z",
-      "summary": "With voters flocking to One Nation and Premier Ben Carroll doing all he can to distance himself from his predecessors, Victoria is gearing up for an unusual election in eight weeks' time.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Study links anti-trans content to worse mental health",
+      "title": "'Relentless' online anti-trans stigma damages mental health: study",
       "url": "https://www.abc.net.au/news/health/2026-10-05/trans-mental-health-social-media-exposure/107184252",
       "source": "ABC News",
       "publishedAt": "2026-10-04T18:00:00.000Z",
@@ -205,17 +194,6 @@
       "spicy": false
     },
     {
-      "title": "‘You’re denying what you did to my son’: mother of robodebt victim told she is ineligible for compensation",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/05/mother-of-robodebt-victim-told-she-is-ineligible-for-compensation-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-04T14:00:32.000Z",
-      "summary": "Commonwealth lawyers argue Jarrad Madgwick, whose death by suicide was highlighted at royal commission, ineligible as he only received provisional debt notice",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "The Populist: Social contract | Episode 4 – podcast",
       "url": "https://www.theguardian.com/news/audio/2026/oct/05/the-populist-the-social-contract-episode-4-podcast-ntwnfb",
       "source": "The Guardian",
@@ -225,6 +203,17 @@
         "Visas & Migration"
       ],
       "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "‘You’re denying what you did to my son’: mother of robodebt victim told she is ineligible for compensation",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/05/mother-of-robodebt-victim-told-she-is-ineligible-for-compensation-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-04T14:00:32.000Z",
+      "summary": "Commonwealth lawyers argue Jarrad Madgwick, whose death by suicide was highlighted at royal commission, ineligible as he only received provisional debt notice",
+      "categories": [],
+      "relevant": false,
       "score": 4,
       "spicy": false
     },
@@ -246,7 +235,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/05/one-nation-1998-queensland-election-pauline-hanson-david-oldfield-ntwnfb",
       "source": "The Guardian",
       "publishedAt": "2026-10-04T14:00:31.000Z",
-      "summary": "Those who lived through the rightwing populist party’s most successful election say history could soon repeat itself – but this time ‘on steroids’ Listen to Guardian Australia’s podcast The Populist here",
+      "summary": "Those who lived through the rightwing populist party’s most successful election say history could soon repeat itself – but this time ‘on steroids’ Listen to episode 4 of The Populist podcast",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -268,7 +257,7 @@
     {
       "title": "Capital Gains Tax changes are influencing how Australians invest",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNams1bXJyRlQyeUdKdnRRYWNZZm1Hanc4SWdRM2FNNWxJV25XcGVMX0dlNWFocUdCQXdJSDQzVmRJS002MDYxMWhrQkxmV0QwQXpwbHM5ZTNURTF5d0ZoZUpIMGxnTkFlM1VBZEJuN3J2SmlvdHhOOHoxQ0oyazNTRTJhQVlZNTJDZXo0MFdZX3MzYW8zQUl5bUlBcFljN2p3bnRfay1MT0paVVhpakN5XzRnSnMxQ0tSWGhXZzUyN0s?oc=5",
-      "source": "afr.com",
+      "source": "AFR",
       "publishedAt": "2026-10-04T03:55:00.000Z",
       "summary": "",
       "categories": [
@@ -282,7 +271,7 @@
       "title": "Chalmers says global economic turmoil will drive budget cuts, but Australia should avoid recession",
       "url": "https://www.theguardian.com/business/2026/oct/04/chalmers-says-global-economic-turmoil-will-drive-budget-cuts-but-australia-should-avoid-recession",
       "source": "The Guardian",
-      "publishedAt": "2026-10-04T01:41:13.000Z",
+      "publishedAt": "2026-10-04T01:42:00.000Z",
       "summary": "Treasurer says ‘very substantial and intensifying pressure’ on federal budget as he points finger at private sector for driving up inflation amid Middle East conflict Get our new political email ,",
       "categories": [
         "Cost of living"
@@ -667,7 +656,7 @@
     {
       "title": "The ‘nowhere’ economy: Australia now faces a lost decade",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRW1INEpIcUppQjRualpLRDZtZnJSRmE0SDZTQ3R0bWJ2b1FxMl9SY3ZENXh3eGk0TDVsNU1hdmhQNmxtcmNMRkE5YXMteWhnUjdxdjhPYmFEclh4d3VrOV90VXUxR2xYTDkzcnNmWDEzUjRwR3gyLXZGSXlTQXFYOVJJSHZRaUtsMGx0bEF3aG56bnBJNkQzUHdJb192MWNGT0MtVHVZTy1XZw?oc=5",
-      "source": "afr.com",
+      "source": "AFR",
       "publishedAt": "2026-10-02T05:39:00.000Z",
       "summary": "",
       "categories": [],
@@ -877,7 +866,7 @@
     {
       "title": "New rules to crack down on ‘permanently temporary’ migrants",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2ZaSVEyVjFGS05LX25ha0lTOHU1Sm0tRV9MYVhUYk95b3F2Y1F4aE5IQ29tNHJodWt4T2p3MlE1d3V3WFl1Z1k1ZTdXOTlmeFJ4d0g3bU40TDJXMlVkU0xodllkU3gySDlEMXh1U0xTU0lJZnJQYVlsZHdMV3d4cGkyRWJhOVJTcDZqSTJSWFBlRkFkSGhCUU8xRWl2LWxSaTNIUW85WElPT3hwdHhZ?oc=5",
-      "source": "afr.com",
+      "source": "AFR",
       "publishedAt": "2026-10-01T14:01:00.000Z",
       "summary": "",
       "categories": [
@@ -1134,7 +1123,7 @@
     {
       "title": "‘Higher’: Chalmers’ tax swipe at Costello",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWWRSekg3SEYxR3hvUm9QNnk0MHdvMWhISjlQNDBZbEpzU2RobjV1UTN0U0xkRm13Q3NRU2hTTWI3ZUFEaTFxaHdZS2ZEaVUxckZEaWdQSFlEVmdmM3hYNzF1NkhuRlVkc1ZrOXdTWXhTNUF3SFVaci1PUDFNTWhxalJtbWpETlFVTDVrM2ZaTHZvNXMzZDZFSXJQYXZIRDhNcFNYNjhFNnBpdGprYy1HVmRxeHF3d3h5TkRRVkM2VUFSb1AtOHl6TFFXMHY4NVNTYlc3cFlDMlRjZzN6TWRMb1pfd2jSAeoBQVVfeXFMTmpYOFRlWGdkM19RU1ZyQ0hYU3pkZ0ZZRlhIaW1PRV8wY2VQYmFqSGh5RWFLejk5bGN3MUQ3dG12MmRhWFU1bUlMM2E0WFVmZEl5RHQ4WVlMUFVmVkhGRnpRcjJVdHZoSE12OE9wZW1ZMFdxM0gzckFWOEhKOUdkZG5leHBHT2tjS29QZ3ZDVjQxSkhkVGJoM19SLXo1YUpSa2lFZ0NNWlRqOVZLOWd2VlVmYUZESzNobzV6bExDbkFhV1hfZERJaE1RVFB4X1BQN0JwbE54MXdaZmgwTGVMVlRnNG9FeGlLSWR3?oc=5",
-      "source": "news.com.au",
+      "source": "News.com.au",
       "publishedAt": "2026-09-28T23:21:30.000Z",
       "summary": "",
       "categories": [
@@ -1158,7 +1147,7 @@
     {
       "title": "‘Worst’: New global list shames Australia",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaGpBcG84SEpoR05wVTlVMVVQTmZKUmNRc3dwRUJSdTZ0VTY2UnVXRzlyLWg2T1pENGNXdjI4TTU2WTk0bV9XMUZscEFTUXlEODFqdF9maEtBQTIwcU5QY1JncFZobDBDSnJQTUUtcVAwdmUyWXlvTTVZdW1aY3pZakNKdE1HOW5sN0lMcGNyOGZLNmthX0xVT1VvanhHSDJJNW1LNFZNYWh1OW5pVzA3SW85R3pzZVFybHF4ZU5Wb28wNmxZaGxjZXhBTWE4d9IB0wFBVV95cUxNYXA4bm9WenNRVHd5WFVMTTB1elVQU2xNeWVMVEZQNl9DbmRIUmV1M1lpQjhJd2NQTEZiTTN3YS03Z0FIZU12c0pxa1l4LWVTUFJMcFl0TEJWYWNTbEIwUFQ0aVpqMTdxWklMRUEyazZOTUNRNVZ5QldUQ0JTbS1acDFyV3ZnU1l4dldnaFVPanFOOS1HdGJRTUpZMHY3WkhmZXZEX1pXVjJ1RjlRc2ZtWDE2U19MRldaelZfekZacUV1a0ZWcUYzdFB4VHpjTlBRMHF3?oc=5",
-      "source": "news.com.au",
+      "source": "News.com.au",
       "publishedAt": "2026-09-28T20:33:41.000Z",
       "summary": "",
       "categories": [],
@@ -1169,7 +1158,7 @@
     {
       "title": "Labor on cusp of becoming the highest-taxing government ever",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdkWjlZZlVkb3pnZ045QkJOY3JjekpBM1psQVhNUl92WDA5MmxPeDhyOWdwMnA2VnkwSWxOOU1aU256RTJQaWhVa0ZBc3BfbGhlRjZuQ05sMzZudEdLQTVadFdsdEpKZUR3SkU4ZDg4cF9ubWlfQWNTMXRoaHpxZ0J5cnBHdmlPSzF2SWVvdmtZVGk4T3VrYkNKNTM4M3Z4M2JnVE93ZGg5ajJVTlV6ZDQ3cw?oc=5",
-      "source": "afr.com",
+      "source": "AFR",
       "publishedAt": "2026-09-28T08:59:00.000Z",
       "summary": "",
       "categories": [
@@ -1219,7 +1208,7 @@
     {
       "title": "Treasurer Jim Chalmers touts stronger budget amid darkening economic outlook",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTZkNGRFdXNsVFcxUXNrMWd4azZIUWxZNW1VVkEyZEotV2tHeWtyRjlxMHVfTFBqVFo2OExUc2xMYlFFeGU1YjJ5MHZ0dWlZcnV2QkpINWVrMGVaNkVqMDZBZG5tUm9qMkVzYlg1TzdhLUktaW5qTlhsOURJZlQtS0RLSWlWZXY4UmdYNmE0UFRSZ3dZS3Z0OU1aN0p6MlRYSnZhMWRxWkVNcVdtWmdrNFZzUVhoTXhySmxfTXZjNA?oc=5",
-      "source": "sbs.com.au",
+      "source": "SBS",
       "publishedAt": "2026-09-28T03:29:23.000Z",
       "summary": "",
       "categories": [],
@@ -1241,7 +1230,7 @@
     {
       "title": "Even the big banks weren’t expecting this",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdE9GYkRDSC1SbnQ0Zmg3R3Y0dlZkbjBKb0hnR2k4a2VkRE5JTjUwQi1PWHpYbkRzb3NoVkFpNE92QzRUSjN3UXJjSWdQQkNTSWdDcVM1YjFvMnJWbzBsc0FNZ01nOTRqMFhSOUsydnpHZzJrZW1MWl84dC1ycmQ5R3QyeXlXVDQtcE04WW80eWVHVEtzY2lWRnhBQzB0RGJHZHdXSk83d1BGU0FNQVZ2MlJtVWRKQjVuMHNFblhLYy1WTV9TZGdtM3lWSHFJOEhZZnNUU3QxNDBEM3FSOEJv0gHkAUFVX3lxTE5QeDBORU8xc3gyZ2lCdVQ2SGNxbk5PMGN5NmE5WFJnTEhOQWFXY2UtVHM0dnlZd1hMUlZRbUo1cF81bW1HaDg0TVpnN0Vobjh5SlF3U1p5MHZFcENHWU5FZ3ZBWEk2R2VJd1pGci1ac1lVZG5DNlBDdkpkWWhOZkQyLTc0ZHZxRTQtaEFHVllBRzZiaENKT0Y3bEhWc2VuSDJxVWhPR3dWcEtBZWZNcmtLR0ZQRnZUZkcwd1hQaVlxUFJEMDYtWVhlblZCZXZkWWdLV1FaQ3NlZ29xUjRLWGd5Q1o0MA?oc=5",
-      "source": "news.com.au",
+      "source": "News.com.au",
       "publishedAt": "2026-09-27T20:00:14.000Z",
       "summary": "",
       "categories": [],
@@ -1289,7 +1278,7 @@
     {
       "title": "Chalmers reveals multibillion-dollar blowout in debt bill",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWIyVmNVSFFYSElDVVRzWHpnaFFxTVJyMGxQbjFPd1ZGazhlR2JCd2c0STRnZkpSS3E5TGd4V2UzMEZVNFdGTVVPb1VqaUpncWZCQzhXVEI0b3pKYktFQjJnUElGZ0t2TE9YRGRQaUxXVW8wOFNraGY2emxXR2hkSWR4clBLdU93cDRxME5ld05vSzRBOERrTm4tZDNSV19yMnBiNWhpSFkwNTU5?oc=5",
-      "source": "afr.com",
+      "source": "AFR",
       "publishedAt": "2026-09-23T07:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -1338,7 +1327,7 @@
     {
       "title": "Aussies ‘unfairly punished’ by tax change",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbVlvZjlxZWpkRWRNQXdfRTNXYVAwNkF5QjY0QWswNXZIT0M4eW9mXzBUNnZhaHRBZzM2NF9yVnhfSUlMa3FaT1Q0TnZwYVhnbU5PbllWbmo1Xy03UkMxbnVxTDlFODkzelhCVmxNOHRsbUpPRENIMlE0NWdBcXh2NzhRZWl6LUtCTUFUTEk2bGxVLV9yWnhNVm5LSHVPVFRaYnAyUmluNHZqR1pWcDFRVmtVVHRqYXI1TUU2aUNKcEs4ZUp5QXNoZGMzeHBLUkFTZFZYMHJIM3NabGF3VkpoOUhMU0M1LXBVTExHeERLUElNWnBoMUhFd1BQa0NlQVdyQ2dRTTNtU1RpRXgyZFNTVVlaenTSAZoCQVVfeXFMTnRsNHcxRWV4UlJCelJKYU85WWpFc2FBTDNKYk1JRDhmekZxNTZsZVU4OWVfNHVHbGF6QjNEV0dOelFDd25yWnBGblVyM25uYkRTY09xa0Iza0Y1RHN0THAtTnpqTWp0ZjdYWTIzZTkwNW5QUlk0Snk0UGVDeDFGN1Z3QnJyaDVieTNJUzE1Ym5YQUVpYzNaR2tDb240cG51Zmp5a0g4SXk2cThtb0V2djFBeWlnaEtvenRxNTlZSU5xbmZ4QnNsX1o3UTZ2c2RZS2dwa1liM2tUWjB5VkswVG5TRUItdmFLT1N5Y0ZHRS1xb182VVdlcDVXVkxITHduTDhTUHRwT1pjWmh5cDMxa2luTWtoaG0zM1ZR?oc=5",
-      "source": "news.com.au",
+      "source": "News.com.au",
       "publishedAt": "2026-09-22T07:00:00.000Z",
       "summary": "",
       "categories": [
@@ -1412,15 +1401,15 @@
     },
     {
       "title": "Super contributions surge more than a third after budget tax changes",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY0JpdkNucUFwNFBvYlJTZTV1dlFsYWFwM0V6N3h1czBROEF3dU5rYXVFMy1Vd0RHT1ZkM0xBbFBLaEJxcW5xTC00aUc0NzhRMU5ibGpTT0Y4OUNyWUJFMS1BNC1oaFd6MXMwdnpDUUJFcnBtd2hZSHZKVWd3MmhxZXBkaTMwQUZfOWRCVGpsSWVQY1A1YXRYRlRPSFd0RWRXRE82SkNnWUFsTXpMR3RKckoyTkoyZGtBUTFnU3FFZmlqNkZWUDg5RU5iSmZmSWpGOHc3TzhPWFRtN0Va?oc=5",
-      "source": "The Age",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQnF3Rkh3ZTFlc25FR2JYa0pqSGxrZGMzYXBSeU9wLXNpbnY1SGkwR3RsU29vNXd3clh4bnF4dk9UdWNvZ2lieVpZR1RTNmhWa3JXc2lMWDNKMHNOMXVtazZfWi1qY3lBX3Vkb1lnOGxwNE5DRHJ2LV9fbXlYcHFvQ3NXQm5jTS15Q3hHRjdMdm9xRG5yMkFRaHk3aVpKUnhQb1RxMHdkSVhwdG9tdjVWcnVtUjk0Q3VSZW14cXBXUjdoNEZVbG45YlhTYlcyUlZrZzlQTktQNXM?oc=5",
+      "source": "SMH.com.au",
       "publishedAt": "2026-09-20T07:00:00.000Z",
       "summary": "",
       "categories": [
         "Tax"
       ],
       "relevant": true,
-      "score": 5,
+      "score": 2,
       "spicy": false
     },
     {
@@ -1484,6 +1473,20 @@
       ],
       "relevant": true,
       "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Australia tightens visa rules for foreign students, holidaymakers",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaWJ1cHdGZ2tYSlpuZXBoV0ZoeldGQXh6RXRPWmJQNmNsejVQUzFVeWdscDZoSkEtMHo5YVpvUkNHYmNTOW9WekxneDRqSWo3MnVrSUxpSXFzWFJzbTNaVE5hdVlud0lHdG5LbERaZjI2bkNHT0lvem5UV3J6eU5PMUZiNFJ5TmZSWmJaVFU5MDZXMVdHbWlReXZNU0stemI3VjV5UVI5emM2S0FrTXdMUV9B?oc=5",
+      "source": "The Straits Times",
+      "publishedAt": "2026-09-18T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 2,
       "spicy": false
     }
   ]
