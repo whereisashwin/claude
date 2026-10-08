@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-07T20:31:42.240Z",
+  "updatedAt": "2026-10-08T00:53:57.783Z",
   "count": 120,
-  "relevantCount": 48,
-  "spicyCount": 12,
+  "relevantCount": 49,
+  "spicyCount": 13,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -49,7 +49,6 @@
     "Sydney Morning Herald",
     "The Australian",
     "The Guardian",
-    "The Nightly",
     "The PIE News",
     "The West Australian",
     "Yahoo Finance Australia",
@@ -57,15 +56,95 @@
   ],
   "items": [
     {
-      "title": "Live: Labor has 'real concerns' about ATO's credit card payments decision",
+      "title": "Firmus float in trouble as investors don’t buy the hype",
+      "url": "https://www.smh.com.au/business/companies/firmus-float-in-trouble-as-investors-don-t-buy-the-hype-20261008-p613sp.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-07T23:19:43.000Z",
+      "summary": "The Australian data centre operator’s blockbuster landing on the Australian sharemarket is on thin ice as its bankers pull out all stops to convince sceptical buyers.",
+      "categories": [],
+      "relevant": false,
+      "score": 8,
+      "spicy": false
+    },
+    {
+      "title": "More problems emerging along WA's high-profile 'electric highway'",
+      "url": "https://www.abc.net.au/news/2026-10-08/ev-lagging-infrastructure-lagging-in-northern-wa/107216800",
+      "source": "ABC News",
+      "publishedAt": "2026-10-07T23:00:45.000Z",
+      "summary": "As electric vehicle sales boom across Australia, drivers and tourism experts say issues with remote parts of Western Australia's EV charging network could deter tourists from travelling to the Pilbara.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Seafood shop owners fear being forced to close due to gillnet ban",
+      "url": "https://www.abc.net.au/news/2026-10-08/regional-fishing-towns-prepare-for-impact-of-gillnet-ban/107238342",
+      "source": "ABC News",
+      "publishedAt": "2026-10-07T22:32:14.000Z",
+      "summary": "There are fears small businesses may struggle if the looming gillnet ban pushes Queensland fishers out of the water.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "'Surreal' discovery of nearly extinct snail in western NSW",
+      "url": "https://www.abc.net.au/news/2026-10-08/darling-river-snail-adapting-artificial-structures-walgett/107215754",
+      "source": "ABC News",
+      "publishedAt": "2026-10-07T22:04:03.000Z",
+      "summary": "A once-abundant snail nearly disappeared as weirs and irrigation diverted water from its river home. But it found protection in the very structures that almost wiped it out.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "ASX slides after Wall Street retreats as bond yields, oil prices rebound",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-slide-wall-street-retreats-as-bond-yields-oil-prices-rebound-20261008-p613po.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-07T21:02:25.000Z",
+      "summary": "The Australian sharemarket is declining in early trade, tracking moves on Wall Street, which pulled back from its record high as elevated oil prices continued to stoke inflation concerns.",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Major Australian gambling companies face restrictions if NT bill passes",
+      "url": "https://www.abc.net.au/news/2026-10-08/online-gambling-regulation-nt-bill-inducements-deposit-caps/107229354",
+      "source": "ABC News",
+      "publishedAt": "2026-10-07T20:37:49.000Z",
+      "summary": "An independent politician is set to introduce a private member's bill to the Northern Territory parliament, which if passed would impose a string of new laws on some of Australia's largest online gambling companies.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Live: Labor views split over ATO decision to stop accepting credit card payments",
       "url": "https://www.abc.net.au/news/2026-10-08/federal-politics-live-blog-ato-surcharge-oct-8/107240250",
       "source": "ABC News",
       "publishedAt": "2026-10-07T20:12:45.000Z",
-      "summary": "Clare O'Neil says the federal government has \"real concerns\" about the Australian Tax Office's decision to stop accepting credit card payments for tax bills.",
+      "summary": "Andrew Charlton says the government supports the tax office's decision to stop accepting credit card payments despite the housing minister saying Labor has \"real concerns\".",
       "categories": [
-        "Tax"
+        "Tax",
+        "Housing"
       ],
       "relevant": true,
+      "score": 6,
+      "spicy": true
+    },
+    {
+      "title": "Aussies hit back at ex-players in build-up to first South Africa Test",
+      "url": "https://www.abc.net.au/news/2026-10-08/australia-south-africa-first-test-durban-travis-head/107241292",
+      "source": "ABC News",
+      "publishedAt": "2026-10-07T19:48:04.000Z",
+      "summary": "Travis Head accuses former Australian players of levelling unfair criticism at the current Test squad, saying the game has changed significantly since they played.",
+      "categories": [],
+      "relevant": false,
       "score": 4,
       "spicy": false
     },
@@ -78,17 +157,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "'Landmark' child safety racial discrimination class actions to be discontinued",
-      "url": "https://www.abc.net.au/news/2026-10-08/qld-first-nations-child-safety-class-action-discontinued/107146370",
-      "source": "ABC News",
-      "publishedAt": "2026-10-07T19:39:21.000Z",
-      "summary": "The Queensland lawsuits are being brought to an end in the Federal Court due to a lack of funding. First Nations families who signed up to the action years ago say the system has failed them once again.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -116,49 +184,14 @@
       "spicy": false
     },
     {
-      "title": "Greens launch election platform with promise to slash grocery prices",
-      "url": "https://www.abc.net.au/news/2026-10-08/victoria-greens-state-supermarkets-election-campaign/107239256",
-      "source": "ABC News",
-      "publishedAt": "2026-10-07T19:00:29.000Z",
-      "summary": "The Greens will take on major supermarkets and address community safety with new policies inspired by New York City mayor Zohran Mamdani.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": false
-    },
-    {
-      "title": "Former RBA board member says another rate hike 'plausible' this year",
+      "title": "Former RBA member explains what happens inside interest rate meetings",
       "url": "https://www.abc.net.au/news/2026-10-08/ian-harper-rba-board-interest-rate-meetings/107240002",
       "source": "ABC News",
       "publishedAt": "2026-10-07T18:57:23.000Z",
-      "summary": "Another interest rate hike this year is \"plausible\", but not necessarily likely, according to economist Ian Harper, who only left the RBA Monetary Policy Board in August.",
+      "summary": "Economist Ian Harper, who left the RBA Monetary Policy Board in August, says none of the treasurers in power during his 10-year tenure tried to influence his view on interest rate decisions.",
       "categories": [],
       "relevant": false,
-      "score": 8,
-      "spicy": false
-    },
-    {
-      "title": "ASX set to slide, Wall Street retreats as bond yields, oil prices rebound",
-      "url": "https://www.smh.com.au/business/markets/asx-set-to-slide-wall-street-retreats-as-bond-yields-oil-prices-rebound-20261008-p613po.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-10-07T18:17:50.000Z",
-      "summary": "The Australian sharemarket is set to retreat at the open as Wall Street’s benchmark index pulled back from its record high.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "What Singapore really thinks of Australian solar power export plan",
-      "url": "https://www.abc.net.au/news/2026-10-08/sun-cable-plans-to-send-australian-solar-energy-to-singapore/107229542",
-      "source": "ABC News",
-      "publishedAt": "2026-10-07T18:00:00.000Z",
-      "summary": "It has unrivalled ambition and is backed by a tech billionaire, but Sun Cable's plans to export solar power to Singapore are floundering.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
+      "score": 6,
       "spicy": false
     },
     {
@@ -167,17 +200,6 @@
       "source": "ABC News",
       "publishedAt": "2026-10-07T18:00:00.000Z",
       "summary": "It has unrivalled ambition and is backed by a tech billionaire, but Sun Cable's plans to export solar power to Singapore are floundering.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "How a virulent series gave rise to Sandpapergate",
-      "url": "https://www.abc.net.au/news/2026-10-08/how-sandpaper-gate-rocked-australian-cricket-south-africa/107233934",
-      "source": "ABC News",
-      "publishedAt": "2026-10-07T18:00:00.000Z",
-      "summary": "In 2018, Sandpapergate rocked Australian cricket to its very core. Here's how a febrile atmosphere colluded with a team persistently testing the limits of acceptability to change the game.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -239,10 +261,10 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/07/constitutional-expert-labels-albanese-governments-golf-club-grant-grey-corruption-ntwnfb",
       "source": "The Guardian",
       "publishedAt": "2026-10-07T10:59:47.000Z",
-      "summary": "Prof Anne Twomey says $6m for Marrickville Golf Club was made under a ‘farcical scheme’, which Labor defended as within the rules Get our new political email ,",
+      "summary": "Anne Twomey says $6m for Marrickville golf club given under ‘farcical scheme’, which Labor has defended as within rules Get our new political email ,",
       "categories": [],
       "relevant": false,
-      "score": 7,
+      "score": 6,
       "spicy": false
     },
     {
@@ -255,7 +277,7 @@
         "Visas & Migration"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -266,7 +288,7 @@
       "summary": "The move jeopardises the reform’s passage through parliament and the $3 billion in savings Labor is banking on to fund thousands of aged care beds.",
       "categories": [],
       "relevant": false,
-      "score": 13,
+      "score": 12,
       "spicy": false
     },
     {
@@ -305,7 +327,7 @@
       "spicy": false
     },
     {
-      "title": "Budget deficits, high spending expose Australia to ‘shocks’: S&P",
+      "title": "Global credit agency warns Australia about record government spending",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXMxSXJWTm1nUnlXX1E0WVFLZnY2dVpDM0xQbU5sYlZ3UHlqZjBXSXpzWDJFbS03QlVtbkx1WU5QeGFwS2h2UE9HSnJkOEFrTjhKeDRrVmpYY2laVWttQWtfUjg0VGFXS0dDcUJTdDdtT0hhZmpmbFhfb19IbHZTSEw1bmJRTHdMalRrMmx4N1o0Z0p2M09LZmlIaW5yYm1pdlVnSGdnUExIUzZkWGZ5RElTSFNWdw?oc=5",
       "source": "AFR",
       "publishedAt": "2026-10-07T07:00:00.000Z",
@@ -381,17 +403,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Marrickville Golf Club received closed non-competitive grants on five past occasions",
-      "url": "https://www.abc.net.au/news/2026-10-07/marrickville-golf-club-five-additional-grants/107237400",
-      "source": "ABC News",
-      "publishedAt": "2026-10-07T04:25:02.000Z",
-      "summary": "Labor MPs nominated Marrickville Golf Club for closed, non-competitive grant funding on five previous occasions before it was promised $6 million at the 2025 election by Prime Minister Anthony Albanese.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -560,17 +571,6 @@
       "spicy": false
     },
     {
-      "title": "Tourists must pay and book ahead to see iconic Twelve Apostles",
-      "url": "https://www.abc.net.au/news/2026-10-07/tourists-need-to-pay-and-book-to-visit-twelve-apostles/107233206",
-      "source": "ABC News",
-      "publishedAt": "2026-10-06T19:59:44.000Z",
-      "summary": "The Victorian government hopes the tourist-booking system for the Twelve Apostles will ease overcrowding during peak periods.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Labor stripped funding for a crisis directory used millions of times. Now these charities are fighting back",
       "url": "https://www.smh.com.au/politics/federal/labor-stripped-funding-for-a-crisis-directory-used-millions-of-times-now-these-charities-are-fighting-back-20261007-p612tr.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -730,6 +730,19 @@
       "spicy": false
     },
     {
+      "title": "Here's how Labor, the Coalition and One Nation's migration cuts compare",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUlOZTg3Z0tzNThzZmhJd3hZUl9Ja3o0YnJveVZKbGtKNjNKTHZENExIU3hpdEVWeHZ4eWJZWUdWMF9rTzF5blFyUTlxTFY4VlZldzBJaGhWMzR3RS1uQzMyOHQ0ejZsX3JuZGpFTFE1YTZmUjQxTmROWmlKQklnTHpNM01qR21YbkRaR0NQRnBXTEJQbnp6ZWVTQ242WG1BNm0w?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-10-06T06:22:26.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": false
+    },
+    {
       "title": "ASX gains, led by miners and property stocks; oil prices steady",
       "url": "https://www.smh.com.au/business/markets/asx-eyes-gains-as-wall-street-climbs-towards-records-20261006-p6131f.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
@@ -787,6 +800,19 @@
       "categories": [],
       "relevant": false,
       "score": 2,
+      "spicy": false
+    },
+    {
+      "title": "Biggest migration cut in history won’t hurt the economy, Taylor says",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWUFlZXhiMlc0bnllSVl5b3BZczZsMkdNU2QySXROWEx5TkpOME96dVNYWUhtTldEazFsSEJsa0huWGRERFNaSGtpc0FMSlRDU3BGb0Z4S2FFR0IxRGFRbG85aTMzQk9MX2k0UHRIUmNHZWJKLXhiSXdKX3dZeW9adlNNalV4SmF4WGVQSFJRckNMZnl3Vm1QVS1hTWtPdkNHZTZCQ2FIWVAxWDlGeVRFSXRtZTJ6NXFfZTlNbw?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-10-06T02:17:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 5,
       "spicy": false
     },
     {
@@ -1021,17 +1047,6 @@
       "spicy": false
     },
     {
-      "title": "Australian Treasurer Calls US-Iran War an Economic ‘Disaster’",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUI3OHlVQzF5QVZ2MDhNWVNaU0tzY1REZkpZaGMwczNFQUt2Z05yc2FOQWxzMmpGdlhYdWtnd3dWcWNIT1RMallHWWR2enVrRExZTENaeGRXTzB4RTBpM3JpVmZhSjdVR2t5QjVFS0J0cXVBN1c4RFIyQU12X0JGVmpLWTRpdVgyN25zS0Z0VkFJcnAybnVJM1hJN3ZPU2lnYi1xeUhmeGVMRm5YblhN?oc=5",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-10-04T00:47:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Treasurer downplays chance of cost-of-living relief amid surging debt",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0N3QVVnSl9QeW9MVVNoNFEzZDB1Q0k2RmdXekF3Sl9hMXJreGFoYk5iV2ZBSDRTYk1BVHVlSEpBSV9xSlJmT1VVQWRQZWF0RlV4TnJ2dV9CRG10YmNFM09Db2IyLTMzZldQMDNMOHBCYjJVNktJM01PYm41dmJQZWlfWmlDcm1UcGJQSlBwZXhFXzlFXzEyTVhycFItTWFFTlNSU2J5TVFIU1FwV1hv?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1120,6 +1135,17 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
       "source": "The Guardian",
       "publishedAt": "2026-10-02T07:31:29.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Chalmers at the controls of the lucky country’s misery machine",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWlc4bXgxM245SS00TnB1NmROeWYyd1NScDRUUkNwbmFDSU5nU1pyVHhWM0tBVGdyaURxZkJ0a1gzRk5mWHNDTUpXZFFBbmRyUUZGZ3NTa2JDT191OXZnMFItdVdBZnhTUHhhMTc2SXMwMkhpY3JLYnpOajNKNjJxbEVZQ1lyOWJVb1IyQ05YQXVvazgxTUVTQkJoT1JUdFUyN3V5eTFJbUpCeHlKTk90TTZoU0MwOXVsVkJVM3dac3N3cGQ2bi11Z0lNSm5RV2cxLThpdHk4b3NJVmM4MVowaFJoNVNRZUZEOWE4VlJlS0Vxa1F2S1lTY1E1X1p4NlViR2NoQUF0RTU5UQ?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-10-02T00:27:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
@@ -1250,6 +1276,17 @@
       "spicy": false
     },
     {
+      "title": "‘Worst’: New global list shames Australia",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaGpBcG84SEpoR05wVTlVMVVQTmZKUmNRc3dwRUJSdTZ0VTY2UnVXRzlyLWg2T1pENGNXdjI4TTU2WTk0bV9XMUZscEFTUXlEODFqdF9maEtBQTIwcU5QY1JncFZobDBDSnJQTUUtcVAwdmUyWXlvTTVZdW1aY3pZakNKdE1HOW5sN0lMcGNyOGZLNmthX0xVT1VvanhHSDJJNW1LNFZNYWh1OW5pVzA3SW85R3pzZVFybHF4ZU5Wb28wNmxZaGxjZXhBTWE4d9IB0wFBVV95cUxNYXA4bm9WenNRVHd5WFVMTTB1elVQU2xNeWVMVEZQNl9DbmRIUmV1M1lpQjhJd2NQTEZiTTN3YS03Z0FIZU12c0pxa1l4LWVTUFJMcFl0TEJWYWNTbEIwUFQ0aVpqMTdxWklMRUEyazZOTUNRNVZ5QldUQ0JTbS1acDFyV3ZnU1l4dldnaFVPanFOOS1HdGJRTUpZMHY3WkhmZXZEX1pXVjJ1RjlRc2ZtWDE2U19MRldaelZfekZacUV1a0ZWcUYzdFB4VHpjTlBRMHF3?oc=5",
+      "source": "News.com.au",
+      "publishedAt": "2026-09-29T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
       "title": "Australia cuts migration target to 225,000: 7 visa changes you need to know",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSlB0d0RmbnpLUVRSTEk3OEZsMVdMMGUzVXMzR2ZWSUNRaWdfN2NYMFlOc3Q3c0Z6c0lpdUxOWXFvV2lwb240enYyVV93NTdFVENLWXVtRlJHWDBPTENybUdrclZLV1N5aWM5Q1FVdmdSOWNuaUdjd1R4TWk2S1JrN0EwcDlNRmJkTF9ZSVpER3FhUENJbEJmMnEzSUZzQ3VCSHhIZUdkNG9ReXJSRGkxMDJQM09samsxcEpYeHdQN21EcDI1ZEkwZXJGZlphdi13MUlLVUtPTdIB3AFBVV95cUxNWmM3N3lLOWsxNGRPR3hzbG1zWUFyeV9fY1kyMXJHYmtsZFo3RzNRY3FzQXdHSFVIQnplamI2d19sSW9HUkw3TENQZ1FHR0JGQ21XV0VEZzdZM0swb19zOU5mMGZ1N0VabDVOYzA0QVZNWnZuQ2JuWEVnWmpwa1RxVnRPTjZNUEV0R0x6ZU9VdGJCeWMzc3E3d3RCYk1yaHVReFhpckpvZTFtUWJuMUgwLVkyVVgzUUM1bVJ2b3pTTnpFRHkzaE9ISjFzMnIzRjg1NGZWX1YtWlNpaVdH?oc=5",
       "source": "Business Standard",
@@ -1348,19 +1385,6 @@
       "spicy": false
     },
     {
-      "title": "Treasurer Jim Chalmers defends inflation record as 15-year interest rate high looms",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1A3bmhvUFQ5WVlkR01FZS1zdWhEa21wOUVQWE1GV1ZBb2JZdE5jWlhfR3JCM3RrQ29pTVJvUnRhSDBKWUdqcmo5SWR5RVpWWkhSbUwwNUdnMzFKU1l3QUFCSTV1cTZRdFBOSHk3LVpzakhLeGFsNTJjNGtBSnYtYVdqV1BzeTM1RU9WUTM1ZmhfcEZTUUNjSzFwUjB2OE9HejZ0V3hfalQyeVk?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-09-28T04:36:42.000Z",
-      "summary": "",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Australia gets unexpected $6 billion federal budget boost",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3ZOZlJvbXY4c28xRU1wYndkU2laLTZKWEJWbWdYY0d1N1l3OUZ4cW1yMGFaQk9od1NlVWplZGUtLTRMTFd6RVhLeHJkaTV5RnN4THNoOTllX3VZOUdYTU1ySVdIY2s3TFBKaHk3U0R3dlZGMlZzaUlBTkF1cVBRcEh4YzVNNW1OZkNkSUd4SlMzRVdEV0YxZTl6cGJDWWY1QzZYRkdtRXoxdE9UNGZOb0dwaw?oc=5",
       "source": "Nine.com.au",
@@ -1380,6 +1404,19 @@
       "categories": [],
       "relevant": false,
       "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Treasurer defends inflation record as 15-year interest rate high looms",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1A3bmhvUFQ5WVlkR01FZS1zdWhEa21wOUVQWE1GV1ZBb2JZdE5jWlhfR3JCM3RrQ29pTVJvUnRhSDBKWUdqcmo5SWR5RVpWWkhSbUwwNUdnMzFKU1l3QUFCSTV1cTZRdFBOSHk3LVpzakhLeGFsNTJjNGtBSnYtYVdqV1BzeTM1RU9WUTM1ZmhfcEZTUUNjSzFwUjB2OE9HejZ0V3hfalQyeVk?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-09-27T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 5,
       "spicy": false
     },
     {
@@ -1442,41 +1479,6 @@
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Chalmers’ grim warning to Aussies in Budget update",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTM4UTVJeXJOM2Nnaktfb2hrUHlqeXpJVTBjT3JWVVpzTVFfc0JveXZKTTFxMFo2TlFJclItdWVzc0RPOWFSZE9ic3ZoNU1IWkxjdjhzbjRQaXV4YW5HcElzYnU4MXl2X3U4YVJuT3ZWa0l5YUN4azdZY1ROVTNIeVB3aEQ3VHpNbWhNbHVDVnNORERhOG12Q2hOUVQ3blJBYWViQ2JsYlc4UFlucENnUTZJNkpMajVJNWNTTHB3?oc=5",
-      "source": "The Nightly",
-      "publishedAt": "2026-09-22T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Aussies ‘unfairly punished’ by tax change",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUkJQdHlYY08xcFFWT2daclNlM0ZIWGw2TmlBU0FiQTVrblBvMFJpTHNwVmpBcVJWZldlTTFKOERQVEhseklKdmFabVM4VXl4S3ZaZkJFQnAtRktsNHBlcDBXSHg3UmFGdkVPSmVYR3RRRHpZZXBoUUY1WjUtd01nMVMtSUhWc2lYZTBjVFdQQTdFbHlIcjBzVVdpRjBmVlpBWDBINVc0QmJvR3pYZU0zSVFTV2JWUTBoZGZCTFN0QWdjbTNEczlob3hyYkNXR1NCd1RraXh2dHhZVThtUld3RnlFakhyaXZjWG5DOU9JNzh3SmxGUDVjWW9GejVMTktHbzNJOFk1TUozMEdkbUU0cUg2bHlKd1U?oc=5",
-      "source": "The Australian",
-      "publishedAt": "2026-09-22T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Chalmers can try to predict 40 years into the future, but he’s really talking 2028",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjhUbUpMcTdCSV9hcjMtb0JZVVZ1SGtwNDBNM3NLY0M4b0lhSkctY1lUZkxzWXYzLWkwR3V0NEE5eWVKNWZwWFd5R29vTTI3XzN4NG5oc0dMZTJlMnZScm5CR1picXN3ZXBEZVlXQnMwVG54dU9VQUI0c1ZsbjJxek5GcXN0M1dfWEFFX1RsWXFJMHdvZk5sR2hES0xnUzR1cHdHWUphcHptR3JiV1dQMklhc3RIQ0syZjNCcHJaTWtYX3VKYTV4ZkxfWTRIN1FWV3ZZLTZybUc0Zw?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-09-21T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
       "spicy": false
     }
   ]
