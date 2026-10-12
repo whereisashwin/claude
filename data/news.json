@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-11T22:21:57.683Z",
+  "updatedAt": "2026-10-12T01:39:17.157Z",
   "count": 120,
-  "relevantCount": 56,
-  "spicyCount": 9,
+  "relevantCount": 55,
+  "spicyCount": 7,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -61,16 +61,59 @@
     "https://aapnews.aap.com.au/",
     "insidestory.org.au",
     "intheblack",
-    "investingLive",
-    "kendranewsaustralia.com.au"
+    "investingLive"
   ],
   "items": [
     {
-      "title": "McKinsey strips Australian partner of leadership role after ‘glass ceiling’ comments",
+      "title": "Australian politics live: Taylor defends CV after Hanson dubs him a ‘smarmy management consultant’",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-12T01:34:49.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Woman dies after alleged assault in trouble-stricken NT community",
+      "url": "https://www.abc.net.au/news/2026-10-12/nt-suspicious-death-in-remote-community-of-alpurrurulam/107255260",
+      "source": "ABC News",
+      "publishedAt": "2026-10-12T01:07:54.000Z",
+      "summary": "Detectives are travelling to the isolated community of Alpurrurulam in the remote Northern Territory, near the Queensland border, after a woman’s suspicious death.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Izzi Batt-Doyle smashes Australian marathon record with 2:20:38 run in Chicago",
+      "url": "https://www.abc.net.au/news/2026-10-12/izzi-batt-doyle-breaks-australian-women-marathon-mark-chicago/107254696",
+      "source": "ABC News",
+      "publishedAt": "2026-10-12T00:06:30.000Z",
+      "summary": "Another Australian athletics record falls, with Olympian Batt-Doyle taking more than two minutes off her personal best to break the women's marathon mark in Chicago.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "McKinsey strips Australian partner of leadership role after ‘glass cliff’ comments",
       "url": "https://www.smh.com.au/business/workplace/mckinsey-strips-australian-partner-of-leadership-role-after-glass-ceiling-comments-20261012-p614ne.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
-      "publishedAt": "2026-10-11T21:17:47.000Z",
+      "publishedAt": "2026-10-11T23:50:16.000Z",
       "summary": "The decision by the consulting giant came after an internal review sparked by Chris Bradley’s LinkedIn back-and-forth with an author of a new book.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "ASX opens higher as miners rise; oil edges up",
+      "url": "https://www.smh.com.au/business/markets/asx-eyes-gains-after-wall-street-rises-oil-market-in-focus-20261012-p614lx.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-11T23:46:11.000Z",
+      "summary": "The Australian sharemarket has started the week in positive territory, with mining stocks driving the local bourse higher.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -121,25 +164,16 @@
       "spicy": false
     },
     {
-      "title": "SA might miss its renewables target, but does it matter?",
-      "url": "https://www.abc.net.au/news/2026-10-12/sa-might-miss-its-2027-renewables-target-but-does-it-matter/107251418",
-      "source": "ABC News",
-      "publishedAt": "2026-10-11T19:28:22.000Z",
-      "summary": "The poster child of Australia’s green energy transition has had its share of stress tests and could miss its target for net 100 per cent renewables by 2027. But what would the impact be?",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
-      "spicy": false
-    },
-    {
-      "title": "Greens push for right to sue big tech as Labor axes ministerial powers",
+      "title": "Labor to introduce online safety, trust tax and gas reserve bills",
       "url": "https://www.abc.net.au/news/2026-10-12/greens-push-to-sue-big-tech-over-online-harm-safety-laws-labor/107253674",
       "source": "ABC News",
       "publishedAt": "2026-10-11T18:36:53.000Z",
       "summary": "The Greens outline demands for stronger protections and tougher penalties for tech giants, as Labor seeks a way through the Senate for its digital safety laws.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 4,
       "spicy": false
     },
     {
@@ -147,20 +181,22 @@
       "url": "https://www.abc.net.au/news/2026-10-12/greens-want-to-block-us-execution-live-stream/107253928",
       "source": "ABC News",
       "publishedAt": "2026-10-11T18:35:55.000Z",
-      "summary": "It comes after US Defense Secretary Pete Hegseth said he would make sure the public could watch the December 3 execution of Nidal Malik Hasan.",
+      "summary": "US Defense Secretary Pete Hegseth has said he will make sure the public can watch the December 3 execution of Fort Hood shooter Nidal Malik Hasan.",
       "categories": [],
       "relevant": false,
       "score": 6,
       "spicy": false
     },
     {
-      "title": "ASX eyes gains after Wall Street rises; Oil market in focus",
-      "url": "https://www.smh.com.au/business/markets/asx-eyes-gains-after-wall-street-rises-oil-market-in-focus-20261012-p614lx.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-10-11T18:24:05.000Z",
-      "summary": "The Australian sharemarket is set for gains after a positive session on Wall Street, while eyes will be on oil markets this morning after developments over the weekend.",
-      "categories": [],
-      "relevant": false,
+      "title": "Online cults targeting teens have reached Australia but they're already rampant in Asia",
+      "url": "https://www.abc.net.au/news/2026-10-12/online-extremism-rise-in-deadly-school-shootings-philippines/107237852",
+      "source": "ABC News",
+      "publishedAt": "2026-10-11T18:26:47.000Z",
+      "summary": "A small town is searching for answers after two students were shot dead at school. All signs point to a new wave of extremism in the form of a little-known online community.",
+      "categories": [
+        "Family & Education"
+      ],
+      "relevant": true,
       "score": 4,
       "spicy": false
     },
@@ -253,7 +289,7 @@
       "summary": "Inspired by the $25 billion payout extracted from Meta in the US, the Greens say the price for passing Anika Wells’ new digital bill is the private right to sue.",
       "categories": [],
       "relevant": false,
-      "score": 9,
+      "score": 8,
       "spicy": false
     },
     {
@@ -278,17 +314,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Missing Melbourne hiker Jordan Yap has died in Peru, authorities confirm",
-      "url": "https://www.abc.net.au/news/2026-10-11/jordan-yap-found-dead-melbourne-missing-hiker/107252872",
-      "source": "ABC News",
-      "publishedAt": "2026-10-11T06:25:38.000Z",
-      "summary": "Australian man Jordan Yap has been found dead, weeks after he failed to return home from a solo hike in a remote region of Peru.",
-      "categories": [],
-      "relevant": false,
-      "score": 7,
       "spicy": false
     },
     {
@@ -423,20 +448,6 @@
       "relevant": true,
       "score": 3,
       "spicy": false
-    },
-    {
-      "title": "Albanese Defends Housing Tax Changes, Says Reforms Aim to Help First Home Buyers",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWZZX190encxQ3pNWkVzM3lCc1preTFES3A3NGdPWXI3VHNkQWNFV2xVWXdwWEJNZWVVTGYzVl81ZzBDMGIxZ2lyLUlJZHd3QmRBdUVaMEtRckhra0Q5elRoVEdtMUEydU1KQkdwQW1WOGI2ME1oZS1RRFd4bTF4R0poZjlwYVlCNzZGR1V4RzJ2UzFxZHlhS1VGa2kweXlSanZxb1lkVGxKUXE1bWJXbEh5S3dXUQ?oc=5",
-      "source": "kendranewsaustralia.com.au",
-      "publishedAt": "2026-10-10T11:04:15.000Z",
-      "summary": "",
-      "categories": [
-        "Tax",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 6,
-      "spicy": true
     },
     {
       "title": "Malaysia Budget 2027: growth, skills and innovation take centre stage",
@@ -878,6 +889,17 @@
       "spicy": false
     },
     {
+      "title": "Bond Selloff to Pressure Australia’s Budget, Chalmers Says",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdlZzaXFPbHItZTVFSXBBVGhPWGpkU29PN2JMQjdOSjAyYzdOLTNmZExLcUo2UUlUT1ZLWTBESkxxd0xtd3pBWWdETW5NcXhsT0hGdldReDkzTDRBeWZrTndpT20zUDJZYXUzVk5fT09DYmdjTjd1blN2dl83OGFZLWtZV3IyTE5yakptUUx1Z3EyRHZ1dkl6eXRwdV9MU0QxZXI5WGZ5MVJvV0RQSzFHVklzUUI?oc=5",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-06T00:08:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
       "title": "Fear and loathing in Treasury: boss’s order to inform on leakers",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQTNJdndpLUYxOWExRTVCYjQ1blR5Zmg2Yjd0c0xPbjBNcDY2VmdXVUZveGh6SG5sMFJxRGxoellmeXViNE5DRWpQTG9VM2FzSktFb1dSV0ZmVWp4V0M2WHJRUDhWYm1ZNkpoWlBzYXRfWlFEYmRWcTNwcjkyZHZvZkFHRHN1YjlCSlV6TjFRTFZqcmFZVEhsRkVlZ0MzaUdpYU1TMnVjSGJpQ29UOVZaSUdXaVFWM0VSOGc5dGZJU2NPR1YtUFRjQUZGdmRlTmZKU1JRWlU1LUJyX2lFTW82eVVVQWJvVWhSUnpHUnlaaERIc0RDcUszSXM2Z3M?oc=5",
       "source": "The Australian",
@@ -959,19 +981,6 @@
       "relevant": false,
       "score": 3,
       "spicy": false
-    },
-    {
-      "title": "Capital Gains Tax changes are influencing how Australians invest",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNams1bXJyRlQyeUdKdnRRYWNZZm1Hanc4SWdRM2FNNWxJV25XcGVMX0dlNWFocUdCQXdJSDQzVmRJS002MDYxMWhrQkxmV0QwQXpwbHM5ZTNURTF5d0ZoZUpIMGxnTkFlM1VBZEJuN3J2SmlvdHhOOHoxQ0oyazNTRTJhQVlZNTJDZXo0MFdZX3MzYW8zQUl5bUlBcFljN2p3bnRfay1MT0paVVhpakN5XzRnSnMxQ0tSWGhXZzUyN0s?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-10-04T03:55:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 7,
-      "spicy": true
     },
     {
       "title": "Treasurer downplays chance of cost-of-living relief amid surging debt",
@@ -1135,6 +1144,19 @@
       "spicy": false
     },
     {
+      "title": "Labor on cusp of becoming the highest-taxing government ever",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdkWjlZZlVkb3pnZ045QkJOY3JjekpBM1psQVhNUl92WDA5MmxPeDhyOWdwMnA2VnkwSWxOOU1aU256RTJQaWhVa0ZBc3BfbGhlRjZuQ05sMzZudEdLQTVadFdsdEpKZUR3SkU4ZDg4cF9ubWlfQWNTMXRoaHpxZ0J5cnBHdmlPSzF2SWVvdmtZVGk4T3VrYkNKNTM4M3Z4M2JnVE93ZGg5ajJVTlV6ZDQ3cw?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
       "title": "Treasurer Jim Chalmers touts stronger budget amid darkening economic outlook",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTZkNGRFdXNsVFcxUXNrMWd4azZIUWxZNW1VVkEyZEotV2tHeWtyRjlxMHVfTFBqVFo2OExUc2xMYlFFeGU1YjJ5MHZ0dWlZcnV2QkpINWVrMGVaNkVqMDZBZG5tUm9qMkVzYlg1TzdhLUktaW5qTlhsOURJZlQtS0RLSWlWZXY4UmdYNmE0UFRSZ3dZS3Z0OU1aN0p6MlRYSnZhMWRxWkVNcVdtWmdrNFZzUVhoTXhySmxfTXZjNA?oc=5",
       "source": "SBS",
@@ -1156,19 +1178,6 @@
       ],
       "relevant": true,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Labor on cusp of becoming the highest-taxing government ever",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdkWjlZZlVkb3pnZ045QkJOY3JjekpBM1psQVhNUl92WDA5MmxPeDhyOWdwMnA2VnkwSWxOOU1aU256RTJQaWhVa0ZBc3BfbGhlRjZuQ05sMzZudEdLQTVadFdsdEpKZUR3SkU4ZDg4cF9ubWlfQWNTMXRoaHpxZ0J5cnBHdmlPSzF2SWVvdmtZVGk4T3VrYkNKNTM4M3Z4M2JnVE93ZGg5ajJVTlV6ZDQ3cw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-09-28T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Tax"
-      ],
-      "relevant": true,
-      "score": 3,
       "spicy": false
     },
     {
@@ -1239,20 +1248,6 @@
       "categories": [],
       "relevant": false,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Australia student visa changes explained: New rules on family and stay",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUERseFUyYjdwS3otU1dJWnVOSTR0MVhodHZqMlR2dWpfd1ZpSGxyVVVycWR0WUlOMEg1VFNCSDZKcDQ4TVNQVXR1a2dISTlQakJ0aXMxZE1yUFh5d0QzZVhCcC1uN1psMXpBWm5WXzVZT1ByU0VuVUxPT0pXSzVPT0JFVGg5VWFjam9OYk5WZGhLRVZnQUJBMGFCYnI3MVRJWndKUlJjWndQaTFzYUlYZFZHc3pNajNmbXhzOTVuY2QzQU4xMlRTdHdxenRmaVpR0gHWAUFVX3lxTE01MTZuWjY2UzJ3cGtNWEIxUWNjQkpQTjlVb3BHUktSTEMxY3NpRnFjVE92OTdCNjNsYmZDcDRUbi1pVWQtMGd4YTlaS2JheGpVTVlhZTlhYXNfSjYwalpGLWNYZFZCM25JSVMxNlBxMHFKdGxJLVRsblJudzV3TlFtNmplYkZhQkthRHdiVDJlZHJQNXU0NXpuZFVnLUVGMXlxYmdIY0tmY1JjcXhDTDFxbndjR2hCRXFnaF9UekUwOFM4M01OcVFxYUFqNHZTeXh2THJrdUE?oc=5",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-25T07:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration",
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 4,
       "spicy": false
     },
     {
@@ -1329,7 +1324,7 @@
       "spicy": false
     },
     {
-      "title": "Less tax for many investors after CGT, negative gearing changes, study finds",
+      "title": "Many investors would pay less tax after CGT and negative gearing changes, study finds",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY1ZGTS0xdmZ3TEcwNHR5WHQ3WFVPbVpHLU13WEJFbXFGS1Y1UlJEZkZrbTVybWJPa0I0UXQwSjJZWnA3OE90YW5DeEQ5ZUNOQ3lVLXIzUENJTm9lRHlVTExHRi1YMS10bHRpVkE5MkxSWk5TMEl3ckVnbTc4bUJIOU9CWXpfQWJ4NUIxTlBwSHVOMUswV1ZydHZCSXdrMlVFSmJjQXFhdw?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-09-22T07:00:00.000Z",
