@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-17T01:13:09.856Z",
+  "updatedAt": "2026-10-17T06:02:14.724Z",
   "count": 120,
-  "relevantCount": 51,
+  "relevantCount": 49,
   "spicyCount": 8,
   "spiceThreshold": 5,
   "categories": [
@@ -50,28 +50,108 @@
     "Sydney Morning Herald",
     "The Australian",
     "The Guardian",
+    "The PIE News",
     "The Weekly Times",
-    "Yahoo Finance Australia",
-    "https://aapnews.aap.com.au/"
+    "Yahoo Finance Australia"
   ],
   "items": [
     {
-      "title": "Live: Wallaroos take on Scotland ahead of Wallabies' clash with All Blacks",
-      "url": "https://www.abc.net.au/news/2026-10-17/rugby-bledisloe-cup-wallabies-all-blacks-wallaroos-scotland/107279014",
+      "title": "Smart traps and AI baits: The high-tech push to target Australia’s foxes",
+      "url": "https://www.smh.com.au/politics/federal/smart-traps-and-ai-baits-the-high-tech-push-to-target-australia-s-foxes-20261017-p613n0.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-17T05:00:00.000Z",
+      "summary": "Responsible for wiping out 20 native species, red foxes remain a persistent threat across 80 per cent of the country. Smart technology could make control efforts far more precise.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Magnitude-3.0 aftershock strikes near Leongatha, south-east of Melbourne",
+      "url": "https://www.abc.net.au/news/2026-10-17/gippsland-earthquake-mid-october-aftershock/107279324",
       "source": "ABC News",
-      "publishedAt": "2026-10-17T00:28:44.000Z",
-      "summary": "The Wallaroos face Scotland in the first match of rugby's historic quadruple header at Stadium Australia, before the Wallabies meet the All Blacks in the Bledisloe Cup.",
+      "publishedAt": "2026-10-17T04:52:06.000Z",
+      "summary": "South-eastern Victoria has been slightly shaken by an earthquake aftershock, three weeks after an overnight tremor woke thousands.",
       "categories": [],
       "relevant": false,
       "score": 4,
       "spicy": false
     },
     {
-      "title": "'Decision next year': Nawaqanitawase keeps Wallabies options open",
-      "url": "https://www.abc.net.au/news/2026-10-17/wallabies-decision-next-year-for-nawaqanitawase/107278904",
+      "title": "Firefighters battle out-of-control blaze at NSW feed mill",
+      "url": "https://www.abc.net.au/news/2026-10-17/fire-cardiff-feed-mill-near-newcastle/107279170",
       "source": "ABC News",
-      "publishedAt": "2026-10-16T23:44:01.000Z",
-      "summary": "The Wallabies are confident star code-crosser Mark Nawaqanitawase wants to play for Australia at next year's Rugby World Cup, but he still has a choice of three nations.",
+      "publishedAt": "2026-10-17T04:36:42.000Z",
+      "summary": "The temperature has reached 500 degrees Celsius inside a feed mill near Newcastle as firefighters and engineers work to control a blaze.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "New menopause guidelines designed to cut through misinformation",
+      "url": "https://www.abc.net.au/news/health/2026-10-17/ranzcog-new-guidelines-for-managing-menopausal-symptoms/107269850",
+      "source": "ABC News",
+      "publishedAt": "2026-10-17T03:21:20.000Z",
+      "summary": "Australia has a new set of clinical guidelines for managing the symptoms of menopause, that include hot flushes, night sweats, and a frequent need to urinate. Here's what it means for you.",
+      "categories": [],
+      "relevant": false,
+      "score": 8,
+      "spicy": false
+    },
+    {
+      "title": "Killers of Perth brothers Jake and Callum Robinson sentenced in Mexican court",
+      "url": "https://www.abc.net.au/news/2026-10-17/jake-callum-robinson-mexico-murder-trial-sentence/107271152",
+      "source": "ABC News",
+      "publishedAt": "2026-10-17T02:31:11.000Z",
+      "summary": "Three men have been sentenced to 158 years and nine months in prison each for the killing of Australian brothers Jake and Callum Robinson and their friend Carter Rhoad while they were camping in Mexico in 2024.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "The humble chickpea has just boomed in value",
+      "url": "https://www.abc.net.au/news/2026-10-17/chickpea-prices-boom-as-buyers-lock-in-supply-ahead-of-ramadan/107273674",
+      "source": "ABC News",
+      "publishedAt": "2026-10-17T02:01:03.000Z",
+      "summary": "Australian chickpeas are in hot demand, with prices surging towards $1,000 per tonne in some regions.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-17T01:49:17.000Z",
+      "summary": "Former minister and OECD head urges Australia not to adopt migration caps, with research showing migrants boost employment",
+      "categories": [
+        "Visas & Migration",
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 12,
+      "spicy": true
+    },
+    {
+      "title": "Steele-John probe should examine Greens processes, publish key findings: WA MPs",
+      "url": "https://www.smh.com.au/politics/federal/steele-john-probe-should-examine-greens-processes-publish-key-findings-wa-mps-20261017-p616cm.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-17T01:21:45.000Z",
+      "summary": "The MPs say the investigation should include the Greens’ own processes, after this masthead revealed a secret dossier catalogued allegations against Jordon Steele-John for 10 years.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Live: All Blacks running riot as yellow card compounds Aussie misery",
+      "url": "https://www.abc.net.au/news/2026-10-17/rugby-bledisloe-cup-wallabies-all-blacks-wallaroos-scotland/107279014",
+      "source": "ABC News",
+      "publishedAt": "2026-10-17T00:28:44.000Z",
+      "summary": "The Wallabies are being overwhelmed in the final Bledisloe Cup Test, with the All Blacks scoring six first-half tries and Jeremy Williams shown a yellow card in Sydney.",
       "categories": [],
       "relevant": false,
       "score": 4,
@@ -100,17 +180,6 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Widespread flying fox deaths a 'disaster' for forest ecosystems",
-      "url": "https://www.abc.net.au/news/2026-10-17/sat-nsw-regs-flying-fox-deaths-impact-on-forests/107269636",
-      "source": "ABC News",
-      "publishedAt": "2026-10-16T20:31:25.000Z",
-      "summary": "Along the east coast of Australia, grey-headed flying foxes are being found dead and malnourished. Without their nightly pollination, experts say it could spell disaster for forests and other animals.",
-      "categories": [],
-      "relevant": false,
       "score": 4,
       "spicy": false
     },
@@ -144,7 +213,7 @@
       "summary": "This week's unseasonal heat, coal outages and transmission constraints sent NSW power prices soaring, but batteries added a twist.",
       "categories": [],
       "relevant": false,
-      "score": 9,
+      "score": 8,
       "spicy": false
     },
     {
@@ -155,7 +224,7 @@
       "summary": "If polls are right then voters are increasingly in a mood to light the match of a political conflagration. Many Labor backbenchers would become oncers.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -168,7 +237,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -179,7 +248,7 @@
       "summary": "Behind closed doors, Labor MPs are questioning whether Jim Chalmers’ relationship with Anthony Albanese has soured.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -190,7 +259,7 @@
       "summary": "Pauline Hanson says the Duty of Care bill is a crime against free speech, so the Coalition is performing its One Nation back-up dance.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -203,7 +272,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -214,7 +283,7 @@
       "summary": "The treasurer is feeling the heat on several fiscal fronts, and some within Labor are questioning the government’s political strategy Get our new political email ,",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -227,7 +296,7 @@
         "Housing"
       ],
       "relevant": true,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -238,14 +307,14 @@
       "summary": "The president could become more erratic if his control over Washington recedes, making Australian engagement riskier Get our new political email ,",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
       "title": "Cash splashes fail the most needy and hurt budgets",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaWpPYk1KNU1MaU5oSGxGSWk5cjVFSGNHQ3NPMmNjNi1PLWRwb2NTd0EwamdiVTRnMGYzYm9JM0xmNG5oYTF1d0had1VrOFJfb1BOcTM2cmp3VngzRnBoY1RqbTdPMHd0TjY5TE4yMmhnQmFfeHRxejlYakk5Yi16dmkzbU9xeG0yRmNlMzNJZDd2V29LWW5iN29MdDM1VUlYYm1CY1VOdEFXanhET3RRcC1KdUEyUUxnel9FbFU0QnNvQ2lEVWxDX0pHTlNEYnZ0RnRQVVVzZk81bGxGQlZjUGs2QXZ0cmlxaEtDRGl6Z0pMQQ?oc=5",
       "source": "The Australian",
-      "publishedAt": "2026-10-16T13:05:38.000Z",
+      "publishedAt": "2026-10-16T13:35:43.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
@@ -470,30 +539,6 @@
       "spicy": false
     },
     {
-      "title": "Reassembling John Travolta's jet down to nuts and 5,400 bolts stage",
-      "url": "https://www.abc.net.au/news/2026-10-16/specialist-team-to-reassemble-travolta-plane/107265340",
-      "source": "ABC News",
-      "publishedAt": "2026-10-15T21:43:23.000Z",
-      "summary": "The old luxury jet movie star John Travolta donated to a NSW aviation museum is being painstakingly reassembled on site.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Global sugar prices rally amid key producer Brazil's presidential election",
-      "url": "https://www.abc.net.au/news/2026-10-16/sugar-market-rallies-in-midst-of-brazilian-election/107264588",
-      "source": "ABC News",
-      "publishedAt": "2026-10-15T21:00:03.000Z",
-      "summary": "The rally has brought relief to Australian farmers, who faced months of uncertainty as input costs rose.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "McKinsey leader steps down from charity board after controversial ‘glass cliff’ comments",
       "url": "https://www.smh.com.au/business/workplace/mckinsey-leader-steps-down-from-charity-board-over-controversial-glass-cliff-comments-20261016-p615zy.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
@@ -603,17 +648,6 @@
       "categories": [],
       "relevant": false,
       "score": 7,
-      "spicy": false
-    },
-    {
-      "title": "Broken Hill lines up drill bit on huge copper-gold target in SA",
-      "url": "https://www.smh.com.au/business/companies/broken-hill-lines-up-drill-bit-on-huge-copper-gold-target-in-sa-20261015-p615y4.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-10-15T05:46:58.000Z",
-      "summary": "Broken Hill Gold has launched 3000m of drilling to test a massive geophysical target beneath high-grade copper-gold hits at its White Dam project in South Australia.",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
       "spicy": false
     },
     {
@@ -748,19 +782,6 @@
       "spicy": false
     },
     {
-      "title": "Labor’s bill to cut private health insurance rebate blocked by Greens over pensioner carve-out",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/labors-bill-to-cut-private-health-insurance-rebate-blocked-by-greens-over-pensioner-carve-out",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-14T07:59:53.000Z",
-      "summary": "Almost 80,000 older Australians expected to end private health cover by 2028-29 as a result of Albanese government’s proposal",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 7,
-      "spicy": true
-    },
-    {
       "title": "John Healey ‘targets tax crackdown on online marketplaces’ in first budget",
       "url": "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget",
       "source": "The Guardian",
@@ -855,19 +876,6 @@
       "spicy": false
     },
     {
-      "title": "‘Clear and present danger’: fuel prices could rise by 30c a litre across Australia under IMF scenario",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/australia-fuel-prices-rise-imf-rba-us-oil-interest-rates",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-13T02:00:49.000Z",
-      "summary": "IMF’s World Economic Outlook shows how a worsening Middle East crisis could affect global growth and inflation Follow our Australia politics live blog for latest updates",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Inside the triumph and trauma of Labor’s $88b tax overhaul",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajFZMGN4MWl0c1E1TmM5YjdMTVJBYmxOUE9WYzFTZU5hTXFQb0Z6UHc4aV8wRmFoQ2todTkzek1lTnFyYUtfWWdoNEFSTi1NQmhxWkJkcTdNQXBDbEstZ2hMZlNkVHpFY0QwTTNKQnZJQjgzWi10NlNWazMyREZES0xyVG9ZZC02UURjbnRnWTNEQnpIaU5JSEpjb2tRNTdicXpSZm5OV2VZekEtMU5sVzE0TDA?oc=5",
       "source": "AFR",
@@ -915,20 +923,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Tax changes 'crack the nut' on housing affordability",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd0ljbEQwQlh3Z0FhOFlJMHF2YmJnREVSRzNkUENWVm1TZU9TQVJvRzJ0TUc2aUROWEpBTV8wYTA0OFFuMXFNQjBRLUo5STNrZlRoTGdxRVNPV1ZiQ2FPLThmc3NZR1NCcTdBVEpVN1poNEJPSHJkU1hWRlJFWkFCYTI3RmJDY0l6cGc?oc=5",
-      "source": "https://aapnews.aap.com.au/",
-      "publishedAt": "2026-10-11T05:28:19.000Z",
-      "summary": "",
-      "categories": [
-        "Tax",
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 2,
       "spicy": false
     },
     {
@@ -1069,6 +1063,17 @@
     {
       "title": "Truth is, Lucky Jim has squandered a global budget boom",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0p3VnhlY1ZIRlNlOTNXbGNjcFV6MFBwU01ZNko0bDJmOHpuYmxObm1zOHFYVTBKUVpxN1gtX09ZT3NJXzYwc0RvV3E5bndOeUVMRURraFdNNFZ2MTZaU1lFQnJ1dHhGdGxKMWR6SkdZNmx1cHhoU2RRUmhoQWtKN0Q0RGljNlRmdXc1S3FWU1JkYzhhenRMVmRVVk04VHAyRkVwWTA1dm5sN2c?oc=5",
+      "source": "AFR",
+      "publishedAt": "2026-10-05T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Chalmers: ‘We don’t need polls to tell us people are under the pump’",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalJ5c3NRUmZhT19XNnBGempwMm01SmU4bmNaYVVacUJ5eFBNVEwxTTdVTXlGcktIVWxNcEsySXR5LVNUOWxzb09UREptX3NrWGtfdWpuNUJaTjlTcUYxOXNEeElpcVdEWjA1eThzdWFSWTdtQWRSUW95ekJLaXRjUVZxQ3JQcjkyUjJVSXZzWlZYMUZnNmtaS2JSTVJETkQ0WTNFa0swTEt5M1N5OG5nWThB?oc=5",
       "source": "AFR",
       "publishedAt": "2026-10-05T07:00:00.000Z",
       "summary": "",
@@ -1288,17 +1293,6 @@
       "spicy": false
     },
     {
-      "title": "‘Worst’: New global list shames Australia",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaGpBcG84SEpoR05wVTlVMVVQTmZKUmNRc3dwRUJSdTZ0VTY2UnVXRzlyLWg2T1pENGNXdjI4TTU2WTk0bV9XMUZscEFTUXlEODFqdF9maEtBQTIwcU5QY1JncFZobDBDSnJQTUUtcVAwdmUyWXlvTTVZdW1aY3pZakNKdE1HOW5sN0lMcGNyOGZLNmthX0xVT1VvanhHSDJJNW1LNFZNYWh1OW5pVzA3SW85R3pzZVFybHF4ZU5Wb28wNmxZaGxjZXhBTWE4d9IB0wFBVV95cUxNYXA4bm9WenNRVHd5WFVMTTB1elVQU2xNeWVMVEZQNl9DbmRIUmV1M1lpQjhJd2NQTEZiTTN3YS03Z0FIZU12c0pxa1l4LWVTUFJMcFl0TEJWYWNTbEIwUFQ0aVpqMTdxWklMRUEyazZOTUNRNVZ5QldUQ0JTbS1acDFyV3ZnU1l4dldnaFVPanFOOS1HdGJRTUpZMHY3WkhmZXZEX1pXVjJ1RjlRc2ZtWDE2U19MRldaelZfekZacUV1a0ZWcUYzdFB4VHpjTlBRMHF3?oc=5",
-      "source": "News.com.au",
-      "publishedAt": "2026-09-29T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Australia cuts migration target to 225,000: 7 visa changes you need to know",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSlB0d0RmbnpLUVRSTEk3OEZsMVdMMGUzVXMzR2ZWSUNRaWdfN2NYMFlOc3Q3c0Z6c0lpdUxOWXFvV2lwb240enYyVV93NTdFVENLWXVtRlJHWDBPTENybUdrclZLV1N5aWM5Q1FVdmdSOWNuaUdjd1R4TWk2S1JrN0EwcDlNRmJkTF9ZSVpER3FhUENJbEJmMnEzSUZzQ3VCSHhIZUdkNG9ReXJSRGkxMDJQM09samsxcEpYeHdQN21EcDI1ZEkwZXJGZlphdi13MUlLVUtPTdIB3AFBVV95cUxNWmM3N3lLOWsxNGRPR3hzbG1zWUFyeV9fY1kyMXJHYmtsZFo3RzNRY3FzQXdHSFVIQnplamI2d19sSW9HUkw3TENQZ1FHR0JGQ21XV0VEZzdZM0swb19zOU5mMGZ1N0VabDVOYzA0QVZNWnZuQ2JuWEVnWmpwa1RxVnRPTjZNUEV0R0x6ZU9VdGJCeWMzc3E3d3RCYk1yaHVReFhpckpvZTFtUWJuMUgwLVkyVVgzUUM1bVJ2b3pTTnpFRHkzaE9ISjFzMnIzRjg1NGZWX1YtWlNpaVdH?oc=5",
       "source": "Business Standard",
@@ -1309,17 +1303,6 @@
       ],
       "relevant": true,
       "score": 2,
-      "spicy": false
-    },
-    {
-      "title": "Labor runs victory lap on budget repair as rates set to hit 15-year high",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZTZpOFc2cGc2QWJuajFnZmxHa1l2UlAwRFhyY1I4Ym50b1hYaXd3dnUxV0NVX1RtZjhHbjJEUHQ3eFV1Q0pJYTE1T08tbThmVEFQNnE1VkxTNzJjXzAtNmt6RXVMd1NnSFBkTDFCd0dPU3dMdjRCN1YtWFRkZmJ2dlpHUThQUkJuRUpDbjVsMDEtVTZnQm9rbE5iSV91TnlFejA4cWltbmpiS1oyamRmU2tkeHJOM05qRzJEQTZ6N1puc2VEaEZwQ20tMXplZGwxUl9YSzV2V2pVMEdFSWlnZNIB5gFBVV95cUxOR05KMGhfWlFUOF9FakY5aFJveXhJdFM3XzVmdXNRWHdxekNacV8xcHk1NmNNRk5kejYwRjJYazMxSGk4UDl2NzAxZVRiLURCSkVPcmQ3QWJNa1d3dUVTNVFQS09MQmlkZkVoNWZyelhqOTBxUWVjUXVNU19Uek1nODBtc1FZUlBWWm5xc2J1SDJtZkI0d2dwU0ZKdXFzQ0JBdm1EenJhVlMyQ1RkNVRPZWVzVHF6UmtzWUVBT0FIQW1OQVZaU2hFcXdpczNiSS1uMEdOb2QwMWhPNnNMTHFLV3pxa1NGZw?oc=5",
-      "source": "News24",
-      "publishedAt": "2026-09-28T23:08:19.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
       "spicy": false
     },
     {
@@ -1478,6 +1461,20 @@
       "categories": [],
       "relevant": false,
       "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "Australia squeezes dependants as wider student migration questions emerge",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNURvZ1dwZWxXQkxNSS1wNmY5NXlxUnZlTjhBVmc5Zk11SXI2bnh5TXU2anMya0hKZm44d0MycnlBWjBJNGZDNEtmWVA4MUc1ZWVjczExRDdPQ1F2eC1GVGl3ZHVKVEx3cWRJY0hHUS0xYTNTc05VdENkT1F2ZkNITFNHY3dIZlduX0lDM3UtMnNnRmNhUGlCaS02NjZNQQ?oc=5",
+      "source": "The PIE News",
+      "publishedAt": "2026-09-23T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 2,
       "spicy": false
     }
   ]
