@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-18T17:13:17.462Z",
+  "updatedAt": "2026-10-18T19:34:23.227Z",
   "count": 120,
-  "relevantCount": 48,
-  "spicyCount": 10,
+  "relevantCount": 51,
+  "spicyCount": 12,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -42,7 +42,7 @@
     "Newland Chase",
     "News.com.au",
     "News24",
-    "Nine.com.au",
+    "Nikkei Asia",
     "Real Estate",
     "SBS",
     "SMH.com.au",
@@ -50,9 +50,83 @@
     "The Australian",
     "The Guardian",
     "Yahoo Finance Australia",
-    "https://aapnews.aap.com.au/"
+    "https://aapnews.aap.com.au/",
+    "intheblack"
   ],
   "items": [
+    {
+      "title": "Spender and Chalmers’ reform adviser back GST change to offset tax cuts",
+      "url": "https://www.smh.com.au/politics/federal/spender-and-chalmers-reform-adviser-back-gst-change-to-offset-tax-cuts-20261019-p616g2.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-18T19:00:00.000Z",
+      "summary": "The Wentworth MP is also backing new budget rules as spending and taxation rise to near-record levels under Labor.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 10,
+      "spicy": true
+    },
+    {
+      "title": "Economists question Victorian Liberal plan to deliver surplus while cutting taxes",
+      "url": "https://www.abc.net.au/news/2026-10-19/economists-concerns-liberal-coalition-surplus-plan/107280322",
+      "source": "ABC News",
+      "publishedAt": "2026-10-18T18:15:51.000Z",
+      "summary": "Two economists have warned Victoria's troubled budget would get worse under a Coalition government, because plans unveiled so far fail to cut enough spending while reducing taxes.",
+      "categories": [
+        "Tax"
+      ],
+      "relevant": true,
+      "score": 10,
+      "spicy": true
+    },
+    {
+      "title": "Winning the next election could be Labor's undoing",
+      "url": "https://www.abc.net.au/news/2026-10-19/labor-albanese-election-victory-power-curse-purpose-agenda/107280798",
+      "source": "ABC News",
+      "publishedAt": "2026-10-18T18:15:00.000Z",
+      "summary": "Governments that cling to power without renewed purpose risk trading electoral success for political decline.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australia clashes with Asian energy giants over gas export crackdown",
+      "url": "https://www.smh.com.au/business/companies/australia-clashes-with-asian-energy-giants-over-gas-export-crackdown-20261019-p61685.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-18T18:00:00.000Z",
+      "summary": "Labor is risking a backlash from major Asian partners as it forges ahead with contentious rules to divert more gas exports to local consumers.",
+      "categories": [],
+      "relevant": false,
+      "score": 8,
+      "spicy": false
+    },
+    {
+      "title": "‘Only the sharks are left’: The $388 billion change shaking up the sharemarket",
+      "url": "https://www.smh.com.au/business/banking-and-finance/only-the-sharks-are-left-the-388-billion-change-shaking-up-the-sharemarket-20261019-p6169a.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-18T18:00:00.000Z",
+      "summary": "There’s been a major shift in how Australians buy shares, sparking debate over whether our market is becoming more prone to wild swings – or even the risk of bubbles.",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Labor may hope tax cuts soothe angry voters. They’ll help, but won’t be enough",
+      "url": "https://www.smh.com.au/politics/federal/labor-may-hope-tax-cuts-soothe-angry-voters-they-ll-help-but-won-t-be-enough-20261019-p616gl.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-10-18T18:00:00.000Z",
+      "summary": "Tax cuts at budget time would have been inflationary and convinced voters Labor was to blame for high prices.",
+      "categories": [
+        "Tax",
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 10,
+      "spicy": true
+    },
     {
       "title": "Greens insiders break cover to demand public findings in Steele-John inquiry",
       "url": "https://www.smh.com.au/politics/federal/greens-insiders-break-cover-to-demand-public-findings-in-steele-john-inquiry-20261019-p616hn.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
@@ -140,7 +214,7 @@
       "summary": "Scott Boland strikes twice in two balls during a brief period of play as rain almost entirely washes out the first day of the second Test between Australia and South Africa Gqeberha.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -151,7 +225,7 @@
       "summary": "It was defender Courtney Bruce's 100th milestone game to start the Constellation Cup but the brand new centurion and her captain Liz Watson were both sent to the bench in Australia's 56-50 loss to New Zealand in Auckland.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -162,7 +236,7 @@
       "summary": "Two people are in police custody after occupying an offshore Woodside platform about 200 kilometres off Western Australia's coast to protest against the company's gas operations.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -188,28 +262,6 @@
       "spicy": false
     },
     {
-      "title": "Tim Winton's Cloudstreet wins Top 100 Australian Books countdown",
-      "url": "https://www.abc.net.au/news/2026-10-18/top-100-books-australian-books-live-blog-2026-radio-national/107276838",
-      "source": "ABC News",
-      "publishedAt": "2026-10-18T03:36:40.000Z",
-      "summary": "Cloudstreet has taken out the Top 100 Australian books countdown with The Book Thief by Markus Zusak and Boy Swallows Universe by Trent Dalton rounding out the top three.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Animal welfare group calls for accountability after latest racing death",
-      "url": "https://www.abc.net.au/news/2026-10-18/caulfield-cup-ohope-wins-death-calls-accountability/107280556",
-      "source": "ABC News",
-      "publishedAt": "2026-10-18T02:48:12.000Z",
-      "summary": "The fallout continues from the death of Ohope Wins in the Caulfield Cup, with animal rights groups saying the number of equine fatalities in Australia are \"not acceptable\".",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Bill Lark is the godfather of Australian whisky but he has never seen times like these",
       "url": "https://www.abc.net.au/news/2026-10-18/global-whisky-downturn-distillery-impact-tasmania-industry/107237870",
       "source": "ABC News",
@@ -229,6 +281,19 @@
       "categories": [],
       "relevant": false,
       "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "The SMH builds its own immigration budget lies",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUh1SzlKakhsSjVEc0gyb25JT3N2REZVdjZ4QUVabjJ6eVhMVi1CVmNkZVpyQVFfUDdRaXVxaUNZcndvZDhTRWJEeEFyMFpKNDl6ODl4YzA5NnNGam5RSDRuR2tPR2ZvRHo2RjdrRk1XYmREZEFENUhNSl9GZl95WjNsZ2s4TUZDTGlReUd4eFExUQ?oc=5",
+      "source": "MacroBusiness",
+      "publishedAt": "2026-10-18T02:01:03.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
       "spicy": false
     },
     {
@@ -317,17 +382,6 @@
       "relevant": true,
       "score": 6,
       "spicy": true
-    },
-    {
-      "title": "Patience of Labor MPs is beginning to wear thin as Albanese's blues mount",
-      "url": "https://www.abc.net.au/news/2026-10-18/albanese-labor-mps-mid-term-blues/107272392",
-      "source": "ABC News",
-      "publishedAt": "2026-10-17T18:00:00.000Z",
-      "summary": "Albanese's MPs have largely kept their complaints private and trusted the PM's judgement. But political loyalty is easier to maintain when a government is winning.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
     },
     {
       "title": "Australian zoo saving baby elephants from killer virus",
@@ -620,30 +674,6 @@
       "spicy": false
     },
     {
-      "title": "Proposed Dalby data centre to harvest rainwater from roof",
-      "url": "https://www.abc.net.au/news/2026-10-16/data-centre-water-usage-commitment-dalby-qld/107271160",
-      "source": "ABC News",
-      "publishedAt": "2026-10-16T04:50:12.000Z",
-      "summary": "The international developer that has proposed Australia's largest data centre says it would be able to operate during even the worst droughts.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Reserve Bank governor paid $1.2 million as RBA workers fight real wage cuts",
-      "url": "https://www.abc.net.au/news/2026-10-16/rba-governor-million-dollar-salary-annual-report-2026/107274072",
-      "source": "ABC News",
-      "publishedAt": "2026-10-16T04:50:02.000Z",
-      "summary": "RBA governor Michele Bullock received total remuneration of $1.22 million in 2025-26.",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 10,
-      "spicy": true
-    },
-    {
       "title": "How to kill a story: The secret dossier the Greens used to protect Steele-John",
       "url": "https://www.smh.com.au/politics/federal/how-to-kill-a-story-the-secret-dossier-the-greens-used-to-protect-steele-john-20261016-p60xbe.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
       "source": "Sydney Morning Herald",
@@ -712,17 +742,6 @@
       "spicy": false
     },
     {
-      "title": "McKinsey leader steps down from charity board after controversial ‘glass cliff’ comments",
-      "url": "https://www.smh.com.au/business/workplace/mckinsey-leader-steps-down-from-charity-board-over-controversial-glass-cliff-comments-20261016-p615zy.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-10-15T18:30:41.000Z",
-      "summary": "Chris Bradley resigned from Opportunity International Australia just days after his controversial remarks about the challenges female CEOs face.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "‘A little gem’: Investors have found a tax-free option to build wealth from the budget changes",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOb1dHSmk5Q1BDT2xHLXFITklxdnpzeUtKb0p2YmZGeDQ4aDVCcVlqX0VNVFdEOERRakpGRjdVNlIxRXFOT21xQjNKdXU0QlRxWUhUbXZySTRSWGdMRTlOT0lGUzZ2Y1RSaGNYd0dZVjRQdWZrQkFmQl90ZDRseDZnUnd0TmhmaHBsNzJPTHk0Zm1YcWU3VHNxUVBjdE5WRVM2Zk5qU1dEMmFtaVdheXZjWXMtMjA3NnhrQnpYMzhCSXI4VmE3dHZYbnQtbDRZSi1tWkp6ZHl0dEdQa3NZUG10MDQyZDdYazZzVDlJcTlRdWkzaDBo?oc=5",
       "source": "The Australian",
@@ -733,17 +752,6 @@
       ],
       "relevant": true,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "The three factors driving NSW unemployment to a five-year high",
-      "url": "https://www.smh.com.au/business/the-economy/the-three-factors-driving-nsw-unemployment-to-a-five-year-high-20261015-p615vd.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-10-15T18:00:51.000Z",
-      "summary": "The NSW unemployment rate hit 4.7 per cent last month, the highest level since November 2021.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -763,17 +771,6 @@
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-10-15T18:00:00.000Z",
       "summary": "Look to the US or the UK and it’s clear that threats to politicians can and do escalate in real acts of brutality.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "‘Does not go far enough’: Anti-slavery chief blasts Albanese amid Trump fallout",
-      "url": "https://www.smh.com.au/politics/federal/does-not-go-far-enough-anti-slavery-chief-blasts-albanese-amid-trump-fallout-20261016-p615ws.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-10-15T18:00:00.000Z",
-      "summary": "Under current laws, Australian companies must disclose modern slavery risks but have no duty to fix them – a gap the commissioner says must be closed.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -1023,6 +1020,17 @@
       "spicy": false
     },
     {
+      "title": "Malaysia Budget 2027: growth, skills and innovation",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KWkxIQ2QtMGZMYnc0dmRBYWtFQ3g3MW10TU5DSzBSMl9Vb0hTM3J1UUQ2Q1ZHR0RkaEFrY1c3VEZoZmJOdDEzSnZCazIxNzNwVUh4cFZDTG4ySzd1dUpVNjdlTjliTTBKbVZDVzA3Y3I3RVdxTFQ4?oc=5",
+      "source": "intheblack",
+      "publishedAt": "2026-10-10T05:53:09.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "From boom to bust in five days: how Firmus’s much-hyped Australian stock market listing imploded",
       "url": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-australian-stock-market-listing-bust-finance",
       "source": "The Guardian",
@@ -1031,6 +1039,17 @@
       "categories": [],
       "relevant": false,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Australia will buy Japan frigates despite budget cuts: finance chief",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHZKYnhpU0p3SElLN1E5dlRTTjNWR2xMb05EZzFVcHNUZ2FYMndUZDRjMzZER2h4elJEWW5qWEM3MzJwUjk4ZF9FYWNlWUlUTlRJaUhGcUxtenY2NjR1OVd3b0dGQnNINHJJOHlQbC1MMzdnNUE4T2NyQmtITjdyaXk5QTBPXzhkNUpiVGVneVA0aEVwQ0Z3TjREdjZ4cjNMRVowbF9rUmlqVW9X?oc=5",
+      "source": "Nikkei Asia",
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 2,
       "spicy": false
     },
     {
@@ -1254,8 +1273,8 @@
       "spicy": false
     },
     {
-      "title": "‘Take your tinfoil hat off’: Josh Burns hits back at Joyce in fiery debate",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRFdoc2h1TnpDMk1TcjdSaDUzT29iRVRfVEJRTEFSMV9hQ0ZrM01oS0J5NUlVUmR3OHdoNFV1bU5Qb2FqeVJiTVRudzNpQ0dSLV9FUVp2ZWVGN1ZoQkVwVG9uRDBaOGlKMkQwdHBBQ1B2cGdSdVF6YzlCT3M1cUE3emhPalBvZmc0dHY1RVlZbW95MGdpNmV6dFdhajNnSG1oVUVia3dHcHNFRDBJRU1HQVdtTTA5N2JnQmNZOXZGYWV1MnB6MXBYeXo3dEN0ajhrRTNYTXpLTDE?oc=5",
+      "title": "‘Take your tinfoil hat off for a second’: Barnaby Joyce and Josh Burns trade barbs in fiery spending debate",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRFdoc2h1TnpDMk1TcjdSaDUzT29iRVRfVEJRTEFSMV9hQ0ZrM01oS0J5NUlVUmR3OHdoNFV1bU5Qb2FqeVJiTVRudzNpQ0dSLV9FUVp2ZWVGN1ZoQkVwVG9uRDBaOGlKMkQwdHBBQ1B2cGdSdVF6YzlCT3M1cUE3emhPalBvZmc0dHY1RVlZbW95MGdpNmV6dFdhajNnSG1oVUVia3dHcHNFRDBJRU1HQVdtTTA5N2JnQmNZOXZGYWV1MnB6MXBYeXo3dEN0ajhrRTNYTXpLTDHSAd4BQVVfeXFMTzczWVNYMHVoQmtuemQzVnl1REU3UVdqMFZpd2IyZlo0cGlQd01PVVRTM1A1cGZsUVZYd05KaEx1MEpMaUpqMzVlTGdrRlRhRkFCdElKVmxJTlBfWmZxX0hsQzdVb3h3TWtMQ0VtUkU2WjZQZHQwMXAyV05zQ01kOWtPdUFYZXVTN0M3Rm9zaE02T1lhb3laQUF6OW5Pc2Nfc3QxTFFSUzFma2JjZ0s0YmJoSldwMTdrM2Q0N0dZMld6R1RzLWxyWlU4X2Z0M28wVDkwNjU4M0lQNjV2UktR?oc=5",
       "source": "7NEWS",
       "publishedAt": "2026-10-04T07:00:00.000Z",
       "summary": "",
@@ -1455,17 +1474,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdE9GYkRDSC1SbnQ0Zmg3R3Y0dlZkbjBKb0hnR2k4a2VkRE5JTjUwQi1PWHpYbkRzb3NoVkFpNE92QzRUSjN3UXJjSWdQQkNTSWdDcVM1YjFvMnJWbzBsc0FNZ01nOTRqMFhSOUsydnpHZzJrZW1MWl84dC1ycmQ5R3QyeXlXVDQtcE04WW80eWVHVEtzY2lWRnhBQzB0RGJHZHdXSk83d1BGU0FNQVZ2MlJtVWRKQjVuMHNFblhLYy1WTV9TZGdtM3lWSHFJOEhZZnNUU3QxNDBEM3FSOEJv0gHkAUFVX3lxTE5QeDBORU8xc3gyZ2lCdVQ2SGNxbk5PMGN5NmE5WFJnTEhOQWFXY2UtVHM0dnlZd1hMUlZRbUo1cF81bW1HaDg0TVpnN0Vobjh5SlF3U1p5MHZFcENHWU5FZ3ZBWEk2R2VJd1pGci1ac1lVZG5DNlBDdkpkWWhOZkQyLTc0ZHZxRTQtaEFHVllBRzZiaENKT0Y3bEhWc2VuSDJxVWhPR3dWcEtBZWZNcmtLR0ZQRnZUZkcwd1hQaVlxUFJEMDYtWVhlblZCZXZkWWdLV1FaQ3NlZ29xUjRLWGd5Q1o0MA?oc=5",
       "source": "News.com.au",
       "publishedAt": "2026-09-28T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Australia gets unexpected $6 billion federal budget boost",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3ZOZlJvbXY4c28xRU1wYndkU2laLTZKWEJWbWdYY0d1N1l3OUZ4cW1yMGFaQk9od1NlVWplZGUtLTRMTFd6RVhLeHJkaTV5RnN4THNoOTllX3VZOUdYTU1ySVdIY2s3TFBKaHk3U0R3dlZGMlZzaUlBTkF1cVBRcEh4YzVNNW1OZkNkSUd4SlMzRVdEV0YxZTl6cGJDWWY1QzZYRkdtRXoxdE9UNGZOb0dwaw?oc=5",
-      "source": "Nine.com.au",
-      "publishedAt": "2026-09-27T07:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
