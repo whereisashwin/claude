@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-20T20:48:31.898Z",
+  "updatedAt": "2026-10-20T23:45:01.274Z",
   "count": 120,
-  "relevantCount": 46,
+  "relevantCount": 48,
   "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
@@ -33,6 +33,7 @@
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
+    "Bloomberg.com",
     "Business Standard",
     "Ethos Migration Lawyers",
     "Independent Australia",
@@ -42,11 +43,11 @@
     "News.com.au",
     "News24",
     "Nikkei Asia",
+    "Nine.com.au",
     "Pearls and Irritations",
     "Real Estate",
     "SBS",
     "SMH.com.au",
-    "Sky News Australia",
     "Sydney Morning Herald",
     "The Australian",
     "The Guardian",
@@ -55,6 +56,63 @@
     "intheblack"
   ],
   "items": [
+    {
+      "title": "Odds of fifth interest rate hike this year likely to shorten as RBA deputy warns inflation outlook ‘worsening’",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-20T23:19:07.000Z",
+      "summary": "Andrew Hauser says central bank faces ‘hard choices’ as it looks to balance risks of entrenched inflation with desire to protect labour market",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 10,
+      "spicy": true
+    },
+    {
+      "title": "NSW councillor who told woman it was a 'pity' she wasn't bashed won't resign",
+      "url": "https://www.abc.net.au/news/2026-10-21/kempsey-shire-council-asks-noel-selby-to-resign-for-bash-comment/107282114",
+      "source": "ABC News",
+      "publishedAt": "2026-10-20T22:42:12.000Z",
+      "summary": "A Kempsey Shire councillor says he is not going anywhere despite being formally asked to resign and enter a men's behavioural-change program over a violent comment made to a woman on social media.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Family fears there will be deaths as NDIS changes hit close to home",
+      "url": "https://www.abc.net.au/news/2026-10-21/concerns-for-goondiwindi-man-shane-danes-ndis-funding-changes/107154528",
+      "source": "ABC News",
+      "publishedAt": "2026-10-20T22:13:09.000Z",
+      "summary": "Shane Danes's family have dedicated their lives to keeping him in his home and out of aged care, but they do not know how much longer they can keep it up.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
+      "spicy": false
+    },
+    {
+      "title": "AFL sets date and time of AFL Origin between WA and SA",
+      "url": "https://www.abc.net.au/news/2026-10-21/afl-sets-date-and-time-of-state-of-origin-2027/107290970",
+      "source": "ABC News",
+      "publishedAt": "2026-10-20T22:06:55.000Z",
+      "summary": "The AFL has set the date for next year's State of Origin clash between Western Australia and South Australia.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Bavuma's batting masterclass takes control from Australia",
+      "url": "https://www.abc.net.au/news/2026-10-21/temba-bavuma-batting-masterclass-takes-test-away-from-australia/107285960",
+      "source": "ABC News",
+      "publishedAt": "2026-10-20T20:03:42.000Z",
+      "summary": "He may be small in stature, but Temba Bavuma has once again stood tall for his country and taken control away from Australia.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
     {
       "title": "About half of private e-mobility devices non-compliant, survey finds",
       "url": "https://www.abc.net.au/news/2026-10-21/qld-emobility-survey-non-compliant-devices/107284994",
@@ -67,7 +125,7 @@
       "spicy": false
     },
     {
-      "title": "'Why wasn't he at childcare?': Mother of child who fled Canberra daycare",
+      "title": "Mother of child who fled Canberra daycare 'flabbergasted'",
       "url": "https://www.abc.net.au/news/2026-10-21/mother-of-child-who-fled-canberra-daycare-centre/107287414",
       "source": "ABC News",
       "publishedAt": "2026-10-20T19:44:32.000Z",
@@ -80,7 +138,7 @@
       "spicy": false
     },
     {
-      "title": "Firmus yet to secure full funding for AI data centre project",
+      "title": "Embattled AI company Firmus still wants funds for Tasmanian data centre",
       "url": "https://www.abc.net.au/news/2026-10-21/firmus-yet-to-secure-full-funding-for-tasmania-centre/107289594",
       "source": "ABC News",
       "publishedAt": "2026-10-20T19:26:42.000Z",
@@ -146,7 +204,7 @@
       "spicy": false
     },
     {
-      "title": "Australia could collect extra $45b a year through better resource taxes",
+      "title": "Norway and Alaska can tax their resources well, why can't Australia?",
       "url": "https://www.abc.net.au/news/2026-10-21/resource-rents-prosper-australia-report-wealth-giveaway-2026/107283490",
       "source": "ABC News",
       "publishedAt": "2026-10-20T18:00:00.000Z",
@@ -155,8 +213,8 @@
         "Tax"
       ],
       "relevant": true,
-      "score": 7,
-      "spicy": true
+      "score": 4,
+      "spicy": false
     },
     {
       "title": "Why Australia’s political class can no longer look the other way",
@@ -210,18 +268,7 @@
       "summary": "Victoria Police have charged Brendan Nugent, 43, over what they say was a targeted incident. He will appear in court on Wednesday.",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "Sister of murdered UK MP Jo Cox wants Australia to tone down rhetoric",
-      "url": "https://www.abc.net.au/news/2026-10-20/kim-leadbeater-helen-haines-attack-plibersek-reacts/107236274",
-      "source": "ABC News",
-      "publishedAt": "2026-10-20T10:53:42.000Z",
-      "summary": "Kim Leadbeater knows what political violence can result in after the murder of her sister former UK MP Jo Cox. She has urged Australia to take action to stop any further escalation after the attack on Helen Haines.",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -232,7 +279,7 @@
       "summary": "Wangaratta locals who went to Helen Haines’ aid on Monday have been hailed as heroes. But many remain shellshocked by the alleged attack Who is Helen Haines, the MP allegedly attacked in Victoria? Brendan Nugent’s family say Haines has been their friend for more than 20 years Get our new political e",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -243,7 +290,7 @@
       "summary": "Father of 43-year-old Tarrawingee man who allegedly attacked the independent MP says incident is ‘devastating and unfathomable’ Who is Helen Haines, the MP allegedly attacked in Victoria? Get our new political email ,",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -254,7 +301,7 @@
       "summary": "Victoria police arrested the 43-year-old Tarrawingee man on Monday afternoon after the incident in Wangaratta Who is Helen Haines, the MP allegedly attacked in Victoria? Brendan Nugent’s family say Haines has been their friend for more than 20 years Get our new political email ,",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -273,7 +320,7 @@
       "url": "https://www.theguardian.com/uk-news/2026/oct/20/john-healey-no-capital-gains-tax-rise-budget",
       "source": "The Guardian",
       "publishedAt": "2026-10-20T07:27:40.000Z",
-      "summary": "Cabinet colleagues have previously called for an increase but chancellor feels it might ultimately cost the Treasury UK politics live – latest updates John Healey will not raise capital gains tax in next week’s budget, despite previous calls to do so from cabinet colleagues including Louise Haigh an",
+      "summary": "Cabinet colleagues have previously called for an increase but chancellor feels it might ultimately cost the Treasury John Healey will not raise capital gains tax in next week’s budget, despite previous calls to do so from cabinet colleagues including Louise Haigh and Wes Streeting. The chancellor ha",
       "categories": [
         "Tax"
       ],
@@ -287,17 +334,6 @@
       "source": "Sydney Morning Herald",
       "publishedAt": "2026-10-20T07:20:11.000Z",
       "summary": "The attack on independent MP Helen Haines is a dark shift in Australia’s national life.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "South Africa punishes Australia in second Test",
-      "url": "https://www.abc.net.au/news/2026-10-20/test-cricket-live-updates-south-africa-vs-australia/107287648",
-      "source": "ABC News",
-      "publishedAt": "2026-10-20T07:07:36.000Z",
-      "summary": "Temba Bavuma's sensational century turns the second Test on its head and leaves Australia on the ropes after day three.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -320,17 +356,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-10-20T06:30:03.000Z",
       "summary": "This blog is now closed ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s very clear that this was a deliberate act’, PM says The prime minister, Anthony Albanese , said Haines’ alleged attack",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Hanson apologises for cartoon mocking Lambie's vaginal prolapse",
-      "url": "https://www.abc.net.au/news/2026-10-20/hanson-apologises-for-one-nation-cartoon-mocking-lambie/107288602",
-      "source": "ABC News",
-      "publishedAt": "2026-10-20T05:54:51.000Z",
-      "summary": "The One Nation leader says she was not aware of the cartoon's content before it went up but has committed to \"taking a closer look\" in the future.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -392,28 +417,6 @@
       "relevant": true,
       "score": 5,
       "spicy": true
-    },
-    {
-      "title": "How to watch the Orionid meteor shower in Australia",
-      "url": "https://www.abc.net.au/news/science/2026-10-20/2026-orionid-meteor-shower-australia/107283432",
-      "source": "ABC News",
-      "publishedAt": "2026-10-20T04:00:15.000Z",
-      "summary": "If you're up for braving the early wake-up, experts suggest you will be rewarded with a meteor every few minutes during this week's Orionid meteor shower.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "NT senator says child protection 'needs to change' after niece's alleged murder",
-      "url": "https://www.abc.net.au/news/2026-10-20/jacinta-nampijinpa-price-kumanjayi-little-baby-child-protection/107287734",
-      "source": "ABC News",
-      "publishedAt": "2026-10-20T02:24:09.000Z",
-      "summary": "Northern Territory Senator Jacinta Nampijinpa Price says the \"culture of child protection\" in Australia \"needs to change\" after a review into the lead-up to her niece's alleged murder called for a \"system-wide reset\".",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
     },
     {
       "title": "‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM",
@@ -566,17 +569,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-10-19T11:10:09.000Z",
       "summary": "Anthony Albanese says his thoughts are with Indi MP after arrest of driver in Wangaratta Who is Helen Haines, the MP allegedly attacked in Victoria? What we know so far Get our new political email ,",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Who is Helen Haines, the MP allegedly attacked in Victoria?",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/who-is-helen-haines-the-mp-allegedly-attacked-in-victoria-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-19T10:30:48.000Z",
-      "summary": "Condemnation across political spectrum after incident in Wangaratta, as Nationals MP from nearby electorate says Haines ‘not a divisive figure’ ‘Deeply appalled’: politicians condemn alleged attack after independent MP Helen Haines critically injured Helen Haines is in a critical condition after an ",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -793,17 +785,6 @@
       "spicy": false
     },
     {
-      "title": "‘Still issues’ in the economy after Labor’s federal budget",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNnBjVVNVcXlPSlJ2RS1HajI1Z1hlclhBWUlFeXJEZzJTMzJJODFoVDNZU0xLYld4VjZlNTZjdDNEcDFaWVYya1RVTlpQM3pzTDU4UVBsRUt2dFdWbDk3WFRqeXJkdWhjdVBIY1BEd3VSQ1hwWXRzZjRMdjdZTTM5eThLZGNMVER0OTZOMW9PTkstR013ejlMbGI1dXBCZ1RPZFhUQk8yT3p6NDhoZlc1azVsNmlCMElqTVp3QmhYSmp3bnhOdThWYnVFRGl5a1JERXEtYUg1SjVybVNkRUVpVWUxd9IB6AFBVV95cUxQMktKVS1lZWczX25FQm5SR09zUkp2aGJLNE1HNmJJX0RYX0VMZkVOQkZCWHJwb3ZzMXlFZGlHLUY4emYzQmRKT2hPLVFscVk3NDB4bnJLeV94WkVHZEZFelpZWU1zUl9objRnaDFaaHN3ODJOX2p3N0Y0SDhyNVNwUkZHZFZUckNrN2NaQjBadjVGY014TWY2eVd5ajhtT09NYkpPaVdhNnNYQkFVS0g4N3FVZ0Qtb2w3YjNDYTBPeW54TEcxRjhvWUlWYmpkTl9GMEEzSVFzTkxaQ1ltNnpZV3JJeDhWak8z?oc=5",
-      "source": "News24",
-      "publishedAt": "2026-10-16T11:33:53.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Australian businesses ‘still feeling the squeeze’ from Labor’s federal budget",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb0IzLWFfOFJiU3lJRjEwUUhiTWU0VVlyODhlQUFUb0RleFBOOUo3WjBKXzRLWmladUo5bDVxc3l1Y1M2TGswNEFtOVY1eVIxaUV2OG5sV0Z2N0VILW1NN2p3eXQ2dktkSmVWUG1NVVFhQjZ6dVZTSFRCOXVPSmwzc0RuYnozb2pjakdvY2lQNUpUaGNnNFVBYjlJSDdTTGlLd1RIM093WUgxNVh2ZkR3RnF2RzNpTWRNV25WWTJTZXdsR2VNMThoLVAyUDFWQWJzdUlFOHNyWFB4eWV3ekJwb2lJaFl0TlRlY1BjT0VkV0dnNG1xd1RfR3ZaOFHSAYICQVVfeXFMUG1vQ2lLbDNPU0FRenlBMmktWVNsRUVZYlhYb2w0RXluR0x4UHpGNUJVWThiR2kwS3FFQzBDT3I3ZkYtd181R09hTjJYbndFcFNpaWNTTFg3UjVSek1LUDZuMmJnQ3BIeFhHRmcwQ1ZsRVE0UTZMQV9IYTY1Q1pubi1wenlTT2dfOGVwbGJNdXByTjNQSFRSVXUxSVd1eU44eDcyVF9LdFJieHdNX09BbVFMRmVuNHp4RVBzQU8ybzBVTU1LTTVzdnhEVU1jbXl6cWZKRzB0SndYamluWlhLajBYM0V1VzhXS3d5Znk2Q3NKT1FNVnJhYWlHblAwSGRWbEJn?oc=5",
       "source": "News24",
@@ -874,19 +855,6 @@
       "spicy": false
     },
     {
-      "title": "The 118 premium suburbs that have become more affordable",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQjF4RlQ5TDYtQTlnRjZ1N2V4bmhNdlZtWVBxUDlfLWx2V0Y3MmN0TE1fRFBTQU9vbzU2SUlRUVhoa25FV2NpQkxDT2ptZ2p5eGVJMHF3Ml9xbW5UWEdUdHhubkItdVBOc0hUcW81cnpYUWMyM0pDOEROdDBtckRidzN1WFVMTVBrUUliQ2FZeG0wZEQwbGxv?oc=5",
-      "source": "Real Estate",
-      "publishedAt": "2026-10-14T09:34:41.000Z",
-      "summary": "",
-      "categories": [
-        "Housing"
-      ],
-      "relevant": true,
-      "score": 0,
-      "spicy": false
-    },
-    {
       "title": "Trade minister says Coalition MPs walked out of meeting on EU trade deal – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
       "source": "The Guardian",
@@ -946,21 +914,10 @@
       "spicy": false
     },
     {
-      "title": "Climate protester restrained after interrupting NSW parliament – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-13T06:41:28.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Inside the triumph and trauma of Labor’s $88b tax overhaul",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajFZMGN4MWl0c1E1TmM5YjdMTVJBYmxOUE9WYzFTZU5hTXFQb0Z6UHc4aV8wRmFoQ2todTkzek1lTnFyYUtfWWdoNEFSTi1NQmhxWkJkcTdNQXBDbEstZ2hMZlNkVHpFY0QwTTNKQnZJQjgzWi10NlNWazMyREZES0xyVG9ZZC02UURjbnRnWTNEQnpIaU5JSEpjb2tRNTdicXpSZm5OV2VZekEtMU5sVzE0TDA?oc=5",
       "source": "AFR",
-      "publishedAt": "2026-10-12T09:00:00.000Z",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
       "summary": "",
       "categories": [
         "Tax"
@@ -1176,17 +1133,6 @@
       "spicy": false
     },
     {
-      "title": "Chalmers: ‘We don’t need polls to tell us people are under the pump’",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalJ5c3NRUmZhT19XNnBGempwMm01SmU4bmNaYVVacUJ5eFBNVEwxTTdVTXlGcktIVWxNcEsySXR5LVNUOWxzb09UREptX3NrWGtfdWpuNUJaTjlTcUYxOXNEeElpcVdEWjA1eThzdWFSWTdtQWRSUW95ekJLaXRjUVZxQ3JQcjkyUjJVSXZzWlZYMUZnNmtaS2JSTVJETkQ0WTNFa0swTEt5M1N5OG5nWThB?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-10-05T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Australia Introduces New Migration Reforms and Skilled Visa Processing Priorities",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3BoT29BTGp2SzE1Xzhic2NiNDVpYnJlS1ZyMGxuOXB0RWlwV2hlUGd5ZF9tVGJPQlVwRmJERnJFN1lRQUh5UXdObl9HaG9kTG1HWElnVm5vZHd1Ymx1Rkh4R3otLTdHNmk1ZWJQenpoZ2lic2ttaUhKd0lpTnhYVkFrbEMwcjdQbzVVQ0QycGtYNzh4TWw4dEFsRXNBNVI0a0Y2cVNHRjVsUHc?oc=5",
       "source": "Newland Chase",
@@ -1253,13 +1199,13 @@
     },
     {
       "title": "Chalmers delivers ominous budget warning ahead of mid-year update",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQZTl1MkhROW5rNndwRDJFd2FnOXZ2a3JCb1JnQXhvTkhDZWJLSVF3dmhaSFdlMTRsRDVieU5BSHZJTTlST3dWQkQ2cFdSYU1OTUJ0S04wZmUzd01iZHBpM1VRc3RXNWVJbklBNUQyLUVleFROZnVaSU55VElSY2xkWXlKNHZYbkdfRVpKX3RKclNqTnA5Q1ZfMHdwcG9qZUNWMWdhS0VuckFHX0ZXbUJVMWVLeFltZ2ZTUWQtTEYwQTk0UENrQkJPM3MwbnFmT3ZucGRCVTV2STBQTV9nczZVVlJldlhUZTUtakpheHhvN2FzNGttOFIxTVF1UnRSaEo5Wld5YzdCbUVkTjAya3VjNW1VR1JSQm9TUWZ3M0dNcDZYZUpRdnVuZS1xUjhXdUJ6SUNhVXE1cks?oc=5",
-      "source": "Sky News Australia",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQZTl1MkhROW5rNndwRDJFd2FnOXZ2a3JCb1JnQXhvTkhDZWJLSVF3dmhaSFdlMTRsRDVieU5BSHZJTTlST3dWQkQ2cFdSYU1OTUJ0S04wZmUzd01iZHBpM1VRc3RXNWVJbklBNUQyLUVleFROZnVaSU55VElSY2xkWXlKNHZYbkdfRVpKX3RKclNqTnA5Q1ZfMHdwcG9qZUNWMWdhS0VuckFHX0ZXbUJVMWVLeFltZ2ZTUWQtTEYwQTk0UENrQkJPM3MwbnFmT3ZucGRCVTV2STBQTV9nczZVVlJldlhUZTUtakpheHhvN2FzNGttOFIxTVF1UnRSaEo5Wld5YzdCbUVkTjAya3VjNW1VR1JSQm9TUWZ3M0dNcDZYZUpRdnVuZS1xUjhXdUJ6SUNhVXE1ckvSAb4CQVVfeXFMT2hrMTByY3ZaQlJyTktRTjVxRmFrMW9xR0tLNEdNb2tCbnZkdEI1R0JfSTJ3aVQ3TzJHX2RYWllrWHJBUkpkbzRrX21CMTFvb0MzZnZ1dnM2aVFIWU8xN1h0bWxMdVNBbGJEZ295aThjc2ZlSDN0VkZUUjVMZnhySlNidElzbUtFYkxrZDVHRlZXT2hxTDlJbnhNemY5dHBfS2hLcmFvSnVlM2l1SGJWUzNNdTRwZDBZQkw5b2Q0U04tcVdobEZ5MzlMQk9GYzJyVzdhZEY5YVEwZnJIQU9sdl81cnVOOHBuNnZNdllaNV9jZWlhbHVlNVpCclRrUEFwUGpFc1VRVGJ1QTJRMUlrWlhwMkJ4bkdUbldtb1Bkbzc5VlRPVFBCbGNDajZtaVpfakE2WEVEVE5haUxYci1R?oc=5",
+      "source": "News24",
       "publishedAt": "2026-10-04T07:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 5,
+      "score": 2,
       "spicy": false
     },
     {
@@ -1468,6 +1414,66 @@
       "categories": [],
       "relevant": false,
       "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "Australia gets unexpected $6 billion federal budget boost",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3ZOZlJvbXY4c28xRU1wYndkU2laLTZKWEJWbWdYY0d1N1l3OUZ4cW1yMGFaQk9od1NlVWplZGUtLTRMTFd6RVhLeHJkaTV5RnN4THNoOTllX3VZOUdYTU1ySVdIY2s3TFBKaHk3U0R3dlZGMlZzaUlBTkF1cVBRcEh4YzVNNW1OZkNkSUd4SlMzRVdEV0YxZTl6cGJDWWY1QzZYRkdtRXoxdE9UNGZOb0dwaw?oc=5",
+      "source": "Nine.com.au",
+      "publishedAt": "2026-09-27T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "Australian Treasurer Flags Smaller-Than-Forecast Budget Deficit",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaWpwU0N5ZV9yVTVteVVMdzhnMnNtNUlvQ0dza1drUDU0Snd6VnkxTDAxZWFsWXBnNXdqUTNwTzRZM1dqRVlwV1NTRVA5QWpibFJTVEpQV3gxYk1DdkVBeXMzM0oxWUdfWmU5NDZaOGlaMklzdi1fQUp4cE8zWk5zRXZnNU5uT3F1OTMyaWpCTE9mZHFTczAzdlZjQ3c3eTRFbm4yN3ZTY0pyWC1WdjhkdmRESS1ka0NvcTVfQWFtQ2o?oc=5",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-09-27T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Treasurer defends inflation record as 15-year interest rate high looms",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1A3bmhvUFQ5WVlkR01FZS1zdWhEa21wOUVQWE1GV1ZBb2JZdE5jWlhfR3JCM3RrQ29pTVJvUnRhSDBKWUdqcmo5SWR5RVpWWkhSbUwwNUdnMzFKU1l3QUFCSTV1cTZRdFBOSHk3LVpzakhLeGFsNTJjNGtBSnYtYVdqV1BzeTM1RU9WUTM1ZmhfcEZTUUNjSzFwUjB2OE9HejZ0V3hfalQyeVk?oc=5",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-09-27T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Cost of living"
+      ],
+      "relevant": true,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "Chalmers to announce $6b budget boost as interest rates set to hit 15-year high",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM21CRW5EZTYxSFlzQVpEMUdGYXo4UDJhdU5pZjRSQlljNWVkQzZPTFduSDhuRXE3dm1rOWFfN0xfYkMxc3VEUnZlT0RjWG9aaHp6TVRhTWs2T1RBTGtHdHJyLWlmMmtPUWJablZPRzgybkhHTi1IU3NEY3RlVC1JcUNiczE3dkp3TUFXTENvRjFKdXJkdnJLTm1MbGk2WmhNdUJqTk03czZucldScTRCT1BGMVV0eC1XY2tzNVFBTTFCek16eWxIZjR6TXVicU9DYThNT2RR?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-09-27T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 7,
+      "spicy": false
+    },
+    {
+      "title": "Australia student visa changes explained: New rules on family and stay",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUERseFUyYjdwS3otU1dJWnVOSTR0MVhodHZqMlR2dWpfd1ZpSGxyVVVycWR0WUlOMEg1VFNCSDZKcDQ4TVNQVXR1a2dISTlQakJ0aXMxZE1yUFh5d0QzZVhCcC1uN1psMXpBWm5WXzVZT1ByU0VuVUxPT0pXSzVPT0JFVGg5VWFjam9OYk5WZGhLRVZnQUJBMGFCYnI3MVRJWndKUlJjWndQaTFzYUlYZFZHc3pNajNmbXhzOTVuY2QzQU4xMlRTdHdxenRmaVpR0gHWAUFVX3lxTE01MTZuWjY2UzJ3cGtNWEIxUWNjQkpQTjlVb3BHUktSTEMxY3NpRnFjVE92OTdCNjNsYmZDcDRUbi1pVWQtMGd4YTlaS2JheGpVTVlhZTlhYXNfSjYwalpGLWNYZFZCM25JSVMxNlBxMHFKdGxJLVRsblJudzV3TlFtNmplYkZhQkthRHdiVDJlZHJQNXU0NXpuZFVnLUVGMXlxYmdIY0tmY1JjcXhDTDFxbndjR2hCRXFnaF9UekUwOFM4M01OcVFxYUFqNHZTeXh2THJrdUE?oc=5",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-25T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
       "spicy": false
     }
   ]
