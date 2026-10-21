@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-21T09:31:45.889Z",
+  "updatedAt": "2026-10-21T15:00:19.568Z",
   "count": 120,
   "relevantCount": 52,
-  "spicyCount": 9,
+  "spicyCount": 10,
   "spiceThreshold": 5,
   "categories": [
     "Visas & Migration",
@@ -51,6 +51,7 @@
     "SMH.com.au",
     "Sydney Morning Herald",
     "The Australian",
+    "The Conversation",
     "The Guardian",
     "The Nightly",
     "The PIE News",
@@ -60,6 +61,52 @@
     "intheblack"
   ],
   "items": [
+    {
+      "title": "Sydney’s second airport will soon be up and running. How different will it be to Melbourne’s Avalon?",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/western-sydney-international-airport-melbourne-avalon",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-21T14:00:22.000Z",
+      "summary": "With Western Sydney international airport due to start commercial flights, the title of Australia’s leading secondary airport is up for grabs",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australian politicians say they are paying thousands for their own security upgrades amid rising threats",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-21T14:00:20.000Z",
+      "summary": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email ,",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "E-scooter hospitalisations more than tripled since 2019",
+      "url": "https://www.abc.net.au/news/2026-10-22/e-scooter-and-e-bike-hospitalisations-on-the-rise-australia/107291604",
+      "source": "ABC News",
+      "publishedAt": "2026-10-21T13:01:00.000Z",
+      "summary": "A report from the Australian Institute of Health and Welfare (AIHW) has found e-scooter hospitalisations have more than tripled since 2019.",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "House prices across capitals post steepest quarterly decline ever: Domain",
+      "url": "https://www.abc.net.au/news/2026-10-22/domain-house-price-september-quarter/107289400",
+      "source": "ABC News",
+      "publishedAt": "2026-10-21T13:01:00.000Z",
+      "summary": "For only the second time ever, house prices have fallen across all Australian capital cities, falling by 4.7 per cent last quarter, the steepest drop on record.",
+      "categories": [
+        "Housing"
+      ],
+      "relevant": true,
+      "score": 9,
+      "spicy": true
+    },
     {
       "title": "‘Don’t let violence win’: McGowan’s plea as Haines fights for life",
       "url": "https://www.smh.com.au/politics/federal/don-t-let-violence-win-mcgowan-s-plea-as-haines-fights-for-life-20261021-p617ih.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
@@ -72,7 +119,7 @@
       "spicy": false
     },
     {
-      "title": "Breaking: Man arrested for allegedly making threats at WA MP's office with nunchucks",
+      "title": "Staff 'shaken' after man allegedly entered WA MP's office with weapon",
       "url": "https://www.abc.net.au/news/2026-10-21/man-arrested-with-nunchucks-outside-hannah-beazley-office/107294364",
       "source": "ABC News",
       "publishedAt": "2026-10-21T08:47:44.000Z",
@@ -120,14 +167,14 @@
       "spicy": false
     },
     {
-      "title": "Live: South Africa strikes early but loses key quick to injury",
+      "title": "Live: Head rebuilds, Labuschagne fails as Australia follows on",
       "url": "https://www.abc.net.au/news/2026-10-21/test-cricket-live-updates-south-africa-vs-australia/107293438",
       "source": "ABC News",
       "publishedAt": "2026-10-21T07:12:21.000Z",
-      "summary": "Australia faces a mountain to climb on day four of the second Test in Gqeberha, already a wicket down and a long way behind South Africa's belligerent first innings total of 425.",
+      "summary": "Australia faces a mountain to climb on day four of the second Test against South Africa in Gqeberha.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 6,
       "spicy": false
     },
     {
@@ -149,19 +196,6 @@
       "summary": "Wading through the confusing set of factors that may have led to the Haines incident, Anthony Albanese has put the spotlight on the modern media.",
       "categories": [],
       "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "UK government borrowing rises to £24.5bn as John Healey prepares for budget",
-      "url": "https://www.theguardian.com/business/2026/oct/21/uk-government-borrowing-rises-john-healey-budget",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-21T06:48:00.000Z",
-      "summary": "Government paid £10.9bn in debt interest, the highest September figure since records began Business live – latest updates The Treasury ran a higher than expected budget deficit of £24.5bn last month as rising inflation pushed up the interest paid on government debt, increasing pressure on John Heale",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
       "score": 4,
       "spicy": false
     },
@@ -280,17 +314,6 @@
       "spicy": false
     },
     {
-      "title": "Prisoner allegedly shackled, separated from newborn after C-section",
-      "url": "https://www.abc.net.au/news/2026-10-21/woman-allegedly-shackled-separated-from-newborn-after-c-section/107292396",
-      "source": "ABC News",
-      "publishedAt": "2026-10-21T04:41:49.000Z",
-      "summary": "Authorities in Queensland say restraints are only ever used as a last resort on pregnant prisoners, while advocates call for bans on shackles.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
-      "spicy": false
-    },
-    {
       "title": "Locksley gears up for major NSW copper-gold drilling push",
       "url": "https://www.smh.com.au/business/companies/locksley-gears-up-for-major-nsw-copper-gold-drilling-push-20261021-p617jn.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "Sydney Morning Herald",
@@ -355,7 +378,7 @@
       "summary": "Like other features of our public landscape, both good and bad, political violence has a history in Australia – one from which we may learn The alleged attack on independent MP Helen Haines in Wangaratta has shocked a nation whose politics is normally peaceful even by the standards of mature democra",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 5,
       "spicy": false
     },
     {
@@ -368,7 +391,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -379,7 +402,7 @@
       "summary": "Community opposition to one of Victoria's largest data centres has seen the value of shares in NextDC plummet.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -392,7 +415,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 10,
+      "score": 9,
       "spicy": true
     },
     {
@@ -405,7 +428,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 13,
+      "score": 12,
       "spicy": true
     },
     {
@@ -418,7 +441,7 @@
         "Cost of living"
       ],
       "relevant": true,
-      "score": 13,
+      "score": 12,
       "spicy": true
     },
     {
@@ -429,7 +452,7 @@
       "summary": "The Australian federal police commissioner, Krissy Barrett, says police are ‘charging almost one individual every week for targeting commonwealth parliamentarians or high office holders’. Speaking at a joint press conference with Victoria police on the investigation into Monday afternoon’s attack on",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -633,17 +656,6 @@
       "spicy": false
     },
     {
-      "title": "Human rights commission says ‘violence has no place in our society’ after alleged attack – as it happened",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-20T06:30:03.000Z",
-      "summary": "This blog is now closed ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s very clear that this was a deliberate act’, PM says The prime minister, Anthony Albanese , said Haines’ alleged attack",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Inquiry urges halt to plan to burn Sydney's waste in regional towns",
       "url": "https://www.abc.net.au/news/2026-10-20/inquiry-recommends-moratorium-on-proposed-incinerators/107287646",
       "source": "ABC News",
@@ -652,17 +664,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Helen Haines attack as it happened: Federal Indi MP loses leg after being struck multiple times by car outside Wangaratta office; suspect Brendan Nugent’s family reveal longtime friendship with Haines in statement",
-      "url": "https://www.smh.com.au/politics/federal/helen-haines-attack-live-updates-indi-mp-in-critical-condition-after-attack-outside-wangaratta-office-43-year-old-man-in-custody-20261020-p616vw.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-10-20T00:52:26.000Z",
-      "summary": "The independent MP is in a critical condition after being struck by a four-wheel drive outside her electorate office in north-east Victoria last night.",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
       "spicy": false
     },
     {
@@ -739,19 +740,6 @@
       ],
       "relevant": true,
       "score": 0,
-      "spicy": false
-    },
-    {
-      "title": "Price tag of One Nation’s plan to slash migration revealed",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekUydklGQTdhalg0VHpEU2VjSWlnVmFnREp6WWlLZEpYQmZGb2tDU1pRelhMbGJYVW04S1JYVjY1MVFHYVpDUDBleDJRbmc4RFkxVmpzWE11V25VcmpmdU9fbWU0azZpUE5wQW54RVh5TkEzUnhzQlFEaGUycldnZ01INUo3aXZWVjBCaEg3SjBra0FUV29tdVF6VU90TDd5RkpDOEd2dGxsVlZnY2dLdmtkNjQ0RG1VeGc?oc=5",
-      "source": "Nine.com.au",
-      "publishedAt": "2026-10-17T23:05:27.000Z",
-      "summary": "",
-      "categories": [
-        "Visas & Migration"
-      ],
-      "relevant": true,
-      "score": 2,
       "spicy": false
     },
     {
@@ -856,17 +844,6 @@
       "spicy": true
     },
     {
-      "title": "Chalmers warns against sneering at Hanson backers ahead of 12 months of pain",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbndHNnpGbkxrMXZxcVk3aDNLSkxuQUlMVWZ3UVM3aUF3Wk1UeTdPSXJXdEV2Q0RMd0gzRHBHRE9Hb0Y1NlQzZ283cFRuNEdYNmhJMlg3VmU5RVkxZGNEQmZROHNVVTRpYm9DeEdiMTdpeDliTVZoM0NrdmlEUU5OeWgtT184UFcxOXJXTHkyMjRKVUE2b2hCVk82aWJ4RzhKcm03SG9hdWJQN3hQcC1zVW5FMERwOFlOOEVYcUFZMF9lbERjNk1mMk9HOC1FcnBTQm8w?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-10-13T08:30:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 4,
-      "spicy": false
-    },
-    {
       "title": "Trusts turmoil: Chalmers faces small business, Greens revolt",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVk1DNXhLc0xIZVd5TFo4QVN5MlZxSFVVbFg2Y2dZZHFmY3AySEhKV2dOdk5sS2RrX3NaVnZQNUlHSFZCVHhvRzZQSWNMVUlsUTdsRkNsY094TVNXMXBYdTJXTFVJeUc4d280eFk2TmRYcFFaRnMwdVNjamtkZUpjUk1fLThpZ2M5aDF6bGdYLXYwdkhkZ3lUNmpwSFJ3QzVNd0Z1RlVlRjBCdw?oc=5",
       "source": "AFR",
@@ -875,6 +852,17 @@
       "categories": [],
       "relevant": false,
       "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "Chalmers warns against sneering at Hanson backers ahead of 12 months of pain",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbndHNnpGbkxrMXZxcVk3aDNLSkxuQUlMVWZ3UVM3aUF3Wk1UeTdPSXJXdEV2Q0RMd0gzRHBHRE9Hb0Y1NlQzZ283cFRuNEdYNmhJMlg3VmU5RVkxZGNEQmZROHNVVTRpYm9DeEdiMTdpeDliTVZoM0NrdmlEUU5OeWgtT184UFcxOXJXTHkyMjRKVUE2b2hCVk82aWJ4RzhKcm03SG9hdWJQN3hQcC1zVW5FMERwOFlOOEVYcUFZMF9lbERjNk1mMk9HOC1FcnBTQm8w?oc=5",
+      "source": "SMH.com.au",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
       "spicy": false
     },
     {
@@ -904,17 +892,6 @@
       "spicy": false
     },
     {
-      "title": "Donations to major parties and an ex-premier as a lobbyist: how datacentres play the political game in Australia",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/donations-lobbyists-how-datacentres-play-the-political-game-in-australia",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-11T14:00:27.000Z",
-      "summary": "As governments face community backlash for fast-tracking developments, big tech’s financial contributions face renewed scrutiny Follow our Australia politics live blog for latest updates Get our new political email ,",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
       "title": "Tax changes 'crack the nut' on housing affordability",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd0ljbEQwQlh3Z0FhOFlJMHF2YmJnREVSRzNkUENWVm1TZU9TQVJvRzJ0TUc2aUROWEpBTV8wYTA0OFFuMXFNQjBRLUo5STNrZlRoTGdxRVNPV1ZiQ2FPLThmc3NZR1NCcTdBVEpVN1poNEJPSHJkU1hWRlJFWkFCYTI3RmJDY0l6cGc?oc=5",
       "source": "https://aapnews.aap.com.au/",
@@ -932,7 +909,7 @@
       "title": "Malaysia Budget 2027: growth, skills and innovation",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KWkxIQ2QtMGZMYnc0dmRBYWtFQ3g3MW10TU5DSzBSMl9Vb0hTM3J1UUQ2Q1ZHR0RkaEFrY1c3VEZoZmJOdDEzSnZCazIxNzNwVUh4cFZDTG4ySzd1dUpVNjdlTjliTTBKbVZDVzA3Y3I3RVdxTFQ4?oc=5",
       "source": "intheblack",
-      "publishedAt": "2026-10-10T05:53:09.000Z",
+      "publishedAt": "2026-10-10T07:00:00.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
@@ -982,6 +959,32 @@
       "summary": "",
       "categories": [],
       "relevant": false,
+      "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "Coalition MPs concede immigration pledge not fully costed by independent watchdog",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkxpZk1ULXFaVDRCOGJ4eldaeTRTTm9lVnNyZmNteU1WWUJTMFVfU1N5TlgxcDdHenpMN092NGlsQW5lNDlHSjJ1SkQ4b0ctazhHdkg4dDRnYWJMYlpUdWVrbWQ3bDlDaS1Teklaa2dYT1JWS1BydFBqb2NhdE5ReW5JVDFDQmIzOEJCdHFuajgwX3IxV1NtaTFxM1ZuX2VaRndpZnZxVmg4UjhmVV9ycnJUT0hLREl4UjhZXw?oc=5",
+      "source": "The Guardian",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "How does the Coalition’s biggest migration cut in history lift the budget bottom line?",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYnk3c3FjdHJiUFJtdlRfckhmeWMxUkRnOUhNUHVQMklkLVhKVmV2d0JIZmFFWU14QjJlZFdRT0w3R291MGU0ZTBsV0xTaW5RSG9ScUt4OWxrTlY3TUhUdnFnakFraFRadFc2ZEFnTmdMckJGTjdWcnU4ZkJtbU80VW1NSG9iVVRJeHhjT0tnY3R5Z2xEak9LQmxMUW9YNUVQdGt1dFJtZE0zQ3d4MGc2NUNDTUlmX2djdC1aSFAzMURYUm9DMTgxZmkxWWV0UHdUbkxfd0JDTWlSdFZST1U2ZjdBXzhUd2FW?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
       "score": 5,
       "spicy": false
     },
@@ -1090,6 +1093,17 @@
       "categories": [],
       "relevant": false,
       "score": 5,
+      "spicy": false
+    },
+    {
+      "title": "Are Australians really overtaxed? It depends what you think government should do",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmwwdEEtdlViNjZzUFBHUlZOQjVsRWpndTQtNHpCVGJXQ3JGNFktZVNicFpPTFlGSW9aODgyckVuNWRDdmRZODNVY0FNNDlqZnRlcEhqOGNhRTl3OERfM3ZodWRKRTFnSW4waF9JTGcySXU4N3FWSkUzTUo0azRZYVpobkg1aHhFbjAwUVZqV0dWZDBoMGJoc1poaFZlaW5PMUo1cnV5M2VPWS1xZFdjeklISlI?oc=5",
+      "source": "The Conversation",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
       "spicy": false
     },
     {
@@ -1204,6 +1218,17 @@
       ],
       "relevant": true,
       "score": 3,
+      "spicy": false
+    },
+    {
+      "title": "Labor runs victory lap on budget repair as rates set to hit 15-year high",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNa3NiQnZDMnVicHE0bDlxZlJFSTVYRnEwNVFlT2hZSGFSb2pvQ2JkLWNycEJqaS0xWGg1d0xHbV9zRnE2V2RMSzdZcElTRmRIYTl0ZGFPd3F0XzhOZ0cyeVVobFN6enVNXzM1dUplMEdKRHgxV0tDcEZxRTZ3WVJDYTI2N2N0blFVVUhMVmR2b3VqVllGVW5kVGN3ZHM0dDZsNjQ0WGZsVkFXVEtua1RTTW0yWTZpRGJVNGxGQk1NVGZtN1RLYm9OeVVFUTZmOE9BZno5dFBodmJEdy1Kc1RIbkdPQ2hOdVMzeURiRFktcEpLUWpkLVJtbWs2VXh3dER1VFQ4cjVaekJTUTYwN3BzV1ZQVmhHelNhZmZLSmpuRnk5NlVFZ3fSAasCQVVfeXFMTjJkT1JIdExLZ0NFVDU3c1RhbXVfZzZORlZvMVlyRDZJeGwzZkdIQ1V1ck9vT0JQM1ZNdTZZbzdsRVRJYTJIRHJ5SEVHSG9OSnB2ZTVTcklOckY0MmsyRXhHel9sZE50emZXSXc2ZW40M1VWODFyeGR3VkE2VEZyS21QTnFQZlhlWlU5LWFoeHFTallNcTlETXdOMjA5X0lncGpvVlhRV0sxMkZvLXZMZmpIM3dHUWhRaUtrWWR4aUxiMm9ObWtsQmJfRDM0ZjZlYTUxdnNfQXFLZDRDUFROdk1tS3J6UENhemF3bWp1bUVpaU9vaUlkWm9sbDFwbmJoUGtQb1FqVzNJbXFNX1hZRzl4eUtPNjRjQ0ltS2FoV01RRWtqWGhiYWdYMVk?oc=5",
+      "source": "News24",
+      "publishedAt": "2026-09-29T07:00:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1354,19 +1379,6 @@
       "spicy": false
     },
     {
-      "title": "Single, couple or family: not all Australian middle-income earners are equal | Greg Jericho",
-      "url": "https://www.theguardian.com/business/grogonomics/2026/sep/24/single-couple-or-family-not-all-australian-middle-income-earners-are-equal",
-      "source": "The Guardian",
-      "publishedAt": "2026-09-23T15:00:53.000Z",
-      "summary": "The latest Hilda report tells us wages have become more equal, but comparing living standards gives a better understanding of households’ wealth",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
-    },
-    {
       "title": "Chalmers reveals multibillion-dollar blowout in debt bill",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWIyVmNVSFFYSElDVVRzWHpnaFFxTVJyMGxQbjFPd1ZGazhlR2JCd2c0STRnZkpSS3E5TGd4V2UzMEZVNFdGTVVPb1VqaUpncWZCQzhXVEI0b3pKYktFQjJnUElGZ0t2TE9YRGRQaUxXVW8wOFNraGY2emxXR2hkSWR4clBLdU93cDRxME5ld05vSzRBOERrTm4tZDNSV19yMnBiNWhpSFkwNTU5?oc=5",
       "source": "AFR",
@@ -1477,17 +1489,6 @@
       ],
       "relevant": true,
       "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Chalmers can try to predict 40 years into the future, but he’s really talking 2028",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVjhUbUpMcTdCSV9hcjMtb0JZVVZ1SGtwNDBNM3NLY0M4b0lhSkctY1lUZkxzWXYzLWkwR3V0NEE5eWVKNWZwWFd5R29vTTI3XzN4NG5oc0dMZTJlMnZScm5CR1picXN3ZXBEZVlXQnMwVG54dU9VQUI0c1ZsbjJxek5GcXN0M1dfWEFFX1RsWXFJMHdvZk5sR2hES0xnUzR1cHdHWUphcHptR3JiV1dQMklhc3RIQ0syZjNCcHJaTWtYX3VKYTV4ZkxfWTRIN1FWV3ZZLTZybUc0Zw?oc=5",
-      "source": "SMH.com.au",
-      "publishedAt": "2026-09-21T07:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
       "spicy": false
     }
   ]
