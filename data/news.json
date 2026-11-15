@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-15T08:21:20.454Z",
+  "updatedAt": "2026-11-15T15:49:09.015Z",
   "count": 120,
-  "relevantCount": 42,
+  "relevantCount": 43,
   "spicyCount": 11,
   "spiceThreshold": 5,
   "categories": [
@@ -32,12 +32,14 @@
     "ABC News",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AFR",
+    "Absolute Immigration",
+    "BBC",
     "Broker Daily",
     "Ethos Migration Lawyers",
     "Fragomen",
     "Hiru News",
+    "InDaily Queensland",
     "Island.lk",
-    "MacroBusiness",
     "Newland Chase",
     "News.com.au",
     "News24",
@@ -57,14 +59,39 @@
   ],
   "items": [
     {
-      "title": "Jillaroos' World Cup win is more of the same old story",
-      "url": "https://www.abc.net.au/news/2026-11-15/womens-rugby-league-world-cup-final-australia-new-zealand/107387716",
-      "source": "ABC News",
-      "publishedAt": "2026-11-15T08:04:42.000Z",
-      "summary": "Australia's victory in the women's World Cup was rarely threatened all tournament and its thumping win over New Zealand was yet another version of the same tale.",
+      "title": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-15T14:00:19.000Z",
+      "summary": "The role AI played in job losses at Australia’s NAB, Qantas, Canva and Atlassian is far from clear – but it may prove to have more impact on the stock market than the jobs market",
       "categories": [],
       "relevant": false,
       "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "How sensitive data from Centrelink and other Australian agencies may have been fed to Palantir software",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/personal-data-centrelink-ato-ndis-palantir",
+      "source": "The Guardian",
+      "publishedAt": "2026-11-15T14:00:15.000Z",
+      "summary": "Exclusive: Personal information of Centrelink clients and childcare workers is among data shared with ACIC, which uses US tech company’s software The personal information of Centrelink customers, taxpayers and childcare workers is among a trove of sensitive data that may be ending up in Palantir’s s",
+      "categories": [
+        "Tax",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 6,
+      "spicy": true
+    },
+    {
+      "title": "New data points to major inflection point in the fight against illegal tobacco",
+      "url": "https://www.smh.com.au/politics/federal/new-data-points-to-major-inflection-point-in-the-fight-against-illegal-tobacco-20261115-p61e8b.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "Sydney Morning Herald",
+      "publishedAt": "2026-11-15T08:50:00.000Z",
+      "summary": "State premiers and conservative parties have been calling for Labor to cut the tobacco excise.",
+      "categories": [],
+      "relevant": false,
+      "score": 6,
       "spicy": false
     },
     {
@@ -79,7 +106,18 @@
       "spicy": false
     },
     {
-      "title": "Albanese stands by Ukraine but won't rule out photo with Putin",
+      "title": "‘Horrible’: Plea amid cost-of-living crisis",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZGkxeEpmbjBCM0h3YWxMWk1WZmhPNmVTZE1JRlE1UVZ1NV9jd3k4d1ZhSEo0NzRxNEVZLVB3YmZIeTMyazhWTkVLcllZTjI4Q2Nwc2k3WEtiMTFiRloyRmQ4bjlBQ1Bpc2V4OVk0UTVnSmsydHRmNUFQdVE3RGFjanlYa0xEYnR1MFQ3Q19qaDVmenZCTE5SM3Y0bTVHemVKZjZzbDloNk4wQ2RlUlR6RGExXzQ5RFgtWmdVT1RiZEp2eGZwbDZJVHZyRWNFZ2NoQ1BjNXp0bGZJS2JQWHdxUFJIcE5NLTU2dzBBU0RONENEVHZq0gH6AUFVX3lxTE5vUHZmUjdVV19xSHBmRE9YME1sLXUybExKd0JxckVvb2FkZFo2VlR0UGE5S01LTXlycUlYek1PRnB2N3pLUjdwQ2tHSnl0TW5ETlNMVDk4dC1LcGp1TkkxbzhXazBWbWxxOHYyYVlmaF9seEpfNFdqa1l0a21NX1Rodm9fNEZMeUl4S2ZTY201SXdFQ2ZoYzU2dllMTWdxcnJZT2tJNlloVXhBMVRMeHB2eGlWdFB1VEMxcndCMU9femRHdzR3ekp6MkpsQnU1ZzZyekpObVBYWDhQQm1kSWlzd1YyT2hzUEplQ3hDSFdlYlVEWG16bGhhWGc?oc=5",
+      "source": "News.com.au",
+      "publishedAt": "2026-11-15T07:28:28.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Albanese calls for 'de-escalation' of Ukraine war but won't rule out photo with Putin",
       "url": "https://www.abc.net.au/news/2026-11-15/albanese-will-not-rule-out-apec-photo-with-putin/107387814",
       "source": "ABC News",
       "publishedAt": "2026-11-15T07:23:36.000Z",
@@ -126,14 +164,14 @@
       "spicy": true
     },
     {
-      "title": "England sets Australia big run chase after opener's century",
-      "url": "https://www.abc.net.au/news/2026-11-15/australia-vs-england-second-odi-at-adelaide-oval/107387540",
+      "title": "Aussies crashes to record ODI loss against England after top order collapse",
+      "url": "https://www.abc.net.au/news/2026-11-15/australia-crashes-to-record-odi-loss-to-england/107387540",
       "source": "ABC News",
       "publishedAt": "2026-11-15T05:28:36.000Z",
-      "summary": "England opener Tom Banton has clubbed a century as the visitors set Australia 356 runs to win their second one-day international.",
+      "summary": "Australia's top order has collapsed dramatically to hand England its biggest ODI win on Australian shores, a 135-run triumph in Adelaide.",
       "categories": [],
       "relevant": false,
-      "score": 6,
+      "score": 4,
       "spicy": false
     },
     {
@@ -152,7 +190,7 @@
       "url": "https://www.abc.net.au/news/2026-11-15/australia-cricket-sandpaper-claims-chadd-sayers-david-warner/107387424",
       "source": "ABC News",
       "publishedAt": "2026-11-15T04:27:21.000Z",
-      "summary": "Former Australian cricketer Chadd Sayers, who played his lone Test after Sandpapergate on the infamous 2018 South African tour, has said he is comfortable stating he believed everyone in the team new about ball-tampering.",
+      "summary": "Former Australian cricketer Chadd Sayers, who played his lone Test after Sandpapergate on the infamous 2018 South African tour, has said he is comfortable stating he believed everyone in the team knew about ball-tampering.",
       "categories": [],
       "relevant": false,
       "score": 6,
@@ -212,7 +250,7 @@
       "summary": "A leading Democrat says Five Eyes intelligence partners like Australia should not be denied access to the most powerful AI models.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -223,7 +261,7 @@
       "summary": "Tasmania's favourite southern elephant seal Neil attracts a large following when he comes ashore in the state's south-east — and new rules have now been unveiled that aim to better protect not only Neil but other members of his species.",
       "categories": [],
       "relevant": false,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -236,20 +274,7 @@
         "Family & Education"
       ],
       "relevant": true,
-      "score": 4,
-      "spicy": false
-    },
-    {
-      "title": "'Why do we have to justify we're disabled enough?': NDIS families speak",
-      "url": "https://www.abc.net.au/news/2026-11-15/ndis-families-bear-brunt-of-care-support-needs/107217942",
-      "source": "ABC News",
-      "publishedAt": "2026-11-15T00:51:53.000Z",
-      "summary": "Parents are increasingly becoming the primary caregivers for their disabled adult children, which often comes at a high physical and emotional cost.",
-      "categories": [
-        "Family & Education"
-      ],
-      "relevant": true,
-      "score": 4,
+      "score": 3,
       "spicy": false
     },
     {
@@ -262,7 +287,7 @@
         "Family & Education"
       ],
       "relevant": true,
-      "score": 8,
+      "score": 7,
       "spicy": true
     },
     {
@@ -304,17 +329,6 @@
       "source": "The Guardian",
       "publishedAt": "2026-11-14T19:00:52.000Z",
       "summary": "We’ve learned that ignoring the hip pocket is a big mistake. Australia would benefit from a courageous reset of economic and social policy Wouldn’t it be nice, as the Beach Boys sang, if the US midterm election results represented a return to kindness? It would be a fitting closing of the circle, gi",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "Don't just take the cheapest and other expert tips to find the best solar installer",
-      "url": "https://www.abc.net.au/news/2026-11-15/solar-battery-installation-expert-explainer/107365122",
-      "source": "ABC News",
-      "publishedAt": "2026-11-14T18:48:55.000Z",
-      "summary": "Hundreds of thousands of Australians are installing solar batteries, but there's also been a spike in consumer complaints. Here's what the experts say you should consider when deciding which company to use.",
       "categories": [],
       "relevant": false,
       "score": 3,
@@ -678,6 +692,17 @@
       "spicy": false
     },
     {
+      "title": "Can Albanese regain political altitude for Labor – and himself?",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFdpd0NpMzBCbU9VVlIwZ2hDOVpaMk5VbWFMZUFuSzRJdHAtT1JheVBCX0oxRnhXMDU5a21aMXUzb19aRGxxVEJuSXp5SGdyNnp0THFSTGxtOGpxdi1ZMkhmaE9pTWlvSjBVVWlNNU5UeV94R3ctbHpjNjU0NFBCckpEMU9INHhKQm51bTRsVEljOGhMSVRpVHI5SThYWlBiWmxUT0h3UUtXTU1lV09LQnNDZkNBZw?oc=5",
+      "source": "InDaily Queensland",
+      "publishedAt": "2026-11-12T23:55:18.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 0,
+      "spicy": false
+    },
+    {
       "title": "Only four government ministers have saved money this year. Here's who",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOODhkSFY0UnhKUnlzUGtXdTVQU2E3SXBWX2NFcHIzQjZiSjl5N21UVHFLNjB0Slk2dE9WbGhSX2czUWY3ZDNCVTZpQ0UxS2tsVl9sX1RLOXFveUpGaDM1SUxQT3BPTGlGTHZWeE92S1k3aVM0Wm41TG1WQmtLNUZaazhpS2Y0OTY5UHF5aEdheE9hbzZySXpoVzJaaHpLbnBuT0E?oc=5",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -703,17 +728,6 @@
       "title": "Energy Minister Chris Bowen confirms EV and battery subsidies in firing line",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQczdqUUtmUHNvdGs5Zy03bFV6VnRSdTNQWlNOZ1h3V0haMFBIdnlZWldSNUdKNFg0aDctZXRQbkxUdXhXb1pkLXhMMkF6TTBIVnZNX3VRbktOWDQ5X2ZZNXNQc3A3NjYyWVlLdDJybTJlUU5YZldldEJUOFY0ejdoMEZNbVZ0MkVCVUdOclJUcU1FWjdES1B0MVpLeXZIcjNCTzlmUTIxMl90c0E?oc=5",
       "source": "AFR",
-      "publishedAt": "2026-11-12T18:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 3,
-      "spicy": false
-    },
-    {
-      "title": "The government is in a dangerous plunge. Can Albanese stick the landing?",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObEZrX0NwTjBmRjJGLTVzeVpoWVB6Zk5uUGFObDhUVHpsdFYzbG04T0xsdTBjMlJNZnpleEJuN3ZicmZSTlFiZ3MwNEg1WmtoYU1iQXRoa2lfTDY2Z3lFaEZRbk5MQnZuVkFqaU1rWHZxcHBLemppYXRhTWVjMW5LWTJzaUc1eG9fZVRHMkxkV2tWcXJYRXZxLVQwMjUyQTA?oc=5",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "publishedAt": "2026-11-12T18:00:00.000Z",
       "summary": "",
       "categories": [],
@@ -778,17 +792,6 @@
       ],
       "relevant": true,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Albanese’s $6m golf grant based on internet research, ‘educated guess’",
-      "url": "https://www.smh.com.au/politics/federal/albanese-s-6m-golf-grant-based-on-internet-research-educated-guess-20261112-p61dhv.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "Sydney Morning Herald",
-      "publishedAt": "2026-11-12T05:21:56.000Z",
-      "summary": "A parliamentary inquiry also heard on Thursday that the prime minister’s honorary golf membership was worth $1100 a year, not $5 as he had previously claimed.",
-      "categories": [],
-      "relevant": false,
-      "score": 6,
       "spicy": false
     },
     {
@@ -922,6 +925,17 @@
       "spicy": false
     },
     {
+      "title": "Cabinet needs the benefit of Treasury advice",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPS2R2clY3NWhsNFFrWWRJSkVIaTI5bGZYaEg5ZFYwWTFLWWJmV1NOOFp6bGRaN2NxZUZnUEhhOWZSakNCRkhHbUZoai1ITnV2MkFYNHFFVUxCVGhVSU9hTk15bHFuTWNwaml1TnRWTU15TE9tTURIU2pYQTFRbDVid1ZMTzFjd0RqUDNBamRWY3ZjZExvV0dheFQ4M0EwRUZwTzh3ZjFHZWhwMzc0d0dKRVduc1Mzd2hMUHlUblZ4ZTJ1OXc1bFh3R01DT3dRYXhIbE9UM2pIMk5hZm9lVzgxYzNTUlVQQUNndWhnN1lFNGpNanlPdEM1WU5yN2dYdjd0ZHJ2VDhTc21wbWVhaVlrQUttV2liZVNNTFFhQUZLd01iTjRK?oc=5",
+      "source": "The Australian",
+      "publishedAt": "2026-11-10T09:37:00.000Z",
+      "summary": "",
+      "categories": [],
+      "relevant": false,
+      "score": 3,
+      "spicy": false
+    },
+    {
       "title": "‘Stop undermining Treasurer’: Minister’s plea to colleagues",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjVEN2w2Uzc4YmFXNzJLNGQ2NFNId3BsSjRkVTR2WkwtOXZ0Z0hnMmdrcUs3SFd5dWpEOGdmNUtKeVk5OThpWHdyUERJN2s0LUx6SDZucVpabjJqS18yM1FMc0xsMGkwTVZSaUh4aEp5WEpPMGJfS1BpaDY1T3JKS3dDV2k4SzB5ZnVCNDg1anBTdS1SQWtNc0VGWWUzOF9QU0RRMHJlaWUwSEdYSExQT0U2Ym9PakhnMUVrZkluODltUVZZ?oc=5",
       "source": "The Nightly",
@@ -971,13 +985,13 @@
     },
     {
       "title": "Big hint on Chalmers’ challenger",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOVRwN0lZTUJLQUdwNzB4dy1LQkQ1SEtwa3dwR01uLVlZV3dQUmNkX1RCeUFVbXIwc2RrLU90WHNLUUlfZU5FcnI2UG9oRVJVZ21VdjIxaXF6ajl4R29yUmRfcTlNN2hTc1F3UmpXVHVWSTFDR0gyWFNYeTJtdWs3ZlpvM1pBMm9IOGcteHFXbk83b0JHWW92ZU9TcjhRSF9RWGQzZFZyRVR4RGdJNWp2cm5nV2xkdzJYSXplY1ROay1ZR1VwOUZ5R2gzN0JRZXVxR1F6bldYSzQ5SzlDMk8tRFFuOEkyYUJabUFHcnZFOTdIUWvSAfgBQVVfeXFMTlIxUmdSUFg3bmZnRFZubG9PSVNEdjZvOEk4MFFSZUFIaVVYcmhiMGg2Q0dmZmVrQkhGV0RsemRSdURqT25KVlowUk9RMmdfSTJ6SUdickVjZDVCTXdSN3g3em1qN1hRbnpqQzBTb3VUUDhVTDd1TnlydE81S045N3c1WTJCalhNQU1PTHM4N3JRdGNIUkt6UXpBVnNvMjhRRFlZN2twWi1ZUTNvQ21WT0pDNDN4SmFGSnVrUndTZnNQTXZtNERBMHJaNUlDWDkxekw0RWdubFM4T0V4WExER0VZOUg2c3Q4SDY5Yk0wYnZYT0FNWUZrQm0?oc=5",
-      "source": "News.com.au",
-      "publishedAt": "2026-11-10T04:32:45.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY0hGLUNpOEtWQTFNakI3VlNvRDBmWFpFNk1qU0ZaVXdFSXRPU3JiUHcxTHZWeUptbkRoYklvSmtsZGJtTF9Jc2F1UUJKVmx3Ylg1R0dxREN2MFNPdGUzMGRaMjZuM3dBaFRZRTA3TkZXaGNfS1RNNmk0bUlidWZnR2ZIOXhYSU85NmNIZHZWOG5xRlNKUGVSbjdBUEl3aUNrS2JXR01PZk1SeExrekkxNmlac2ttdkFSWVhhRHVVYTZGYnpna2hMZHRkYk4yb2FFMTJvaDI3RzhxSnNOVlI4bDdoZXVhN181OFHSAe8BQVVfeXFMTVpsaDJvYXJreWxjSWNwRG81blY4d0I0bHpmVUZwQ2tldXdaT3dhemMzTHFrU2pxaUZrSmcwS1h4cThWN2NHNkJiQ01fMmJlbkJWazhQazBnWFBsenA0NF9DT0Jfa25jVmxzemwxYnNTT005RVUwUzVkbDJoQUxmWWhvUmlqM3N0TnNiRWgwSW0zRnZNMzA2cWU1bGJnZ05yZExIaUFtdzk5RnlnYmVKWEQ2c2JWQzBqUUN2TVhCSUhPZ1piTnJUR0RFQUl5LWg2WnZWNkxyRUd2WmV6M3pXMVAtSmpjQ3hTVEx4QWVFdEU?oc=5",
+      "source": "News24",
+      "publishedAt": "2026-11-10T03:24:31.000Z",
       "summary": "",
       "categories": [],
       "relevant": false,
-      "score": 3,
+      "score": 0,
       "spicy": false
     },
     {
@@ -1083,17 +1097,6 @@
       "categories": [],
       "relevant": false,
       "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Jim Chalmers pretends to care about productivity growth",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVHI2MzJudGtMV3RUQy1lR0NiMXBVTUJqQ3JaamFleU1Xa0xHc3FZUkxIQ1VXRmFlTmNpYTFsU2VLR2xuNFBKMHdNb3BtcHlvWXNYYVJWaHFSOFdSTXBadlBOdlgwbzJsdXNhNVpLM05QOG52NWFaWEdtM19jWmRfek9Ta1BVbm44UXFHY2tiR0hIamhlTGJwbW5IZjJCQQ?oc=5",
-      "source": "MacroBusiness",
-      "publishedAt": "2026-11-09T12:00:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 0,
       "spicy": false
     },
     {
@@ -1213,30 +1216,6 @@
       "spicy": false
     },
     {
-      "title": "Federal budget savings push as Jim Chalmers eyes productivity reform",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdVBiZ0JHNThmZ3lmdFcxVG5ZZUQ3dzN2SDFwcWMwQ0JLSkdmcC1xUVdEQlNXWC1Ub0I2TlUydmtsWXRPaWZFcnh1aG02b3ZqeTI3LXI5N3FXbHl6YnZFR0dHR3lCc29ldDdFbTNRNFlDem9BeHVJVU9RdG51RVp6ZjQyTk5jMTJXR254dDBaV0c2Yzg5LTcwLU83dVZjMktRUjJMS0NjYlNFRDY2LW5UM2Q3WXFtUGY0UDJVUnhCYVJrNUxrRFJ2ZFNKSURxTkhkWm01aGhHWVF5cTU1R2pkR3JETGJWQmtB?oc=5",
-      "source": "The Australian",
-      "publishedAt": "2026-11-05T10:30:00.000Z",
-      "summary": "",
-      "categories": [],
-      "relevant": false,
-      "score": 5,
-      "spicy": false
-    },
-    {
-      "title": "Canberra wage bill blowout raises pressure on Chalmers",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGtBVVFYNkJrWEhDV0ZIbFo0WFZRT1BRb2ZxbXRwd2I0LThSb1NlVWhDY1FnQmFBR0hFbGx4eFRob01QUmpjUmRrUXJ3blM2MlJ2NVN1SnU2QnJENGo2UUFlb0FOemJGbURpZVgybG1sbXVOdmd0UmE1Y292ZWpwUVRsWkpKOEFDTjBtdTBVQ3c5VXJzekJGTXBYQ0dqZzV5M3BOT3l2allJdw?oc=5",
-      "source": "AFR",
-      "publishedAt": "2026-11-05T08:00:00.000Z",
-      "summary": "",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 7,
-      "spicy": true
-    },
-    {
       "title": "The RBA says there is ‘excess demand’ in the economy. Households doing it tough might disagree | Greg Jericho",
       "url": "https://www.theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree",
       "source": "The Guardian",
@@ -1285,19 +1264,6 @@
       "relevant": true,
       "score": 9,
       "spicy": true
-    },
-    {
-      "title": "Three things the Albanese government could do right now to make people feel better off",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/three-things-the-albanese-government-could-do-right-now-to-make-people-feel-better-off",
-      "source": "The Guardian",
-      "publishedAt": "2026-10-22T14:00:31.000Z",
-      "summary": "There are plenty of reasons why Australians feel ‘mad as hell’ at the moment. These three economic policies could restore faith in politics and bring some relief",
-      "categories": [
-        "Cost of living"
-      ],
-      "relevant": true,
-      "score": 3,
-      "spicy": false
     },
     {
       "title": "Healey to reject calls to raise capital gains tax in budget",
@@ -1456,6 +1422,46 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTI3ZzNPdGw2RUZtZDEtc2N4dzN6ZzA5dW5jT3VGN0ktWHZxeEhmZmdWSjVKdDlhSENPSExSaGItUDVKeG5NakFoV0tEem5zclBfTUtINnNQSFRYV2ZSQVBkb2NyaWNRZVhZd0J6OXdRVTFncVNCZG5TRzR6aVAxNFdXM3pVc1U2Mk11UV9OM01FY0JYcGc?oc=5",
       "source": "Fragomen",
       "publishedAt": "2026-09-18T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 0,
+      "spicy": false
+    },
+    {
+      "title": "Proposed Australian migration reforms: Key changes explained",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEtaWV9xVE9Jal92SnVST0otRExMY1M0UVMxOGN6VXJQaXlRd0sycGFrZjN6X3JHSGZ1OUo5SWhydFFYVkF4Mnp1YWhHNHBaVnhUckk1UDVlaVgwblpSdWFZWnhBSVFRS2ttRG1lYnYtQnd1TGVZRUEyV1BMQWVEY3FGS1JlOXljR1lIM3NwRERlR255WldoU3FhZzU?oc=5",
+      "source": "Absolute Immigration",
+      "publishedAt": "2026-09-18T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australia immigration crackdown: visas for international students and backpackers targeted",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iZ3pIcDEyaURJcGpRbmxmNU50emVndzJxVWVpMVpSMzNmVERMWFN0SVA1YnBlMDY1WGtkdU1MOVdJdXJELXFDYWllOGR2VXY2Sm40NHVWU2xWcE0?oc=5",
+      "source": "BBC",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "summary": "",
+      "categories": [
+        "Visas & Migration",
+        "Family & Education"
+      ],
+      "relevant": true,
+      "score": 4,
+      "spicy": false
+    },
+    {
+      "title": "Australian immigration changes finally announced - what are the changes, who's impacted and what's ahead?",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbUFfelVid25IOVRwRkRSZFFNUGlmOWZtNXVsOVhsT3dMMVZhWnVSRXF0anZNQUdLVWxzczRXTEFMWklrMlVmTGZSOTJXTzdpSlRSenphZ3RqZnRYTFRXWkxoOVJwS29pbTNUdlo0WUYxSWVoSVpxb1g1OURFMTdFbzFn?oc=5",
+      "source": "Ethos Migration Lawyers",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
       "summary": "",
       "categories": [
         "Visas & Migration"
